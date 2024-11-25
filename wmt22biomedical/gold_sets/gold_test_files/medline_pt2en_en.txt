@@ -1,0 +1,478 @@
+doc3	1	Hyperactivation of the sympathetic nervous system plays a central role in the pathophysiology of hypertension.
+doc3	2	The aim of this study was to assess cardiac sympathetic activity and investigate the role of myocardial123I-labelled meta-iodo benzyl guanidine ([123I] MIBG) scintigraphy in cardiovascular risk stratification of patients with resistant hypertension treated with renal denervation (RDN).
+doc3	3	Eighteen patients were included in this prospective study (mean age 56 ± 10 years old, 27.8% females).
+doc3	4	Transthoracic echocardiogram, general blood analysis and myocardial ([123I] MIBG scintigraphy were performed before and six-months after RDN.
+doc3	5	A patient was considered a responder (R) if a drop ≥ 5mmHg on mean systolic ambulatory blood pressure (BP) monitoring was observed at the six-month follow-up.
+doc3	6	66.7% of patients were R (drop in systolic BP of 20.6 ± 14.5mmHg, vs minus 8 ± 11.6mmHg in non-responders (NR), p=0.001).
+doc3	7	Early heart-mediastinum ratio (HMR) was significantly lower at baseline in the R group (1.6 ± 0.1 vs 1.72 ± 0.1, p<0.02) but similar at six months.
+doc3	8	Considering both instants in time, the R group had lower early HMR values than the NR group (p<0.05).
+doc3	9	Both the late HMR and the washout rate were identical and no significant correlation between response to RDN or any MIBG imaging index was found.
+doc3	10	Renal denervation effectively lowered blood pressure in the majority of patients but [123I] MIBG was not useful in predicting the response.
+doc3	11	However, there was evidence of sympathetic overdrive and, both early and late HMR were overall reduced, probably putting this population at a higher risk of adverse events.
+doc10	1	Food and Nutrition Security, the legal frameworks to guarantee and enforce the Human Right to Adequate Food and construction of a system to monitor and evaluate progress and setbacks in these processes are the outcome of collective efforts led by social movements, organized civil society and some areas of government.
+doc10	2	This article examines official Brazilian documents regarding such monitoring and evaluation published from 2003 to 2019.
+doc10	3	The documentary analysis and contextualization were framed by the dimensions specified in Decree No. 7272/2010.
+doc10	4	The analysis highlighted the importance of the National Food and Nutrition Security Council (CONSEA), the Interministerial Food and Nutrition Security Chamber (CAISAN) and the Brazilian Food and Nutrition Security Conferences in the construction of monitoring and evaluation mechanisms.
+doc10	5	The challenges identified in this process stem from inter-sector relations and decentralization of actions, which tend to be weakened in certain political contexts.
+doc11	1	Food insecurity is a worldwide public health problem.
+doc11	2	In Brazil, the configuration of a Food and Nutrition Security (FNS) policy has gained prominence in the government agenda since 1980.
+doc11	3	We highlight the creation of the National Council for Food and Nutrition Security (CONSEA) aiming at articulation between sectors and social participation.
+doc11	4	This article examines the role of CONSEA in coordinating FNS policy in Brazil from 2006 to 2016.
+doc11	5	The research was based on the approaches of historical institutionalism and used the dynamics of action and the CONSEA agenda as axes of analysis.
+doc11	6	The methodological strategies carried out were: bibliographic review, document analysis and semi-structured interviews.
+doc11	7	It was observed that CONSEA was marked by an expressive performance by civil society and variable participation of government representatives.
+doc11	8	Regarding the agenda, conflicting topics were much debated, but had little impact on the adoption of legal and normative measures.
+doc11	9	It is concluded that the strengthening of CONSEA, combined with the confrontation of economic interests, adequate financing and the performance of the State in social protection, are essential for overcoming challenges, implementing the FNS policy and promoting the health of the population.
+doc6	1	Fetuin-A is an anti-inflammatory and anti-calcification factor involved in the course of coronary artery disease (CAD).
+doc6	2	In line with these functions, fetuin-A has been investigated as a cardiovascular risk marker in many studies.
+doc6	3	However, the association between fetuin-A and the prognosis of CAD patients is still controversial.
+doc6	4	The present study was conducted to identify the association between serum fetuin-A level and long-term cardiovascular disease (CVD) and all-cause mortality of ST-elevation acute myocardial infarction (STEMI).
+doc6	5	One hundred eigthy consecutive patients with STEMI were enrolled in the study.
+doc6	6	The study population was divided into subgroups (lower, ≤288 µg/ml; and higher, >288 µg/ml) according to the median fetuin-A level.
+doc6	7	Clinical follow-up data was obtained by annual contact with the patients or family members by telephone.
+doc6	8	The causes of death were also confirmed by the national health database.
+doc6	9	Two-sided p-values<0.05 were considered statistically significant.
+doc6	10	During a median follow-up of 10 years, 71 deaths were recorded , 62 of whom died from CVD.
+doc6	11	Both CVD and all-cause mortality were found to be significantly higher in the lower fetuin-A group than the higher fetuin-A group (44% vs 24%, p= 0.005; 48% vs 31%, p= 0.022, respectively).
+doc6	12	In Cox regression proportional hazard analyses, fetuin-A was found to be an independent predictor of CVD and all-cause mortality.
+doc6	13	Low fetuin-A concentration is associated with a poor long-term prognosis after STEMI, regardless of the traditional cardiovascular risk factors.
+doc6	14	Our findings have strengthened previous studies that consistently demonstrate the determining role of anti-inflammatory mediators in acute coronary syndromes.
+doc17	1	To identify the clinical and epidemiological profile of adult intensive care units in Brazil.
+doc17	2	A systematic review was performed using a comprehensive strategy to search PubMed®, Embase, SciELO, and the Biblioteca Virtual em Saúde.
+doc17	3	The eligibility criteria for this review were observational studies that described the epidemiological and/or clinical profile of critically ill patients admitted to Brazilian intensive care units and were published between 2007 and 2020.
+doc17	4	From the 4,457 identified studies, 27 were eligible for this review, constituting an analysis of 113 intensive care units and a final sample of 75,280 individuals.
+doc17	5	There was a predominance of male and elderly patients.
+doc17	6	Cardiovascular diseases were the main cause of admission to the intensive care unit.
+doc17	7	The Acute Physiology and Chronic Health Evaluation II score was the most widely used disease severity assessment system.
+doc17	8	The length of stay and mortality in the intensive care unit varied widely between institutions.
+doc17	9	These results can help guide the planning and organization of intensive care units, providing support for decision-making and the implementation of interventions that ensure better quality patient care.
+doc17	10	Registration PROSPERO: CRD4201911808.
+doc19	1	To compare gas exchange indices behavior by using liberal versus conservative oxygenation targets in patients with moderate to severe acute respiratory distress syndrome secondary to COVID-19 under invasive mechanical ventilation.
+doc19	2	We also assessed the influence of high FiO2 on respiratory system mechanics.
+doc19	3	We prospectively included consecutive patients aged over 18 years old with a diagnosis of COVID-19 and moderate-severe acute respiratory distress syndrome.
+doc19	4	For each patient, we randomly applied two FiO2 protocols to achieve SpO2 88% - 92% or 96%.
+doc19	5	We assessed oxygenation indices and respiratory system mechanics.
+doc19	6	We enrolled 15 patients.
+doc19	7	All the oxygenation indices were significantly affected by the FiO2 strategy (p < 0.05) selected.
+doc19	8	The PaO2/FiO2 deteriorated, PA-aO2 increased and Pa/AO2 decreased significantly when using FiO2 to achieve SpO2 96%.
+doc19	9	Conversely, the functional shunt fraction was reduced.
+doc19	10	Respiratory mechanics were not affected by the FiO2 strategy.
+doc19	11	A strategy aimed at liberal oxygenation targets significantly deteriorated gas exchange indices, except for functional shunt, in COVID-19-related acute respiratory distress syndrome.
+doc19	12	The respiratory system mechanics were not altered by the FiO2 strategy.
+doc19	13	Clinical Trials Register: NCT04486729.
+doc20	1	A healthy diet is a protection factor against type 2 diabetes and plays an important role in the treatment of the disease, as well as associated comorbidities.
+doc20	2	Characterize the eating habits of older adults (≥ 65 years) with and without diabetes residing in capital cities and the Federal District of Brazil.
+doc20	3	A cross-sectional study was conducted using data from the Surveillance of Risk and Protection Factors for Chronic Diseases Through a Telephone Survey (Vigitel, 2016).
+doc20	4	The prevalence of diabetes mellitus was estimated according to sociodemographic variables, physical inactivity level, self-rated health status and body mass index.
+doc20	5	Dietary habits were assessed based on the frequency (weekly and daily) of consumption of healthy and unhealthy foods and the replacement of food by snacks.
+doc20	6	Differences were determined using Pearson's chi-square test (Rao-Scott), with the significance level set at 5%.
+doc20	7	A total of 13,649 older adults were interviewed.
+doc20	8	The prevalence of self-reported diabetes was 27.2% (95% CI: 25.5; 29.0).
+doc20	9	Compared to non-diabetics, diabetic individuals had a higher consumption of raw vegetables (32.1% vs. 26.5%/3-4 days/week) and lower consumption of chicken (3.8% vs. 6.4%/hardly ever/never), fruit juice (24.0% vs. 29.6%) and sweets (6.8% vs. 16.2%) ≥ 5 days/week.
+doc20	10	Compared to non-diabetics, diabetic individuals consumed more skim milk (51.5% vs. 44.6%) and diet soda (60.0% vs. 17.3%) ≥ 5 days/week, raw vegetables (9.1% vs. 2.5%/at dinner) and sweets (37.7% vs. 20.5%/twice/day) 3-4 days/week.
+doc20	11	The observed differences emphasize the need for healthy eating interventions for all older adults, as well as specific counseling for those with diabetes.
+doc21	1	This Brief Communication describes the professional coaching/coach counterpointed by the vocal coaching/coach.
+doc21	2	The aim is to introduce and explain these two coaching perspectives for a correct and specific use of the terms.
+doc21	3	Six undergraduate professors, speech language pathologists - SLP and/or professional coaches and/or vocal coaches met and shared their perceptions and experiences in professional or vocal coaching and in teaching coaching strategies to professionals working in the voice field.
+doc21	4	A chart was set encompassing the similarities and differences between the two attributions, both in terms of the intervention process and professional training.
+doc21	5	Six fundamental aspects were identified to characterize the two coaching presentations, both professional and vocal, namely: credentials, performance, process, basic knowledge, partnership for results, and professional title.
+doc21	6	Professional coaching involved a structured process that requires certified training with individuals accredited by qualified associations aiming to facilitate positive changes in clients' lives and improve for the understanding of how personal and professional skills are developed.
+doc21	7	Conversely, vocal coaching can be characterized as an unstructured function that does not require accredited training, executable by various health or vocal pedagogy professionals for improving voice and/or communicative performance of artistic or non-artistic individuals , sung or spoken voice users.
+doc21	8	Particularly regarding vocal coaching, it is suggested that the professional is identified throughout the academic training or basic professional performance, thus adding the term vocal coach as a qualifier.
+doc22	1	Letter to the editor about the current situation of the COVID-19 pandemic in Brazil.
+doc16	1	Verify the effect of anchor repetition in the perceptual auditory judgement of the type of vocal deviation performed by speech-language pathology (SLP) students; analyze the correlation between the amount of different vocal dimensions in the same stimuli and accuracy; investigate the correlation between type of vocal deviation and accuracy.
+doc16	2	54 SLP students were divided in two groups: Group with repetition (GwR), 28 students; and, Group with no repetition (GnR), 26 students.
+doc16	3	The analyzed sample counted with 220 dysphonic human voices, vowel /ε/. The GwR heard three anchor stimuli before the judgement and every 20 voices during the assessment.
+doc16	4	The GnR heard the anchor only before beginning the judgement.
+doc16	5	The anchor stimuli counted with one rough, one breathy and one strain voice.
+doc16	6	These classifications were compared with reference judgements from three expert SLPs.
+doc16	7	The intra and inter-rater reliability, the correlation between the amount of different vocal dimensions in the same stimuli and type of vocal deviation with accuracy were assessed.
+doc16	8	The accuracy between type of deviation was similar among groups.
+doc16	9	The GwR presented slightly higher intra and inter-rater reliability.
+doc16	10	The student's accuracy was inversely proportional to the amount of different vocal dimensions in the stimuli.
+doc16	11	Breathiness presented the highest accuracy and strain presented the lowest accuracy.
+doc16	12	The repetition of anchor stimuli improved intra and inter-rater reliability.
+doc16	13	However, it was not effective in the accuracy of the type of vocal deviation.
+doc16	14	The amount of different vocal dimensions in the stimuli have influence in the students' accuracy.
+doc24	1	The coexistence of hyponatremia and atrial fibrillation (AF) increases morbidity and mortality in patients with heart failure (HF).
+doc24	2	However, it is not established whether hyponatremia is related to AF or not.
+doc24	3	Our study aims to seek a potential association of hyponatremia with AF in patients with reduced ejection fraction heart failure (HFrEF).
+doc24	4	This observational cross-sectional single-center study included 280 consecutive outpatients diagnosed with HFrEF with 40% or less.
+doc24	5	Based on sodium concentrations ≤135 mEq/L or higher, the patients were classified into hyponatremia (n=66) and normonatremia (n=214).
+doc24	6	A p-value <0.05 was considered significant.
+doc24	7	Mean age was 67.6±10.5 years, 202 of them (72.2%) were male, mean blood sodium level was 138±3.6 mEq/L, and mean ejection fraction was 30±4%.
+doc24	8	Of those, 195 (69.6%) patients were diagnosed with coronary artery disease.
+doc24	9	AF was detected in 124 (44.3%) patients.
+doc24	10	AF rate was higher in patients with hyponatremia compared to those with normonatremia (n=39 [59.1%] vs. n=85 [39.7%), p= 0.020).
+doc24	11	In the logistic regression analysis, hyponatremia was not related to AF (OR=1.022, 95% CI=0.785-1.330, p=0.871).
+doc24	12	Advanced age (OR=1.046, 95% CI=1.016-1.177, p=0.003), presence of CAD (OR=2.058, 95% CI=1.122-3.777, p=0.020), resting heart rate (OR=1.041, 95% CI=1.023-1.060, p<0.001), and left atrium diameter (OR=1.049, 95% CI=1.011-1.616, p=0.002) were found to be predictors of AF.
+doc24	13	AF was higher in outpatients with HFrEF and hyponatremia.
+doc24	14	However, there is no association between sodium levels and AF in patients with HFrEF.
+doc26	1	This study aimed to analyze the overweight (OW) prevalence trends from 2008 to 2018 among under-five-year-old children assisted by the conditional cash transfer program entitled Programa Bolsa Família (PBF).
+doc26	2	The panel was based on the Food and Nutritional Surveillance System (SISVAN) (n=30,574,118) nutritional status reports.
+doc26	3	Age- (infants and preschoolers) and region-specific joinpoint regression models were used to analyze OW's prevalence temporal changes.
+doc26	4	Besides, the coverage of SISVAN for PBF and national representativity were calculated according to census projection.
+doc26	5	In the decade analyzed, OW in infants decreased from 11.9% (11.8; 12.0 95%CI) to 8.5% (8.4; 8.6 95%CI) (-3.6%/year [-5.1; -2.0 95%CI]); for preschool children, the prevalence of OW increased by 3.1%/year (2.0; 4.2 95%CI) until 2015, followed by a decrease until 2018 (-6.4%/year [-10.1; -2.6 95%CI]).
+doc26	6	In both age groups, the North region had the lowest prevalence in all time-series, and the Northeast had the worst performance in managing childhood obesity.
+doc26	7	The SISVAN's coverage in the PBF was high, and the data representativity varied between 13.9% (South) and 42.2% (Northeast).
+doc26	8	Although the prevalence was higher than expected, after 2014, it was detected a linear reduction in OW in infants and a deceleration in the growth rate in preschoolers.
+doc27	1	To ascertain the cumulative incidence of acute organ failure and intensive care unit admission in cancer patients.
+doc27	2	This was a single-center prospective cohort study of adult cancer patients admitted for unscheduled inpatient care while on systemic cancer treatment.
+doc27	3	Between August 2018 and February 2019, 10,392 patients were on systemic treatment, 358 had unscheduled inpatient care and were eligible for inclusion, and 285 were included.
+doc27	4	The mean age was 60.9 years, 50.9% were male, and 17.9% of patients had hematologic cancers.
+doc27	5	The cumulative risk of acute organ failure was 39.6% (95%CI: 35 - 44), and that of intensive care unit admission among patients with acute organ failure was 15.0% (95%CI: 12 - 18).
+doc27	6	On admission, 62.1% of patients were considered not eligible for artificial organ replacement therapy.
+doc27	7	The median follow-up time was 9.5 months.
+doc27	8	Inpatient mortality was 17.5%, with an intensive care unit mortality rate of 58.8% and a median cohort survival of 134 days (95%CI: 106 - 162).
+doc27	9	In multivariate analysis, acute organ failure was associated with 6-month postdischarge mortality (HR 1.6; 95%CI: 1.2 - 2.2).
+doc27	10	The risk of acute organ failure in cancer patients admitted for unscheduled inpatient care while on systemic treatment was 39.6%, and the risk of intensive care unit admission was 15.0%.
+doc27	11	Acute organ failure in cancer patients was an independent poor prognostic factor for inpatient hospital mortality and 6-month survival.
+doc29	1	In March 2020, the World Health Organization declared COVID-19 as a pandemic, and Portugal reported its initial cases.
+doc29	2	In this study, we aimed to determine the impact of COVID-19 on Portuguese individuals aged over 60 years old.
+doc29	3	We performed a cross-sectional study using data from the Survey of Health, Ageing and Retirement in Europe (SHARE 8: COVID-19 Survey).
+doc29	4	We selected a sample of 1080 noninstitutional Portuguese individuals aged ≥ 60 years.
+doc29	5	The study sample consisted of 605 (56%) women and 475 (44%) men, with a mean age of 70 ± 9.1 years.
+doc29	6	In total, 80% of the participants experienced higher levels of anxiety, 73% felt more depressed and 30% experienced additional sleep problems comparedto the period before the pandemic.
+doc29	7	Interestingly, there were no statistically significant differences between the sexes or the two selected age groups (60 - 74 and over 75 years old) regarding the incidence of these changes.
+doc29	8	Only 23%, of those that were interviewed maintained their walking routines.
+doc29	9	In addition, only 8% of the participants continued visiting family members as frequently as before.
+doc29	10	While 8% of the participants were refused some form of medical treatment, 56% claimed that they experienced healthcare delays.
+doc29	11	However,only 15% of the participants reported that their health status worsened during the pandemic.
+doc29	12	The pandemic has had a significant impact on Portuguese individuals aged ≥ 60 years; which is in agreement with the findings of previous international studies.
+doc29	13	It changed the participants' routines and increased their anxiety and depression levels.
+doc29	14	Despite the deterioration of healthcare services, most participants did not experience worsening of their health status.
+doc29	15	In conclusion, a COVID-19 pandemic had a significant impact on the elderly population, particularly regarding their mental health.
+doc30	1	To identify the factors associated with functional status decline in intensive care unit patients.
+doc30	2	In this prospective study, patients in an intensive care unit aged 18 years or older without neurological disease or contraindications to mobilization were included.
+doc30	3	The exclusion criteria were patients who spent fewer than 4 days in the intensive care unit or died during the study period.
+doc30	4	Accelerometry was used to assess the physical activity level of patients.
+doc30	5	We recorded age, SAPS 3, days on mechanical ventilation, drugs used, comorbidities, and functional status after intensive care unit discharge.
+doc30	6	After intensive care unit discharge, the patients were assigned to a dependent group or an independent group according to their Barthel index.
+doc30	7	Logistic regression and the odds ratio were used in the analyses.
+doc30	8	Sixty-three out of 112 included patients were assigned to the dependent group.
+doc30	9	The median Charlson comorbidity index was 3 (2 - 4).
+doc30	10	The mean SAPS 3 score was 53 ± 11.
+doc30	11	The patients spent 94 ± 4% of the time spent in inactivity and 4.8 ± 3.7% in light activities.
+doc30	12	The odds ratio showed that age (OR = 1.08; 95%CI 1.04 - 1.13) and time spent in inactivity (OR = 1.38; 95%CI 1.14 - 1.67) were factors associated with functional status decline.
+doc30	13	Time spent in light activity was associated with a better functional status (OR = 0.73; 95%CI 0.60 - 0.89).
+doc30	14	Age and time spent in inactivity during intensive care unit stay are associated with functional status decline.
+doc30	15	On the other hand, performing light activities seems to preserve the functional status of patients.
+doc31	1	Atrial fibrillation is a public health problem associated with a fivefold increased risk of stroke or death.
+doc31	2	Analyzing costs is important when introducing new therapies and must be reconsidered in special situations, such as the novel coronavirus pandemic of 2020.
+doc31	3	This study aimed to evaluate the costs related to anticoagulant therapy in a one-year period, and the quality of life of atrial fibrillation patients treated in a public university hospital.
+doc31	4	Patient costs were those related to the anticoagulation and calculated by the average monthly costs of warfarin or direct oral anticoagulants (DOACs).
+doc31	5	Patient non-medical costs (eg., food and transportation) were calculated from data obtained by questionnaires.
+doc31	6	The Brazilian SF-6D was used to measure the quality of life.
+doc31	7	P-values < 0.05 were considered statistically significant.
+doc31	8	The study population consisted of 90 patients, 45 in each arm (warfarin vs direct oral anticoagulants).
+doc31	9	Costs were 20% higher in the DOAC group ($55,532.62 vs $46,385.88), and mainly related to drug price ($23,497.16 vs $1,903.27).
+doc31	10	Hospital costs were higher in the warfarin group ($31,088.41 vs $24,604.74) and related to outpatient visits.
+doc31	11	Additionally, non-medical costs were almost twice higher in the warfarin group ($13,394.20 vs $7,430.72).
+doc31	12	Equivalence of price between the two drugs could be achieved by a 39% reduction in the price of DOACs.
+doc31	13	There were no significant group differences regarding quality of life.
+doc31	14	Total costs were higher in the group of patients taking DOACs than those taking warfarin.
+doc31	15	However, a nearly 40% reduction in the price of DOACs could make it feasible to incorporate these drugs into the Brazilian public health system.
+doc32	1	The main indications of the use of laparoscopic liver surgery (LLS), in the early days, were benign liver lesions.
+doc32	2	As LLS became more popular, indications for malignant diseases outnumbered those for benign ones.
+doc32	3	This study aims to rule out the indications and results of LLS for the treatment of benign liver tumors.
+doc32	4	Out of 445 LLS performed in a single center, 100 (22.4%) were for benign tumors.
+doc32	5	The authors discuss the indications for resection and present their perioperative results.
+doc32	6	In total, 100 patients with benign tumors were evaluated.
+doc32	7	Specifically, these were as follows: 66 cases of hepatocellular adenomas; 14 cases of biliary mucinous neoplasm; 13 cases of focal nodular hyperplasia; 4 cases of angiomyolipomas; and 3 cases of hemangiomas with a mean size of 7.6 cm (ranging from 3.1 to 19.6 cm).
+doc32	8	The total morbidity rate was 19%, with 9% classified as Clavien-Dindo grades 3 or 4.
+doc32	9	No mortality was observed.
+doc32	10	LLS for benign liver tumors is safe and presents excellent results.
+doc32	11	However, indications for resection are increasingly restricted and should not be performed just because it is a minimally invasive procedure.
+doc28	1	This quantitative study analyzed female deaths due to agression in the 122 municipalities that are part of the Brazilian borderline.
+doc28	2	Borders are territories of conquest, conflict and violence and Brazilian border cities have high rates of male and female homicides.
+doc28	3	This study aimed to quantify female deaths from agression in border towns and identify factors associated with these deaths.
+doc28	4	Female deaths from agression are considered an indirect indicator of femicides and were the outcome of a multivariate analysis using the Poisson model.
+doc28	5	In the 2000-2015 period, 1,384 women died from agression, which represent a mean rate of 5.8/100,000 women; of these, 181 were in indigenous women (13%).
+doc28	6	We observed the pattern of distribution of these deaths, which occurred predominantly in the Central Arch, larger municipalities, and where there are more migrants.
+doc28	7	There is heterogeneity in the rates of violence in the municipalities that are part of the borderline, indicating a close look at the most populous places, with a high presence of migration and female deaths due to agression.
+doc28	8	However, we should also pay attention to the small municipalities where there has been a change in pattern, with an abrupt increase in the number of female murders.
+doc15	1	To investigate the effectiveness of a proposal for classification of facial grimace (FG) and its correlation with objective evaluation of velopharyngeal closure (VPC).
+doc15	2	Twenty individuals with repaired cleft lip and palate underwent velopharyngeal area measurement by means of rhinomanometry and speech sample recording.
+doc15	3	The FG was rated in two steps, by three speech-language pathologists.
+doc15	4	First the evaluators rated the FG using their own criteria as: 1= absent FG; 2=mild; 3=moderate; 4=severe.
+doc15	5	Subsequently, they were submitted to a training session that established the following FG rating criteria: 1=absent FG; 2=movement only of the nose or upper third of the face; 3=strong movement of the nose or upper third of the face; 4=movement of the nose and upper third of the face.
+doc15	6	The evaluators rated the FG using the established criteria.
+doc15	7	Intra- and inter-rater agreement were calculated using weighted Kappa coefficient.
+doc15	8	Correlation between the two stage ratings with the VPC was calculated by Spearman's correlation coefficient.
+doc15	9	In the first stage inter-rater agreement ranged from fair to substantial; in the second stage, from substantial to almost perfect.
+doc15	10	Intra-rater agreement ranged from moderate to almost perfect in the first stage, and from moderate to substantial in the second stage.
+doc15	11	The correlation between FG and velopharyngeal area was positive and significant in both stages.
+doc15	12	The proposed FG judgement proved to be effective in determining the symptom and reliable in diagnosing the severity of velopharyngeal dysfunction.
+doc15	13	The significant correlation between perceptual and instrumental methods suggests that FG can be used in predicting VPC.
+doc12	1	Various data sources have identified labiaplasty or nymphoplasty, aimed at the reduction of the labia minora, as an aesthetic intervention in high demand by Brazilian women and adolescents, with Brazil as the world's leading country in the performance of this surgery.
+doc12	2	This essay discusses how and by whom the dissemination of this image is promoted and produced, with the increase in demand and in the number of surgeries performed.
+doc12	3	The study is based on an analysis of scientific journals, press stories, and other documents.
+doc12	4	The approach employs a cross-analysis of social studies of science and technology, gender studies, and anthropology of the body and health.
+doc12	5	The article analyzes how the field of plastic surgery, or more precisely its more active representatives in the media and in research output, can act to create certain demands for surgical intervention through the promotion of classificatory norms, biomedical technologies, and the publication of results with emphasis on the projected benefits.
+doc12	6	Despite the lack of consensus on the definition of hypertrophy of the labia minora, the surgery has been widely indicated and practiced and contributes to the (re)production of narrow standards associated with female gender and a certain notion of the 'normal' body.
+doc12	7	Few references mention that publicizing the surgical technique and even this type of surgery in the physician's office may be a relevant factor for understanding the phenomenon.
+doc12	8	The article suggests that the physician's role in the promotion of this possibility for aesthetic surgical intervention, like any such practice, is not free of risks and unexpected effects and should be the target of a more in-depth debate.
+doc35	1	It is estimated that 2.5 million people are infected with the human T-cell lymphotropic virus (HTLV) in Brazil, mainly among afro-descendant populations with low socioeconomic status.
+doc35	2	The article presents results of the research that aimed to understand the illness experience of people living with HTLV, the ways of going about life and the relationships with work.
+doc35	3	Thirty-one semi-structured interviews were conducted with frequenters of an infectious diseases research institute.
+doc35	4	The oral narratives constituted the corpus that was analyzed using Sketch Engine software.
+doc35	5	Discourse analysis used references from Social Sciences, with emphasis on the health-work relationship.
+doc35	6	The manifestations of HTLV cause functional impairment and affect living standards, with repercussions on formal, informal, and domestic work.
+doc35	7	The narratives revealed complaints of physical symptoms and other health-related problems, in addition to prejudice, lack of family support and significant repercussions on work, namely issues aggravated by the absence of public policies aimed at people living with HTLV.
+doc35	8	The material, symbolic and subjective conditions caused by the progressive loss of physical capacity and early retirement affect not only the physical sphere, but also the psychic and social areas.
+doc9	1	To analyze the correlation between glycocalyx disruption measured via the serum syndecan-1 level and organ dysfunctions assessed by the PELOD-2 score and to evaluate its association with mortality in pediatric sepsis.
+doc9	2	We performed a prospective observational study in a tertiary public hospital.
+doc9	3	Sixty-eight pediatric patients diagnosed with sepsis according to International Pediatric Sepsis Consensus Conference criteria were consecutively recruited.
+doc9	4	We performed measurements of day 1 and day 5 serum syndecan-1 levels and PELOD-2 score components.
+doc9	5	Patients were followed up to 28 days following sepsis diagnosis.
+doc9	6	Overall, the syndecan-1 level was increased in all subjects, with a significantly higher level among septic shock patients (p = 0.01).
+doc9	7	The day 1 syndecan-1 level was positively correlated with the day 1 PELOD-2 score with a correlation coefficient of 0.35 (p = 0.003).
+doc9	8	Changes in syndecan-1 were positively correlated with changes in the PELOD-2 score, with a correlation coefficient of 0.499 (p < 0.001) during the first five days.
+doc9	9	Using the cutoff point of day 1 syndecan-1 ≥ 430ng/mL, organ dysfunction (PELOD-2 score of ≥ 8) could be predicted with an AUC of 74.3%, sensitivity of 78.6%, and specificity of 68.5% (p = 0.001).
+doc9	10	The day 1 syndecan-1 level was correlated with the day 1 PELOD-2 score but not 28-day mortality.
+doc9	11	Organ dysfunction (PELOD-2 ≥ 8) could be predicted by the syndecan-1 level in the first 24 hours of sepsis, suggesting its significant pathophysiological involvement in sepsis-associated organ dysfunction.
+doc36	1	This paper is the product of an ongoing research's preliminary results with app drivers and aims to discuss how the game of forces has occurred in the relationships established between companies, workers, regulatory bodies, and society.
+doc36	2	This exploratory qualitative study employed document analysis, a questionnaire, and semi-structured interviews with drivers linked to associations in Rio de Janeiro (RJ), Brazil.
+doc36	3	The analysis was conducted from a tripolar perspective based on the theoretical-methodological framework of Ergology and social life's micro and macroscopic spaces, encompassing the poles referring to human activity, the market, and politics.
+doc36	4	The results show a background of norms built on this work about the relationship with companies, passengers, and the drivers themselves, besides issues raised from the COVID-19 pandemic.
+doc36	5	We can conclude that it is necessary not to counteract technological evolution to achieve workers' rights and health.
+doc36	6	We should recall that no action aimed at ensuring the reconciliation of health, work, and rights will advance without relying on a fruitful and balanced trend between the three poles mentioned.
+doc13	1	Epicardial adipose tissue (EAT) is increased in comorbidities common in heart failure (HF).
+doc13	2	In this sense, EAT could potentially mediate effects that lead to an impaired cardiac function.
+doc13	3	This meta-analysis aims to investigate if the amount of EAT in all-types of HF and each HF phenotype is significantly different from control patients.
+doc13	4	This meta-analysis followed the Meta-analysis Of Observational Studies in Epidemiology guidelines.
+doc13	5	The search was performed in the MEDLINE, Embase, and Lilacs databases until November 2020.
+doc13	6	Two authors performed screening, data extraction, and quality assessment.
+doc13	7	A p-value <0.05 was defined as statistically significant.
+doc13	8	Eight observational studies were included, comprehending 1,248 patients in total, from which 574 were controls, 415 had HF with reduced ejection fraction (HFrEF) and 259 had HF with mid-range or preserved ejection fraction (HFmrEF or HFpEF).
+doc13	9	The amount of EAT was not different between all types of HF and the control group (SMD = -0.66, 95% CI: -1.54 to 0.23, p =0.14).
+doc13	10	Analyzing each HF phenotype separately, patients with HFrEF had a reduced EAT when compared to the controls (SMD= -1.27, 95% CI: - 1.87 to -0.67, p <0.0001), while patients with HFmrEF or HFpEF showed an increased EAT when compared to controls (SMD= 1.24, 95% CI: 0.99 to 1.50, p <0.0001).
+doc13	11	The amount of EAT was not significantly different between all types of HF and the control group.
+doc13	12	In patients with HFrEF, the EAT volume was reduced, whereas in HFpEF and HFmrEF, the amount of EAT was significantly increased.
+doc13	13	PROSPERO registration number: CRD42019134441.
+doc14	1	This paper presents the main results of a study developed in a Graduate Program from 2016 to 2018 with all workers from the Intra-Hospital Commission for Donating Organs and Tissues for Transplants of a Public Tertiary Hospital, in which the general proposal was to analyze the organization and the work process of this team, investigating mental strain in the workers involved.
+doc14	2	This qualitative exploratory research in Occupational Health focused on Work-Related Mental Health.
+doc14	3	The material selected for the study was retrieved by bibliographic survey, participant observation, social questionnaire, and semi-directed individual interview.
+doc14	4	It was subjected to thematic content analysis and referred to the theoretical category of mental strain.
+doc14	5	The organization and work process analysis evidenced that workers are subject to biomechanical, biological, and mental health accident risks.
+doc14	6	This condition characterizes the wear process of these workers, in particular the mental strain, which can lead to health loss.
+doc14	7	Nevertheless, workers are emotionally connected to work, which can be a source of sublimation, providing pleasure and satisfaction.
+doc33	1	Immune checkpoint inhibitors (ICIs) are monoclonal antibodies that increase the efficiency of the immune system in the destruction of neoplastic cells.
+doc33	2	In recent years, these drugs have been increasingly used in the treatment of many neoplasms in advanced stages.
+doc33	3	However, the change in the regulation of the immune system induced by these drugs has the potential adverse effect of inducing autoimmunity in practically all organ systems.
+doc33	4	Endocrinopathies are one of the most common autoimmune adverse eventsof these drugs.
+doc33	5	Non-systematic review of endocrinopathies reported in the context of treatment with ICIs.
+doc33	6	A search was carried out on PubMed until January 31st, 2020, and articles were selected based on their relevance and excluded in case of redundant content.
+doc33	7	The following search terms were used: 'immune checkpoint inhibitor' and 'endocrinopathy' / 'endocrine system diseases' / 'pituitary' / 'thyroid' / 'diabetes' / 'adrenal' / 'parathyroid'.
+doc33	8	Endocrinopathies with all classes of ICIs (anti-CTLA-4, anti-PD-1, anti-PD-L1) have been reported.
+doc33	9	Thyroid dysfunction is the most frequently reported endocrinopathy, mainly with anti-PD-1 and anti-PD-L1.
+doc33	10	Hypophysitis is the most prevalent with anti-CTLA-4.
+doc33	11	The incidence of autoimmune diabetes in this context is increasing, mainly with anti-PD-1 and anti-PD-L1.
+doc33	12	Rare cases of primary adrenal insufficiency, Graves' disease and primary hypoparathyroidism have also been reported.
+doc33	13	Knowing the spectrum of endocrinopathies triggered by ICI, as well as their clinical features, diagnosis and treatment criteria is essential, given its high prevalence and the increasing number of cancer patients treated with these new drugs.
+doc8	1	The aim of this study was to provide a synthesis of published studies investigating education-based arbovirus control strategies.
+doc8	2	The data were collected from the LILACS, BDENF and MEDLINE databases using the descriptors 'Health Education' and 'Aedes', together with the Boolean operator 'AND'.
+doc8	3	The searches retrieved 242 studies, 14 of which were included in the review after applying the inclusion and exclusion criteria.
+doc8	4	The data were analyzed using a qualitative approach, resulting in the identification of four categories: vector control actions based on community capacity building; social mobilization for arbovirus control; education-based vector control combined with biological control; and integrated arbovirus control actions.
+doc8	5	The findings show that health education is an essential element of arbovirus control and should be implemented in conjunction with other vector control strategies.
+doc18	1	Perinatal mortality includes fetal mortality and early neonatal mortality (0 to 6 days of life).
+doc18	2	The study described perinatal deaths in Brazil in 2018 according to the modified Wigglesworth classification.
+doc18	3	The data sources were the Brazilian Mortality Information System and the Brazilian Information System on Live Births.
+doc18	4	Fetal mortality and perinatal mortality rates were calculated per 1,000 total births (live births plus stillbirths) and the early neonatal mortality rate per 1,000 live births, compared using their respective 95% confidence intervals (95%CI).
+doc18	5	Perinatal deaths were classified in groups of antepartum causes, congenital anomalies, prematurity, asphyxia, and specific causes.
+doc18	6	For each group of causes, the study calculated the number of deaths by weight group, in addition to mortality rates and respective 95%CI, besides the spatial distribution of mortality rates by state of Brazil.
+doc18	7	A total of 35,857 infant deaths were recorded, of which 18,866 (52.6%) were early neonatal deaths, while stillbirths totaled 27,009.
+doc18	8	Perinatal deaths totaled 45,875, for a mortality rate of 15.5‰ births.
+doc18	9	The highest mortality rate (7.6‰; 7.5‰-7.7‰) was observed in the antepartum group, followed by prematurity (3.6‰; 3.6‰-3.7‰).
+doc18	10	In the antepartum group, 14 of the 27 states (eight of which in the Northeast and four in the North) presented perinatal mortality rates above the national rate.
+doc18	11	Perinatal mortality in Brazil was high, and most deaths could have been prevented with investment in prenatal and childbirth care.
+doc40	1	Studies on disrespect and abuse/mistreatment/obstetric violence during pregnancy, childbirth and puerperium have increased in recent decades.
+doc40	2	However, researchers interested in the subject face many theoretical and methodological difficulties.
+doc40	3	In this sense, this study aims to discuss and reflect on how issues related to definition and terminology, measurement, and public policies in Brazil have hindered research on this topic and the mitigation of these acts.
+doc40	4	The first problem addressed was the lack of consensus regarding the terminology and definition of this construct.
+doc40	5	This situation causes a cascading effect, impacting the use of non-validated measurement instruments and, consequently, a lack of accuracy and comparability between studies.
+doc40	6	Another issue mentioned is the lack of studies exploring the consequences of these acts on women's and newborn's health, which is one of the main gaps on the subject today.
+doc40	7	The absence of causal studies affects health decision-making, impairing the elaboration of specific public policies.
+doc34	1	The smoking paradox has been a matter of debate for acute myocardial infarction patients for more than two decades.
+doc34	2	Although there is huge evidence claiming that is no real paradox, publications supporting better outcomes in post-MI smokers are still being released.
+doc34	3	To explore the effect of smoking on very long-term mortality after ST Elevation myocardial infarction (STEMI).
+doc34	4	This study included STEMI patients who were diagnosed between the years of 2004-2006 at three tertiary centers.
+doc34	5	Patients were categorized according to tobacco exposure (Group 1: non-smokers; Group 2: <20 package*years users, Group 3: 20-40 package*years users, Group 4: >40 package*years users).
+doc34	6	A Cox regression model was used to estimate the relative risks for very long-term mortality.
+doc34	7	P value <0.05 was considered as statistically significant.
+doc34	8	There were 313 patients (201 smokers, 112 non-smokers) who were followed-up for a median period of 174 months.
+doc34	9	Smokers were younger (54±9 vs. 62±11, p: <0.001), and the presence of cardiometabolic risk factors were more prevalent in non-smokers.
+doc34	10	A univariate analysis of the impact of the smoking habit on mortality revealed a better survival curve in Group 2 than in Group 1.
+doc34	11	However, after adjustment for confounders, it was observed that smokers had a significantly increased risk of death.
+doc34	12	The relative risk became higher with increased exposure (Group 2 vs. Group 1; HR: 1.141; 95% CI: 0.599 to 2.171, Group 3 vs Group 1; HR: 2.130; 95% CI: 1.236 to 3.670, Group 4 vs Group 1; HR: 2.602; 95% CI: 1.461 to 4.634).
+doc34	13	Smoking gradually increases the risk of all-cause mortality after STEMI.
+doc7	1	The term hunger, despite also meaning a biological sensation, is a multifaceted, historically specific concept.
+doc7	2	Like others, it transforms along with changes in society.
+doc7	3	This article examines, through the discussions proposed by Josué de Castro and its social context, the representations of hunger between 1932 and 1946, the year in which Castro published his book The Geography of Hunger.
+doc7	4	The objective is to observe the literate public space - literature, mainstream press and scientific discussions - to analyze how hunger was understood during this period and how Josué de Castro took part in this debate.
+doc41	1	To analyze the content and construct validity of enunciative signs of language acquisition for children aged 13 to 24 months.
+doc41	2	The signs created were subjected to an assessment of clarity and relevance by six expert judges in language acquisition from an enunciative perspective.
+doc41	3	Based on their judgment, an experimental version was produced that was applied to the analysis of videos of mother-baby / examiner interactions, lasting 15 minutes, of 77 mother-baby dyads aged 13 to 18 months and 89 dyads in the age range aged between 19 and 24 months.
+doc41	4	The validity of reliability and internal consistency was performed by analyzing 10% of the sample by two speech therapists.
+doc41	5	The construct validation was carried out by the factorial analysis carried out on the total sample.
+doc41	6	The data were analyzed in Statistica 9.1 and PASW 17.0.
+doc41	7	All signs were considered clear and relevant by the expert judges.
+doc41	8	The reliability analysis showed an almost perfect agreement (0.8 ≤ Kappa ≥ 1.0) for most signs.
+doc41	9	The internal consistency for Phase 3 showed alpha = 0.771 considered high and Phase 4 presented alpha = 0.917 bordering on very high.
+doc41	10	The factor analysis of phase 3 revealed 2 factors, explaining 59.1% of the total variance and phase 4 revealed 1 factor, explaining 75.7%.
+doc41	11	Content and construct validity were observed for five of the twelve signs in Phase 3 and for all signs in Phase 4.
+doc38	1	Familial hypercholesterolemia (FH) is a genetic disease characterized by elevated serum levels of low-density lipoprotein cholesterol (LDL-C), and it is associated with the occurrence of early cardiovascular disease.
+doc38	2	In Brazil, HipercolBrasil, which is currently the largest FH cascade screening program, has already identified more than 2000 individuals with causal genetic variants for FH.
+doc38	3	The standard approach is based on cascade screening of referred index cases, individuals with hypercholesterolemia and clinical suspicion of FH.
+doc38	4	To perform targeted screening of 11 small Brazilian cities with a suspected high prevalence of people with FH.
+doc38	5	The selection of cities occurred in 3 ways: 1) cities in which a founder effect was suspected (4 cities); 2) cities in a region with high rates of early myocardial infarction as described by the National Health System database (2 cities); and 3) cities that are geographically close to other cities with a high prevalence of individuals with FH (5 cities).
+doc38	6	Statistical significance was considered as p value < 0.05.
+doc38	7	One hundred and five index cases and 409 first-degree relatives were enrolled.
+doc38	8	The yield of such approach of 4.67 relatives per index case was significantly better (p < 0.0001) than the general HipercolBrasil rate (1.59).
+doc38	9	We identified 36 IC with a pathogenic or likely pathogenic variant for FH and 240 affected first-degree relatives.
+doc38	10	Our data suggest that, once detected, specific geographical regions warrant a target approach for identification of clusters of individuals with FH.
+doc2	1	The Sociedade Portuguesa de Cuidados Intensivos and the Infection and Sepsis Group have previously issued health service and management recommendations for critically ill patients with COVID-19.
+doc2	2	Due to the evolution of knowledge, the panel of experts was again convened to review the current evidence and issue updated recommendations.
+doc2	3	A national panel of experts who declared that they had no conflicts of interest regarding the development of the recommendations was assembled.
+doc2	4	Operational questions were developed based on the PICO methodology, and a rapid systematic review was conducted by consulting different bibliographic sources.
+doc2	5	The panel determined the direction and strength of the recommendations using two Delphi rounds, conducted in accordance with the principles of the GRADE system.
+doc2	6	A strong recommendation received the wording 'is recommended', and a weak recommendation was written as 'is suggested.' A total of 48 recommendations and 30 suggestions were issued, covering the following topics: diagnosis of SARS-CoV-2 infection, coinfection and superinfection; criteria for admission, cure and suspension of isolation; organization of services; personal protective equipment; and respiratory support and other specific therapies (antivirals, immunomodulators and anticoagulation).
+doc2	7	These recommendations, specifically oriented to the Portuguese reality but that may also apply to Portuguese-speaking African countries and East Timor, aim to support health professionals in the management of critically ill patients with COVID-19.
+doc2	8	They will be continuously reviewed to reflect the progress of our understanding and the treatment of this pathology.
+doc42	1	To identify spatial patterns in cases of changes in growth and development related to Zika virus infection and other infectious etiologies (denominated Zika virus congenital syndrome in this study) reported in Maranhão from 2015 to 2018 and their relation with socioeconomic and demographic variables.
+doc42	2	Ecological study of notified Zika virus congenital syndrome cases in the 217 cities of Maranhão, Brasil.
+doc42	3	Spatial autocorrelation was calculated using GeoDa 1.14 software and the local and global (I) Moran's index in univariate and bivariate analyses on Zika virus congenital syndrome incidence rate with Municipal Human Development Index (MHDI), population density, Gini coefficient and the cities' time of administrative political emancipation.
+doc42	4	Local Moran's Index was calculated to identify clusters with significant spatial autocorrelation.
+doc42	5	Spatial autocorrelation was checked in univariate analysis of the incidence rate of Zika virus congenital syndrome (I=0,494; p=0,001) and positive correlation in bivariate analysis of the incidence rate with Municipal Human Development Index (I=0,252; p=0,001), population density (I=0,338; p=0,001) and the cities' time of administrative political emancipation (I=0,134; p=0,001).
+doc42	6	The correlation between incidence rate with Gini coefficient was not significant (I= -0,033; p=0,131).
+doc42	7	Five high-incidence clusters were found in distinct areas of the state.
+doc42	8	Cities with higher MHDI, higher population density and more years of administrative political emancipation had more cases of Zika virus congenital syndrome notified.
+doc4	1	Spontaneous breathing can be deleterious in patients with previously injured lungs, especially in acute respiratory distress syndrome.
+doc4	2	Moreover, the failure to assume spontaneous breathing during mechanical ventilation and the need to switch back to controlled mechanical ventilation are associated with higher mortality.
+doc4	3	There is a gap of knowledge regarding which parameters might be useful to predict the risk of patient self-inflicted lung injury and to detect the inability to assume spontaneous breathing.
+doc4	4	We report a case of patient self-inflicted lung injury, the corresponding basic and advanced monitoring of the respiratory system mechanics and physiological and clinical results related to spontaneous breathing.
+doc4	5	The patient was a 33-year-old Caucasian man with a medical history of AIDS who developed acute respiratory distress syndrome and needed invasive mechanical ventilation after noninvasive ventilatory support failure.
+doc4	6	During the controlled ventilation periods, a protective ventilation strategy was adopted, and the patient showed clear clinical and radiographic improvement.
+doc4	7	However, during each spontaneous breathing period under pressure support ventilation, despite adequate initial parameters and a strictly adjusted ventilatory setting and monitoring, the patient developed progressive hypoxemia and worsening of respiratory system mechanics with a clearly correlated radiographic deterioration (patient self-inflicted lung injury).
+doc4	8	After failing three spontaneous breathing assumption trials, he died on day 29 due to refractory hypoxemia.
+doc4	9	Conventional basic and advanced monitoring variables in this case were not sufficient to identify the aptitude to breathe spontaneously or to predict the risk and development of patient self-inflicted lung injury during partial support ventilation.
+doc43	1	The scope of this study was to analyze the behavior patterns adopted by family members dealing with individuals in psychological distress within the scope of the relationships established in the family system, after participating in Community Therapy sessions.
+doc43	2	It was based on research with a qualitative approach using the research-action-intervention method.
+doc43	3	The intervention used centered around twelve Community Therapy sessions.
+doc43	4	Ten family members of people in psychological distress monitored by a Psychosocial Care Center took part in the study.
+doc43	5	Field notebook records, videos obtained with the tapes of the Community Therapy sessions, the interview material and Community Therapy itself were used as the empirical material production technique.
+doc43	6	The study revealed that the family members' understanding of psychological distress could be transformed as they attributed new meanings and performed fundamental actions to balanced living in the family.
+doc43	7	Community Therapy was seen as a practice that facilitated changes in the lives of its participants, as it contributed to generate social and individual interactions that stimulated family members to rethink concepts and to create spaces of coexistence and human and respectful care that permeated the family unit.
+doc37	1	Theodore Roosevelt traveled to northwestern Brazil in 1913-1914.
+doc37	2	One of his objectives was to collect information on Amazonian fauna, particularly the jaguar.
+doc37	3	Combining photography with hunting for sport, Roosevelt wanted to create a visual repertoire of this animal and add it into the record of his conquests.
+doc37	4	But the inhospitable forest, the furtive and quick jaguars, and the technical limits of photography challenged these aspirations.
+doc37	5	We will examine photographs of animals taken by Roosevelt during this trip, along with portraits of Señor Lopez, a famous jaguar at the Bronx Zoo, whose record, incorporated into the narrative of the expedition, became relevant in the memoirs of the conquest, as a curious 'representation of the absent.'
+doc1	1	For the purpose of analyzing topics linking the health-disease-work process to medical evaluation practices under the scope of the federal public service and their interaction with Worker's Health, this article investigates the issue of determining the duration of the sick leave period that a worker is granted for caring for their own health, within the Subsistema Integrado de Atenção à Saúde do Servidor (SIASS).
+doc1	2	To that end, the parameters for granting time off work, as provided by the Manual de Perícia Oficial, and the speeches on this topic by the interviewees were analyzed.
+doc1	3	The importance given to the topic 'days off work' arises from the fact that it is related to the time it takes the worker to recover, which implies fewer days dedicated to being productive.
+doc1	4	Interviews were conducted with 32 professionals from 5 educational institutions, and this article highlights some analytical categories: days off work; Manual da Perícia and disagreement between medical evaluators and attending physicians.
+doc1	5	The results point to the usefulness of revising the Manual taking into account Worker's Health, identifying contradictions; the need for shaping an effectively interdisciplinary evaluation, so that the worker's health-related complaints can be handled from the perspective of the worker's care, and not simply concerning control and surveillance.
+doc39	1	The clinical management of leprosy patients poses a specific challenge, namely lepra reactions.
+doc39	2	This non-concurrent cohort study aimed to analyze the timing of the first lepra reaction during and after polychemotherapy (PCT) and associated factors.
+doc39	3	A total of 1,621 patients were assessed (PB = 8.9% and MB = 91.1%) from 2008 to 2016, reported to the System of Reaction States in Leprosy (SisReação/RO) database.
+doc39	4	Reactions occurred predominantly during PCT (997; 61.5%) and less frequently only after PCT (624; 38.5%).
+doc39	5	Earliness of the reaction after diagnosis was analyzed with Kaplan-Meier survival curves, with comparison between the PB and MB groups using the Mantel-Cox log-rank test.
+doc39	6	Univariate and multivariate Cox regression models were constructed to identify factors associated with occurrence of lepra reactions (hazard ratio) and the corresponding 95%CI.
+doc39	7	The multivariate model included variables with p-values < 0.20 in the univariate analysis.
+doc39	8	PB patients developed reactions earlier than MB patients.
+doc39	9	Other characteristics were associated with earlier reactions: female gender and negative smear microscopy.
+doc39	10	In the aggregate period (during and after PCT), PB presented 24% higher risk of lepra reaction than MB patients, and negative smear microscopy increased this risk by 40% compared to positive smear microscopy.
+doc39	11	During and after PCT, PB presented 1.3 and 1.6 times the risk, respectively, of reactions when compared to MB patients.
+doc39	12	We thus recommend prioritizing surveillance of lepra reactions during and after PCT as measures to prevent physical disabilities and to improve quality of life for persons with leprosy.
+doc45	1	The natural history of heart failure is a progressive decline and recurrent hospital admissions.
+doc45	2	New strategies to timely detect decompensations are needed.
+doc45	3	The use of telemonitoring in heart failure is inconsistent.
+doc45	4	This study aimed to evaluate the impact of this telemonitoring program (TMP) in hospitalizations and emergency department admissions.
+doc45	5	This is a retrospective observational study, that analyzed data of all the patients who enrolled in the TMP program from January 2018 to December 2019.
+doc45	6	Demographic, clinical, and TMP-related data were collected.
+doc45	7	The number of hospitalizations and emergency department admissions from the year before and after enrollment were compared, using the Wilcoxon test.
+doc45	8	A two-sided p<0.05 was considered significant.
+doc45	9	A total of 39 patients were enrolled, with a mean age of 62.1 ± 14 years and a male predominance (90%).
+doc45	10	The most common causes of heart failure were ischemic and dilated cardiomyopathy.
+doc45	11	The mean ejection fraction was 30% and the median time of disease duration was 84 months (IQR 33-144).
+doc45	12	Patients who were enrolled for less than one month were excluded, with a total of 34 patients analyzed.
+doc45	13	Patients were followed in the TMP for a median of 320 days.
+doc45	14	The number of emergency department admissions was reduced by 66% (p<0.001), and the number of hospitalizations for heart failure was reduced by 68% (p<0.001).
+doc45	15	The TMP had no impact on the number of hospitalizations for other causes.
+doc45	16	This trial suggests that a TMP could reduce health service use in patients with heart failure.
+doc46	1	Film productions offer different representations of science and scientists.
+doc46	2	This study investigates how science and scientists are represented in superhero adventure narratives, particularly in The Incredible Hulk films.
+doc46	3	Four films were analyzed: two from the 1970s, when the first movies portraying this superhero were released, and two from the early twenty-first century as the Marvel Cinematic Universe expanded and superhero movies were frequent blockbusters.
+doc46	4	The specific goal was to examine how representations of science and scientists in the Hulk films have changed over time.
+doc47	1	Pterostilbene (PS), a natural and antioxidant polyphenolic compound emerges as a promising intervention in improving the myocardial infarction (MI) damages.
+doc47	2	This study aimed to evaluate PS actions in promoting redox homeostasis in lungs and right ventricle (RV) of infarcted animals.
+doc47	3	Male Wistar rats (60 day-old) were randomized into three groups: SHAM, MI (infarcted), and MI+PS (MI+pterostilbene).
+doc47	4	Seven days after MI procedure, rats were treated with PS (100 mg/kg/day) via gavage for eight days.
+doc47	5	Animals were euthanized and the lungs and RV were harvested for analyses of redox balance (Differences were considered significant when p<0.05).
+doc47	6	Our results show that MI triggers a redox disruption scenario in RV and lungs, which can contribute to MI-induced damage on these organs.
+doc47	7	Consistently, PS mitigated oxidative stress and restored antioxidant defenses (GSH in lungs: SHAM= 0.79±0.07; MI=0.67±0.05; MI+PS=0.86±0.14; p<0.05), indicating its protective role in this scenario.
+doc47	8	Our work evidences the PS potential use as an adjuvant therapeutic approach after MI focusing on protecting pulmonary and right-sided heart tissues.
+doc25	1	This article contributes to knowledge on medical training and careers at a time of change driven by Enlightenment ideas, but also a time of conflict between age-old structures and new legal frameworks.
+doc25	2	By analyzing an individual trajectory in interaction with other individuals and institutions, the contradictions of the historical context that constrained the life of José Pinto de Azeredo are brought to light.
+doc25	3	The circumstances surrounding his professional activity are analyzed - an aspect of this physician's trajectory that was until now unstudied.
+doc25	4	Some hypotheses are formulated to explain why he did not reach the objectives he set for himself.
+doc5	1	To compare the air-conduction hearing thresholds obtained with different acoustic transducers and verify the users' preferences regarding them.
+doc5	2	This is a cross-sectional, analytical, observational study with 26 participants aged 18 to 30 years, with normal hearing and no history of exposure to high sound pressure levels or complaints of tinnitus at the time of the assessment.
+doc5	3	We surveyed their medical history and performed meatoscopy, pure-tone threshold audiometry, speech audiometry, and acoustic immittance.
+doc5	4	The auditory thresholds were surveyed twice, each time with a different type of acoustic transducer: insert (E-A-RTONE) and circumaural earphones (HDA200).
+doc5	5	The assessments were performed in a random order, with 5-minute intervals.
+doc5	6	In the end, we asked the participants which earphones they found more comfortable in the tests.
+doc5	7	The data were submitted to nonparametric statistical analysis.
+doc5	8	Assessing the medians in the auditory threshold survey, the circumaural earphones obtained better results at 250, 500, 2000, and 6000 Hz, while the insert earphones were better at 3000 and 4000 Hz; there were no statistical differences at 1000 and 8000 Hz.
+doc5	9	The circumaural was elected the most comfortable earphone.
+doc5	10	The circumaural earphones had better auditory thresholds at 250, 500, 2000, and 6000 Hz than the insert earphones and were reported by the patients as the most comfortable type of transducer.
+doc48	1	Through the stigmatization of drug-using People Living on the Streets (PLS) and the reproduction of violence in health services, this paper reflected on this community and the street space beyond the view of decrepitude with which they are usually seen.
+doc48	2	In this sense, the research contours were shaped from the objective of knowing practice and knowledge constructed in the care processes among the drug-using PLS.
+doc48	3	A qualitative study was designed, using the triangulation of participant observation techniques, from the inclusion of one of the researchers in a 'Street Clinic' (Consultório na Rua), in an inland city of the state of Pernambuco, Brazil, and two types of in-depth individual interviews: the episodic interview and the narrative interview.
+doc48	4	Three thematic categories were outlined from the data retrieved, as follows: 'subjects, territorialities and contexts', 'drugs, social problem medicalization, and control', and 'harm reduction, singularities and care production in the territory'.
+doc48	5	Thus, understandings about the norms and dichotomies that cross the view of PLS were constructed to consolidate the care offer guided by the perspective of harm reduction.
+doc49	1	A methodology to identify patients with ascending aortic aneurysm (AsAA) under high risk for aortic growth is not completely defined.
+doc49	2	This research seeks to numerically characterize the aortic blood flow by relating the resulting mechanical stress distribution with AsAA growth.
+doc49	3	Analytical, observational, single-center study in which a computational fluid dynamics (CFD) protocol was applied to aortic computed tomography angiogram (CTA) images of patients with AsAA.
+doc49	4	Two CTA exams taken at a minimum interval of one year were obtained.
+doc49	5	From the CTA-gathered images, three-dimensional models were built, and clinical data were registered.
+doc49	6	Study of velocity field and coherent structures (vortices) was performed aiming to relate them to the presence or absence of aneurysm growth, as well as comparing them to the patients' clinical data.
+doc49	7	The Kolmogorov-Smirnov test was used to evaluate the normality of the distribution, and the non-parametric Wilcoxon signed-rank test, for non-normal distribution, was used to compare the paired data of the aortic angles.
+doc49	8	Statistical significance was set at 5%.
+doc49	9	The incident jet in the aortic wall generated recirculation areas in the posterior region of the jet, inducing complex vortices formation in the group with aneurysm growth, leading to an average pressure increase in the ascending aortic wall between exams.
+doc49	10	In the group without aneurysm growth, the average pressure decreased.
+doc49	11	This pilot study showed that CFD based on CTA may in the near future be a tool to help identify flow patterns associated with AsAA remodeling process.
+doc44	1	Serum Complement C1q/tumor necrosis factor-related protein-3 (CTRP3) levels and the relationship with atrial fibrillation (AF) in stable coronary artery disease (CAD) are not clearly known.
+doc44	2	The aim of this study was to investigate the change in serum CTRP3 levels and its relationship with paroxysmal AF in stable CAD.
+doc44	3	The study included 252 patients with CAD and 50 age-sex matched healthy control subjects.
+doc44	4	Serum CTRP3 levels were measured in addition to routine anamnesis, physical examination, laboratory and echocardiography examinations.
+doc44	5	The patients were divided into groups with and without CAD and CAD patients with and without paroxysmal AF.
+doc44	6	Statistical significance was accepted as p<0.05.
+doc44	7	Serum CTRP3 levels were found to be significantly lower in patients with CAD than in the control group (p<0.001).
+doc44	8	AF was detected in 38 patients (15.08%) in the CAD group.
+doc44	9	The frequency of hypertension and female gender, hs-CRP, blood urea nitrogen, creatinine levels and left atrial end-diastolic (LAd) diameter were higher (p<0.05 for each one), and CTRP3 levels were lower in patients with AF (p <0.001).
+doc44	10	In the logistic regression analysis, serum CTRP3 levels and LAd diameters were independently determined the patients with AF (p<0.01 for each one).
+doc44	11	In this analysis, we found that every 1 ng/mL reduction in CTRP3 levels increased the risk of AF by 10.7%.
+doc44	12	In the ROC analysis of CTRP3 values for detecting patients with AF, the area under the ROC curve for CTRP3 was 0.971 (0.951-991) and was statistically significant (p<0.001).
+doc44	13	When the CTRP3 cut-off value was taken as 300 ng/mL, it was found to predict the presence of AF with 87.9% sensitivity and 86.8% specificity.
+doc44	14	Serum CTRP3 levels were significantly reduced in patients with stable CAD and decreased CTRP3 levels were closely related to the presence of paroxysmal AF in these patients.
+doc23	1	The World Health Organization acknowledges vaccine hesitancy as one of the ten most serious global health threats.
+doc23	2	The study investigated the association between confidence, convenience, and complacency and influenza vaccine hesitancy among male and female health workers.
+doc23	3	The study included 453 workers in primary and medium-complexity health services in a medium-sized city in the state of Bahia, Brazil.
+doc23	4	Vaccine-hesitant individuals were defined as those who had not received an influenza vaccine in 2019.
+doc23	5	Structural equation models were used to assess interrelations between target predictive variables and vaccine hesitancy.
+doc23	6	One-fourth of the workers (25.4%) hesitated to be vaccinated for influenza.
+doc23	7	Lower confidence (standardized coefficient - SC = 0.261; p = 0.044) and higher complacency (SC = 0.256; p < 0.001) were significantly associated with vaccine hesitancy.
+doc23	8	Convenience was not associated with vaccine hesitancy.
+doc23	9	Workers not involved in patient care, workers in medium-complexity services, and male workers reported less receptiveness from the health professional administering the vaccines.
+doc23	10	Fear of needles was associated with both lower confidence and greater vaccine hesitancy.
+doc23	11	History of vaccine reactions was not associated directly with vaccine hesitancy, but it was associated with greater complacency, that is, less perception of risk from vaccine-preventable diseases.
+doc23	12	Since annual influenza vaccination is recommended, influenza vaccine hesitancy can increase the burden of this disease in the population.
+doc23	13	The data back the hypothesis that factors related to confidence and complacency produce harms in this vaccine´s acceptance and should be considered in the development of strategies and actions for greater adherence to vaccination.
+doc50	1	We aimed to identify factors that interfere in breast cancer (BC) suspected cases detected in Primary Health Care (PHC) that drive the referral to Specialized Care (SC) São Paulo and Campinas, Brazil.
+doc50	2	We interviewed 664 women (353 from São Paulo and 311 from Campinas) diagnosed with BC, referred to SC from PHC.
+doc50	3	Multilevel logistic regression analysis was used to the identification of associations between BC suspected cases by PHC and the socioeconomic and cancer care variables.
+doc50	4	The following showed a significant association: higher schooling level (OR = 0.59; 95% CI = 0.35-0.98); medical visit payment for cancer-related care (OR = 0.59; 95% CI = 0.36-0.96), continued attendance at PHC after beginning treatment at SC (OR = 0.62; 95% CI = 0.41-0.95); breast examined in PHC before referral to SC (OR = 1.61; 95% CI = 1.10-2.34) and first mammography requested in PHC (ECM) (OR = 2.81; 95% CI = 1.95-4.00).
+doc50	5	The request for mammography and the clinical breast examination is incorporated into the PHC for the early detection of BC in the cities.
+doc50	6	Continuing the care at the PHC and better socioeconomic conditions, such as having a higher education level and capacity to pay for care, can reduce the likelihood of suspected cases.

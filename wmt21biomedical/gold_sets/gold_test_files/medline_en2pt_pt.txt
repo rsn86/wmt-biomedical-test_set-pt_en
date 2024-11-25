@@ -1,0 +1,486 @@
+doc1	1	Este trabalho tem como objetivo avaliar a associação entre gravidez na adolescência e prematuridade.
+doc1	2	Os dados são provenientes da pesquisa Nascer no Brasil, inquérito nacional composto por 23.894 puérperas e seus recém-nascidos.
+doc1	3	As informações foram obtidas por meio de entrevista com a puérpera durante a internação hospitalar.
+doc1	4	Um método de pareamento foi estabelecido, baseado nos escores de propensão, para lidar com diferenças entre os grupos em razão de um desenho não experimental, caso do estudo Nascer no Brasil.
+doc1	5	O desfecho do estudo foi a idade gestacional, sendo considerados todos os partos prematuros (idade gestacional < 37 semanas) e a termo (idade gestacional entre 37 e 41 semanas e 6 dias).
+doc1	6	O estudo evidenciou disparidades sociais, econômicas e assistenciais maternas entre as mulheres segundo a faixa etária.
+doc1	7	A maior proporção de puérperas adolescentes se concentrou nas regiões menos desenvolvidas do país, Norte e Nordeste, e nas classes econômicas menos favorecidas (D/E).
+doc1	8	Depois de equiparadas quanto às características socioeconômicas e assistenciais, foram observadas maiores chances de prematuridade espontânea nas adolescentes precoces, tanto em comparação às adolescentes tardias (OR = 1,49; IC95%: 1,07-2,06), quanto às adultas jovens (OR = 2,38; IC95%: 1,82-3,12).
+doc1	9	A prematuridade permanece em pauta no campo da saúde materno-infantil, sendo preocupante a associação com a gestação na adolescência encontrada neste trabalho, destacando-se que quanto mais jovem a gestante, maior a chance de parto prematuro espontâneo.
+doc11	1	Coyhaique, no sul de Chile, é uma das cidades mais poluídas devido a queima de lenha nas Américas.
+doc11	2	Em 2016 se deu início a uma massiva substituição da tecnologia de aquecimento do interior das vivendas para diminuir as concentrações atmosféricas de material particulado no inverno.
+doc11	3	Através de análises de séries temporais, o artigo discute o efeito desta medida nos níveis de MP2,5 e nas internações por urgências respiratórias em menores de 15 anos.
+doc12	1	Analisar a Liderança Coaching exercida pelos coordenadores de enfermagem nas unidades do Serviço de Atendimento Móvel de Urgência, na percepção dos coordenadores e técnicos de enfermagem, além da sua correlação com três variáveis sociodemográficas.
+doc12	2	Estudo descritivo e analítico realizado com coordenadores de enfermagem e técnicos de enfermagem das unidades do serviço pré-hospitalar, utilizando os questionários da Liderança Coaching e o teste de Spearman para análise das correlações.
+doc12	3	Participaram 11 coordenadores de enfermagem e 155 técnicos de enfermagem.
+doc12	4	Verificou-se o exercício da Liderança Coaching na percepção de duas categorias profissionais: “dar e receber feedback”, que foi o domínio com maior média para os coordenadores (21,45; DP=2,84); e “comunicação” (20,43; DP=5,57) para os técnicos.
+doc12	5	Ademais, na autopercepção da Liderança Coaching dos coordenadores, evidenciou-se uma correlação indireta entre os domínios “dar e receber feedback” (Spearman −0,720; p-valor 0,012) e “escore total da escala” (Spearman −0,652 e p-valor 0,029) em relação ao “tempo de formação”.
+doc12	6	Os resultados da pesquisa sinalizam contribuições significativas para as práticas de enfermagem e denotam o impacto dessa competência na equipe de enfermagem do serviço pré-hospitalar, no ambiente de trabalho e no cuidado prestado ao paciente.
+doc17	1	Estima-se que no Brasil existam cerca de 900 mil indígenas (0,4% da população do país) pertencentes a mais de 300 etnias diferentes.
+doc17	2	Porém, informações sobre a epidemiologia do câncer e sobre os medicamentos antineoplásicos utilizados no tratamento desses indivíduos são escassas.
+doc17	3	Os objetivos do presente estudo são identificar os medicamentos antineoplásicos utilizados e descrever o perfil de utilização deles na população indígena tratada no Brasil, além de descrever o perfil epidemiológico dos usuários.
+doc17	4	Foi realizado um estudo do tipo ecológico que envolveu os atendimentos ambulatoriais de quimioterapia, realizados no período de janeiro de 2014 e dezembro de 2018, em todo o Brasil.
+doc17	5	A fonte de coleta dos dados utilizada foi o Sistema de Informação Ambulatorial, do Departamento de Informática do SUS, considerando apenas as Autorizações de Procedimentos de Alta Complexidade para Quimioterapia.
+doc17	6	Foram identificadas 2.425 autorizações para procedimentos de quimioterapia destinadas ao tratamento de pacientes indígenas.
+doc17	7	Um total de 2.292 autorizações, para um total de 210 indivíduos, foram analisadas.
+doc17	8	Observou-se um aumento do número de autorizações e de indígenas em uso de quimioterapia ao longo do período, maior concentração de indivíduos residentes e em tratamento na Região Sul do país, diversidade de tipos de tumores diagnosticados (n = 63) e de esquemas terapêuticos utilizados durante o tratamento (n = 107).
+doc17	9	O presente estudo trouxe um novo panorama sobre o perfil epidemiológico dos usuários indígenas sob tratamento quimioterápico no Sistema Único de Saúde.
+doc17	10	Os achados contribuem para o preenchimento da atual lacuna de conhecimento a respeito da saúde indígena no Brasil.
+doc18	1	Ainda não temos informações acerca do impacto da pandemia da COVID-19 sobre a atividade médica assistencial no Brasil.
+doc18	2	Descrever as repercussões da pandemia da COVID-19 na rotina de atendimentos em um hospital terciário, referência regional em cardiologia e oncologia.
+doc18	3	Estudo de corte transversal.
+doc18	4	Foi realizado levantamento dos atendimentos no período de 23/03/2020 (fechamento do comércio local) até 23/04/2020 (P20) e comparado com o mesmo período em 2019 (P19).Resultados: Detectamos redução no número de consultas cardiológicas, teste ergométrico, Holter, monitorização ambulatorial da pressão arterial, eletrocardiograma e ecocardiograma (90%, 84%, 94%, 92%, 94% e 81%, respectivamente).
+doc18	5	Em relação à cirurgia cardíaca e cateterismo cardíaco, houve redução de 48% e 60%, respectivamente.
+doc18	6	Aumento no número de angioplastia transluminal coronária (33%) e de implante de marca-passo definitivo (29%).
+doc18	7	Houve 97 internamentos na UTI em P19, contra 78 em P20, redução de 20%.
+doc18	8	Diminuição dos atendimentos no pronto-socorro cardiológico (45%) e nos internamentos na enfermaria de cardiologia (36%).
+doc18	9	Houve diminuição nas consultas oncológicas de 30%.
+doc18	10	Sessões de quimioterapia reduziram de 1.944 para 1.066 (45%).
+doc18	11	Sessões de radioterapia diminuíram 19%.
+doc18	12	A COVID-19 provocou redução considerável no número de consultas nos ambulatórios de cardiologia, oncologia e demais especialidades.
+doc18	13	Houve uma preocupante diminuição no número de cirurgias cardíacas e nas sessões de quimioterapia e radioterapia nas semanas iniciais da pandemia.
+doc18	14	A procura por atendimento no pronto-socorro cardiológico, assim como as internações na UTI e enfermaria cardiológicas, também reduziram, gerando preocupação acerca da evolução e prognóstico destes pacientes portadores de outras patologias, que não a COVID-19, nestes tempos de pandemia.
+doc18	15	(Arq Bras Cardiol. 2020;
+doc18	16	[online].ahead print, PP.0-0).
+doc19	1	O modelo de hipertensão arterial pulmonar induzida por monocrotalina (MCT) é um dos mais reproduzidos atualmente, apresentando como limitação a ausência de lesões plexiformes, manifestações típicas da doença grave em humanos.
+doc19	2	Avaliar a gravidade da arteriopatia pulmonar induzida por MCT por meio dos achados anatomopatológicos pulmonares e cardíacos, evolução clínica e sobrevida em 37 dias.
+doc19	3	Foram utilizados 50 ratos machos Wistar divididos em quatro grupos, sendo um controle (n = 10).
+doc19	4	Os três grupos restantes foram submetidos à inoculação de MCT (60 mg/kg i.p.) e ficaram sob o seu efeito por 15 (n = 10), 30 (n = 10) e 37 dias (n = 20).
+doc19	5	Ao final de cada período, os animais foram sacrificados, obtendo-se tecidos pulmonar e cardíaco para análise anatomopatológica e morfométrica.
+doc19	6	Empregou-se o teste Kruskal-Wallis, considerando nível de significância de 5%.
+doc19	7	Nos pulmões dos animais MCT foram constatadas lesões referentes à arteriopatia pulmonar, incluindo muscularização das arteríolas, hipertrofia da camada média e lesões neointimais concêntricas.
+doc19	8	Lesões complexas foram observadas nos grupos MCT, descritas como plexiforme e do “tipo” plexiforme (plexiform-like).
+doc19	9	A hipertrofia do ventrículo direito foi constatada pelo aumento da espessura e diâmetro dos cardiomiócitos e pelo aumento significativo da espessura da parede do ventrículo direito (p<0,0000).
+doc19	10	O modelo foi capaz de gerar arteriopatia pulmonar moderada-grave associada à hipertrofia do ventrículo direito secundária, com sobrevida de 50% em 37 dias.
+doc19	11	De nosso conhecimento, este estudo foi o primeiro a constatar a presença de lesões vasculares complexas, semelhantes às observadas em pacientes com hipertensão arterial pulmonar grave, em modelo isolado de MCT.
+doc19	12	(Arq Bras Cardiol. 2020; 115(3):480-490).
+doc2	1	A influência de intervenções não farmacológicas como restrição calórica e exercício físico sobre a saúde e prevenção de enfermidades cardíacas tem sido documentada em estudos clínicos e experimentais.
+doc2	2	Analisar a influência da combinação entre dieta intermitente e exercício físico sobre a capacidade funcional, metabolismo glicêmico e remodelação cardíaca.
+doc2	3	Foram utilizados 60 ratos Wistar machos distribuídos em quatro grupos: Controle (C), Exercício Físico (EF), Dieta Intermitente (DI) e Exercício Físico e Dieta Intermitente (EDI).
+doc2	4	Durante 12 semanas, enquanto C e EF foram tratados diariamente com dieta comercial padrão ad libitum, DI e EDI receberam dieta similar em dias alternados com dias de jejum.
+doc2	5	Os grupos EF e EDI foram submetidos a protocolo de corrida em esteira rolante.
+doc2	6	Posteriormente, foram analisadas capacidade funcional, comportamento nutricional e metabolismo glicêmico.
+doc2	7	Além da morfologia do coração, a expressão proteica das proteínas extracellular signal-regulated kinase (ERK) e c-Jun N-terminal kinase (JNK) no coração foi avaliada por Western-blot.
+doc2	8	A análise dos resultados foi feita por meio de Two-Way ANOVA e teste de Student-Newman-Keuls.
+doc2	9	O nível de significância considerado foi de 5%.
+doc2	10	O exercício físico aumentou a capacidade funcional nos grupos EF e EDI, e acarretou fibrose cardíaca.
+doc2	11	A combinação entre dieta intermitente e exercício físico resultou em menor área sob a curva de glicemia e menores medidas de área e interstício cardíaco no EDI em relação ao EF.
+doc2	12	A expressão de proteínas ERK e JNK foi similar entre os grupos (p>0,05).
+doc2	13	Dieta intermitente se associa com melhor tolerância glicêmica e atenua o processo de remodelação cardíaca decorrente do exercício físico.
+doc2	14	(Arq Bras Cardiol. 2020; 115(2):184-193).
+doc20	1	Na prática clínica, há evidências de falhas na prescrição de terapias baseadas em evidências para pacientes de alto risco cardiovascular.
+doc20	2	Entretanto, no Brasil, ainda são insuficientes os dados sobre a evolução ao longo de 1 ano desses pacientes.
+doc20	3	Descrição no acompanhamento de 12 meses da utilização de terapias baseadas em evidência e da ocorrência de desfechos cardiovasculares maiores e seus principais preditores em um registro brasileiro multicêntrico de pacientes de alto risco cardiovascular.
+doc20	4	Estudo observacional prospectivo que documentou a prática clínica ambulatorial de indivíduos acima de 45 anos e de alto risco cardiovascular tanto em prevenção primária como secundária.
+doc20	5	Os pacientes foram seguidos por 1 ano e avaliou-se a prescrição de terapias baseadas em evidência e a ocorrência de eventos cardiovasculares maiores (infarto agudo do miocárdio [IAM], acidente vascular cerebral [AVC], parada cardíaca e mortalidade por causa cardiovascular).
+doc20	6	Valores de p < 0,05 foram considerados estatisticamente significantes.
+doc20	7	De julho de 2010 até agosto de 2014, 5.076 indivíduos foram incluídos em 48 centros, sendo 91% dos 4.975 pacientes elegíveis acompanhados em centros de cardiologia e 68,6% em prevenção secundária.
+doc20	8	Em 1 ano, o uso concomitante de antiplaquetários, estatinas e inibidores da enzima conversora de angiotensina (IECA) reduziu de 28,3% para 24,2% (valor de p < 0,001).
+doc20	9	A taxa de eventos cardiovasculares maiores foi de 5,46%, e os preditores identificados foram: idade, pacientes em prevenção secundária e nefropatia diabética.
+doc20	10	Neste grande registro nacional de pacientes de alto risco cardiovascular, foram identificados preditores de risco semelhantes aos registros internacionais, porém a adesão da prescrição médica a terapias baseadas em evidência esteve abaixo dos dados da literatura internacional e apresentou piora significativa em 1 ano.
+doc20	11	(Arq Bras Cardiol. 2020;
+doc20	12	[online].ahead print, PP.0-0).
+doc25	1	Após uma década de evidentes dificuldades, o Serviço Nacional de Saúde necessita de um significativo investimento público para o seu desenvolvimento.
+doc25	2	Isso significa repor e acrescentar recursos ao Serviço Nacional de Saúde.
+doc25	3	Mas quer dizer também adquirir as capacidades necessárias à gestão da sua transformação.
+doc25	4	Os desafios de saúde não são hoje os mesmos de há 40 anos: (i) Observa-se um considerável aumento da prevalência das pessoas com morbilidade múltipla, de evolução prolongada, requerendo uma utilização contínua de serviços de saúde;
+doc25	5	(ii) É necessário atrasar e atenuar a expressão da morbilidade múltipla;
+doc25	6	(iii) Neste contexto, é particularmente importante uma forte aposta na integração dos cuidados, gerindo o percurso das pessoas através do serviços de que necessitam.
+doc25	7	As transformações indispensáveis para responder a estes desafios são complexas e muito exigentes: (i) Há que reconhecer que uma gestão efetiva das necessárias ‘mudanças adaptativas de proximidade’, requer um elaborado enquadramento analítico, estratégico, de boa governança e governação, que ainda não temos;
+doc25	8	(ii) É preciso ativar, no conjunto da sociedade portuguesa, fatores indutores e facilitadores de mudança – arquiteturas, processo e instrumentos colaborativos;
+doc25	9	(iii) Uma forte consciência coletiva da natureza dos desafios de saúde da atualidade e uma acrescida capacidade em gerir mudanças socialmente complexas, permitirá organizar uma direção estratégica para o Serviço Nacional de Saúde, capaz de atuar efetivamente em domínios críticos para o seu desenvolvimento – financiamento, gestão de infraestruturas e recursos, desenvolvimento organizacional no âmbito da administração pública portuguesa, uma política para as profissões de saúde e a articulação com os setores social e privado.
+doc25	10	Sem um investimento imediato e significativo na capacidade de gerir as mudanças necessárias, as dificuldades do Serviço Nacional de Saúde em corresponder a aquilo que os portugueses precisam, não deixarão de se acentuar nos próximos anos.
+doc26	1	Estimar as taxas de notificação de casos de doença pelo coronavírus 2019 (COVID-19) para o Brasil em geral e em todos os estados.
+doc26	2	Estimamos o número real de casos de COVID-19 utilizando o número de óbitos notificados no Brasil e em cada estado e a proporção entre casos e letalidade, conforme a Organização Mundial da Saúde.
+doc26	3	A proporção entre casos e letalidade prevista para o Brasil foi também ajustada segundo a pirâmide de idade populacional.
+doc26	4	Assim, a taxa de notificações pode ser definida como o número de casos confirmados (informados pelo Ministério da Saúde) dividido pelo número de casos previstos (estimado a partir do número de óbitos).
+doc26	5	A taxa de notificação de COVID-19 no Brasil foi estimada em 9,2% (IC95%: 8,8% - 9,5%), sendo que, em todos os estados, as taxas encontradas foram inferiores a 30%.
+doc26	6	São Paulo e Rio de Janeiro, os estados mais populosos do país, mostraram baixas taxas de notificação (8,9% e 7,2%, respectivamente).
+doc26	7	A taxa de notificação mais alta ocorreu em Roraima (31,7%) e a mais baixa na Paraíba (3,4%).
+doc26	8	Os resultados indicam que a notificação de casos confirmados no Brasil é muito abaixo da encontrada em outros países que avaliamos.
+doc26	9	Assim, os responsáveis pela tomada de decisões, inclusive os governos, não têm conhecimento da real dimensão da pandemia, o que pode prejudicar a determinação das medidas de controle.
+doc3	1	Apesar de se recomendar a intervenção em equipe no tratamento da hipertensão, resultados dessa abordagem em ambientes do mundo real são escassos na literatura.
+doc3	2	Apresentar os resultados de uma estratégia terapêutica baseada em equipe, de longo prazo, de pacientes hipertensos em um serviço de saúde.
+doc3	3	Dados de pacientes hipertensos acompanhados em um centro de tratamento multidisciplinar localizado na região centro-oeste do Brasil em junho de 2017 com pelo menos duas visitas de acompanhamento foram avaliados retrospectivamente.
+doc3	4	Dados antropométricos, pressão arterial (PA), tempo de acompanhamento, tratamento farmacológico, diabetes, estilo de vida foram coletados da última consulta.
+doc3	5	Valores de PA < 140 x 90 mmHg em não diabéticos e < 130 x 80 mmHg em diabéticos foram considerados PA controlada.
+doc3	6	Um modelo de regressão logística foi construído para identificar variáveis independentemente associadas com o controle da PA.
+doc3	7	O nível de significância adotado foi de p<0.05. Foram incluídos 1548 pacientes, com média de acompanhamento de 7,6 ± 7,1 anos.
+doc3	8	A maioria dos pacientes eram mulheres (73,6%; n=1139), com idade média de 61,8 anos.
+doc3	9	As taxas de controle da PA na amostra total, em não diabéticos e nos diabéticos foram 68%, 79%, e 37,9%, respectivamente.
+doc3	10	Diabetes associou-se inversamente com controle da PA (OR 0,16; IC95% 0,12-0,20; p<0,001), enquanto idade ≥ 60 anos (OR 1,48; IC95% 1,15-1,91; p=0,003) e sexo feminino (OR 1,38; IC95% 1,05-1,82; p=0,020) apresentaram associação direta.
+doc3	11	Uma taxa de controle de cerca de 70% foi encontrada em pacientes atendidos em um serviço multidisciplinar de tratamento da hipertensão.
+doc3	12	A fim de melhorar esses resultados, atenção deve ser dada a pacientes diabéticos, com idade menor que 60 anos e do sexo masculino.
+doc3	13	(Arq Bras Cardiol. 2020; 115(2):174-181).
+doc30	1	identificar os principais desafios da família de uma criança com Mielomeningocele (MMC) e correlacionar a escala de Zarit Burden Interview (ZBI) com o WHOQOL-BREF.
+doc30	2	Foram enviados questionários via plataforma on-line para grupos de pais e cuidadores de crianças com MMC.
+doc30	3	Quatro dimensões foram avaliadas: física; psicológica; relações sociais; e meio ambiente do WHOQOL-BREF.
+doc30	4	Todas as correlações entre os domínios do questionário WHOQOL-BREF com a escala de Zarit Burden Interview (ZBI) foram negativas e significativas com maior magnitude de valor para ZBI × domínio psicológico com − 57,4% de correlação (p < 0,001).
+doc30	5	Os resultados desse estudo sugerem que a qualidade de vida das mães e cuidadores de crianças com MMC é afetada em relação a capacidade funcional, aspecto emocional e saúde mental.
+doc30	6	Apesar disso, apresentam uma visão positiva de sua vida.
+doc30	7	As dificuldades mais encontradas pelos cuidadores foram: realizar o cateterismo vesical; prestar cuidados gerais; financeira; sobrecarga de trabalho; e acessibilidade.
+doc31	1	O objetivo deste estudo foi comparar a haste do fêmur anti-rotador (A-PFN) com o parafuso dinâmico do quadril anti-rotador (A-DHS).
+doc31	2	Este estudo envolveu dois grupos de quatorze modelos de fêmur proximal, tipo fratura 31/A2, de acordo com a classificação The AO Foundation/Orthopaedic Trauma Association (AO/OTA).
+doc31	3	Os ossos do grupo 1 (n = 7) foram fixados com A-PFN, enquanto o grupo 2 (n = 7) foi fixado com A-DHS.
+doc31	4	Um dispositivo de teste foi utilizado para aplicar força axial de 5 mm/min nas cabeças do fêmur.
+doc31	5	Dos sete modelos do grupo A-PFN, dois foram rompidos na proximal e o restante no nível do parafuso de travamento distal.
+doc31	6	Todos os modelos no grupo A-DHS foram quebrados a partir da região do parafuso distal apertado.
+doc31	7	Os modelos ósseos no grupo A-PFN foram quebrados a uma força mediana de 132,1 N (variação de 97,1-173,69 N).
+doc31	8	No grupo A-DHS, a força de fratura dos modelos ósseos foi mediana de 81,7 N (variação de 75,15-89,12 N).
+doc31	9	Neste estudo, modelos ósseos fraturados intertrocantéricos instáveis tratados com A-PFN foram resistentes a um nível mais alto de forças de pressão axial, em contraste com o grupo tratado com A-DHS, e a diferença foi estatisticamente significativa.
+doc31	10	No entanto, há uma necessidade de estudos clínicos para apoiar esses resultados.
+doc32	1	A associação entre atividade física e saúde tem sido claramente estabelecida,e a promoção de atividade física deve ser vista como abordagem custo-efetiva que é universalmente prescrita como tratamento de primeira linha para toda doença crônica.
+doc32	2	Profissionais da saúde envolvidos no cuidado para indivíduos com paralisia cerebral (PC) são encorajados a assumir um papel ativo na promoção da sua saúde e bem estar.
+doc32	3	Balancear comportamentos ativos ao longo de todo o dia, com melhora da atividade física, redução do tempo sedentário, e hábitos de sono saudáveis, pode preparar lactentes, pré-escolares e escolares com PC para uma trajetória saudável ao longo de sua vida.
+doc32	4	No entanto, a maior parte dos clínicos não aplica uma vigilância, avaliação e manejo sistemáticos para detectar problemas de atividade física ou sono em crianças com PC.
+doc32	5	Consequentemente, muitas crianças com PC deixam de receber uma importante primeira linha de tratamento.
+doc32	6	Este artigo apresenta um guia para prática clínica informado por evidências com pontos práticos para ajudar profissionais a detectar problemas de atividade física ao longo de 24 horas como um passo crítico em direção à adoção de comportamentos ativos de estilo de vida para crianças com PC que oferecem benefícios de longo prazo para a saúde.
+doc33	1	Analisar o perfil de indivíduos que acessam o site de informações sobre o pé torto congênito (PTC) e o tratamento do Método Ponseti nos primeiros dez anos da implantação do método no Brasil.
+doc33	2	Trata-se de um estudo retrospectivo com análise de bases de dados, de caráter quantitativo, de 2002 a 2012.
+doc33	3	Aplicou-se um questionário semiestruturado que abordou as dificuldades encontradas, busca por diferentes profissionais e quais eram as principais dúvidas. dos respondentes, 94% tinham algum familiar com PTC, os respondentes foram 74% do sexo feminino, 40% com ensino superior, 75% casados(as), 80% com renda acima de um salário mínimo, 21% de cargos administrativos e 99% residentes em área urbana.
+doc33	4	Dos respondentes, 44% procuraram três ou mais médicos no início do tratamento, e, em média, 77% fizeram o tratamento usando convênio médico ou usando médico particular.
+doc33	5	O perfil de indivíduos que acessam o site de informações sobre PTC e o tratamento do Método Ponseti é composto de respondentes do sexo feminino, casadas, residentes em área urbana, predominantemente do sudeste do Brasil, com ensino superior, com renda acima de 1,5 salários mínimos, e que estavam tratando seus filhos pela rede de saúde particular.
+doc38	1	Introdução: As debilidades do sistema de saúde da Guiné-Bissau estão há muito sinalizadas.
+doc38	2	O objetivo deste estudo é contribuir com evidência para tomada de decisão sobre a reforma do mapa sanitário do país, pela análise à disponibilidade e prontidão de serviços das estruturas sanitárias que poderiam vir a integrar um complexo hospitalar em Bissau, como proposto no Plano Nacional de Desenvolvimento Sanitário (2018-2022).
+doc38	3	Material e Métodos: Analisámos 13 estruturas sanitárias (públicas e privadas) com internamento, situadas nas regiões de Bissau e Biombo.
+doc38	4	Para recolha, tratamento e análise de dados foram utilizadas ferramentas do Service Availability and Readiness Assessment (SARA).
+doc38	5	Resultados: Obtivemos uma visão abrangente destas estruturas, descrevendo a sua capacidade genérica para disponibilizarem cuidados e a prontidão para operacionalizarem serviços de diagnóstico, planeamento familiar, saúde materna, infantil e adolescente, obstetrícia, doenças transmissíveis e não transmissíveis, cirurgia e transfusão de sangue.
+doc38	6	Observou-se maior concentração de camas e meios humanos nas estruturas do setor público, o único que disponibiliza todos os serviços específicos analisados.
+doc38	7	Os serviços do setor convencionado apresentam maiores níveis de prontidão e os do setor privado lucrativo uma menor capacidade operacional.
+doc38	8	Discussão: Os resultados refletem a carência de equipamentos, infraestruturas e recursos, predominância do setor público e crescimento dos setores privado lucrativo e convencionado, bem como insuficiências no planeamento e regulação.
+doc38	9	Identificámos semelhanças e diferenças entre os nossos achados e os descritos na literatura para outros países africanos.
+doc38	10	Conclusão: Este estudo reforça a pertinência de desenvolver respostas integradas e racionais dos serviços de saúde e fornece evidência para tal.
+doc39	1	Excesso de adiposidade corporal e doenças cardiovasculares são problemas mundiais com crescente prevalência em crianças e adolescentes, sendo necessário investigar a relação destes, afim de construir estratégias de enfrentamento.
+doc39	2	Investigar influência do excesso de adiposidade corporal sobre os níveis séricos de apolipoproteínas B e A1 (ApoB e ApoA1) em crianças e adolescentes.
+doc39	3	Busca sistemática nas bases de dados Medline/PubMed, Embase, Lilacs, Web of Science, Ovid e Science Direct de coortes consideradas elegíveis, avaliando-se qualidade metodológica e risco de viés; estudos combináveis, com boa qualidade e baixo risco de viés foram analisados com metanálise; a medida sumária utilizada foi a diferença de média ponderada e seu respectivo intervalo de confiança a 95%.
+doc39	4	8 artigos preencheram os critérios de elegibilidade, incluindo indivíduos com média de idade variando de 9 a 15,7 anos.
+doc39	5	Para a metanálise, incluíram-se 4 artigos, com total de 7.974 crianças e adolescentes.
+doc39	6	Observou-se aumento médio de 4,94 mg/dL (IC 95%: 4,22 a 5,67 mg/dL) nos níveis de ApoB naqueles com excesso de adiposidade.
+doc39	7	Para a ApoA1, identificou-se redução média de -8,13 mg/dL (IC 95%: - 9,09 a -7,17 mg/dL) nos níveis séricos desse marcador em indivíduos com maior adiposidade corporal.
+doc39	8	Além disso, a influência do excesso de adiposidade corporal sobre os níveis de ApoA1 e ApoB foi maior entre adolescentes do que entre crianças.
+doc39	9	O excesso de adiposidade corporal influenciou tanto na redução dos valores de ApoA1 quanto no aumento dos níveis de ApoB em crianças e adolescentes, e tais alterações foram mais relevantes entre adolescentes.(Arq Bras Cardiol. 2020; [online].ahead print, PP.0-0).
+doc4	1	Os efeitos da caminhada de longa distância sobre o sistema cardiovascular são pouco estudados.
+doc4	2	O objetivo geral deste estudo foi verificar esses efeitos sobre o comportamento da função diastólica e dos biomarcadores cardíacos CK-MB (massa), troponina T e NT-proBNP em atletas amadores.
+doc4	3	Este estudo longitudinal realizado em 2015 avaliou os participantes nas 5 etapas seguintes: A0 (basal) antes de iniciar o percurso, e as demais, A1, A2, A3 e A4 ao final de cada dia, totalizando 244,7 km.
+doc4	4	Em todas as etapas foram dosados os biomarcadores NT-proBNP, CK-MB (massa) e troponina T. Realizou-se ecocardiograma para análise das ondas E, A e E'.
+doc4	5	Adotado p < 0,05 como significativo.
+doc4	6	Foram avaliados 25 participantes com média de idade de 46 ± 10,5 anos e índice de massa corporal de 20,2 ± 2,3 kg/m2.
+doc4	7	Encontrou-se aumentos dos valores de NT-proBNP de A0 para A1, A2, A3 e A4 (p < 0,001), CK-MB (massa) de A0 para A2 (p < 0,001) e da onda E' de A0 para A1, A2, A3 e A4 (p < 0,001).
+doc4	8	Foram identificadas correlações entre os seguintes: CK-MB (massa) e troponina T (A1: r = 0,524, p = 0,010; A4: r = 0,413, p = 0,044);
+doc4	9	CK-MB (massa) e NT-proBNP (A4: r = 0,539, p = 0,006); e E/A e E' (A0: r = 0,603, p < 0,001; A1: r = 0,639, p < 0,001; A4: r = 0,593, p = 0,002); e correlação negativa entre CK-MB (massa) com E/A (A1: r = −0,428, p = 0,041).
+doc4	10	Os efeitos da atividade física intensa, prolongada e intercalada foram verificados a partir das variações significativas no comportamento da CK-MB (massa), NT-proBNP e E'.
+doc4	11	Apesar das alterações encontradas, não houve critérios sugestivos de dano ao miocárdio.
+doc40	1	A doença cardiovascular representa a principal causa de mortalidade no mundo.
+doc40	2	Calcificações parietais nas artérias podem ser visualizadas e quantificadas por tomografia computadorizada (TC) em estágios iniciais e subclínicos, sendo expressa em escore de cálcio (EC).
+doc40	3	Com esse número, é possível estimar o prognóstico de eventos cardiovasculares futuros.
+doc40	4	Correlacionar a detecção e quantificação do EC pela TC do tórax utilizando como padrão-ouro a TC cardíaca sincronizada ao eletrocardiograma.
+doc40	5	Estudo transversal e descritivo que selecionou pacientes (n=73) consecutivos para investigação de doença arterial coronariana estável e que realizaram TC cardíaca no período de junho de 2013 a outubro de 2014.
+doc40	6	Realizado protocolo com TC do tórax e EC, em aparelho de 64 canais.
+doc40	7	Os valores de p<0,05 foram considerados estatisticamente significativos.
+doc40	8	Na avaliação por paciente, após a transformação logarítmica a média do EC sincronizado foi de 8,7 e na TC de tórax foi de 9,4.
+doc40	9	Prevalência de doença de 49,3% (n= 36).
+doc40	10	A sensibilidade foi de 97,2% e a especificidade de 100,0%.
+doc40	11	Observou-se excelente correlação entre os métodos (r= 0,993 com p<0,001).
+doc40	12	Na avaliação por segmento, a média do EC sincronizado foi de 3,0.
+doc40	13	Já a média do EC na TC de tórax foi de 3,2.
+doc40	14	Prevalência de doença de 29,5% (n= 86), com sensibilidade de 95,3% e especificidade de 97,5%.
+doc40	15	Observou-se também excelente correlação entre os métodos (r= 0,985 com p<0,001).
+doc40	16	O EC sincronizado e não sincronizado têm boa correlação entre si e não mostram resultados estatisticamente diferentes.
+doc40	17	(Arq Bras Cardiol. 2020; 115(3):493-500).
+doc44	1	Contribuições neurais e não neurais para a espasticidade do tornozelo em crianças com paralisia cerebral OBJETIVO: Avaliar as contribuições neurais e não-neurais para a espasticidade no tornozelo comprometido de crianças com paralisia cerebral (PC).
+doc44	2	MÉTODO: O golpeamento instrumentalizado do tendão de Aquiles foi realizado isometricamente para minimizar as contribuições não-neurais e um desvio exagerado do tendão, e assim eliciar as contribuições neurais.
+doc44	3	O alongamento do tornozelo controlado por um robô foi realizado em várias velocidades, incluindo alongamento lento, com contribuições neurais limitadas.
+doc44	4	A espasticidade foi avaliada como tendo origem neural (torque do reflexo fásico e tônico, ganho do reflexo tendinoso, taxa de contração, e taxa de meio relaxamento) e não-neural (rigidez elástica e amortecimento viscoso) em 17 crianças com PC (seis do sexo feminino e 11 do sexo masculino; média de idade [DP] 10a 8m [3 11m], variação 4a-18a) e 17 crianças com desenvolvimento típico (seis do sexo feminino e 11 do sexo masculino; média de idade [DP] 12a 7m [2a 9m], variação 7a-18a).
+doc44	5	Todos os torques foram normalizados para peso x altura.
+doc44	6	RESULTADOS: Crianças com PC mostraram aumento do torque do reflexo tônico e fásico e (p=0,004 e p=0,001 respectivamente), ganho do reflexo tendinoso (p=0,02), taxa de contração (p=0,038), taxa de meio relaxamento (p=0,02), rigidez elástica (p=0,01), e amortecimento viscoso (p=0,01) em comparação com as crianças com desenvolvimento típico.
+doc44	7	INTERPRETAÇÃO: O alongamento controlado e o golpeamento instrumentalizado do tendão permitem quantificação sistemática de várias mudanças neurais e não-neurais em PC, as quais podem ser usadas para guiar tratamento específico para a deficiência observada.
+doc45	1	O Sistema de Informação sobre Mortalidade (SIM) é de vital importância no monitoramento das tendências das doenças cardiovasculares (DCV), tendo por objetivo apoiar as políticas públicas.
+doc45	2	Comparar séries históricas de mortalidade por DCV tendo como fonte de dados o SIM com e sem correção e o estudo Carga Global de Doenças (GBD) 2017 no Brasil no período de 2000 a 2017.
+doc45	3	Análise da mortalidade por DCV no Brasil entre 2000 e 2017 por meio de comparações de três estimativas de mortalidade por DCV: SIM Bruto, SIM Corrigido e GBD 2017.
+doc45	4	Foram utilizados os números absolutos e as taxas padronizadas por idade para comparação das estimativas para o Brasil e as unidades da federação.
+doc45	5	No SIM, o total de óbitos por DCV variou de 261 mil, em 2000, a 359 mil, em 2017, e no GBD 2017, de 292 mil a 388 mil nos mesmos anos, respectivamente.
+doc45	6	Observou-se alta proporção de códigos garbage definidos pelo GBD 2017 nas causas de morte por DCV, chegando a 42% em 2017.
+doc45	7	As taxas de óbitos por 100 mil habitantes estimadas pelo GBD variaram de 248,8 (1990) a 178,0 (2017).
+doc45	8	As taxas do SIM Bruto e do SIM Corrigido também mostraram redução para toda a série analisada, sendo que o SIM Bruto apresentou taxas mais baixas, de 204,9 (1990) e 155,1 (2017) óbitos por 100 mil habitantes.
+doc45	9	Ao analisar por unidade da federação, as tendências do SIM Bruto se invertem, com aumento das taxas de mortalidade nos estados das regiões Norte e Nordeste.
+doc45	10	O estudo aponta a diminuição das taxas de mortalidade por DCV no período analisado para o Brasil.
+doc45	11	Ao contrário, na análise por unidade da federação, a variação porcentual do SIM Bruto foi de aumento para os estados do Norte e Nordeste.
+doc45	12	O uso dos dados não ajustados do SIM pode resultar em erros na interpretação, indicando aumento das taxas decorrente do aumento na captação de óbitos e da melhoria na definição das causas básicas de morte na última década, em especial nas regiões Norte e Nordeste, o que justifica sempre utilizar dados corrigidos na análise de mortalidade.
+doc45	13	(Arq Bras Cardiol. 2020; 115(2):152-160).
+doc48	1	A autoetnografia performática é uma metodologia de pesquisa qualitativa que busca problematizar as resistências entre o “eu” (auto) e o coletivo (etno) no ato de escrever (grafia).
+doc48	2	Assim, o objetivo deste artigo é discutir a construção teórico-prática da autoetnografia performática e sua aplicabilidade como método de pesquisa e análise qualitativa no campo da Saúde Coletiva por meio, inclusive, de uma escrita autoetnográfica performática.
+doc48	3	A partir da problematização das bases epistêmicas e ontológicas da autoetnografia performática, apontando possibilidades para o seu desenvolvimento e inclusão nos estudos do campo da Saúde Coletiva, apresenta-se a autoetnografia performática como uma estratégia para ampliar as possibilidades de justiça social, de democratização e de pluralismos nas/das práticas de pesquisa.
+doc48	4	Orientada pela episteme pós-colonial, que explora abordagens descolonizadoras que provocam e criam condições para a transformação do próprio olhar acadêmico e do conhecimento que privilegia certas representações do “outro”, a autoetnografia performática problematiza principalmente como as histórias subalternizadas e marginalizadas se relacionam com os sistemas considerados hegemônicos.
+doc49	1	Os homens são o principal grupo afetado pela infecção do HIV no Brasil, com tendência de crescimento nos últimos dez anos.
+doc49	2	Nos dados oficiais, os homens heterossexuais representam 49% dos casos, os homossexuais 38% e os bissexuais 9,1%.
+doc49	3	Os homens heterossexuais ficaram subsumidos na categoria de “população geral”, não recebendo destaque em políticas ou ações de prevenção.
+doc49	4	O presente artigo se propõe a analisar as circunstâncias e estratégias por meio das quais os homens heterossexuais descobrem o diagnóstico do HIV.
+doc49	5	Busca-se, assim, compreender os caminhos percorridos, bem como os atores sociais envolvidos no diagnóstico de HIV/aids.
+doc49	6	Os dados analisados resultam de uma pesquisa qualitativa na qual foram entrevistados 36 homens vivendo com HIV/aids que não se identificam como homossexuais e/ou bissexuais.
+doc49	7	Esses homens foram contatados em três serviços especializados em aids de Porto Alegre, Rio Grande do Sul, Brasil.
+doc49	8	Os resultados indicam que eles se consideram imunes ao HIV, sendo o diagnóstico um evento inesperado.
+doc49	9	As mulheres (parceiras afetivo-sexuais e/ou ex-parceiras) são peças fundamentais para o diagnóstico masculino, pois revelam, seja pelo pré-natal, seja pelo adoecimento, a presença do HIV.
+doc49	10	Uma parcela importante dos homens se descobre soropositivo por ocasião de alguma doença, como a tuberculose, ou após várias idas e vindas dos serviços de saúde.
+doc49	11	A busca pela testagem de forma espontânea só acontece mediante a identificação de situações e sinais associados a uma possível contaminação.
+doc49	12	Os homens heterossexuais possuem poucas oportunidades de diagnóstico do HIV e, para além do gênero, são sujeitos à vulnerabilidade programática.
+doc50	1	Investigar associações entre funcionamento, participação na comunidade, e qualidade de vida (QV), e identificar se a participação media os efeitos do funcionamento na QV.
+doc50	2	MÉTODO: Os cuidadores de 435 crianças (211 do sexo feminino, 224 do sexo masculino; média de idade 12a; DP 3a 11m; variação da idade: 5-18a) com deficiência intelectual e transtorno do espectro autista, paralisia cerebral, síndrome de Down, ou síndrome de Rett, relataram o funcionamento de suas crianças (dependência para manejar necessidades pessoais, mobilidade, comunicação, contato pessoal ao falar), frequência de participação, e QV.
+doc50	3	Análises de regressão linear e de mediação foram usadas para avaliar as relações entre funcionamento da criança, participação, e QV.
+doc50	4	Crianças com maior dependência para o manejo das necessidades pessoais e contato visual limitado ao falar experimentaram pior QV.
+doc50	5	Funcionamento menos comprometido foi associado com maior frequência de participação, o que, por sua vez, se associou com um ganho de 3 pontos em QV para cada ponto adicional na frequência de participação (coeficiente=2,67, intervalo de confiança a 95% 1,56-3,78).
+doc50	6	O efeito do funcionamento deficiente na QV foi parcialmente mediado pela participação em crianças com maior dependência no manejo de necessidades pessoais e naquelas com comunicação levemente comprometida.
+doc50	7	INTERPRETAÇÃO: Maiores níveis de deficiência com pior funcionamento, notavelmente um maior nível de dependência, foram associados com pior QV.
+doc50	8	Pior QV pode ser parcialmente explicda por uma participação menos frequente na comunidade.
+doc52	1	A hipercolesterolemia familiar (HF) é uma doença genética causada por um defeito primário no gene que codifica o receptor da LDL.
+doc52	2	Mutações diferentes no mesmo gene caracterizam um heterozigoto composto, mas pouco se sabe sobre o fenótipo dos portadores.
+doc52	3	Portanto, neste estudo, descrevemos o rastreamento em cascata de uma família brasileira com essa característica.
+doc52	4	O caso-índice é um homem de 36 anos, com colesterol total (CT) de 360 mg/dL (9,3 mmol/L) e concentração de LDL-c de 259 mg/dL (6,7 mmol/L), além de xantomas de tendão de Aquiles, obesidade e pré-hipertensão.
+doc52	5	A genotipagem identificou as mutações 661G>A, 670G>A e 682G>A, no exon 4, e 919G>A, no exon 6.
+doc52	6	A mesma mutação no exon 4 foi observada no filho do caso-índice (7 anos), que também tem hipercolesterolemia e xantomas tendinosos, ao passo que a filha do caso-índice (9 anos) apresenta mutação no exon 6 e hiperlipidemia, sem xantomas.
+doc52	7	Em suma, este relato permite uma melhor compreensão acerca da base molecular da HF no Brasil, um país multirracial, onde é esperada uma população heterogênea.
+doc53	1	Identificar problemas emergentes de saúde mental, as estratégias para enfrentá-los e oportunidades para reformar os sistemas de saúde mental durante a pandemia de COVID-19 na América do Sul.
+doc53	2	Em meados de abril de 2020, enviamos um questionário online aos responsáveis pela tomada de decisões em saúde mental dos ministérios da saúde de 10 países da América do Sul.
+doc53	3	O questionário semiestruturado continha 12 perguntas agrupadas em três seções principais: desafios emergentes em saúde mental, estratégias atuais e potenciais para enfrentar a pandemia e elementos-chave para a reforma da saúde mental.
+doc53	4	Identificamos palavras-chave e temas para cada seção através da análise de conteúdo sumativa.
+doc53	5	O aumento das necessidades e da carga sobre os serviços de saúde mental foram descritos como consequências diretas e indiretas da pandemia de COVID-19.
+doc53	6	As medidas de confinamento implementadas pelos governos nacionais dificultam o acesso e a prestação de cuidados e tratamentos de saúde mental.
+doc53	7	As estratégias para atender às necessidades de saúde mental dependem de respostas rápidas e adequadas através do fortalecimento da governança e dos sistemas de saúde mental, da disponibilidade de serviços, de plataformas virtuais e da capacitação apropriada dos prestadores de serviços.
+doc53	8	As estratégias de curto e médio prazo se concentraram no reforço das redes comunitárias de saúde mental e da telemedicina para as populações de alto risco.
+doc53	9	As oportunidades de reforma da saúde mental a longo prazo implicam o fortalecimento dos quadros jurídicos, a redistribuição de recursos financeiros e a colaboração com parceiros locais e internacionais.
+doc53	10	A saúde mental e o apoio psicossocial foram identificados como uma área prioritária pelos países da América do Sul na resposta à COVID-19.
+doc53	11	A pandemia criou necessidades específicas que exigem ações apropriadas, incluindo a implementação de intervenções virtuais, a capacitação orientada à proteção dos usuários e prestadores da atenção à saúde, o fortalecimento da tomada de decisões baseada em evidências e a integração da saúde mental e do apoio psicossocial em mecanismos de alto nível que orientem a resposta à COVID-19.
+doc54	1	Diversos estudos têm mostrado que as classes de diterpenos exercem efeito significativo no sistema cardiovascular.
+doc54	2	Os diterpenos, em particular, estão entre os principais compostos associados às propriedades cardiovasculares, como a propriedade vasorrelaxante, inotrópica, diurética e a atividade hipotensora.
+doc54	3	Embora o mecanismo de vasorrelaxamento do manool seja visível, seu efeito sobre a pressão arterial (PA) ainda é desconhecido.
+doc54	4	Avaliar o efeito hipotensor in vivo do manool e verificar o efeito de vasorrelaxamento ex vivo em anéis aórticos de ratos.
+doc54	5	Os animais foram divididos aleatoriamente em dois grupos: normotensos e hipertensos.
+doc54	6	O grupo normotenso foi submetido à cirurgia sham e adotou-se o modelo 2R1C para o grupo hipertenso.
+doc54	7	Realizou-se monitoramento invasivo da PA para testes com manool em diferentes doses (10, 20 e 40 mg/kg).
+doc54	8	Foram obtidas curvas de concentração-resposta para o manool nos anéis aórticos, com endotélio pré-contraído com fenilefrina (Phe) após incubação com Nω-nitro-L-arginina metil éster (L-NAME) ou oxadiazolo[4,3-a]quinoxalina-1-ona (ODQ).
+doc54	9	Os níveis plasmáticos de óxido nítrico (NOx) foram medidos por ensaio de quimioluminescência.
+doc54	10	Após a administração de manool, a PA se reduziu nos grupos normotenso e hipertenso, e esse efeito foi inibido pelo L-NAME em animais hipertensos apenas na dose de 10 mg/kg.
+doc54	11	O manool ex vivo promoveu vasorrelaxamento, inibido pela incubação de L-NAME e ODQ ou remoção do endotélio.
+doc54	12	Os níveis plasmáticos de NOx aumentaram no grupo hipertenso após a administração de manool.
+doc54	13	O manool induz o relaxamento vascular dependente do endotélio na aorta de ratos, mediado pela via de sinalização NO/cGMP e redução da PA, e também pelo aumento plasmático de NOx.
+doc54	14	Esses efeitos combinados podem estar envolvidos na modulação da resistência periférica, contribuindo para o efeito anti-hipertensivo do diterpeno.
+doc54	15	Esses efeitos em conjunto podem estar envolvidos na modulação da resistência periférica, contribuindo para o efeito anti-hipertensivo do diterpeno.
+doc56	1	Revisar sistematicamente e meta-analisar o desempenho de atletas que retornaram (RTP) e não retornaram (não RTP) ao esporte em diferentes ferramentas de avaliação após cirurgia de ligamento cruzado anterior (RLCA).
+doc56	2	De 182 estudos pesquisados no PubMed, 11 tiveram grupos RTP e não RTP avaliando a performance de jovens, praticantes de distintas modalidades esportivas, em diferentes ferramentas.
+doc56	3	Houve melhor simetria dos membros
+doc56	4	(7,13% [95%IC 4,55; 9,70],  Concluímos que essas ferramentas conseguem diferenciar pacientes RTP de não RTP, o que deverá contribuir com a decisão de médicos sobre o momento ideal de retorno ao esporte.
+doc58	1	As mulheres parecem ser mais suscetíveis ao estresse psicossocial quando comparadas aos homens, e o estresse está associado a piora na evolução clínica dos pacientes após o infarto agudo do miocárdio (IAM).
+doc58	2	Investigar se o sexo feminino é preditor independente de risco para o estresse e comparar os níveis de estresse entre mulheres e homens com IAM.
+doc58	3	Estudo transversal de uma série de casos, realizado entre janeiro de 2017 e junho de 2018.
+doc58	4	Pacientes com idade entre 18 e 65 anos, atendidos na instituição por IAM nesse período.
+doc58	5	A existência de estresse foi avaliada por meio do Inventário de Sintomas de Stress para Adultos de LIPP (ISSL), que o categoriza em quatro fases: alerta, resistência, quase exaustão e exaustão, com base em uma lista de sintomas físicos e psicológicos.
+doc58	6	Os dados foram analisados pelo programa estatístico Statistical Package for Social Sciences (SPSS) versão 24.0. O nível de significância adotado foi um valor de p < 0,05.
+doc58	7	Dos 330 entrevistados, 89% das mulheres e 70% dos homens apresentaram estresse; o sexo feminino quase triplicou as chances de sofrê-lo (EXP (B) 2,79; p = 0,02).
+doc58	8	Quanto às quatro fases, as mulheres mostraram-se mais em quase exaustão e exaustão, e os homens, mais em resistência.
+doc58	9	Este estudo evidenciou que as mulheres se encontram na terceira e quarta fases do estresse, ou seja, em situações de estresse psicossocial duradouras.
+doc58	10	Tais resultados podem auxiliar no desenvolvimento de estratégias específicas para prevenção e promoção da saúde conforme os sexos, visando minimizar os efeitos do estresse nesses pacientes.
+doc59	1	A dermatite atópica canina (DAC) é uma doença cutânea inflamatória e pruriginosa comum, com várias opções de tratamento.
+doc59	2	O uso de produtos tópicos contendo ingredientes naturais tem se mostrado cada vez mais popular.
+doc59	3	Avaliar os efeitos de uma solução em spray contendo Lactobacillus rhamnosus e L. reuteri inativados pelo calor, nos os sinais clínicos e na microbiota cutânea de cães atópicos.
+doc59	4	Dez cães atópicos não sazonais de propriedade privada, levemente afetados.
+doc59	5	MÉTODOS E MATERIAIS: O spray foi aplicado no abdômen a cada 24 horas por 28 dias.
+doc59	6	Escores clínicos, função de barreira cutânea e avaliação do proprietário foram avaliadas nos dias (D) 0, D14, D28 e D42.
+doc59	7	A microbiota cutânea foi analisada em D0 e D28.
+doc59	8	Observou-se uma redução no escore clínico total em todos os momentos (D14, P = 0,03; D28, P = 0,04; D42, P = 0,001).
+doc59	9	Observou-se uma redução nos escores clínicos regionais após D28 (P = 0,01) e D42 (P = 0,003).
+doc59	10	Uma redução significativa no escore de prurido foi observada no D42 (P = 0,01).
+doc59	11	Observou-se um valor de hidratação inferior no D28 (P = 0,02) e no D42 (P = 0,02) no pavilhão auricular.
+doc59	12	Os proprietários relataram resposta boa a excelente e fácil administração.
+doc59	13	Não houve alterações significativas na microbiota cutânea após 28 dias.
+doc59	14	CONCLUSÕES E IMPORTÂNCIA CLÍNICA: Houve diminuição significativa e rápida dos sinais clínicos associados à DAC após o uso do spray.
+doc59	15	Futuros estudos maiores, randomizados e controlados são necessários para confirmar esses resultados e avaliar os efeitos sobre a imunidade cutânea e microflora de cães atópicos.
+doc6	1	O objetivo deste trabalho foi medir a ocorrência de multimorbidade e estimar o número de indivíduos na população brasileira com 50 anos ou mais em risco para COVID-19 grave.
+doc6	2	Estudo transversal de base nacional com dados do Estudo Longitudinal da Saúde dos Idosos Brasileiros (ELSI-Brasil), conduzido em 2015-2016, com 9.412 indivíduos com 50 anos ou mais.
+doc6	3	A multimorbidade foi caracterizada como ≥ 2 condições crônicas com base em uma lista de 15 morbidades consideradas de risco para COVID-19 grave.
+doc6	4	As análises incluíram cálculo de prevalência e estimativa do número absoluto de pessoas na população em risco.
+doc6	5	Autoavaliação do estado de saúde, fragilidade e atividades básicas da vida diária foram utilizadas como marcadores da situação de saúde.
+doc6	6	Sexo, idade, região geopolítica e escolaridade foram usados como covariáveis.
+doc6	7	Cerca de 80% dos indivíduos da amostra apresentaram pelo menos alguma das morbidades avaliadas, o que representa cerca de 34 milhões de indivíduos; a multimorbidade foi referida por 52% da população em estudo, com maior proporção nas regiões Centro-oeste, Sudeste e Sul.
+doc6	8	Doenças cardiovasculares e obesidade foram as condições crônicas mais frequentes.
+doc6	9	Estima-se que 2,4 milhões de brasileiros estejam em risco grave de saúde.
+doc6	10	Desigualdades segundo a escolaridade foram observadas.
+doc6	11	O número de pessoas com 50 anos ou mais que apresentam morbidades de risco para COVID-19 grave é elevado tanto em termos relativos quanto absolutos.
+doc6	12	A estimativa apresentada é importante para planejar as estratégias de monitoramento das pessoas com morbidades crônicas e de prevenção no enfrentamento do novo coronavírus.
+doc60	1	O presente artigo analisa as ações de prevenção e controle do sobrepeso e da obesidade que vêm sendo desenvolvidas nos 92 municípios do Estado do Rio de Janeiro, Brasil, com base em princípios que fundamentam a tipologia clássica de políticas públicas desenvolvidas por Lowi e a Linha de Cuidado do Sobrepeso e Obesidade, valendo-se das seguintes dimensões de análise: programas e ações de prevenção e controle da obesidade, caracterização das macropolíticas segundo a tipologia de Lowi e caracterização das ações segundo princípios da Linha de Cuidado do Sobrepeso e Obesidade.
+doc60	2	O estudo é parte de uma pesquisa realizada entre 2014 e 2018 que teve como objetivo identificar as estratégias adotadas e os desafios enfrentados para consolidar as ações previstas na Linha de Cuidado do Sobrepeso e Obesidade, com base nos métodos de análise de dados secundários e documentos governamentais; busca nos sites oficiais dos municípios; entrevistas, grupos focais e questionários eletrônicos com profissionais e gestores de saúde.
+doc60	3	Os documentos apontam uma série de ações como a consulta individual, grupos de apoio, academia da saúde, programa saúde na escola, entre outros, que foram reforçadas pelas narrativas dos entrevistados.
+doc60	4	Mesmo diante de tantas iniciativas, os municípios do Estado do Rio de Janeiro passam por desafios como recursos humanos reduzidos e estrutura de unidades e equipamentos de saúde precários.
+doc60	5	Para que haja maior mobilização em relação às ações frente à obesidade, o tema deve ser tratado de forma particular nas agendas estaduais e municipais, e não dissolvido dentro de outras ações e programas.
+doc61	1	O Diabetes Mellitus Tipo 2 (DMT2) é comum nos idosos, que também apresentam um nível elevado de fatores de risco para doenças cardiovasculares (DCVs), tais como dislipidemia.
+doc61	2	Entretanto, o papel da depressão nos pacientes com DMT2 e sua relação com fatores de risco para DCV são pouco estudados.
+doc61	3	O objetivo do presente estudo foi investigar a relação entre sintomas depressivos (SDs) e fatores de risco cardiovascular conhecidos em idosos comunitários portadores de DMT2.
+doc61	4	Trata-se de um estudo transversal, no qual foram incluídos 85 idosos comunitários com DMT2.
+doc61	5	Os SDs foram avaliados através da Escala de Depressão Geriátrica de Yesavage, em versão reduzida (GDS-15).
+doc61	6	Os seguintes fatores de risco cardiovascular foram avaliados: pressão arterial sistólica (PAS) e diastólica (PAD), glicose plasmática em jejum (GPJ), perfil lipídico (triglicerídeos séricos (TG), colesterol total sérico (CT), colesterol sérico de lipoproteína de baixa densidade (LDL-C) e colesterol sérico de lipoproteína de baixa densidade (HDL-C)) e índice de massa corporal (IMC).
+doc61	7	A análise de regressão múltipla de Poisson foi utilizada para avaliar a associação entre os SDs e cada fator de risco cardiovascular ajustado por sexo, idade, tempo em atividades físicas moderadas e status funcional.
+doc61	8	O nível de significância adotado para a análise foi de 5%.
+doc61	9	Dentre todos os fatores de risco analisados, apenas o aumento de LDL-C apresentou uma correlação com níveis elevados de SD (RP=1,005; IC95% 1,002-1,008).
+doc61	10	Foi observada uma associação significativa entre os níveis de HDL-C (RP=0,99; IC95% 0,98-0,99) e a PAS (RP=1,009; IC95% 1,004-1,014).
+doc61	11	Nos idosos com DMT2, a presença de SD foi associada a níveis de LDL-C, HDL-C e PAS, mesmo após o ajuste por sexo, idade, nível de atividade física e capacidade funcional.
+doc61	12	(Arq Bras Cardiol. 2020;
+doc61	13	[online].ahead print, PP.0-0).
+doc62	1	O estudo teve como objetivo comparar duas propostas de ruralidade, do Instituto Brasileiro de Geografia e Estatística (IBGE) e do Banco Mundial, respondendo qual delas melhor adéqua-se à realidade no território e conhecer o perfil da mortalidade infantil nos municípios rurais da Paraíba, Brasil, segundo o critério de ruralidade melhor avaliado.
+doc62	2	Trata-se de um estudo epidemiológico observacional, realizado no Estado da Paraíba.
+doc62	3	O método de análise das tipologias rural/urbano baseou-se na mineração de dados, com base no algoritmo de associação Apriori.
+doc62	4	Para a análise do óbito infantil, utilizou-se a estatística descritiva.
+doc62	5	Considerou-se os dados do Sistema de Informações sobre Mortalidade do Ministério da Saúde do Brasil, no período de 2007 a 2016, e indicadores municipais do IBGE.
+doc62	6	A tipologia de ruralidade do Banco Mundial apresentou kappa = 0,337 e a do IBGE kappa = 0,616.
+doc62	7	Entre os 223 municípios analisados, a tipologia do Banco Mundial classificou corretamente 130 (65,66%) e a do IBGE 183 (82,06%).
+doc62	8	O perfil epidemiológico predominante nos municípios rurais paraibanos foi sexo masculino (57,4%), cor parda (61,1%), idade entre 0 e 7 dias (52,4%), com baixo peso ao nascer (44%) e idade gestacional menor que 37 semanas (43,2%).
+doc62	9	A causa básica da morte foi classificada como morte evitável por intervenções do Sistema Único de Saúde (65,2%).
+doc62	10	A tipologia urbano/rural apresentada pelo IBGE classificou melhor os municípios paraibanos que a do Banco Mundial.
+doc62	11	Essa classificação possibilitou o estudo do perfil do óbito infantil nos municípios rurais, por meio do qual verificou-se, exceto pela escolaridade da mãe, similaridade com o perfil geral.
+doc64	1	A pandemia de COVID-19 iniciou sua linha do tempo em 31 de dezembro de 2019 na China e o SARS-CoV-2 identificado como agente etiológico.
+doc64	2	O objetivo deste manuscrito é descrever a dinâmica espacial e temporal da epidemia de COVID-19 nos primeiros cem dias, no Estado de Pernambuco, Brasil.
+doc64	3	Apresentamos a evolução de casos e óbitos segundo semana epidemiológica.
+doc64	4	Realizamos a análise da série do acumulado diário de casos da COVID-19 confirmados, com projeções para os 15 dias subsequentes, utilizando o aplicativo JoinPoint.
+doc64	5	Esse programa possibilita identificar pontos de inflexão testando sua significância estatística.
+doc64	6	Analisamos também a tendência de interiorização da COVID-19 no estado, considerando a distribuição percentual de casos ocorridos no Recife, municípios da Região Metropolitana de Recife e do interior, por conjuntos de três semanas, com construção de mapas temáticos.
+doc64	7	Os 100 dias da epidemia de COVID-19 resultaram em 52.213 casos e 4.235 óbitos entre 12 de março, correspondendo se 11, até 20 de junho de 2020 (semana epidemiológica 25).
+doc64	8	O pico da curva epidêmica ocorreu na semana epidemiológica 21 (23 de maio), seguido por desaceleração do número de casos.
+doc64	9	Detectou-se, inicialmente, a periferização dos casos na capital e região metropolitana, seguida por rápida disseminação para o interior do estado.
+doc64	10	Houve redução das taxas de crescimento médio diário a partir de abril, mas com patamar de mais de 6.000 casos semanais de COVID-19, em média.
+doc64	11	Ao final do período, a série de casos do estado indica persistência da circulação e transmissão comunitária do SARS-CoV-2.
+doc64	12	Finalmente, questiona-se parafraseando Garcia Marques em Cem Anos de Solidão, se estaríamos diante de “uma estiagem ou prenúncio de recrudescimento”.
+doc66	1	Este ensaio discute as repercussões da pandemia COVID-19 na relação trabalho e saúde, sob a perspectiva do risco e vulnerabilidade de trabalhadores.
+doc66	2	A pandemia tem se configurado como uma crise humanitária, uma vez que tanto a doença quanto as medidas de contenção desta geram efeitos socioeconômicos persistentes.
+doc66	3	Nesse contexto, a categoria trabalho assume um papel relevante, seja pela viabilidade de manutenção do distanciamento social e das condições de vida permitidas pelo vínculo de trabalho, seja pela impossibilidade de adoção das estratégias de proteção devido à precarização do trabalho.
+doc66	4	A construção do ensaio iniciou com base numa revisão da literatura na interface COVID-19 e saúde dos trabalhadores, realizada de dezembro de 2019 a abril de 2020, nas bases PubMed, BIREME, Cochrane Library, medRxiv e LitCovid, bem como da literatura cinza.
+doc66	5	Profissionais de saúde são mais acometidos, mas também com maior acesso ao diagnóstico, persistindo lacunas sobre as demais categorias profissionais, bem como sobre os determinantes sociais que implicam uma maior vulnerabilidade relacionada ao trabalho.
+doc66	6	A pandemia coincide no Brasil com uma conjuntura na qual trabalhadoras(es) acumulam perdas relevantes de direitos trabalhistas e previdenciários, somadas às desigualdades sociais preexistentes, ao exemplo de precariedade de moradia, com maiores exposição e risco.
+doc66	7	Embora a evolução da pandemia ainda esteja em curso, prevê-se que as desigualdades sociais se intensificarão com a profunda retração da economia, e trabalhadores devem ser alvo prioritário da atenção no controle e disseminação da doença, além de eixo articulador das políticas públicas de proteção social e à saúde.
+doc68	1	Participação em atividades de lazer em adolescentes com defeitos cardíacos congênitos OBJETIVO: Descrever a participação em lazer de adolescentes com defeitos cardíacos congênitos (DCC) e identificar fatores associados com a intensidade de participação.
+doc68	2	MÉTODO: Oitenta adolescentes com DCC foram recrutados (39 do sexo masculino, 41 do sexo feminino; média de idade [DP] 15a 8m [1a 8m] variação 11a 5m-19a 11m), dos quais 78 completaram a medida de participação em lazer Avaliação da participação e diversão das crianças (APDC).
+doc68	3	A medida tem cinco subescalas: recreacional, ativa-física, social, baseada em habilidades, e auto-aprimoramento.
+doc68	4	Associações entre a APDC e idade, sexo e desenvolvimento foram examinadas.
+doc68	5	A capacidade motora (Bateria de avaliação do movimento para crianças, segunda edição), cognição (Escala internacional de desempenho de Leiter- Revisada), comportamento (Questionário de capacidades e dificuldades), e motivação (Questionário de Dimensões do Domínio) foram avaliados.
+doc68	6	RESULTADOS: Os participantes exibiram comprometimento do desenvolvimento motor (43,5%), comportamental (23,7%), e cognitivo (29,9%).
+doc68	7	A participação mais intensa segundo a APDC foi nos tipos social (média [DP] 3,3 [0,99]) e recreacional (2.9 [0,80]).
+doc68	8	O sexo masculino (p<0,05) e menor idade foram associados com maior nível de atividade física (<15a: 1,87; ≥15a: 1,31, p<0,05).
+doc68	9	Um maior engajamento em atividades sociais foi relacionado com uma melhor cognição (r=0,28, p<0,05), maior função motora (r=0,30-0,36, p<0,01), e menos dificuldades comportamentais (r=-0,32 a -0,47, p<0,01).
+doc68	10	A capacidade cognitiva (r=0,27, p<0,05), destreza e mirar/apreender (r=0,27-0,33, p<0,05), e problemas comportamentais (r=0,38-0,49, p=0,001) foram correlacionadas com a participação em atividades físicas.
+doc68	11	A persistência nas tarefas, um aspecto da motivação, se correlacionou com o envolvimento em atividades físicas (r=0,45, p<0,001) e sociais (r=0,28, p<0,05).
+doc68	12	INTERPRETAÇÃO: Alterações persistentes do desenvolvimento de adolescentes com DCC são associadas com engajamento ativo-físico e social reduzidos, o que os coloca em risco para sua saúde física e mental.
+doc68	13	Estratégias de promoção de saúde deveriam ser consideradas.
+doc7	1	Investigar os fatores associados à prática do sexo sob o efeito de drogas (chemsex) entre homens que fazem sexo com homens (HSH) durante período de isolamento social, no contexto da pandemia da COVID-19.
+doc7	2	Inquérito multicêntrico online, aplicado aos territórios de Brasil e Portugal em abril de 2020, enquanto os dois países vivenciavam medidas sanitárias restritivas para a doença.
+doc7	3	Os participantes foram recrutados valendo-se de uma adaptação do método respondent driven sampling (RDS) ao ambiente virtual.
+doc7	4	Os dados foram coletados usando redes sociais e aplicativos de encontro voltados a HSH.
+doc7	5	Utilizamos regressão logística bivariada e multivariada para a produção das odds bruto (OR) e ajustado (ORa).
+doc7	6	Em um universo de 2.361 sujeitos, 920 (38,9%) realizaram a prática do chemsex, que, em 95% dos casos, foi realizada com parceiro casual.
+doc7	7	Aumentaram as chances de se envolver em chemsex: morar no Brasil (ORa = 15,4; IC95%: 10,7-22,1); não estar em isolamento social (ORa = 4,9; IC95%: 2,2-10,9); fazer sexo casual durante o distanciamento social (ORa = 52,4; IC95%: 33,8-81,4); fazer sexo grupal (ORa = 2,9; IC95%: 2,0-4,4); não apresentar nenhum tipo de sintoma para a COVID-19 (ORa = 1,3; IC95%: 1,1-1,8); não residir com o parceiro (ORa = 1,8; IC95%: 1,2-2,6) e estar em uso da profilaxia pré-exposição (ORa = 2,6; IC95%: 1,8-3,7).
+doc7	8	A ocorrência de chemsex foi elevada, sobretudo no Brasil, onde o isolamento social proposto não sensibilizou os HSH à adesão.
+doc70	1	Analisar a influência da neuropatia diabética periférica (NDP) no equilíbrio postural, atividades funcionais e na qualidade de vida em idosos.
+doc70	2	Estudo transversal.
+doc70	3	Avaliamos 60 homens e mulheres idosos (60-79 anos) divididos em três grupos: controle, DM sem e com NDP.
+doc70	4	Foram avaliados: antropometria; qualidade de vida; equilíbrio postural (BESTest); atividades funcionais pelo equilíbrio funcional na placa de força (NeuroCom Balance).
+doc70	5	Grupo NDP apresentou diferenças comparado a outros grupos, pior desempenho na qualidade de vida que o DM2 sem NDP em: funcionamento sensorial (p = 0,030); passado e futuro (p = 0,036); morte e morrer (p = 0,035).
+doc70	6	Déficit de equilíbrio postural no escore total (p = 0,025) e seção de restrições biomédicas (p = 0,043) do BESTest comparado ao DM2 sem NDP (p = 0,007).
+doc70	7	No equilíbrio funcional (Neurocom), o grupo NDP apresentou pior desempenho no tempo gasto no lado esquerdo (p = 0,030) comparado ao grupo controle.
+doc70	8	Durante a etapa de teste, o grupo controle executou a tarefa mais rapidamente que o grupo NDP (p = 0,004).
+doc70	9	Neuropatas apresentaram pior desempenho físico e déficits no equilíbrio postural, limitações sensoriais, afetando as tarefas diárias da doença e, consequentemente, diminuição da qualidade de vida em idosos brasileiros.
+doc74	1	Introdução: A transplantação alogénica de células hematopoiéticas é utilizada regularmente no tratamento de uma grande variedade de doenças hematológicas.
+doc74	2	O nosso programa de transplantação teve início em 1987 e desde então têm sido numerosos os avanços nesta área.
+doc74	3	Este estudo foi conduzido para avaliar se as alterações introduzidas ao longo de 30 anos melhoraram os resultados obtidos.
+doc74	4	Material e Métodos: Analisámos os resultados numa população de 682 doentes submetidos consecutivamente a um primeiro transplante alogénico entre 1987 e 2016.
+doc74	5	Para tal, os doentes foram divididos em intervalos de 10 anos e comparámos a sobrevida global, a sobrevida livre de progressão, a mortalidade não associada a recaída e as recaídas em cada década do estudo.
+doc74	6	Resultados: A mediana de idades dos doentes transplantados, a utilização de células progenitoras provenientes do sangue periférico e a transplantação com dadores não familiares aumentaram muito significativamente ao longo do estudo.
+doc74	7	Verificou-se, comparativamente com a primeira década, um aumento do número de doentes de alto risco nas duas décadas subsequentes.
+doc74	8	A mortalidade não relacionada com recidiva, avaliada aos três anos pós-transplante, diminuiu significativamente de 29% para 20% (p = 0,045), mantendo-se estáveis a sobrevida global e a sobrevida livre de progressão, assim como a incidência cumulativa de recaídas.
+doc74	9	Discussão: A transplantação alogénica hematopoiética tem evoluído consideravelmente desde a sua introdução na prática clínica.
+doc74	10	No presente trabalho são avaliados os reflexos dessa evolução ao longo de 30 anos sendo analisados os resultados obtidos e comparados com os referidos na literatura.
+doc74	11	Conclusão: Apesar das características mais desfavoráveis verificadas ao longo das três décadas (doentes mais idosos, doenças de risco mais elevado, aumento do número de dadores não familiares) foi possível reduzir significativamente a mortalidade associada ao procedimento, mantendo-se estáveis a sobrevida global e livre de progressão, assim como a incidência de recaídas.
+doc75	1	Introdução: A equidade é um objetivo central da política de saúde em Portugal.
+doc75	2	Contudo, a evidência empírica sobre utilização de cuidados é escassa não existindo resultados atualizados.
+doc75	3	O nosso objetivo é avaliar o respeito pelo princípio de igual utilização para igual necessidade.
+doc75	4	Material e Métodos: Usamos dados do Inquérito Nacional de Saúde 2014.
+doc75	5	A utilização de cuidados é medida pelo número de consultas de medicina geral e familiar ou de especialidades hospitalares.
+doc75	6	Para avaliar os fatores impactantes na utilização recorremos à análise de regressão multivariada (modelo binomial negativo).
+doc75	7	Para quantificar a desigualdade/iniquidade relacionada com o rendimento na utilização calcula-se o índice de concentração.
+doc75	8	Resultados: Ter melhor saúde autoavaliada e não sofrer de limitações nas atividades diárias reduz a utilização; sofrer de doença crónica aumenta o uso.
+doc75	9	O rendimento não é estatisticamente significativo; a educação aumenta o uso, com efeito pronunciado.
+doc75	10	Viver em zonas urbanas e em Lisboa (comparado com o Norte) aumenta a utilização.
+doc75	11	Residir no Algarve ou Madeira, ou beneficiar apenas do Serviço Nacional de Saúde está associado a menos utilização.
+doc75	12	Pelo índice de concentração, não se exclui a hipótese de equidade nas consultas de medicina geral e familiar.
+doc75	13	Em relação às consultas de especialidades hospitalares e totais, a evidência sugere iniquidade favorável aos mais ricos.
+doc75	14	Discussão: A iniquidade observada entre grupos de rendimento parece refletir desigualdades noutras variáveis de não-necessidade.
+doc75	15	Há a questão dos resultados poderem ser afetados por sobreutilização no caso de consultas de especialidades hospitalares.
+doc75	16	Conclusão: Portugal progrediu favoravelmente em termos de equidade na utilização de consultas, mas subsistem desafios.
+doc76	1	Verificar associação entre sobrepeso, obesidade e pressão arterial elevada em escolares brasileiros com idade entre 6 e 10 anos incompletos.
+doc76	2	Estudo seccional realizado no município de Macaé, RJ, em que foi coletado massa corporal, estatura e pressão arterial.
+doc76	3	O índice de massa corporal foi calculado pelo software Anthro Plus e classificado conforme SISVAN.
+doc76	4	Pressão arterial sistólica/diastólica elevada quando ≥ percentil 90 por idade, sexo e percentil da estatura/idade (7ª Diretriz Brasileira de Hipertensão).
+doc76	5	A análise foi por regressão logística com intervalo de confiança 95%, software SPSS.
+doc76	6	Foram avaliadas 911 crianças e, após estratificação por estado nutricional, as com magreza foram excluídas.
+doc76	7	Entre as 888 crianças restantes, a prevalência de sobrepeso foi 17,7% e obesidade 16,2%.
+doc76	8	A prevalência de pressão arterial elevada foi 34%, não diferindo entre sexo (p=0,57).
+doc76	9	Sobrepeso foi significativamente associado à pressão elevada no grupo de 8-9 anos (OR 1,99; p=0,004), enquanto a obesidade associou-se em ambos os grupos (6-7 anos OR 2,50; p=0,004 e 8-9 anos OR 4,21 p=0,001).
+doc76	10	Os resultados demonstraram que sobrepeso e obesidade aumentaram expressivamente a chance de pressão arterial elevada entre crianças de 6 a 10 anos incompletos.
+doc78	1	O objetivo deste estudo foi descrever a estimativa das médias de peso, altura e índice de massa corporal (IMC) segundo dois métodos de imputação, usando dados do Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico).
+doc78	2	O delineamento do estudo é transversal e utilizaram-se dados secundários do Vigitel do período de 2006 a 2017.
+doc78	3	Os dois métodos para imputação utilizados no estudo foram hot deck e Predictive Mean Matching (PMM).
+doc78	4	As variáveis peso e altura imputadas por hot deck foram disponibilizadas pelo Vigitel.
+doc78	5	Dois modelos foram conduzidos com a utilização da PMM: (i) variáveis explicativas - cidade, sexo, idade em anos, raça/cor e escolaridade; (ii) variáveis explicativas - cidade, sexo e idade em anos.
+doc78	6	Nos dois modelos, as variáveis peso e altura foram as variáveis de desfecho.
+doc78	7	Na PMM, combinam-se regressão linear e seleção aleatória de valor para imputação.
+doc78	8	A predição linear é usada como medida de distância entre o valor faltante e os seus possíveis doadores e, com isso, se cria o espaço virtual com os casos candidatos a ceder o valor para imputação.
+doc78	9	Um dos candidatos do pool é aleatoriamente selecionado, e o seu valor é atribuído à unidade faltante.
+doc78	10	O IMC foi calculado por meio da divisão do peso em quilogramas pela altura ao quadrado.
+doc78	11	Nos resultados, apresentamos as médias e erros-padrão de peso, altura e IMC, segundo método de imputação e ano de monitoramento.
+doc78	12	Nas estimativas, utilizou-se o módulo survey do Stata, que considera os efeitos da amostragem.
+doc78	13	Observou-se que os valores médios de peso, altura e IMC estimados por hot deck e PMM são similares.
+doc78	14	Os resultados com os dados do Vigitel sugerem a aplicabilidade do PMM ao conjunto dos inquéritos de saúde.
+doc79	1	A perturbação de hiperatividade e déficit de atenção (PHDA) é considerada um dos problemas de comportamento e neurodesenvolvimento mais frequentes nas crianças e adolescentes em idade escolar, tanto em Portugal como a nível mundial.
+doc79	2	Além disso, a categorização diagnóstica da PHDA e a prescrição de psicoestimulantes como tratamento de primeira linha têm sido não só objeto de pesquisa científica e validação clínica, mas também alvo de polêmica e crítica social, sobretudo à luz do conceito de medicalização.
+doc79	3	Apesar do seu aspecto midiático e relevância em domínios tão diversos quanto os da educação, do medicamento, da saúde mental e dos apoios psicossociais, existe uma lacuna profunda na caracterização das dimensões históricas, socioéticas e institucionais da PHDA em Portugal.
+doc79	4	Aliando dados historiográficos e etnográficos à análise documental e da mídia, este artigo procura responder a esse desafio, traçando a trajetória social da PHDA neste país - desde a emergência da “hiperatividade” nos anos 1970/1980 ao debate público e político sobre a prescrição de psicoestimulantes.
+doc79	5	Dessa perspectiva interdisciplinar e por meio do estudo do caso português, procura contextualizar-se a definição, validação e ampliação da PHDA como parte de um processo dinâmico e socialmente situado na interseção de sistemas diagnósticos e farmacêuticos globais, contingências institucionais e socioeconômicas e, ainda, políticas públicas e especificidades locais.
+doc79	6	Discute-se, por fim, a forma como o caso da PHDA em Portugal contribui para o desenvolvimento de novas linhas de reflexão e de pesquisa interdisciplinar que permitem repensar o escopo social da saúde mental e da saúde global.
+doc8	1	Comparar os desfechos pós-operatórios da artrodese lombar intersomática transforaminal com autoenxerto ósseo ilíaco estruturado e dispositivo em poliéter-éter-cetonico-polímero (PEEK).
+doc8	2	Foram revistos 93 prontuários de pacientes submetidos à fusão intersomática transforaminal entre janeiro de 2012 e julho de 2017 com pelo menos um ano de acompanhamento pós-operatório, com prontuário completo, contendo ficha clínica e exames radiológicos.
+doc8	3	Dos prontuários avaliados, 48 pacientes foram submetidos ao procedimento com autoenxerto ilíaco estruturado (Grupo 1) e 45 com dispositivo em PEEK (Grupo 2).
+doc8	4	Houve melhora da capacidade funcional em ambos os grupos (p < 0,001), no entanto não houve diferença ao compará-los (p = 0,591).
+doc8	5	Os resultados clínicos e radiológicos pós-operatórios da artrodese lombar na técnica Fusão Intersomática Lombar Transforaminal (TLIF) utilizando autoenxerto ósseo ilíaco estruturado, em comparação com o uso de dispositivo em PEEK, foram semelhantes.
+doc80	1	São restritos os dados sobre o manejo e o prognóstico dos pacientes com infarto agudo do miocárdio com supradesnivelamento do segmento ST (IAMCSST) com acometimento multiarterial no Brasil, o que mostra a necessidade de investigar as estratégias de revascularização disponíveis.
+doc80	2	Avaliar os desfechos relacionados à revascularização completa em comparação com o tratamento da artéria culpada em pacientes multiarteriais com IAMCSST.
+doc80	3	Foi realizada um estudo de coorte prospectiva em dois centros de hemodinâmica do Sul do Brasil, com seguimento de 1 ano após a intervenção índice.
+doc80	4	O desfecho primário foi composto de óbito cardiovascular, reinfarto ou angina recorrente e secundários acidente vascular encefálico, parada cardiorrespiratória não fatal, sangramento maior ou necessidade de reintervenção.
+doc80	5	A probabilidade de ocorrência de desfechos foi comparada entre os grupos através de regressão logística binária.
+doc80	6	Considerou-se como estatisticamente significativo o valor de probabilidade < 0,05.
+doc80	7	Participaram 85 pacientes, com média de idade de 62±12 anos, sendo 61 (71,8%) do sexo masculino.
+doc80	8	Cinquenta e oito (68,2%) pacientes receberam a estratégia de revascularização completa e 27 (31,8%), a de revascularização incompleta.
+doc80	9	A chance de ocorrência tanto do desfecho primário quanto do secundário foi significativamente maior entre os indivíduos tratados com revascularização incompleta quando comparados com os tratados com estratégia completa [razão de chances (OR) 5,1, intervalo de confiança de 95% (IC95%) 1,6-16,1 vs. OR 5,2, IC95% 1,2-22,9, respectivamente], assim como os óbitos cardiovasculares (OR 6,4, IC95% 1,2-35,3).
+doc80	10	Dados deste registro regional, de dois centros do Sul do Brasil, demonstram que a estratégia de revascularização completa esteve associada à redução significativa dos desfechos primário e secundário no seguimento de 1 ano quando comparada à estratégia de revascularização incompleta.
+doc80	11	(Arq Bras Cardiol. 2020; 115(2):229-237).
+doc83	1	Baixas doses de edoxabana e enoxaparina sódica foram objeto de uma comparação retrospectiva implementada com a técnica do escore de propensão a fim de mitigar os efeitos das diferenças nas características clínicas basais de duas coortes e minimizar o risco de viés.
+doc83	2	Posteriormente, usando um modelo de riscos proporcionais de Cox, avaliou-se a associação de cada tipo de terapia com o risco do composto de morte por todas as causas, acidente vascular cerebral/ataque isquêmico transitório, hospitalizações e ocorrência de sangramentos maiores.
+doc83	3	Para essa análise, um valor de p < 0,05 foi considerado estatisticamente significante.
+doc83	4	A terapia com enoxaparina e cirrose hepática como causadora de trombocitopenia estiveram associadas ao aumento do risco do endpoint composto (enoxaparina: hazard ratio (HR): 3,31; IC 95%: 1,54 a 7,13; p = 0,0023; cirrose hepática, HR: 1,04; 95% CI: 1,002 a 1,089; p = 0,0410).
+doc83	5	Por outro lado, a terapia com edoxabana mostrou-se significativamente associada à diminuição do risco do endpoint composto (HR: 0,071; 95% CI: 0,013 a 0,373; p = 0,0019).
+doc83	6	Com base nessa análise retrospectiva, o edoxaban em doses baixas seria uma ferramenta farmacológica segura e eficaz para a profilaxia de eventos cardioembólicos em pacientes com FA e trombocitopenia.
+doc84	1	O implante valvar aórtico percutâneo (TAVR, do inglês Transcatheter Aortic Valve Replacement) reduz a mortalidade de pacientes portadores de estenose aórtica grave.
+doc84	2	O conhecimento da distribuição da pressão e tensão de cisalhamento na parede aórtica pode ajudar na identificação de regiões críticas, onde o processo de remodelamento aórtico pode ocorrer.
+doc84	3	Neste trabalho é apresentado um estudo de simulação computacional da influência do posicionamento do orifício valvar protético na hemodinâmica na raiz de aorta e segmento ascendente.
+doc84	4	A presente análise apresenta um estudo da variação do padrão de fluxo devido a alterações no ângulo do orifício valvar.
+doc84	5	Um modelo tridimensional foi gerado a partir do exame de angiotomografia computadorizada da aorta de um paciente que foi submetido ao procedimento de TAVR.
+doc84	6	Diferentes vazões de fluxo foram impostas através do orifício valvar.
+doc84	7	Pequenas variações no ângulo de inclinação causaram mudanças no padrão de fluxo, com deslocamento na posição dos vórtices, na distribuição de pressão e no local de alta tensão cisalhante na parede aórtica.
+doc84	8	Essas características hemodinâmicas podem ser importantes no processo de remodelamento aórtico e distribuição de tensão, além de auxiliar, em um futuro próximo, a otimização do posicionamento da prótese valvar percutânea.
+doc84	9	(Arq Bras Cardiol. 2020;
+doc84	10	[online].ahead print, PP.0-0).
+doc85	1	As afecções que afetam o tendão calcâneo permanecem extremamente prevalentes na prática clínica.
+doc85	2	A busca por informações sobre essas doenças na produção científica nacional e internacional comumente esbarra em uma dificuldade na utilização das ferramentas de procura e na necessidade de acrescentar um epônimo na estratégia.
+doc85	3	Aquiles, em referência ao herói da mitologia grega, é frequentemente empregado por diversos autores em suas publicações científicas a despeito da nova nômina anatômica.
+doc85	4	Esse artigo busca resgatar a história da utilização desse termo, que resiste heroicamente tanto nas discussões clínicas do cotidiano quanto nos artigos e livros-texto.
+doc87	1	A fratura da extremidade distal do rádio é uma afecção frequente, com variedade de apresentações e nem sempre são passíveis de fixação volar única.
+doc87	2	Quantificar a resistência obtida no modelo experimental de fixação do fragmento específico, utilizando fio de Kirschner pré moldado, associado a fixação proximal com placa e parafuso.
+doc87	3	Estudo experimental original, nível II, no qual foram realizados ensaios mecânicos com objetivo de avaliar a resistência a compressão axial.
+doc87	4	Os valores de força máxima suportada pelo método de fixação foram pelo menos 10x maiores do que a carga fisiológica a qual o punho é submetido.
+doc87	5	A fixação do tipo fragmento específico vem se mostrando útil e segura, permitindo uma mobilidade precoce segura.
+doc87	6	Os resultados analisados demonstraram que a montagem proposta em nosso estudo foi mecanicamente adequada para a fixação das fraturas articulares da borda volar ulnar (classificação de Melone) do rádio, tendo resultados semelhantes ou superiores quando comparados a literatura, avaliando a rigidez e a pressão o qual o sistema foi submetido.
+doc87	7	O método de fixação proposto demonstrou resistência adequada para fixação das fraturas da coluna intermediária do rádio.
+doc87	8	O aumento da espessura do fio provocou um aumento da força resistida da montagem.

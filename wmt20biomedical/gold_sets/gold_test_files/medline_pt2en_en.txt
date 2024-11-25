@@ -1,0 +1,637 @@
+doc1	1	Senior caregivers in different housing arrangements: comparison of health and care profiles.
+doc1	2	OBJECTIVE
+doc1	3	To compare the physical, cognitive and psychological health profile and care context of elder caregivers of the elderly in different home arrangements.
+doc1	4	METHOD
+doc1	5	Quantitative and transversal study with elderly caregivers.
+doc1	6	The sample consisted of 349 caregivers divided into mono-gerational, bi-gerational and multi-generational housing arrangements.
+doc1	7	Sociodemographic and care questionnaires and physical, cognitive and psychological health assessment instruments were used for evaluation.
+doc1	8	The Chi-square distribution and Mann Whitney's U were used for data analysis.
+doc1	9	RESULTS
+doc1	10	Elderly caregivers in mono-generational homes were significantly older and independent for instrumental activities of daily living.
+doc1	11	In multigenerational households there was a significantly greater proportion of caregivers who considered family income insufficient, received emotional help, and felt overwhelmed and stressed.
+doc1	12	CONCLUSION
+doc1	13	The differences identified between the groups can contribute to the elaboration of care policies and for the health promotion of elderly caregivers.
+doc100	1	Lessons from schoolteachers on their joys and pains at work.
+doc100	2	Why do schoolteachers get sick?
+doc100	3	The essay poses this question and points in some directions for answers.
+doc100	4	After discovering that the most prevalent diseases among Brazilian schoolteachers are the same as those in teachers the world over, the author concluded that the crux of the problem lies in the schoolteachers' work, the constant in the equation.
+doc100	5	Their work thus needs to be understood better, and their work should be the center of attention.
+doc100	6	The author contends that teachers themselves are best equipped for this task, precisely because they know their own work the best.
+doc100	7	The article presents the main results of a nationwide Brazilian survey in which schoolteachers in Basic Education (preschool through 16) analyzed their own work, backed by a method known as Collective Work Analysis (CWA) that enabled them to expound freely and that valued their own words.
+doc100	8	CWA proved to be a powerful tool for work analysis by integrating aspects of teaching activity per se with the schoolteachers' employment, which are usually analyzed separately, and which increased the study's explanatory power.
+doc100	9	The study also revealed positive and negative sides of this work, offering various clues for understanding not only why schoolteachers get sick but also what keeps them healthy, two different but interrelated issues.
+doc11	1	Assessment of health technical efficiency in the cities of the Rota dos Bandeirantes health region of the state of São Paulo, Brazil.
+doc11	2	Although administrators unanimously agree that the Brazilian Unified Health System (SUS) is underfunded, it is also unanimous that there are problems in the efficiency of expenditures management.
+doc11	3	From this perspective, this study assessed the health technical efficiency in the seven cities of the Rota dos Bandeirantes health region of the state of São Paulo, Brazil, from 2009 to 2012, through the Health Technical Efficiency Index.
+doc11	4	This index includes structure and results indicators, mainly from the goals and indicators agreement system, and it is collected from the database of the SUS Informatics Department.
+doc11	5	It was identified that only one city reached high health technical efficiency, while the other cities presented low efficiency.
+doc11	6	It was concluded that cities with higher income available and higher per capita expenditures achieved the best health indicator results and, therefore, better health technical efficiency indexes.
+doc11	7	However, some cities, even though small in structure, obtained better results than neighboring cities, which shows structure management efficiency.
+doc11	8	Thus, the resource represented an essential condition for efficiency, however not sufficient.
+doc14	1	[Validation of the "Conocimiento del Paciente sobre sus Medicamentos" (CPM-ES-ES) questionnaire].
+doc14	2	This work cross-culturally adapted the Spanish questionnaire `Patients' knowledge about their medications ("Conocimiento del Paciente sobre sus Medicamentos" - CPM-ES-ES) for use in Brazil.
+doc14	3	It measures the level of medication knowledge by means of 11 questions.
+doc14	4	Eighty patients ≥ 80 years were investigated and in 39 cases the caregivers were interviewed.
+doc14	5	The evaluation of conceptual and item equivalences considered the concept of knowledge and the questions that assess it as pertinent.
+doc14	6	Semantic equivalence was obtained by the correspondence in the denotative and connotative meaning of items.
+doc14	7	The study of measurement equivalence included factorial analysis and the calculation of validity and reliability estimates.
+doc14	8	As with the original questionnaire, principal component analysis identified 4 components, however, in 2 of them there were differences regarding included items.
+doc14	9	One question was removed from this analysis due to its sample inadequacy.
+doc14	10	Medication knowledge was correlated with medication regimen complexity r = -.22, p = .046.
+doc14	11	Medication knowledge of antihypertensives was correlated with their adherence r = .70, p < .001, and blood pressure control rb = .46, p = .029.
+doc14	12	The adapted version revealed functional equivalence, therefore it can be used in the Brazilian context.
+doc16	1	[Individual and contextual determinants of infant mortality in Brazilian state capitals: a multilevel approach].
+doc16	2	The study sought to identify individual and contextual risk factors in healthcare and their interactions and regional differences in the determination of infant mortality in Brazilian state capitals.
+doc16	3	This was a case-control study that analyzed 7,470 infant deaths in 2012 in the 27 state capitals, recorded in the Brazilian Mortality Information System (SIM) and matched with the Brazilian Information System on Live Births (SINASC) through linkage and 24,285 controls obtained by sampling the surviving liveborn infants from 2011 to 2012 from the total of 1,424,691 births.
+doc16	4	The individual explanatory variables corresponded to information available in the SINASC database, and the contextual variable consisted of a quality index for hospital care in the 702 healthcare services where the births occurred.
+doc16	5	A multilevel logistic model was used to analyze interaction.
+doc16	6	The principal determinants of infant mortality were biological factors (low birthweight, prematurity, congenital malformations, severe/moderate asphyxia, and race/color), mediated by maternal socioeconomic factors (schooling, marital status, and occupation) and insufficiency of prenatal care.
+doc16	7	Low number of prenatal visits was a risk factor for infant mortality, independently of the service's quality, except in the state capitals in the South of Brazil.
+doc16	8	In the interaction between income and prenatal care, few prenatal visits and birth in high-income state capitals showed a higher risk when compared to births in low-income state capitals (OR = 0.68).
+doc16	9	Multilevel analysis evidenced regional inequalities in the risk models and reiterated the importance of biological determinants in the mediation of socioeconomic and healthcare factors in infant mortality.
+doc17	1	Medicalization and Indigenous Health: An analysis of the consumption of psychotropics by the Xukuru de Cimbres indigenous people.
+doc17	2	OBJECTIVE
+doc17	3	To investigate the process of medicalization among the Xukuru indigenous people of Pesqueira (PE), Brazil following the 2003 conflict.
+doc17	4	METHOD
+doc17	5	This is a descriptive, cross-sectional, quantitative study developed with the indigenous attended at the Xukuru de Cimbres basic center.
+doc17	6	The final sample consisted of 75 individuals who used psychotropic drugs.
+doc17	7	Data were analyzed by SPSS version 18.0, using the chi-square test.
+doc17	8	RESULTS AND DISCUSSION
+doc17	9	We observed that 8% of the studied population use psychotropic drugs, and the most used is BZD (78.67%).
+doc17	10	Regarding age, 68% are young adults and 26.67% are elderly.
+doc17	11	The income of 81.33% of households is more than one minimum wage.
+doc17	12	As for marital status, 50.85% and 66.67%, respectively of the indigenous group using BZD and other psychotropic drugs are married.
+doc17	13	CONCLUSION
+doc17	14	The study outlined the profile of the Xukuru de Cimbres indigenous people who used psychotropics and showed a fragmented mental health care focused on the disease and the use of medication.
+doc17	15	Results reveal a socioeconomically vulnerable adult population, a pattern of chronic use of psychotropic drugs and distancing from traditional indigenous healing, typical of the health medicalization process.
+doc18	1	Translation and Validation of the "7-Item Eustachian Tube Dysfunction Questionnaire" to European Portuguese (PT).
+doc18	2	INTRODUCTION
+doc18	3	Eustachian tube dysfunction is a common cause of morbidity in both adults and children, associated with nasal and otologic symptoms.
+doc18	4	Symptomatic evaluation is very important for the correct diagnosis and evaluation of the treatment efficacy of this entity.
+doc18	5	The "7-item Eustachian Tube Dysfunction Questionnaire" was described and validated by McCoul et al and proved to be a useful tool, easy to apply, with good validity in the evaluation of eustachian tube dysfunction symptoms.
+doc18	6	This study presents the validation process of the European Portuguese version of the "7-item Eustachian Tube Dysfunction Questionnaire".
+doc18	7	The aim of this study was to translate and validate the European Portuguese version of "Eustachian Tube Dysfunction Questionnaire-7".
+doc18	8	MATERIAL AND METHODS
+doc18	9	The "7-item Eustachian Tube Dysfunction Questionnaire" was adapted and translated to European Portuguese using standard validation methodology.
+doc18	10	The European Portuguese version of "7-item Eustachian Tube Dysfunction Questionnaire" was completed by a group of 50 consecutive adult patients diagnosed with eustachian tube dysfunction and 25 healthy patients who served as a control group.
+doc18	11	All respondents in the Eustachian tube dysfunction group repeated the "7-item Eustachian Tube Dysfunction Questionnaire" in a two week-period.
+doc18	12	Statistical analysis was performed to determine its psychometric properties (reliability -internal consistency and test-retest reproducibility, and discriminant validity).
+doc18	13	RESULTS
+doc18	14	Face and content validity were confirmed, and reliability testing revealed similar internal consistency for the entire instrument as the original questionnaire, and strong correlation between individual items and total score.
+doc18	15	The questionnaire was easy and quick to administer.
+doc18	16	Test-retest reliability of the European Portuguese version was adequate, with excellent intraclass correlation coefficients and without significant differences between the total score from the first and second evaluations.
+doc18	17	Discriminative validity was confirmed by statistically significant differences between scores of the test and control groups.
+doc18	18	DISCUSSION
+doc18	19	This study presents the European Portuguese version of the "7-item Eustachian Tube Dysfunction Questionnaire" questionnaire, an adapted, validated and well-accepted instrument to evaluate the symptoms of eustachian tube dysfunction in the European Portuguese speaking population.
+doc18	20	CONCLUSION
+doc18	21	The European Portuguese version of the "7-item Eustachian Tube Dysfunction Questionnaire" is recommended as a routine procedure in the assessment of patients with eustachian tube dysfunction in the European Portuguese speaking population and.
+doc19	1	Brain magnetic resonance imaging is a predictor of bimanual performance and executive function in children with unilateral cerebral palsy.
+doc19	2	AIM
+doc19	3	To examine the association between brain magnetic resonance imaging (MRI) characteristics and executive function and bimanual performance in children with unilateral cerebral palsy (CP).
+doc19	4	METHOD
+doc19	5	Clinical MRI brain scans were classified as: (1) predominant pathological pattern (normal, white matter injury [WMI]; grey matter injury; focal vascular insults [FVI]; malformations; or miscellaneous); and (2) focal lesions (frontal, basal ganglia, and/or thalamus).
+doc19	6	Assessments included: (1) bimanual performance; (2) unimanual dexterity; and (3) executive function tasks (information processing, attention control, cognitive flexibility, and goal setting) and behavioural ratings (parent).
+doc19	7	RESULTS
+doc19	8	From 131 recruited children, 60 were ineligible for analysis, leaving 71 children (47 males, 24 females) in the final sample (mean age 9y [SD 2y], 6y-12y 8mo).
+doc19	9	Brain MRIs were WMI (69%) and FVI (31%); and frontal (59%), thalamic (45%), basal ganglia (37%), and basal ganglia plus thalamic (21%).
+doc19	10	Bimanual performance was lower in FVI versus WMI (p<0.003), and with frontal (p=0.36), basal ganglia (p=0.032), and thalamic/basal ganglia lesions (p=0.013).
+doc19	11	Other than information processing, executive function tasks were not associated with predominant pattern.
+doc19	12	Frontal lesions predicted attention control (p=0.049) and cognitive flexibility (p=0.009) but not goal setting, information processing, or behavioural ratings.
+doc19	13	INTERPRETATION
+doc19	14	Clinical brain MRI predicts cognitive and motor outcomes when focal lesions and predominate lesion patterns are considered.
+doc19	15	What this paper adds Early brain magnetic resonance imaging (MRI) predicts bimanual performance and cognitive outcomes.
+doc19	16	Brain MRI may identify children requiring targeted interventions.
+doc19	17	Basal ganglia with/without thalamic lesions predicted bimanual performance.
+doc19	18	Frontal lesions were associated with attention control and cognitive flexibility.
+doc19	19	Brain MRI predominant patterns predicted motor, not cognitive outcomes, other than information processing.
+doc22	1	[Relationship between corporate classification of service providers and quality of primary healthcare in Brazil].
+doc22	2	This study aims to investigate a potential association between different categories of service providers in primary healthcare in Brazil and the quality of care provided, as measured by the Program for Improvement of Access and Quality of Basic Care (PMAQ).
+doc22	3	The study adopted a quantitative design with a descriptive and inferential approach via logistic regression.
+doc22	4	A total of 4,469 Brazilian municipalities (counties) were analyzed.
+doc22	5	The results showed that there was no association between type of service provider (public vs. private) and the score obtained in the certification process (p-value > 0.05).
+doc22	6	Larger and more socioeconomically dynamic municipalities concentrated the largest proportions of municipalities with primary care services managed by private providers (23.2%).
+doc22	7	They also received the highest certification scores.
+doc22	8	Finally, for both categories (public and private), most municipalities obtained intermediate scores (from 50 to 69.99).
+doc22	9	We thus found that the quality of care in basic healthcare in Brazil, as measured by the PMAQ, is not associated with the type of provider involved in management of the service when the data are analyzed at the municipal level.
+doc22	10	Private providers and the highest scores in the certification process are concentrated in larger municipalities and those with the best socioeconomic indicators.
+doc24	1	Transanal total mesorectal excision combined with laparoscopic dissection: perioperative results and assessment of the mesorectal quality.
+doc24	2	OBJECTIVE
+doc24	3	to assess the perioperative and postoperative results of transanal total mesorectal excision, as well as the quality of the specimens obtained by this technique.
+doc24	4	METHODS
+doc24	5	we conducted a prospective, descriptive study in consecutive patients with rectal adenocarcinoma located up to 10cm from the anal verge, without distant metastasis, subjected or not to neoadjuvant chemoradiotherapy.
+doc24	6	We evaluated the presence of technical difficulties, conversion to open abdominal route, surgical time and intra and postoperative complications.
+doc24	7	Through histopathological analysis, we assessed the quality of the mesorectum, involvement of the proximal and distal margins and positivity of the circumferential, classifying quality of the mesorectum as complete, partially complete or incomplete resection.
+doc24	8	RESULTS
+doc24	9	between December 2016 and May 2019, 41 patients underwent transanal total mesorectal excision, of which 75% were classified as clinical stage III, 13% clinical stage II and 12% clinical stage I.
+doc24	10	The average distance between the anal verge and the lower border of the tumor was 6.2cm. Forty percent of the tumors were in the anterior rectal wall and 17% were circumferential.
+doc24	11	The average operative time was 189 minutes.
+doc24	12	The average hospital stay was 4.6 days.
+doc24	13	There were no in-hospital deaths.
+doc24	14	Eighty-two percent of the specimens were classified as complete resection.
+doc24	15	CONCLUSION
+doc24	16	transanal total mesorectal excision demonstrates adequate specimen quality and surgical margins, being associated with lower rates of perioperative complications, acceptable surgical time and short hospitalization.
+doc26	1	[Endoanchor implantation for treatment of endoleak].
+doc26	2	The authors describe a clinical case of correction of a type 1A endoleak after EVAR using endo-anchors.
+doc26	3	An 85-year old female was referred due to an abdominal aortic aneurysm.
+doc26	4	The patient´s previous medical history included hypertension, dyslipidemia, renal insufficiency and multiple abdominal surgeries (appendicectomy, classic cholecystectomy and hysterectomy).
+doc26	5	The aneurysm had 7.5 cm diameter with an angulated short 14 mm neck extension.
+doc26	6	She underwent an uneventful EVAR with placement of a Medtronic® Endurant II stentgraft.
+doc26	7	One month after the procedure the abdominal computed tomographic angiography (CTA) revealed a type 1A endoleak.
+doc26	8	Correction of endoleak consisted of left renal artery stenting (the lowest one), placement of a proximal aortic cuff and 9 endo-anchors (APTUS® System) with satisfactory end result.
+doc26	9	The control CTA after re-intervention showed patency of the renal arteries and the stentgraft, aneurysm exclusion and absence of endoleaks.
+doc28	1	Which people with traumatic paraplegia return to work?
+doc28	2	This research aimed to investigate the factors that affect the return to work of individuals with traumatic paraplegia and to characterize post-injury work by means of a cross-sectional epidemiological study without statistical inference.
+doc28	3	The participants were patients at the Spinal Cord Injury Program of the Sarah Rehabilitation Hospital, Salvador, Brazil.
+doc28	4	The descriptive analysis used mean and standard deviation for continuous variables and proportions for categorical variables.
+doc28	5	Male predominated among the 42 respondents, with a mean age of 36 years.
+doc28	6	Mean schooling years was 9 years.
+doc28	7	Twenty-two respondents returned to work, 21 of which were in the informal labor market.
+doc28	8	Mean time to return to work was 3 years.
+doc28	9	The main reasons for returning to work were need for money, personal satisfaction and contact with other people.
+doc28	10	In this study, returning to work is relevant for adults with spinal cord injury, providing them with higher income and better quality of life.
+doc28	11	We also noted the importance of higher education level for the successful return to work.
+doc28	12	Therefore, it is necessary to improve the return to work process, the qualification and professional rehabilitation of these workers.
+doc3	1	Access to private health insurance in the metropolitan region of Manaus, AM, Brazil, in 2015: a cross-sectional population-based study.
+doc3	2	OBJECTIVE
+doc3	3	to analyze the frequency and factors associated with coverage by health insurance in the metropolitan region of Manaus, AM, Brazil.
+doc3	4	METHOD
+doc3	5	a cross-sectional population-based study was conducted in 2015, with data collected through household interviews; prevalence ratios (PR) and confidence intervals (95%CI) were calculated using Poisson regression with robust variance adjusted for sex and age.
+doc3	6	RESULTS
+doc3	7	we interviewed 4,001 individuals; 13% (95%CI - 12.0;14.1%) had health insurance; greater insurance coverage was observed among military personnel (PR=3.18 - 95%CI 1.64;6.15), private sector employees (PR=1.91 - 95%CI 1.46;2.52) and public sector employees (PR=1.75 - 95%CI 1.23;2.49); health insurance was lower among poorer people (PR=0.21 - 95%CI 0.13;0.33), and those with less schooling (PR=0.66 - 95%CI 0.46;0.99).
+doc3	8	CONCLUSION
+doc3	9	frequency of health insurance was low and was associated with better purchasing power, schooling, and employment.
+doc30	1	[Food: a disputed human right - a thematic focus for comprehension and action in food and nutritional security].
+doc30	2	Situations involving food and nutritional insecurity are impediments to the realization of the human right to adequate food and may be linked to the availability, access, consumption, production and biological use of food and social, political and economic issues, which illustrate the current food problems existing between countries.
+doc30	3	The aim is to review how food is perceived as a human right in the scientific production on health in articles dedicated to the empirical analysis of food and nutritional security among children and adolescents in different urban settings.
+doc30	4	An integrated review of the literature was conducted with 80 scientific articles published in the PubMed database from 2007 to 2016.
+doc30	5	Information about the methodological approaches, the aspects related to food and nutritional insecurity, as well as conclusions and recommendations were extracted from the studies.
+doc30	6	The review revealed the diversity of the thematic focus for understanding food as a human right and its relation to other rights.
+doc30	7	Suggested action strategies focused on primary health care.
+doc30	8	Food in both developed and developing countries is a disputed human right that needs to be addressed in order to achieve social justice for all mankind.
+doc34	1	Description of Referrals for Colposcopy in a Hospital in Brazil.
+doc34	2	OBJECTIVE
+doc34	3	To describe the referral for colposcopy in a Hospital in Brazil and the relative frequency of patients who benefited from it, considering the correct indications for the examination and its final diagnoses.
+doc34	4	METHODS
+doc34	5	A retrospective study was performed in the colposcopy service database of the Hospital Universitário de Taubaté, Taubaté, state of São Paulo, Brazil.
+doc34	6	The frequency validated in the analysis of the medical records of women referred for clinical indication or cytological alteration, attended from March 2015 to March 2017.
+doc34	7	The population selected and analyzed included 256 results that were correlated to the cytological, clinical data and the result of the colposcopy.
+doc34	8	RESULTS
+doc34	9	Of the women referred, 45% presented out of the age of screening according to the guidelines of cervical cancer screening, 8.6% being adolescents and young adults < 25 years old, and 36.4% of the patients being ≥ 65 years old.
+doc34	10	A total of 50% of the patients had no indication of colposcopy, that is, normal cytologies, benign changes, ectopia, cervicitis, atypical squamous cells of indeterminate significance (ASC-US) and low-grade intraepithelial lesion (LSIL) without persistence and normal clinical appearance.
+doc34	11	A total of 39.84% who underwent colposcopy had high-grade lesion or cancer results, thus benefiting from the adequate referral.
+doc34	12	CONCLUSION
+doc34	13	Most (60.16%) of the patients referred to the colposcopy service did not benefit from the referral for results without changes, such as negative colposcopies, histologies with no cervical intraepithelial neoplasm (CIN) or only CIN 1, or were out of the age for screening.
+doc34	14	These findings therefore demonstrate a significant number of unnecessary and inadequate referrals.
+doc39	1	Resources and competencies for management of educational practices by nurses: integrative review.
+doc39	2	OBJECTIVE
+doc39	3	To know the resources used and the necessary skills to the nurse for the management of educational practices in health services.
+doc39	4	METHOD
+doc39	5	This is an integrative literature review, carried out in the Latin American and Caribbean databases on Health Sciences Information (BIREME), PubMed Central (PMC), Scopus and Web of Science (WoS).
+doc39	6	After analysis resulted in 18 studies, published between the period 2011 to 2017, which were presented in three categories.
+doc39	7	RESULTS
+doc39	8	The results were presented in the categories: instrumental resources used in health education, technological resources applied to educational practices and competencies for management of educational practices.
+doc39	9	CONCLUSION
+doc39	10	This study brings as a contribution to the practice of nurses subsidies for the development of management of educational practices in health services through technological and instrumental resources and professional skills that aim at team development, user autonomy and institutional growth.
+doc4	1	[High frequency hearing among rural workers exposed to pesticides].
+doc4	2	Pesticides may cause a number of health problems and are considered oto-agressive agents.
+doc4	3	The objective of this study was to investigate the high frequency hearing characteristics of workers both with and without exposure to pesticides, that presented normal conventional audiometry.
+doc4	4	It involved a cross-sectional study with 87 workers, of both genders, between 19 and 59 years, with formal or informal jobs and some of whom worked with family agriculture, either using pesticides or not, who had taken High-Frequency Audiometry tests.
+doc4	5	The use of glyphosate was reported by 73% of workers and several pesticide mixtures occurred in 78% of them.
+doc4	6	There were no cases of proper use of personal protective equipment recommended for the activity.
+doc4	7	The workers exposed to pesticides had worse results in High-Frequency Audiometry tests in comparison with those who had no contact with pesticides (p < 0.0001).
+doc4	8	High-Frequency Audiometry has proved to be a useful and effective tool in the early detection of hearing loss caused by pesticides.
+doc40	1	Accuracy of self-reported systemic arterial hypertension in adults, Rio Branco, Acre, Brazil.
+doc40	2	OBJECTIVE
+doc40	3	to analyze the validity of self-reported systemic arterial hypertension (SAH) in the adult population of Rio Branco, Acre, Brazil.
+doc40	4	METHODS
+doc40	5	this was a study of diagnostic accuracy with 576 adults aged 18 to 59 years; accuracy, sensitivity, specificity and positive and negative predictive values were calculated in order to build the Receiver Operating Characteristic (ROC) curve.
+doc40	6	RESULTS
+doc40	7	the prevalence rates of measured SAH (gold standard) and self-reported SAH were 19.6% and 16.6%, respectively; self-reported SAH showed 53.7% sensitivity and 92.4% specificity; sensitivity ranged from 29.9% in individuals under 40 years of age, to levels above 70.0% among obese individuals and those who reported having dyslipidemia; specificity varied from 70.0% in those who self-reported diabetes mellitus, to 95.3% in underweight patients; the area under the ROC hypertension analysis curve was 0.77 (95%CI 0.72;0.81).
+doc40	8	CONCLUSION
+doc40	9	self-reported SAH in adults 40 years old and over was found to be accurate for use in studies in Rio Branco.
+doc44	1	Impact of therapeutic hypothermia on infantile spasms: an observational cohort study.
+doc44	2	AIM
+doc44	3	To establish the incidence of infantile spasms in children in the southern region of the Republic of Ireland and to compare the incidence of infantile spasms before and after the introduction of therapeutic hypothermia in infants with hypoxic-ischemic encephalopathy (HIE).
+doc44	4	METHOD
+doc44	5	Children born between 2003 and 2015 and diagnosed with infantile spasms (epileptic spasms with or without hypsarrhythmia) in the first 2 years of life were identified through audits of electroencephalography reports and paediatric neurology patient lists.
+doc44	6	Data on live births were obtained from the regional hospital statistics databases.
+doc44	7	Medical charts of infantile spasm cases were reviewed for demographic information, diagnostic workup results, treatment response, disease course, and developmental outcome.
+doc44	8	RESULTS
+doc44	9	Forty-two infants with infantile spasms were identified.
+doc44	10	The cumulative incidence of infantile spasms up to the age of 2 years was 4.01 per 10 000 live births.
+doc44	11	Difference due to sex was minimal (22 males, 20 females) and most infants were delivered at or near term with gestational ages ranging between 30.0 and 41.8 weeks (median [interquartile range] 39.6wks [38.1-40.0wks]).
+doc44	12	The aetiology for infantile spasms was identified in almost two-thirds of cases, with HIE being the single most common cause (n=7).
+doc44	13	Other causes included chromosomal and monogenetic abnormalities (n=8).
+doc44	14	Infantile spasms occurred in moderate and severe grades of HIE, with a significantly higher incidence in those with severe HIE (p=0.029).
+doc44	15	Infants with severe HIE who did not receive therapeutic hypothermia were six times more likely to develop infantile spasms compared to those who did, but the difference was not statistically significant (4 out of 16 vs 1 out of 24, p=0.138).
+doc44	16	INTERPRETATION
+doc44	17	This study provides detailed information about infantile spasms before and after the introduction of therapeutic hypothermia.
+doc44	18	HIE severity is a risk factor for the development of infantile spasms.
+doc44	19	The introduction of therapeutic hypothermia may have had an impact, but the effect was hard to ascertain in this cohort due to the small number of infants.
+doc44	20	WHAT THIS PAPER ADDS
+doc44	21	The incidence of infantile spasms and patient characteristics in the southern region of the Republic of Ireland is similar to internationally published data.
+doc44	22	None of the infants with a history of mild hypoxic-ischemic encephalopathy (HIE) developed infantile spasms.
+doc44	23	The risk of infantile spasms was higher in infants with severe HIE.
+doc44	24	Infantile spasms were more frequent in infants with severe HIE not treated with therapeutic hypothermia.
+doc45	1	Hand Assessment for Infants: normative reference values.
+doc45	2	AIM
+doc45	3	To create normative reference values for unilateral and bilateral use of the hands, using the Hand Assessment for Infants (HAI), a newly developed criterion-referenced assessment measuring hand use in infants aged 3 months to 12 months at risk of cerebral palsy (CP).
+doc45	4	METHOD
+doc45	5	In total, 489 HAI assessments of typically developing infants (243 females, 246 males), aged 3 months to 10 months (mean 6mo 14d [SD 2mo 5d]), were collected in Italy and Sweden.
+doc45	6	Normative growth curves based on mean and SDs were created, as well as skill acquisition curves for each test item.
+doc45	7	Correlation to age and differences between groups based on sex and nationality, as well as differences between the right and the left hand, were investigated.
+doc45	8	RESULTS
+doc45	9	The growth curves showed a steady increase in mean value and a decrease in SD over age.
+doc45	10	There were no differences between groups based on sex or nationality.
+doc45	11	There was a negligible mean difference (0.1 raw score) between the right and left hands.
+doc45	12	INTERPRETATION
+doc45	13	HAI normative reference values are now available, which can assist in identifying deviating hand use for each month of age, as well as a side difference between hands in infants at risk of CP.
+doc45	14	WHAT THIS PAPER ADDS
+doc45	15	A Hand Assessment for Infants (HAI) result greater than 2SD below the mean indicates atypical hand use.
+doc45	16	Skill acquisition curves describe the age at which typically developing infants master the HAI items.
+doc45	17	Most typically developing infants do not demonstrate asymmetry in hand use.
+doc46	1	Co-occurrence of phonological traits in orthographic replacement of sonorant phonemes.
+doc46	2	PURPOSE
+doc46	3	This short presentation aims to indicate phonological features inherent to the sonorant consonant class (nasals and liquids) that might be relatively problematic in the orthographic records of these phonemes.
+doc46	4	METHODS
+doc46	5	orthographic replacement in text compositions from children in the first grade of elementary school was analyzed.
+doc46	6	Data analysis was performed according to the Padrão de Aquisição de Contrastes (PAC).
+doc46	7	RESULTS
+doc46	8	Results reveal that replacement was distributed between the two classes, and within each subclass, relatively unstable phonological contrasts were detected in the orthographic records of these phonemes.
+doc46	9	CONCLUSION
+doc46	10	This relative instability of contrasts pointed out phonological issues, as well as issues related to the orthographic complexity of each these segments, thus indicating a non-direct relation between speech and spelling.
+doc52	1	Depressive disorders in the elderly and dementia: An update.
+doc52	2	The relationship between depressive disorders in the elderly and dementia, particularly Alzheimer's disease (AD), is highly complex.
+doc52	3	While the nature of this relationship is still a matter of debate, differential diagnosis and treatment remain a great clinical challenge.
+doc52	4	We review recent findings on the conundrum of depressive disorders in the elderly and AD.
+doc52	5	There is a biological continuum between depressive disorders in the elderly - or at least a subgroup of them - and AD.
+doc52	6	While elderly subjects with depression and patients with AD exhibit higher circulating levels of pro-inflammatory molecules and lower BDNF than matched controls, CSF levels of Aβ42 can discriminate AD from depressive disorders in the elderly.
+doc52	7	The role of antidepressant treatment as a strategy to minimize the risk of AD remains to be established.
+doc6	1	Depressive symptoms and associated factors in elderly long-term care residents.
+doc6	2	OBJECTIVE
+doc6	3	To determine the prevalence and factors associated with depressive symptoms in institutionalized elderly.
+doc6	4	METHODS
+doc6	5	This is an epidemiological cross-sectional study with 42 elderly in a Long-Term Care Institution for the Elderly (LTCIE).
+doc6	6	Data was collected from April to December 2014 through a questionnaire with information on demographic and socioeconomic aspects, the Geriatric Depression Scale short version (GDS-15) and the Mini Mental State Examination (MMSE).
+doc6	7	RESULTS
+doc6	8	Of the elderly studied, 54.8% had depressive symptoms and were predominantly females (64.7%).
+doc6	9	There was a significant association between depressive symptoms and variables retired (p = 0.043); urinary incontinence (p = 0.028); self-perceived health (p-value = 0.042) and sleep quality (p-value = 0.000).
+doc6	10	CONCLUSION
+doc6	11	The study found a high prevalence of depressive symptoms in institutionalized elderly, associated with the presence of urinary incontinence, (negative) self-perceived health, (poor) quality of sleep and retirement (yes).
+doc6	12	Following the study and in the face of the needs of this population, it is necessary to seek measures that act directly on the modifiable variables, preventing and treating them.
+doc61	1	Co-reactivity between related and unrelated environmental allergens in equine allergen-specific IgE serology testing in the UK.
+doc61	2	BACKGROUND
+doc61	3	Identification of environmental allergens in horses with allergic disease facilitates allergen avoidance and targeted immunotherapy.
+doc61	4	HYPOTHESIS/OBJECTIVES
+doc61	5	To evaluate allergenic co-reactivity between 44 environmental allergens.
+doc61	6	ANIMALS
+doc61	7	Horses with suspected allergic disease (n = 344) whose sera were submitted for environmental allergen testing.
+doc61	8	METHODS AND MATERIALS
+doc61	9	Allergen-specific IgE serological assays were performed using 44 allergens divided into six taxonomically related groups: house dust/storage mites, moulds, insects, grass, tree and weed pollens.
+doc61	10	Using pairwise comparisons, odds ratios (ORs) were calculated for each environmental pair to determine if there was increased or decreased likelihood of a positive result for one allergen, given a positive result to another.
+doc61	11	The OR significance was set (using Holm-Bonferroni correction) at P < 0.00006 for all horses (n = 344) and P < 0.00005 for horses with at least one positive reaction (n = 239).
+doc61	12	Using one-way ANOVA with Tukey's post hoc tests (significance at P < 0.05), differences in mean log e ORs between three groups, taxonomically related allergens with a statistically significant association (related-associated), related allergens lacking a significant association (related-nonassociated) and unrelated allergens were tested.
+doc61	13	RESULTS
+doc61	14	Statistically significant associations were found between both related and unrelated allergen pairs, the former being more frequent.
+doc61	15	For all horses (n = 344) and horses with at least one positive reaction (n = 239), co-reactivity ranged from 100% (grasses) to 0% (moulds).
+doc61	16	The weeds group was exceptional in having more co-reactions with another group (grasses).
+doc61	17	CONCLUSIONS AND CLINICAL IMPORTANCE
+doc61	18	Co-reactivity was shown within and between certain related allergen groups.
+doc61	19	Further studies are required to determine whether this is the result of antigenic cross-reactivity.
+doc63	1	[The Age of Multidrug Resistance: Ten Year Incidence in a Neonatal Intensive Care Unit].
+doc63	2	INTRODUCTION
+doc63	3	The emergence of multidrug-resistant bacteria is a medical challenge nowadays.
+doc63	4	The objective of the present study was to determine the incidence of multidrug-resistant bacteria infections in a neonatal Intensive Care unit.
+doc63	5	MATERIAL AND METHODS
+doc63	6	Retrospective, descriptive, incidence study of infectious episodes by multidrug-resistant bacteria from 2008 to 2017 in a differentiated perinatal support unit.
+doc63	7	RESULTS
+doc63	8	Sixty-four infectious episodes included (median gestational age of 28 weeks and birth weight of 885 g).
+doc63	9	The isolated bacteria were: Enterobacteriaceae (n = 46); Methicillin-resistant Staphylococcus aureus (n = 12); Acinetobacter baumannii (n = 4); Pseudomonas aeruginosa (n = 2).
+doc63	10	A risk factor was identified in 90.6% of the episodes, with emphasis on central catheter (89%) and previous antibiotic therapy (78%).
+doc63	11	The lethality rate of these infections was 10.9% (Unit mortality rate: 4.4%).
+doc63	12	The overall incidence rate was 3.2 infectious episodes/100 hospitalizations, corresponding to 1.7 episodes/1000 days of hospitalization.
+doc63	13	There were three infectious outbreaks, with an increasing impact of Enterobacteriaceae.
+doc63	14	DISCUSSION
+doc63	15	The reported incidence rate reflects a risk population, hospitalized in an Intensive Care unit, over a long period of time.
+doc63	16	The distribution of isolated bacteria, with Enterobacteriaceae predominance, is in accordance with the shift in multidrug resistance reported worldwide.
+doc63	17	The outbreaks point to the need of understanding risk factors and means of local dissemination.
+doc63	18	The relevance of these infections is evident in their lethality rate, which is higher compared to that of general hospital infections.
+doc63	19	CONCLUSION
+doc63	20	The incidence rate reflects the local dimension of the problem, representing a quality indicator which is relevant for controlling these infections.
+doc64	1	Relationship between body composition and dyslipidemia in children and adolescentes.
+doc64	2	We studied the relationship between different anthropometric indexes and plasma lipids.
+doc64	3	Data were collected from 2014 to 2016 in 854 schoolchildren (6-18 years).
+doc64	4	Waist circumference (WC), body fat percentage (BFP) by bioimpedance, body mass index (BMI), and waist-to-height ratio (WHtR) were measured.
+doc64	5	Total cholesterol (TC), HDLc, and triglycerides were measured in fasting blood samples and Non-HDL cholesterol (Non-HDLc) was calculated.
+doc64	6	Data are presented as mean ± standard deviation, with percentages.
+doc64	7	Means were compared using the t test or ANOVA followed by Tukey's test.
+doc64	8	The association between variables was tested by linear regression.
+doc64	9	The study was approved by the Research Ethics Committee of the Universidade Federal do Espírito Santo.
+doc64	10	Obese boys had higher TC, non-HDLc, and LDLc than eutrophic boys (p < 0.05).
+doc64	11	In girls this difference was found only for non-HDLc (p < 0.05).
+doc64	12	Children with inappropriate BFP and WHtR presented higher LDLc and non-HDLc concentrations (p < 0.001), which showed positive association (p<0.001) with lipid fractions (TC and non-HDLc).
+doc64	13	Excess body fat increased the probability of cholesterol above the reference value (170 mg/dL) by 21%.
+doc64	14	Excess body fat was associated with an atherogenic lipid profile (higher non-HDLc), especially in boys.
+doc65	1	Construct and Criterion Validity of the Postmenopause Sexuality Questionnaire - PMSQ.
+doc65	2	OBJECTIVE
+doc65	3	To assess the construct and criterion validity of the Postmenopause Sexuality Questionnaire (PMSQ).
+doc65	4	METHODS
+doc65	5	The present methodological questionnaire validation study included postmenopausal women.
+doc65	6	The construct validity was tested by factor analysis and the criterion validity was performed using the correlation between the PMSQ and the Female Sexual Function Index (FSFI).
+doc65	7	The ROC curve was used to verify sensitivity, specificity and to determine the cutoff point of the PMSQ.
+doc65	8	RESULTS
+doc65	9	A total of 181 women with a mean age of 56.4 ± 5.7 years old were evaluated.
+doc65	10	The exploratory factor analysis showed that the PMSQ presented Kaiser test = 0.88 and χ2 = 3293.7 (p < 0.001), commonalities ≥ 0.5, and extraction of 9 factors with eigenvalue ≥ 1; explaining 66.3% of the total variance.
+doc65	11	The PMSQ presented factor loadings between 0.4 and 0.8.
+doc65	12	A strong correlation between the 2 questionnaires (r = 0.79; p = 0.000) was shown.
+doc65	13	The cutoff point of the PMSQ was ≤ 55.5, assuming 87.9% sensitivity and 78.9% specificity (p < 0.001).
+doc65	14	CONCLUSION
+doc65	15	Since the PMSQ showed a strong correlation with the FSFI questionnaire, it presented good psychometric properties to assess the sexuality in postmenopausal women.
+doc65	16	Based on these results, the PMSQ could be widely tested as a specific instrument to examine the sexual function in postmenopausal women.
+doc65	17	Future studies, designed to examine the PMSQ instrument in different populations, are needed.
+doc67	1	Nursing technician training: qualification profile.
+doc67	2	The identification of the current vocational training profile of nursing aides and technicians becomes a central element in understanding the dynamics of their qualification in several states, aiming to expose both the existence of trends for under- and overqualification and the participation of the public sector in the offer and expansion of nursing courses in the country.
+doc67	3	The article explores three relevant aspects of vocational training based on the results found in the research "Nursing Profile in Brazil (FIOCRUZ/COFEN)": the level of schooling/qualification; the geographical distribution and the governmental participation in the consolidation of the current situation.
+doc67	4	This is an analytical study based on the interpretation of indicators identified by Pearson's Asymmetry Coefficient.
+doc67	5	The study uses the database generated by the research, as well as data from MEC/Inep and IBGE.
+doc67	6	The achieved results establish relations between the characteristics of training, distribution of NA&T in all Brazilian states with the phenomenon of overqualification, besides revealing an apparent separation of the Federal Education Network from the actual demand for nursing technicians in the country.
+doc68	1	Biology, diagnosis and treatment of Malassezia dermatitis in dogs and cats Clinical Consensus Guidelines of the World Association for Veterinary Dermatology.
+doc68	2	BACKGROUND
+doc68	3	The genus Malassezia is comprised of a group of lipophilic yeasts that have evolved as skin commensals and opportunistic cutaneous pathogens of a variety of mammals and birds.
+doc68	4	OBJECTIVES
+doc68	5	The objective of this document is to provide the veterinary community and other interested parties with current information on the ecology, pathophysiology, diagnosis, treatment and prevention of skin diseases associated with Malassezia yeasts in dogs and cats.
+doc68	6	METHODS AND MATERIAL
+doc68	7	The authors served as a Guideline Panel (GP) and reviewed the literature available prior to October 2018.
+doc68	8	The GP prepared a detailed literature review and made recommendations on selected topics.
+doc68	9	The World Association of Veterinary Dermatology (WAVD) Clinical Consensus Guideline committee provided guidance and oversight for this process.
+doc68	10	The document was presented at two international meetings of veterinary dermatology societies and one international mycology workshop; it was made available for comment on the WAVD website for a period of six months.
+doc68	11	Comments were shared with the GP electronically and responses incorporated into the final document.
+doc68	12	CONCLUSIONS AND CLINICAL IMPORTANCE
+doc68	13	There has been a remarkable expansion of knowledge on Malassezia yeasts and their role in animal disease, particularly since the early 1990's.
+doc68	14	Malassezia dermatitis in dogs and cats has evolved from a disease of obscurity and controversy on its existence, to now being a routine diagnosis in general veterinary practice.
+doc68	15	Clinical signs are well recognised and diagnostic approaches are well developed.
+doc68	16	A range of topical and systemic therapies is known to be effective, especially when predisposing factors are identified and corrected.
+doc69	1	Quality of Life in Women with Deep Endometriosis: A Cross-Sectional Study.
+doc69	2	OBJECTIVE
+doc69	3	To describe clinical and sociodemographic characteristics of women with deep infiltrating endometriosis (DIE) and assess their quality of life (QOL) during 6 months of medical treatment.
+doc69	4	METHODS
+doc69	5	A descriptive cross-sectional study of 60 women diagnosed with DIE either by surgery or image methods (ultrasound or magnetic resonance), who received clinical treatment for at least 6 months in the Universidade de Campinas, Campinas, state of São Paulo, Brazil.
+doc69	6	Both the SF-36 and the EHP-30 questionnaires were used to assess the quality of life.
+doc69	7	RESULTS
+doc69	8	The mean age of the patients was 37.7 ± 6.0 years old, with 50% presenting dysmenorrhea; 57% dyspareunia; and 50% chronic pelvic pain.
+doc69	9	The SF-36 and the EHP-30 revealed impaired quality of life.
+doc69	10	In the SF-36, the worst domains were limitation due to emotional aspects (40.2 ± 43.1) and self-esteem and disposition (46.1 ± 24.8), whereas in the EHP-30 they were social well-being (50.3 ± 30.6); infertility (48.0 ± 36.3); and sexual intercourse (54.0 ± 32.1).
+doc69	11	CONCLUSION
+doc69	12	Although clinically treated, women with deep endometriosis present impairment in different domains of quality of life regardless of the questionnaire used for evaluation.
+doc7	1	Sexuality in old age: knowledge/attitude of nurses of Family Health Strategy.
+doc7	2	OBJECTIVE
+doc7	3	To evaluate the knowledge and attitudes of Family Health Strategy nurses regarding sexuality in old age.
+doc7	4	METHOD
+doc7	5	Cross-sectional, exploratory, descriptive, quantitative study with nurses of the Family Health Strategy of the city of Sobral-CE.
+doc7	6	The instruments used were a socio-demographic and professional questionnaire and the Aging Sexual Knowledge and Attitudes Scale, Brazilian version.
+doc7	7	Data were processed in GraphPad Prism 5®, and the significance level was set at p<0.05.
+doc7	8	RESULTS
+doc7	9	The participants were 56 nurses, most of them female, young adults, who reported they were able to provide orientations about sexuality.
+doc7	10	The mean score in the knowledge dimension was 29.95 (SD=2.21), in a range of 20 to 60; the mean score in the attitude dimension was 27.14 (SD=2.19), in a range of eight to 40.
+doc7	11	Participants who declared receiving permanent health education and conducting health education on sexuality presented a significantly favorable knowledge, but no statistically significant attitude.
+doc7	12	CONCLUSION
+doc7	13	Nurses have adequate knowledge about sexuality in old age, but still present conservative attitudes.
+doc7	14	Investing in processes of continuing health education can improve the knowledge and practice of nurses.
+doc70	1	Oral narrative structure and coherence of children with attention deficit hyperactivity disorder.
+doc70	2	PURPOSE
+doc70	3	This study aimed to characterize and compare the use of typical story grammar elements and global coherence level in the oral narrative of children with Attention Deficit Hyperactivity Disorder with the narrative of children without the disorder and with typical development.
+doc70	4	METHODS
+doc70	5	A total of 40 children of both sexes aged 5 to 10 years who attended elementary school participated in the study, 20 of whom were diagnosed with Attention Deficit Hyperactivity Disorder (ADHD Group), and 20 with typical development (TD Group).
+doc70	6	Participants from each group were similar in sex, chronological age, schooling and socioeconomic status.
+doc70	7	The wordless picture book Frog, Where Are You? was used to elicit the oral narrative analyzed for the presence of the main typical elements of the story schema (character, theme/topic, event/plot and outcome), and afterwards their narration was classified according to four different levels of organization corresponding to the global story coherence level.
+doc70	8	RESULTS
+doc70	9	The ADHD Group presented lower scores on the structural elements "theme/ topic" and "outcome" and a narrative with lower degree of coherence compared to the TD Group.
+doc70	10	CONCLUSION
+doc70	11	The children with ADHD included in this study presented difficulties to use typical story grammar elements, mainly related to the maintenance of the central theme and outcome of the story.
+doc70	12	These elements are considered fundamental for construction of narrative coherence, which justifies the lower levels of global coherence found in the oral narrative of the ADHD Group.
+doc73	1	Prevalence of induced abortion and associated factors in a cohort of women living with HIV/AIDS, Rio de Janeiro, Brazil, 1996-2016.
+doc73	2	The aim of this study was to verify the prevalence of induced abortion and associated factors at the time of inclusion in a cohort of women living with HIV/AIDS in the city of Rio de Janeiro, Brazil, from 1996 to 2016.
+doc73	3	Eligibility criteria for inclusion in the cohort were female sex at birth, age 18 years and older, and confirmed HIV infection.
+doc73	4	At the baseline visit, data on sexual, reproductive, and behavioral aspects and HIV infection were obtained through a face-to-face interview with the attending physician.
+doc73	5	Lifetime prevalence of induced abortion was calculated, and factors associated with induced abortion were verified by multiple logistic regression for all the women and for those with previous pregnancy.
+doc73	6	In the entire cohort of women, 30.4% reported a history of induced abortion, compared to 33.5% in women with previous pregnancy.
+doc73	7	Frequency of reported induced abortion showed a significant reduction during the period (41.7% in 1996-2000 versus 22.5% in 2011-2016, p < 0.001).
+doc73	8	Factors associated with induced abortion, both for the entire cohort and for the women with previous pregnancy, were age, schooling, ≥ 5 lifetime sexual partners, teenage pregnancy, lifetime use of any illicit drug, and inclusion in the cohort after the year 2005.
+doc73	9	Changes in the socioeconomic, sexual, reproductive, and HIV infection profile are possible explanations for the reduction in abortions during the period.
+doc73	10	Studies that use direct methods to measure abortion should be conducted in other populations to confirm the downward trend in induced abortion and its determinants in Brazil.
+doc74	1	Daily activity performance in congenital and childhood forms of myotonic dystrophy type 1: a population-based study.
+doc74	2	AIMS
+doc74	3	To identify and describe the profile characterizing motor and process skills during daily activity performance in individuals with congenital and childhood forms of myotonic dystrophy type 1 (DM1) and to investigate differences in performance between subgroups.
+doc74	4	METHOD
+doc74	5	Sixty participants (34 males, 26 females, mean age=17y 8mo, SD=6y 0mo, range 5y 8mo-29y 0mo) were divided into severe congenital (n=9), mild congenital (n=20), and childhood (n=31) DM1 subgroups.
+doc74	6	Daily activity performance was evaluated using a standardized observational instrument: the Assessment of Motor and Process Skills.
+doc74	7	RESULTS
+doc74	8	Deficits in performance were more pronounced in process than motor skills.
+doc74	9	Performance more than 2 SDs below age-specific norms was seen in 65% of participants for process skills and 33% of participants for motor skills.
+doc74	10	The cut-off scores indicated a potential need for assistance in daily activities for 79% of participants older than 18 years of age (n=28) due to deficient process skills.
+doc74	11	INTERPRETATION
+doc74	12	Extensive deficits in daily activity performance were found in congenital and childhood forms of DM1, mainly owing to deficient process skills.
+doc74	13	Such skills impact on the ability to perform daily activities and could explain dependency in individuals with DM1.
+doc74	14	Process skills should be considered when evaluating daily activity performance.
+doc74	15	WHAT THIS PAPER ADDS
+doc74	16	Young people with myotonic dystrophy type 1 show deficits in motor and process skills when performing daily activities, compared with normative data.
+doc74	17	Deficits in process skills were more pronounced than deficits in motor skills.
+doc75	1	[Primary Health Care-Sensitive Hospitalizations in children under one year of age, from 2008 to 2014, in the State of São Paulo, Brazil].
+doc75	2	The scope of this article is to describe the trends of primary health care-sensitive (PHC) hospitalizations in children under one year of age between 2008 and 2014 in the State of São Paulo, Brazil.
+doc75	3	It is an ecological study with descriptive and analytical characteristics, based on secondary data from the national health information system.
+doc75	4	Hospitalizations were classified according to the Brazilian list of PHC hospitalizations considering the Early Neonatal, Late Neonatal and Post-Neonatal age groups.
+doc75	5	Linear regression models were adjusted for trend analysis of the 851,713 hospitalizations of children under one year of age analyzed, of which 22.6% were PHC-related.
+doc75	6	The main groups with decreases were: Bacterial pneumonia (-7.10%) and Nutritional disorders (-7.70%) in the Early neonatal phase.
+doc75	7	The main increases were: Disease related to prenatal/childbirth (+10.14%) and Immunosuppressive diseases and avoidable conditions in Post-neonatal (+14.13%) infants, among which pertussis and congenital syphilis were the main causes of hospitalization.
+doc75	8	The results showed a deficiency in the primary health care system for infants in the State of Sao Paulo.
+doc75	9	The estimated trends should be used for planning cost-effective strategies to prevent and control causes of hospitalization in children under one year of age.
+doc77	1	Inadvertent insertion of a venous catheter into the internal thoracic vein: a word of caution.
+doc77	2	Central venous catheters are widely used in clinical practice and are linked to many types of complications, including incorrect positioning at the time the catheter is fitted.
+doc77	3	Here, the authors describe a case in which a fully implantable catheter was inadvertently positioned in the right internal thoracic vein.
+doc77	4	The complication was identified when the nursing team attempted to use the catheter.
+doc77	5	The right internal thoracic vein is within the radiographic projection of the right brachiocephalic vein and the superior vena cava, simulating correct catheter placement on an anteroposterior radiograph.
+doc77	6	In cases of central catheter malfunction during the immediate postoperative period, work-up should include oblique and lateral views, to rule out the complication described here without a need for computed tomography.
+doc78	1	Exiting the labour market early: retirement or discrimination?
+doc78	2	Several studies show that despite a decline in mortality and improvements to health conditions, workers have left the economic activities early.
+doc78	3	The literature associates precocious exit from the labour market to the widespread coverage of Social Security.
+doc78	4	One alternative to contain the fiscal imbalance in most countries has been to postpone the minimal age to be entitled to a pension benefit.
+doc78	5	Nevertheless, many studies suggest the existence of barriers that make it difficult for older workers to remain in economic activity.
+doc78	6	Among them are prejudices among employers.
+doc78	7	This paper aims to understand the non-participation of Brazilian men aged 50-64 in economic activities.
+doc78	8	The focus on this age group is because they would be the first group to be affected by the pension reform proposed by the Government.
+doc78	9	These are those who are neither in the labour market nor retired (neither-nor).
+doc78	10	The proportion of these men of the total number of men in this age group increased from 3.5% to 10.2% between 1984 and 2015.
+doc78	11	Very low schooling and worse health conditions compared to other men can contribute to difficulties for insertion.
+doc78	12	This suggests discrimination in relation to the older worker and the lack of public policies aimed at reinforcing the ability of these individuals to obtain a job.
+doc79	1	The ban of eletronic cigarettes in Brazil: success or failure?
+doc79	2	Brazil was one of the first countries in the world to ban Electronic Smoking Devices (ESDs).
+doc79	3	This ban was motivated by the lack of evidence regarding the alleged therapeutic properties and harmlessness of these products.
+doc79	4	Anvisa was criticized for this move, especially by electronic cigarette's users groups.
+doc79	5	These groups argue that prohibition prevented people's access to a product that would aid smoking cessation and be less toxic than ordinary cigarettes.
+doc79	6	Thus, the question arises as to whether this decision was successful.
+doc79	7	Available data show that ESDs have diverse formulations and some toxic substances are released at significant levels during use.
+doc79	8	Studies in animals and humans have shown a potential toxic effect, also affecting the health of passive smokers.
+doc79	9	Studies are still inconclusive regarding its use as a cessation tool.
+doc79	10	A high level of use among adolescents was observed in countries whose use was authorized.
+doc79	11	Thus, Brazil's ban prevented the population from consuming a product that has not been proven effective toward smoking cessation, with indications of significant toxicity and highly attractive to young people.
+doc8	1	Late Ophthalmologic Referral of Anisometropic Amblyopia: A Retrospective Study of Different Amblyopia Subtypes.
+doc8	2	INTRODUCTION
+doc8	3	Amblyopia requires a timely diagnosis and treatment to attain maximum vision recovery.
+doc8	4	Specialty literature is lacking on how early amblyopia is referred.
+doc8	5	We aimed to understand if there are mean age differences at first referral for ophthalmologic tertiary center consultation among non-amblyopic and different types of amblyopia, in a context of lack of population screening.
+doc8	6	MATERIAL AND METHODS
+doc8	7	In this retrospective model, the sample corresponded to all children born in Braga Hospital during 1997 - 2012 (3 - 18 years-old), with an ophthalmologic consultation in 2014.
+doc8	8	Data was collected from the clinical records and children were divided in a non-amblyopic versus amblyopic group.
+doc8	9	The amblyopic group was subdivided in strabismic versus refractive (anisometropic/bilateral).
+doc8	10	RESULTS
+doc8	11	The sample had a total of 1665 participants, 1369 (82.2%) without amblyopia and 296 (17.8%) with amblyopia.
+doc8	12	Among amblyopia: 67.9% (n = 201) refractive, 32.1% (n = 95) strabismic.
+doc8	13	Within refractive amblyopia: 63.7% (n = 128) anisometropic and 36.3% (n = 73) bilateral.
+doc8	14	The mean age at first consultation was 6.24 ± 3.90 years-old: 6.39 ± 3.98 for non-amblyopic and 5.76 ± 3.58 for amblyopic.
+doc8	15	Among amblyopia subgroups, there were significant differences in mean age at first consultation (F3,1250 = 8.45; p < 0.001; η2 = 0.020).
+doc8	16	Strabismic and bilateral refractive amblyopia were referred earlier, when compared to non-amblyopia or anisometropic amblyopia (p < 0.05).
+doc8	17	Anisometropic amblyopia had the highest first consultation mean age: 6.92 ± 3.57 years-old.
+doc8	18	DISCUSSION
+doc8	19	Without specific pre-school screening, children with amblyopia were referred to their first ophthalmologic evaluation significantly later than desired, especially anisometropic amblyopia, with a postschool mean age for first consultation.
+doc8	20	CONCLUSION
+doc8	21	Recognizing high-risk children is essential for earlier referral and helps minimize future visual handicap.
+doc81	1	[Diagnostic Test Requests in the Family Medicine Consultation: An Ethical Perspective Concerning Requests for Maxillofacial Computerized Tomography Scan Prior to Dental Implants].
+doc81	2	In the Portuguese National Health Service, little attention has been paid to oral health care.
+doc81	3	The almost nonexistence of a dentistry network raises concern about accessibility to services, and justifies the need to call on a predominantly private provision of services.
+doc81	4	The coexistence between the public and private settings is not always easy, especially when services need to interact and actively collaborate in order to find answers to the patient's problems.
+doc81	5	Dental implant procedures and the need to perform a previous maxillofacial computerized tomography to study the bone bed where osseointegrated dental implants are placed are a common situation.
+doc81	6	The current governmental regulation, blinded to the clinical context, may limit the accessibility to the tests.
+doc81	7	Based on this scenario, we discuss the possible options from an ethical point of view, framing the patient's and the physician's perspective and the relation between both.
+doc81	8	We conclude that the medical decision canot be disregarded from the clinical evaluation, in the intimacy of the medical consultation.
+doc81	9	This is an ethical duty that overrules the administrative and bureaucratic constraints.
+doc81	10	A good management of this apparent dichotomy may enhance better health and greater empowerment for the patient.
+doc83	1	Evaluation of the use of antivenom sera in the emergency service of a regional public hospital in Vitória da Conquista (BA), Brazil.
+doc83	2	This study aims to characterize the epidemiological profile of victims of scorpion and snakebite envenomations and to evaluate the adequacy of antivenom sera prescriptions.
+doc83	3	This is a cross-sectional study whose data sources were the envenomation notification information sheets of the Notifiable Diseases Information System in the city of Vitória da Conquista (BA), Brazil.
+doc83	4	We included information on scorpion or snakebite envenomations attended in the municipality in the period between July 2016 and June 2017.
+doc83	5	The data obtained and the variables of interest were analyzed according to the questions of this study.
+doc83	6	In the observed period, 293 victims of envenomations were treated.
+doc83	7	Of these, 149 (50.9%) were men, and 114 (38.9%) were 20-59 years old.
+doc83	8	In total, 235 (80.9%) cases of scorpionism and 58 (19.1%) of ophidism were reported.
+doc83	9	Of these, 203 (69.3%) were classified as mild, and in 200 (68.5%) cases, serum therapy was prescribed for the patients.
+doc83	10	Regarding the adequacy of the prescriptions, 172 (59.7%) were considered inadequate, and of these, the use of some vials above than indicated was the most frequent.
+doc83	11	The inappropriate prescription of antivenom sera occurred in approximately 60% of the evaluated cases.
+doc83	12	Despite this, most accidents were classified as mild - in young men.
+doc85	1	[Parkinson's Disease: Clinical Review and Update].
+doc85	2	Parkinson's disease is the second most common neurodegenerative disorder, and a significant increase in its prevalence in the past three decades has been documented.
+doc85	3	Environmental and genetic factors contribute to the pathophysiology of this disease, and 5% - 10% of cases have a monogenic cause.
+doc85	4	The diagnosis relies on clinical findings, supported by adequate testing.
+doc85	5	There is no absolute method to diagnose Parkinson's disease in vivo, except for genetic testing in specific circumstances, whose usefulness is limited to a minority of cases.
+doc85	6	New diagnostic criteria have been recently proposed with the aim of improving diagnostic accuracy, emphasizing findings that might point to other causes of parkinsonism.
+doc85	7	The available therapeutic options are clinically useful, as they improve the symptoms as well as the quality of life of patients.
+doc85	8	After the introduction of levodopa, deep brain stimulation emerged as the second therapy with an important symptomatic impact in the treatment of Parkinson's disease.
+doc85	9	Non-motor symptoms and motor complications are responsible for a large proportion of disability, so these should be identified and treated.
+doc85	10	Current scientific research is focused on the identification of disease biomarkers allowing correct and timely diagnosis, and on creating more effective therapies, thus fulfilling current clinical unmet needs.
+doc85	11	This paper presents an updated review on Parkinson's disease, guiding the readership through current concepts, and allowing their application to daily clinical practice.
+doc86	1	The AcolheSUS Project in Primary Health Care in Brazil's Federal District.
+doc86	2	The recent change in model of primary health care introduced for the Family Health Strategy, to one centred on the user and territorialisation, provided the ideal opportunity to implement the AcolheSUS Project in a Basic Health Unit (UBS) of the Central Region of Brasília, in Brazil's Federal District.
+doc86	3	The UBS team conducted a situational diagnosis of the unit and situational strategic planning with a view to reorganising the service to address the problems identified, focusing on the work processes.
+doc86	4	With introduction of AcolheSUS, the number of individual user registrations performed by the teams increased from 135 to 3525, the number of nursing visits increased by 193.7% and the number of procedures performed by nurses increased by 121.2%.
+doc86	5	During changeover to the new care model, 71% of residents in the catchment area attended the basic health unit; after introduction of AcolheSUS, the percentage reached 90.5%.
+doc86	6	The monthly average of users received and classified was 1099.8.
+doc86	7	The joint construction of solid protocols and adjustments to work processes contributed to improving service delivery and afforded users greater access to the health care unit.
+doc87	1	The Effect of Testosterone Replacement on Intramedullary, Inguinal and Visceral Fat in Ovariectomized Rats.
+doc87	2	OBJECTIVE
+doc87	3	The present article aims to evaluate the impact of testosterone treatment on the expansion of visceral, subcutaneous and intramedullary adipose tissue of ovariectomized rats and the visceral and subcutaneous fat expression of peroxisome proliferator-activated receptors (PPARs) gamma.
+doc87	4	METHODS:  In total 48 female Wistar rats were castrated and randomly divided into 6 treatment groups: group E2 was submitted to estradiol 5 μg/day; group T, to testosterone 5 μg/day; group E2 + T, to estradiol 5 μg/day + testosterone 5 μg/day; group TT, to testosterone 30 μg/day; group E2 + TT, to estradiol 5 μg/day + testosterone 30 μg/day; and placebo was administered to group P. After 5 weeks, the rats were euthanized, the inguinal and visceral adipose tissues were harvested, weighted, and had their PPAR gamma expression evaluated by reverse transcription quantitative polymerase chain reaction (RT-qPCR).
+doc87	5	The right femurs were harvested and histologically prepared to perform the number count of the intramedullary adipocytes.
+doc87	6	RESULTS
+doc87	7	The expansion of visceral fat tissue was much higher in the TT group when compared with other treated groups (p < 0.001).
+doc87	8	The TT group also showed a higher expansion of inguinal fat (p < 0.01), and groups E2 + T and E2 + TT presented lower growth compared to the P group (p < 0.01).
+doc87	9	The number of femur intramedullary adipocytes only showed significant differences between groups TT and E2 + TT (p < 0.05).
+doc87	10	The expression of PPAR gamma showed no differences among the groups.
+doc87	11	CONCLUSION
+doc87	12	The use of testosterone in high doses leads to an important expansion in both visceral and inguinal adipose tissues.
+doc87	13	Association with estradiol exerts an expansion-repressive effect on the visceral and inguinal adipose tissues.
+doc90	1	Lipoprotein(a) in the Evaluation of Cardiovascular Risk in the Portuguese Population.
+doc90	2	INTRODUCTION
+doc90	3	High values of lipoprotein(a), related to atherosclerosis progression, are often considered a marker of thrombosis.
+doc90	4	We assessed the lipoprotein(a) profile in a group of patients with high vascular risk and no cardiovascular events, established its correlation with other cardiovascular risk factors and inferred the results for patients with metabolic disorders and, at least, two risk factors.
+doc90	5	MATERIAL AND METHODS
+doc90	6	This longitudinal observational study included 516 patients, who had at least two cardiovascular risk factors and regularly attended, for at least two years, the outpatient consultations at a clinic of metabolism and vascular risk for primary prevention.
+doc90	7	Sociodemographic, clinical and anthropometric parameters were obtained at the baseline visit.
+doc90	8	Hepatic morphology was assessed in 509 patients (98.6%) by ultrasonography.
+doc90	9	The 10-year vascular risk was estimated using Framingham risk score, atherosclerotic cardiovascular disease and systematic coronary risk evaluation tables.
+doc90	10	RESULTS
+doc90	11	Significant correlations were found between lipoprotein(a) levels and the addressed vascular risk factors, as well as between lipoprotein(a), and Framingham risk score, atherosclerotic cardiovascular disease and systematic coronary risk evaluation charts.
+doc90	12	Lipoprotein(a) values were also considerably higher in patients with steatosis.
+doc90	13	DISCUSSION
+doc90	14	Increased lipoprotein(a) values were directly associated with all markers of cardiovascular risk and with non-alcoholic hepatic steatosis.
+doc90	15	CONCLUSION
+doc90	16	Due to its high availability and low cost, lipoprotein(a) should become part of the routine evaluation of patients at vascular risk.
+doc91	1	Effect of music education on the promotion of school performance in children.
+doc91	2	PURPOSE
+doc91	3	This study investigated the effect of music education on the repertoire of school skills in children submitted and not to music education.
+doc91	4	METHODS
+doc91	5	The study sample was composed of 80 children aged 8-12 years, of both genders, divided into two groups: 40 students submitted to music education (experimental) and 40 students not submitted to music education (control).
+doc91	6	Data were collected using the Social Skills Rating System (SSRS-BR) and the School Performance Test (SPT) questionnaire.
+doc91	7	The results were submitted to statistical analysis (paired sample t-test and repeated measures ANOVA) at a 5% significance level.
+doc91	8	RESULTS
+doc91	9	Results showed statistically significant difference between the groups, evidencing improvement in school performance and academic competence in the children submitted to music education.
+doc91	10	CONCLUSION
+doc91	11	The benefit brought by musical learning associated with different areas of education and health is of great relevance, representing an effective strategy in inclusive practice and promotion of physical and mental health in children.
+doc92	1	Immediate and residual antifungal activity of compounds used for whole body and adjuvant topical therapy against Microsporum canis: an in vitro study.
+doc92	2	BACKGROUND
+doc92	3	Topical antifungal therapy is recommended to disinfect hairs of dermatophyte-infected animals.
+doc92	4	OBJECTIVE
+doc92	5	To determine the immediate and residual (24, 48 and 72 h) antifungal activity of commonly used products for focal (n = 11) and whole body application (n = 3).
+doc92	6	ANIMALS
+doc92	7	Hair samples from naturally infected kittens.
+doc92	8	METHODS AND MATERIALS
+doc92	9	Immediate antifungal activity was assessed using isolated infected spores.
+doc92	10	In a more robust challenge, toothbrushes containing whole infected hairs were repeatedly treated with products until culture-negative.
+doc92	11	Residual activity was determined by treating 0.04 g of uninfected hair with test products, allowing hairs to dry and then plating hairs onto fungal culture plates inoculated with Microsporum canis.
+doc92	12	Residual activity was assessed at 24, 48 and 72 h post-treatment.
+doc92	13	RESULTS
+doc92	14	All products showed good efficacy against isolated infected spores.
+doc92	15	Two products required three treatments to disinfect whole infected hairs (miconazole 0.2% and ketoconazole 0.15%); all other products were efficacious after one treatment.
+doc92	16	For each product residual activity at 24, 48 and 72 h was similar.
+doc92	17	For the whole body products, lime sulfur and enilconazole showed residual activity, but as expected none was detected for 2% miconazole nitrate/ 2% chlorhexidine shampoo.
+doc92	18	For focal therapy products, residual activity was detected for clotrimazole 1%, terbinafine 1%, miconazole at 0.2, 1 or 2% (with or without chlorhexidine), climbazole 0.5% with chlorhexidine gluconate, and ketoconazole 1% with chlorhexidine gluconate.
+doc92	19	A ketoconazole 0.15% with 0.15% chlorhexidine gluconate showed no residual activity.
+doc92	20	CONCLUSIONS AND CLINICAL IMPORTANCE
+doc92	21	Findings support twice weekly application of enilconazole and lime sulfur, and application of adjuvant focal topical therapy daily or every other day.
+doc97	1	[Obstetric care models in the Southern Region of Brazil and associated factors].
+doc97	2	The study sought to identify obstetric care models for low-risk pregnancies in the Southern Region of Brazil and to estimate factors associated with these models and maternal and neonatal outcomes.
+doc97	3	This is a cross-sectional, hospital-based study using data from the Birth in Brazil survey regarding puerperae and newborns.
+doc97	4	We identified 2,668 low-risk pregnant women.
+doc97	5	We carried out an exploratory analysis using the proportion of practices per hospital, among them inducing labor, presence of a companion, cesarean section and skin-to-skin contact, in order to obtain the care models we called Best Practice, Interventionist I and Interventionist II. We then carried out an inferential analysis of the associated characteristics.
+doc97	6	Results show that access to public or private funding, cultural factors and actions taken by health professional are associated with the care models.
+doc97	7	Public care had different contexts, one based on public policies and evidence-based practices; and another, that suggests the intentionality of vaginal delivery without considering humanization principles.
+doc97	8	Private care, on the other hand, is standardized and centered on the medical professional, with higher intervention levels.
+doc97	9	We conclude there is a predominance of interventionist obstetric care models in the Southern Region of Brazil, a type of care that goes against the best evidence, and that women who receive care in public hospitals have greater chances of benefiting from good practices.
+doc98	1	Dietary practices in relation to the Dietary guidelines for the brazilian population: associated factors among Brazilian adults, 2018.
+doc98	2	OBJECTIVE
+doc98	3	to describe the adequacy of dietary practices in relation to the Dietary guidelines for the brazilian population, and to analyze associated factors among Brazilian adults.
+doc98	4	METHODS
+doc98	5	this was a cross-sectional study using a convenience sample of 900 adults (18-60 years old) resident in Brazil; a dietary practices scale (24 items; score 0-72) based on the Guideline recommendations was administered using an online panel; multiple linear regression analysis was used.
+doc98	6	RESULTS
+doc98	7	participants' mean age was 33.5 years and 52.0% of them were women; the mean score on the scale was 36.4 points (SD=8.5); scores were directly associated with age (linear trend p<0.001), and were higher among people from the North-Northeast regions (37.8), compared to those from the Midwest-Southern regions (35.8) (T-test p=0.001).
+doc98	8	CONCLUSION
+doc98	9	the adequacy of dietary practices in keeping with Guideline recommendations was associated with age and region of residence.
+doc99	1	Standardized Infant NeuroDevelopmental Assessment developmental and socio-emotional scales: reliability and predictive value in an at-risk population.
+doc99	2	AIM
+doc99	3	To assess the reliability and predictive validity of the developmental and socio-emotional scales of the Standardized Infant NeuroDevelopmental Assessment (SINDA).
+doc99	4	METHOD
+doc99	5	To assess reliability, two sets of three assessors forming eight assessor-pairs independently rated the developmental and socio-emotional scales of 60 infants.
+doc99	6	To evaluate predictive validity, 223 infants (gestational age 30wks [range 23-41wks]; 117 males, 106 females) attending a non-academic outpatient clinic were assessed by different assessors with SINDA's neurological, developmental, and socio-emotional scales.
+doc99	7	Atypical neurodevelopmental outcome at a corrected age of 24 months or older implied a Bayley Mental or Psychomotor Developmental Index score of less than 70 or neurological disorder (including cerebral palsy).
+doc99	8	Behavioural and emotional disorders were classified according to the International Classification of Diseases, 10th Revision.
+doc99	9	Predictive values were calculated from SINDA (2-12mo corrected age, median 7mo) and typical versus atypical outcome, and for intellectual disability only (Mental Developmental Index <70).
+doc99	10	RESULTS
+doc99	11	Assessors highly agreed on the developmental and socio-emotional assessments (developmental scores: Spearman's rank correlation coefficient ρ=0.972; single socio-emotional behaviour items: Cohen's κ=0.783-0.896).
+doc99	12	At 24 months or older, 65 children had atypical outcome.
+doc99	13	Atypical neurological scores predicted atypical outcome (sensitivity 83%, specificity 96%); atypical developmental scores predicted intellectual disability (sensitivity 77%, specificity 92%).
+doc99	14	Atypical emotionality and atypical self-regulation were associated with behavioural and emotional disorders.
+doc99	15	INTERPRETATION
+doc99	16	SINDA's three scales are reliable, and have a satisfactory predictive validity for atypical developmental outcome at 24 months or older in a non-academic outpatient setting.
+doc99	17	SINDA's developmental scale has promising predictive validity for intellectual disability.
+doc99	18	SINDA's socio-emotional scale is a tool for caregiver counselling.
+doc99	19	WHAT THIS PAPER ADDS
+doc99	20	Standardized Infant NeuroDevelopmental Assessment (SINDA)'s developmental and socio-emotional scales have excellent interrater reliability.
+doc99	21	Replication of the satisfactory validity of SINDA's neurological scale for atypical outcome.

@@ -1,0 +1,484 @@
+doc10	1	Waardenburg syndrome (WS) is a rare autosomal-dominant syndrome that can be presented with sensorineural hearing loss.
+doc10	2	In this report, we describe the outcomes of three children with WS at zero, three, nine, twelve and sixty months after cochlear implant (CI) fitting.
+doc10	3	The outcomes were assessed using IT-MAIS (Infant-Toddler Meaningful Auditory Integration Scale - younger than 5 year), MAIS (Meaningful Auditory Integration Scale - older than 5 year), MUSS (Meaningful Use of Speech Scale), and categories of auditory performance and speech intelligibility.
+doc10	4	The results showed an improvement in auditory and language performance over time, two patients who used CI for 5 years achieved 100% in IT-MAIS and MUSS tests.
+doc10	5	In addition, both were able to understand sentences in open set and achieve fluent speech.
+doc10	6	Moreover, both reached fluency on auditory and language performance scale.
+doc10	7	The third patient with 50 months of follow-up and in the 48 months evaluation, is in category 5 of auditory performance and 3 of speech intelligibility.
+doc10	8	We concluded that all children who had low levels of hearing and language before cochlear implant have improved hearing and language skills after implantation and rehabilitation.
+doc100	1	TIMI flow grade and corrected TIMI frame count (CTFC) are widely used methods to evaluate angiographic coronary blood flow.
+doc100	2	Measurement of coronary blood flow (CBF) on standard coronary angiography (CAG) has aroused great interest recently, trying to combine the CTFC concept with new methods for post-angioplasty and for cardiac syndrome X assessment.
+doc100	3	Additionally, coronary slow flow it is now considered a major criterion for microvascular angina.
+doc100	4	Explore a new approach of quantitative angiographic measurement of CBF based on densitometric contrast detection in CAG off-line, using an accessible software to obtain a more precise and reliable CBF assessment.
+doc100	5	Thirty patients were studied and divided in 2 groups, normal coronary blood flow (NF) and slow coronary blood flow (SF), according to CTFC definition.
+doc100	6	The DM was applied to the study sample to differentiate between NF and SF.
+doc100	7	Non-parametric statistics was used to assess differences between groups at p<0.05.
+doc100	8	The DM normal reference value obtained for coronary blood flow was 9 [5-10] frames.
+doc100	9	NF vs SF group were compared and expressed as median [interquartile range], for the left anterior descending: 10 [7-11] vs 21 [8-33];p= 0.016; circumflex: 9 [4-13] vs 14 [11-30]; p= 0.012 and right coronary artery: 5 [3-11] vs 13 [8-26]; p=0.009.
+doc100	10	The DM showed the feasibility of measuring coronary blood flow with precision, consistency and reproducible in a standard coronary angiogram, showing the additional capability to differentiate between NF and SF in chest pain patients with normal coronary arteries.
+doc100	11	(Arq Bras Cardiol. 2020; 115(3):503-512).
+doc13	1	Coronary artery ectasia (CAE) is defined as diffuse or localized dilatation of coronary artery lumen with a diameter of 1.5 to 2.0 times the adjacent normal coronary artery.
+doc13	2	The C-reactive protein to albumin ratio (CAR) is a useful inflammatory marker, which has been documented in coronary artery disease.
+doc13	3	To analyze the association of CAE and CAR.
+doc13	4	A case-control protocol was used in this study.
+doc13	5	We included 102 consecutive patients with isolated CAE without stenosis (56 men and 46 women; mean age 60.4 ± 8.8 years).
+doc13	6	The control subjects consisted of an equal number of sex and age matched patients with normal coronary arteries (55 men and 47 women; mean age 61.2 ± 9.1 years).
+doc13	7	Clinical features, laboratory findings, and medication use history were recorded.
+doc13	8	Student's t test, Mann-Whitney U test, chi-square test, and linear and logistic regression analysis were performed.
+doc13	9	A 2-sided p < 0.05 was statistically considered significant.
+doc13	10	The CAR was increased in patients with CAE compared to the controls (32 and 16; p < 0.001).
+doc13	11	In addition, the CAR was found to be an independent predictor of CAE (OR = 2.202; 95% CI 1.184 - 5.365; p < 0.001).
+doc13	12	In the present study, we determined that CAR levels were significantly higher in the CAE group than in the control group, and the CAR was significantly correlated with CAE.
+doc13	13	(Arq Bras Cardiol. 2020;
+doc13	14	[online].ahead print, PP.0-0).
+doc14	1	When women inmates in Brazil give birth during their incarceration, they have the right to stay with their children in specific units for mothers and infants for at least six months.
+doc14	2	The focus of this living experience is care and protection of the child, but it takes places in a setting determined by the prison order.
+doc14	3	This study aims to analyze the exercise of motherhood in prison.
+doc14	4	Six narrative interviews were performed in Rio de Janeiro: two with women who experienced motherhood while in prison in the Maternal and Child Unit at the Gericinó Prison Complex, and four with staff members of nongovernmental organizations working with women who had given birth during incarceration.
+doc14	5	The narratives were analyzed via interpretation of the roles and relations between the narrated characters and the way their interactions shape the stories.
+doc14	6	Finally, an interpretative linkage was established between the narratives and the theoretical frame of reference on gender and prisons.
+doc14	7	The study concludes that the prison rules and standards of care produce tensions and convergences in a dynamic that seeks to benefit the infant without failing to punish the woman.
+doc14	8	Motherhood in prison thus acts as a way of reaffirming a gender morality, defined as the role of good mother.
+doc15	1	The study analyzed competing ideas on the State's roles in the prevention and control of childhood obesity in Brazil, with cognitive analysis of public policies as the frame of reference.
+doc15	2	The study included document analysis and semi-structured interviews with 20 individuals from government, organized civil society, and the commercial private sector.
+doc15	3	The State was viewed as the main party responsible for dealing with childhood obesity, but the definitions of its roles varied according to the narratives on the factors that condition obesity and the proposed solutions.
+doc15	4	Members of the commercial private sector criticized the regulatory State in the name of parents' freedom of choice.
+doc15	5	Civil society representatives and part of the government defended regulatory measures, which they considered essential.
+doc15	6	They contended that agreements between government and the food industry to reduce unhealthy ingredients are ineffective.
+doc15	7	However, some government representatives defended such agreements.
+doc15	8	These tensions and contradictions were also expressed in the policy documents acknowledging that practices by the commercial private sector favor obesity, even while considering the private sector a partner in this process.
+doc15	9	The arguments against the regulatory State were based on individual factors conditioning obesity, but the object of regulation is institutional practices by the commercial private sector, not individual behaviors.
+doc15	10	However, this kind of argument is part of corporate policy activity, since it overlooks the conflicts of interests that have contributed to delaying the reduction in obesity prevalence.
+doc16	1	To estimate the coverage of the first and second dose of the human papillomavirus (HPV) vaccine in Brazil according to microregion, comparing cohorts of girls aged 14, 15, and 16 years in 2017, and investigate the association between spatial heterogeneity in vaccination coverage and sociodemographic variables.
+doc16	2	Information about the doses administered from 2013 to 2017 by age was gathered from the National Immunization Program.
+doc16	3	The number of girls aged seven, eight, and nine years living in each microregion in 2010 was obtained from the 2010 Brazilian Census.
+doc16	4	For the analysis, the cumulated vaccination coverage per microregion (n = 558) was categorized as low (< 80%) and adequate (≥ 80%), and a random intercept logistic model was adjusted, with adequate vaccination coverage as the outcome.
+doc16	5	The random effect (federative unit) was included to identify the correlation between microregions that belong to the same state.
+doc16	6	The percentage of microregions with adequate vaccination coverage was significantly higher in the first dose (between 91.8 and 159.2%), regardless of the cohort.
+doc16	7	The coverage of the second dose was lower (between 7 and 79.9%), with heterogeneity associated with the degree of urbanization and households with private bathrooms in the municipality.
+doc16	8	The random effect showed a strong explanatory power, suggesting important differences among Brazilian states as to the outreach of vaccination coverage.
+doc16	9	Although the HPV vaccine is available through the Immunization Program, the findings of the present study point to a difficulty in achieving adequate vaccination coverage.
+doc21	1	The study aimed to compare biomarkers in groups of adolescents classified simultaneously according to body mass index (BMI) and body fat percentage measured by air displacement plethysmography.
+doc21	2	This was a cross-sectional study with 533 adolescents 18 to 19 years of age in São Luís, Maranhão, Brazil.
+doc21	3	BMI was classified as adequate (< 25kg/m2) versus excess weight (≥ 25kg/m2).
+doc21	4	High body fat percentage was defined as ≥ 25% for males and ≥ 30% for females.
+doc21	5	The adolescents were classified in four groups: "normal weight" (adequate BMI and body fat percentage), "normal weight obese" (adequate BMI with high body fat percentage), "excess weight with adequate body fat percentage", and "excess weight with high body fat percentage".
+doc21	6	Girls showed higher proportions of "normal weight obesity" (15.6%) and "excess weight with high body fat percentage" (17.1%).
+doc21	7	"Normal weight obese" adolescents exhibited higher mean values for total cholesterol (172.5mg/dL) and LDL-cholesterol (103.5mg/dL).
+doc21	8	Those with "excess weight and high body fat percentage" showed lower mean HDL-cholesterol (43.2mg/dL) compared to the other groups, higher mean interleukin-6 (2.7pg/mL) than "normal weight" and "excess weight and adequate body fat percentage" adolescents, and higher median triglycerides (114.0mg/dL) and C-reactive protein (0.14ng/mL) than "normal weight" and "normal weight obese" adolescents.
+doc21	9	Those with "excess weight and adequate body fat percentage" exhibited the same C-reactive protein levels as those with "excess weight and high body fat percentage".
+doc21	10	Assessment of nutritional status by BMI alone is limited, since 6.8% of the adolescents presented high body fat percentage despite normal BMI, and those who were "normal weight obese" had two biomarkers that were worse than for adolescents with "excess weight and high body fat percentage".
+doc22	1	To assess the efficacy, safety, and tolerability of oromucosal nabiximols cannabinoid medicine as adjunct therapy for children with spasticity due to cerebral palsy/traumatic central nervous system injury with inadequate response to existing treatment.
+doc22	2	Overall, 72 patients (mean [SD] age 12y 4mo [3y 1mo], range 8-18y) were randomized at a ratio of 2:1 to receive nabiximols (n=47; 29 males, 18 females) or placebo (n=25; 15 males, 10 females) for 12 weeks (12 sprays/day max. based on clinical response/tolerability).
+doc22	3	The primary outcome was change from baseline in level of spasticity on a 0 to 10 Numerical Rating Scale (NRS), assessed by the primary caregiver at 12 weeks.
+doc22	4	Secondary outcomes included additional measures for spasticity, sleep quality, pain, health-related quality of life, comfort, depression, and safety.
+doc22	5	There was no significant difference in the spasticity 0 to 10 NRS between nabiximols versus placebo groups after 12 weeks.
+doc22	6	No statistically significant differences were observed for any secondary endpoint.
+doc22	7	Adverse events were predominantly mild or moderate in severity; however, three cases of hallucinations were reported.
+doc22	8	Nabiximols was generally well tolerated; however, neuropsychiatric adverse events were observed.
+doc22	9	No significant reduction in spasticity with nabiximols treatment versus placebo was observed.
+doc22	10	Oromucosal nabiximols is generally well tolerated by paediatric patients.
+doc22	11	However, three cases of hallucinations were observed, one of which involved auditory hallucinations and a suicide attempt.
+doc22	12	Oromucosal nabiximols versus placebo did not reduce cerebral palsy/central nervous system injury-related spasticity.
+doc23	1	To evaluate the results of double femoral osteotomy for the treatment of severe sequelae of the hip.
+doc23	2	Immature patients with anatomical loss of the hip were treated with pelvic support osteotomy in the distal femur to correct lower limb shortening, they were evaluated clinically and radiographically.
+doc23	3	Eleven cases (eleven hips) were assessed with verage follow-up of three years.
+doc23	4	The mean age of the patients was 14.7 years.
+doc23	5	Seven patients had sequela of infectious arthritis; three had sequela of developmental dysplasia of the hip and one patient had a sequela of slipped capital femoral epiphysis.
+doc23	6	Preoperatively, the gluteus medius was insufficient in all patients, and it became negative in ten of them.
+doc23	7	The average of lower limb shortening was 5 cm (2.5 to 7 cm) and reduced shortening was 1.9 cm (0 to 4 cm).
+doc23	8	According to Paley Classification, 72.7% of complications were considered problems, 90.9% were considered obstacles and 27.2% complications, among which the limitation of the knee flexion was the most frequent.
+doc23	9	The technique yielded good results, considering the severity of the sequela and the absence of a better therapeutic option.
+doc23	10	No important sequela was associated with the treatment.
+doc24	1	Saphenous vein grafts (SVG) are frequently used in patients that have undergone coronary artery bypass graft (CABG) surgery.
+doc24	2	Objectives: To evaluate the relationship between atherogenic indexes and SVG stenosis.
+doc24	3	Altogether, 534 patients (27.7% women, mean age 65±8.4 years) that underwent CABG and elective coronary angiography were included in the study.
+doc24	4	Patients with at least one SVG stenosis ≥50% were allocated to the stenosis group SVG (+) (n=259) and patients without stenosis were categorized as SVG (-) (n=275).
+doc24	5	Atherogenic index of plasma (AIP) and atherogenic coefficient (AC) were calculated from the patients' routine lipid parameters.
+doc24	6	The level of significance was p<0.05.
+doc24	7	The number of patients with a history of hypertension (HT), diabetes mellitus (DM), stroke, and heart failure was significantly higher in the SVG (+) group than in the SVG (-) group.
+doc24	8	Total cholesterol, triglycerides, LDL-C were significantly higher and HDL-C was lower in the SVG (+) group than in the SVG (-) group.
+doc24	9	AIP (p<0.001) and AC (p<0.001) were significantly higher in the SVG (+) group than in the SVG (-) group.
+doc24	10	The receiver operating characteristic (ROC) analysis show that both AIP and AC were better than HDL-C, LDL-C and non-HDL-C at predicting SVG stenosis.
+doc24	11	In the multivariate analysis, history of DM, HT, stroke, heart failure (HF), number of saphenous grafts, HDL-C, LDL-C, non-HDL-C, AIP and AC were found to be independent risk factors for SVG stenosis.
+doc24	12	AIP and AC were independent predictors of SVG stenosis.
+doc24	13	Moreover, both AIP and AC have better performance in predicting SVG stenosis than LDL-C, HDL-C and non-HDL-C. (Arq Bras Cardiol. 2020; 115(3):538-544).
+doc27	1	This study aimed to determine the serum levels of NACHT, Leucine-rich repeat (LRR), and Pyrin (PYD) domains-containing Protein 3 (NLRP3) and cathelicidin LL-37, and investigate their prognostic significance in community-acquired pneumonia (CAP).
+doc27	2	The sample of this prospective study was composed of 76 consecutive patients with CAP.
+doc27	3	Demographic data and clinical characteristics were collected.
+doc27	4	Serum levels of NLRP3 and LL-37 were determined by ELISA.
+doc27	5	Spearman's analysis was used to evaluate the correlation between NLRP3 and LL-37.
+doc27	6	Association of NLRP3 and LL-37 with 30-day survival and mortality rates was assessed using the Kaplan-Meier curve and logistic regression analysis.
+doc27	7	Serum NLRP3 significantly increased whereas serum LL-37 significantly decreased in patients with severe CAP.
+doc27	8	Significant correlation was observed between serum NLRP3 and LL-37 in CAP patients.
+doc27	9	Patients with higher levels of NLRP3 and lower levels of LL-37 showed lower 30-day survival rate and higher mortality compared with those with lower NLRP3 and higher LL-37 levels.
+doc27	10	Severe CAP patients tend to present higher serum NLRP3 and lower serum LL-37, which might serve as potential biomarkers for CAP prognosis.
+doc28	1	Few studies have examined the relationship of one's habitual physical activity level and autonomic nervous system (ANS) modulation on sleep quality in smokers.
+doc28	2	The aim of this study was to identify changes in the sleep quality of smokers and its relation with their habitual physical activity level and ANS modulation.
+doc28	3	Forty-two smokers were divided into two groups according to the 50th percentile of the moderate-to-vigorous physical activity (MVPA).
+doc28	4	Sleep quality was assessed using the Mini-sleep Questionnaire, and ANS modulation was assessed by indices of heart rate variability (HRV).
+doc28	5	To examine the possible mean differences, the analysis of covariance (ANCOVA) was used, adjusted for age, sex, body composition, pack-years, beta-blockers, anxiety, and depression in log base 10, not including qualitative data, such as sex and beta-blockers.
+doc28	6	Correlations were made by using the Spearman rank correlation.
+doc28	7	The statistical significance was set at 5.
+doc28	8	The smokers who were less active showed poor sleep quality (p=0.048) and insomnia (p=0.045).
+doc28	9	Furthermore, the less active group presented decreased parasympathetic modulation [HF (un; p=0.049); RMSSD (ms; p=0.047) and SD1 (ms; p=0.047)] and an increased LF (un) index (p=0.033) and LF/HF ratio (p=0.040).
+doc28	10	A positive correlation between the total Mini-sleep score with LF (un) index (r=0.317, p=0.041) and LF/HF ratio (r=0.318, p=0.040) and negative correlation with HF (un) index (r= -0.322, p=0.038).
+doc28	11	Smokers with lower levels of habitual physical activity showed poor sleep quality and alterations in autonomic nervous system modulation;
+doc28	12	(Arq Bras Cardiol. 2020;
+doc28	13	[online].ahead print, PP.0-0).
+doc29	1	To assess compliance with treatment monitoring and cure verification activities by Malaria Control Program professionals.
+doc29	2	This is an evaluation research carried out through systematic observation, with the aid of a Likert-type scale form, adopting a numerical score to assess the fulfillment of activities.
+doc29	3	Data collection was carried out in the Amazonian municipality of Cruzeiro do Sul in Acre State.
+doc29	4	Data were analyzed using descriptive statistics.
+doc29	5	Fifteen endemic disease control agents, five nurses and five microscopists were observed in the performance of their functions in the program.
+doc29	6	Treatment monitoring and cure verification activities obtained the respective total compliance percentages of 72.0% and 12.1%.
+doc29	7	Microscopists, assessed in 9 activities, obtained a higher percentage of compliance with activities, while nurses and endemic disease control agents had a partial compliance rate or did not perform certain activities.
+doc29	8	Malaria Control Program performs below the recommended level, not meeting the established gold standard, which may mean maintaining or increasing malaria cases.
+doc34	1	There is no study evaluating the Tpeak-Tend (Tpe) interval, Tpe/QT ratio, and Tpe/QTc ratio to assess cardiac arrhythmias in patients with COVID-19.
+doc34	2	We aimed to examine whether there is a change in QT, QTc, Tpe interval, Tpe/QT ratio, and Tpe/QTc ratio in patients with COVID-19.
+doc34	3	The study included 90 patients with COVID-19 infection and 30 age-and-sex-matched healthy controls.
+doc34	4	QT, QTc, Tpe interval, Tpe/QT ratio, and Tpe/QTc ratio were measured.
+doc34	5	The participants included in the study were divided into the following 4 groups: healthy controls (group I), patients with COVID-19 without pneumonia (group II), patients with COVID-19 and mild pneumonia (group III), and patients with COVID-19 and severe pneumonia (group IV).
+doc34	6	Statistical significance was set at p < 0.05.
+doc34	7	It was found that baseline heart rate, presence of hypertension and diabetes, white blood cell count, blood urea nitrogen, creatinine, potassium, aspartate aminotransferase, alanine aminotransferase, NT-proBNP, high sensitive C reactive protein, D-dimer, hs-cTnI, Tpe, Tpe/QT, and Tpe/QTc increased from group I to group IV, and they were significantly higher in all patients in group IV (p < 0.05).
+doc34	8	Systolic-diastolic blood pressure, hemoglobin, and calcium levels were found to be lowest in group IV and significantly lower than in other groups (< 0.05).
+doc34	9	QT and QTc intervals were similar between groups.
+doc34	10	It was determined that increased heart rate, calcium, D-dimer, NT-proBNP and hs-CRP levels were significantly related to Tpe, Tpe/QT, and Tpe/QTc.
+doc34	11	In patients with COVID-19 and severe pneumonia, Tpe, Tpe/QT ratio, and Tpe/QTc ratio, which are among ventricular repolarization parameters, were found to be increased, without prolonged QT and QTc intervals.
+doc34	12	In this study, we cannot definitively conclude that the ECG changes observed are directly related to COVID-19 infection or inflammation, but rather associated with severe COVID-19 scenarios, which might involve other causes of inflammation and comorbidities.
+doc34	13	(Arq Bras Cardiol. 2020; 115(5):907-913).
+doc35	1	The tobacco industry normally overestimates the illegal market's size in order to reinforce the idea of its direct relationship to the choice to increase taxes by the internal revenue administration.
+doc35	2	In Brazil, the last increase in taxes on tobacco products was in 2016.
+doc35	3	The growth of demand for illegal cigarettes has other macrosocial determinants that the industry does not take into account, such as the increase in the economic capacity to purchase legal cigarettes.
+doc35	4	The article aims to test the hypothesis of the "Brazilian consumer's economic reason" from 2015 to 2019 by comparing the estimated consumptions of illegal cigarettes, based on official government data on legal production and cigarette consumption with an "extraofficial estimate" furnished by the industry.
+doc35	5	The study also used official national data on monthly income from work.
+doc35	6	The Brazilian population's "purchasing capacity for legal cigarettes" increased systematically from 2016 to 2019, from 412 packs/month to 460 packs/month.
+doc35	7	The absolute difference between the estimate by the tobacco industry and the estimate based on official data on the volume of illegal cigarettes that were consumed increased over time, reaching +30.2 billion units in 2019.
+doc35	8	Meanwhile, legal cigarette consumption, calculated with official data, increased from 2016 through 2019 (+7.8 billion), while the industry estimated a reduction in this consumption (-9.5 billion).
+doc35	9	Policymakers should seek to base their decisions on estimates generated from official data sources, including macroeconomic data on employment and income, rather than to use estimates produced by the tobacco industry that aim to interfere in public policies.
+doc36	1	Carbon monoxide and cyanide are toxins that induce cellular hypoxia; both can be produced in the context of domestic fires and may have a synergistic effect.
+doc36	2	We present the case of a man, victim of a house fire, who was initially diagnosed as having carbon monoxide poisoning, but that afterwards also presented signs and symptoms compatible with cyanide poisoning.
+doc36	3	He was successfully treated with an antidote.
+doc36	4	We want to highlight this relatively frequent association of poisonings and the need for urgent empirical treatment.
+doc37	1	To analyze notifications of flu-like syndrome according to the time interval between onset of symptoms and testing for COVID-19.
+doc37	2	This was a cross-sectional study using records of flu-like syndrome cases containing results of COVID-19 diagnostic tests in the Brazilian state capitals and Federal District, held on the e-SUS Notifica system, from March 1st, 2020 to August 18th, 2020.
+doc37	3	The time interval between symptom onset and testing was compared using the ANOVA test, classifying it according to test adequacy/timeliness.
+doc37	4	Taking 1,942,514 notifications, average time between symptom onset and testing was 10.2 days (±17.1).
+doc37	5	Among those tested, females (55.1%), people aged 20-39 years (43.8%), and the Southeast region of Brazil (43.0%) predominated.
+doc37	6	58.8% of IgM ELISA tests were performed at an adequate time while 68.0% of rapid antigen tests were not performed at an adequate time.
+doc37	7	Inadequacy was found between symptom onset and time taken to test for COVID-19 in the Brazilian regions.
+doc41	1	Pleural mesothelioma is a disease associated with exposure to asbestos.
+doc41	2	Although rare, it is the most common malignant pleural neoplasm.
+doc41	3	It is difficult to diagnose and it has a poor prognosis.
+doc41	4	We report the case of a 62-year-old male patient with a history of prolonged occupational exposure to asbestos, with dyspnea for minor exertion and productive cough, for several months.
+doc41	5	Imaging studies revealed extensive interstitial involvement with marked thickening of the interlobular and centrilobular septa and tenuous pleural involvement.
+doc41	6	Several differential diagnoses were considered such as, asbestosis, cryptogenic organizing pneumonia, desquamative interstitial pneumonia, pleuropulmonary metastases, and/or bronchopulmonary infection, but the histological and immunohistochemical results were compatible with pleural mesothelioma - a rare malignant neoplasm, with pleural origin, with a high mortality rate.
+doc42	1	The article proposes to discuss the many complexities involved in the incorporation of new health technologies for rare diseases, with a central focus on the case of cystic fibrosis.
+doc42	2	Cystic fibrosis was chosen because it is a autosomal recessive genetic disorder, considered the most common of the rare diseases.
+doc42	3	The disease has also benefited greatly from investments in research in the field of molecular biology, mainly in the United States, but also among European research groups, which resulted in the registration and marketing of four new drugs.
+doc42	4	These new drugs act for the first time on the basic defect in cystic fibrosis.
+doc42	5	From a perspective that views rare diseases as a field of research woven among many others, the article aims to problematize cystic fibrosis from a more person-centered approach, the duality of witnessing from afar the molecularization of life, the emergence of last-generation drugs that interrupt, at the molecular level, the cascade of errors and thus the symptoms and evolution of the disease.
+doc42	6	The article aims to bring various elements to the debate that traverse the complex local reality of Brazilian cystic fibrosis patients in a global context of technological innovation and with a break in the treatment paradigm.
+doc42	7	Based on the field of rare diseases, including the presentation of cystic fibrosis in the age of precision medicine, alongside discussions on biopolitics in a context of health innovation and high-cost drugs, the article aims to shed light on the current challenges and possibilities.
+doc43	1	To analyze the relationship of anxiety to binge eating and sleep quality in overweight or obese adults.
+doc43	2	Transversal study, conducted between May 2015 and January 2017, with an intentional sample composed of literate individuals of both sexes, aged 20 to 59 years, who presented body mass index higher or equal to 25 kg/m2.
+doc43	3	State-Trait Anxiety Inventory, Binge Eating Scale, and Pittsburgh Sleep Quality Index were employed.
+doc43	4	Pearson or Spearman correlation coefficient was adopted for data analysis, according to its distribution.
+doc43	5	The sample comprised 130 individuals.
+doc43	6	The overall and young adults' samples presented a positive correlation between anxiety and binge eating scores (p=0.0011) and sleep quality score (p=0.0081).
+doc43	7	Adults who were 45 or older presented an inverse relation between age and anxiety (p=0.0003).
+doc43	8	The overall sample and young adults who presented higher anxiety state had higher indexes of binge eating and a worse sleep quality, whereas for middle-aged adults, higher age was related to a lower anxiety score.
+doc43	9	Brazilian Registry of Clinical Trials (Registro Brasileiro de Ensaios Clínicos): n° RBR-47kfxh.
+doc46	1	To investigate the underlying factor structure of the 46-item Flemish cerebral visual impairment (CVI) questionnaire, differentiate the factor scores of children with and without CVI, and examine the impact of comorbidities on factor scores.
+doc46	2	The records of 630 children (386 males, 244 females; median age 77mo; interquartile range 63-98mo) who visited the CVI clinic and the Centre for Developmental Disabilities at the University Hospitals of Leuven from 2001 to 2018 were reviewed systematically.
+doc46	3	Inclusion criteria included an up-to-date questionnaire, a definitive diagnosis, and clinical assessment.
+doc46	4	Three hundred and forty-five children (179 with CVI [108 males, 71 females; median age 74mo; interquartile range 61-93mo] and 166 without CVI [110 males, 56 females; median age 88mo; interquartile range 70-107mo]) were included.
+doc46	5	An exploratory factor analysis resulted in a 5-factor (object and face processing impairments; visual (dis)interest; clutter and distance viewing impairments; moving in space impairments; and anxiety-related behaviours) biologically and clinically plausible model, which retained 35 items and explained 56% of the total variance.
+doc46	6	Mann-Whitney U tests indicated that factors 1 to 4 were significantly higher in children with CVI compared to children without CVI (p-values ranged from p<0.001 to p<0.05; effect sizes ranged from 0.11 to 0.33); factor 5 showed no differences.
+doc46	7	Autism, developmental coordination disorder, epilepsy, and cerebral palsy impacted factor scores.
+doc46	8	A 5-factor structure of the Flemish CVI questionnaire differentiates children with and without CVI.
+doc46	9	Comorbidities should be accounted for when researching CVI.
+doc46	10	Cerebral visual impairment (CVI) is characterized by impaired object and face processing and impaired visual interest.
+doc46	11	CVI is also characterized by impaired clutter and distance viewing, and impaired moving in space.
+doc46	12	All children (with or without CVI) demonstrated anxiety-related behaviours.
+doc46	13	Autism affected object/face processing, whereas developmental coordination disorder, epilepsy, and cerebral palsy affected visual interest.
+doc47	1	To build scenarios and analyze the impact of social distancing policies on the spread of COVID-19 and the need for intensive care unit beds.
+doc47	2	Three dissemination scenarios were built according to level of adherence to social distancing measures in the context of Brazil's Federal District, based on a dynamic transition compartmental model and Monte Carlo simulations.
+doc47	3	The model's parameter values were based on official sources, indexed bibliographic databases and public data repositories.
+doc47	4	The favorable scenario, with constant 58% adherence to social distancing, estimated a peak of 189 (interquartile range [IQR]: 57 - 394) ICU hospitalizations on March 3rd2021.
+doc47	5	Absence of social distancing would result in an unfavorable scenario with a peak of 6,214 (IQR: 4,618 - 8,415) ICU hospitalizations probably as soon as July 14th2020.
+doc47	6	The projections indicate the high impact of social distancing measures and emphasize the applicability of public indicators for COVID-19 monitoring.
+doc5	1	Heart failure frequently coexists with several comorbidities.
+doc5	2	Our aim is to evaluate the prognostic role of various comorbidities in the risk of acute heart failure development.
+doc5	3	Comorbidities of patients with acute heart failure were, retrospectively, compared to a control group of patients with chronic heart failure admitted to an Internal Medicine unit in a 2-year period.
+doc5	4	Logistic regression models were constructed to determine their association with acute heart failure and to develop a comorbidome.
+doc5	5	We identified 229 patients with acute heart failure and 201 patients with chronic heart failure.
+doc5	6	Age and female gender were higher in acute heart failure group (p < 0.001) as was the number of comorbidities (4.0 ± 3.0 vs 4.0 ± 2.0, p = 0.044).
+doc5	7	Hyperuricemia (odds ratio 2.46, confidence interval 95% 1.41 - 4.31, p = 0.002), obesity (odds ratio 2.22, confidence interval 95% 1.31 - 3.76, p = 0.003), atrial fibrillation (odds ratio 1.93, confidence interval 95% 1.31 - 2.87, p = 0.001), peripheral artery disease (odds ratio 2.12, confidence interval 95% 1.01 - 4.42, p = 0.046) and chronic kidney disease (odds ratio 2.47, confidence interval 95% 1.65 - 3.71, p < 0.001) were associated with acute heart failure.
+doc5	8	Obesity, atrial fibrillation, peripheral artery disease and chronic kidney disease were identified as independent risk factors.
+doc5	9	Patients with multiple comorbidities had a superior risk of hospitalization due to heart failure: zero comorbidities - odds ratio 0.43, 95% confidence interval 0.28 - 0.67, p < 0.001; one comorbidity - odds ratio 0.69, 95% confidence interval 0.47 - 1.01, p = 0.057; two comorbidities - odds ratio 1.85, 95% confidence interval 1.11 - 3.08, p = 0.019; ≥ three comorbidities - odds ratio 5.81, 95% confidence interval 2.77 - 12.16, p < 0.001.
+doc5	10	This study shows an association between several comorbidities and hospital admission due to acute heart failure.
+doc5	11	The association seems to strengthen in the presence of multiple comorbidities.
+doc5	12	A comorbidome is a useful tool to identify comorbidities associated with higher risk of acute heart failure.
+doc5	13	The identification of vulnerable patients may allow multidimensional interventions to minimize future hospital admissions.
+doc51	1	Percutaneous intervention in patients with bioprosthetic mitral valve dysfunction is an alternative to conventional surgical treatment.
+doc51	2	To report the first Brazilian experience with transseptal transcatheter bioprosthetic mitral valve-in-valve implantation (transseptal-TMVIV).
+doc51	3	Patients with surgical bioprosthetic dysfunction submitted to transseptal-TMVIV in 12 Brazilian hospitals were included.
+doc51	4	The significance level adopted was p<0.05. From June/2016 to February/2019, 17 patients underwent transseptal-TMVIV.
+doc51	5	Their median age was 77 years (IQR,70-82) and median Society of Thoracic Surgeons predicted risk of mortality (STS-PROM) score was 8.7% (IQR,7.2-17.8).
+doc51	6	All patients had limiting symptoms of heart failure (FC≥III) and 5 (29.4%) had undergone more than one previous thoracotomy.
+doc51	7	Transseptal-TMVIV was successful in all patients.
+doc51	8	Echocardiographic assessment showed a significant reduction in mean mitral valve gradient (pre-intervention, 12±3.8 mmHg; post-intervention, 5.3±2.6 mmHg; p<0.001), in addition to an increase in mitral valve area (pre-intervention, 1.06±0.59 cm2; post-intervention, 2.18±0.36 cm2; p<0.001) sustained for 30 days.
+doc51	9	There was a significant and immediate reduction in the pulmonary artery systolic pressure, with an additional reduction in 30 days (pre-intervention, 68.9±16.4 mmHg; post-intervention, 57.7±16.5 mmHg; 30 days, 50.9±18.7 mmHg; p<0.001).
+doc51	10	During follow-up (median, 162 days; IQR, 102-411), significant clinical improvement (FC≤II) was observed in 87.5% of the patients.
+doc51	11	One patient (5.9%) had left ventricular outflow tract (LVOT) obstruction and died right after the procedure, and another died at 161 days of follow-up.
+doc51	12	The first Brazilian experience with transseptal-TMVIV shows the safety and effectivity of the new technique.
+doc51	13	The LVOT obstruction is a potentially fatal complication, reinforcing the importance of patients' selection and of procedural planning.
+doc51	14	(Arq Bras Cardiol. 2020;
+doc51	15	[online].ahead print, PP.0-0).
+doc55	1	To correlate the functional capacity and quality of life of elderly people admitted to emergency service.
+doc55	2	This is a cross-sectional and analytical study carried out with elderly patients admitted to a university hospital's emergency service in the city of São Paulo, between December 2015 and January 2017.
+doc55	3	Data were collected through interviews using a structured questionnaire, the Medical Outcome Study 36, the Katz of Independence in Activities of Daily Living, and the Functional Independence Measure.
+doc55	4	Two hundred fifty elderly people with a mean age of 71.9 years, male (56.8%), white in color (67.2%), married (54.0%), with low education (32.0%), low income (58.0%), with comorbidities (81.2%) and home providers (53.6%) have participated.
+doc55	5	The most compromised Quality of Life dimensions were physical aspect (11.4%), emotional aspect (21.6%) and functional capacity (25.2%).
+doc55	6	Concerning functional capacity, independence was characterized for Basic Activities of Daily Living and moderate dependence for Instrumental Activities of Daily Living.
+doc55	7	The higher the scores of the Functional Independence Measure, the higher the quality of life scores.
+doc55	8	The more independent the elderly the better their quality of life.
+doc57	1	The rate of saphenous vein graft failure one year after coronary artery bypass grafting ranges from 10% to 25%.
+doc57	2	The aim of this study was to explore whether atorvastatin can reduce accumulation of vascular smooth muscle cells to inhibit intimal hyperplasia via p38 MAPK pathway inhibition.
+doc57	3	Forty-five Sprague-Dawley rats were randomized to three groups.
+doc57	4	Thirty rats received a vein graft operation, and they were randomized to be treated with vehicle or atorvastatin; fifteen rats received a sham operation.
+doc57	5	We detected intimal hyperplasia by hematoxylin-eosin staining and related protein expression by immunohistochemical and Western blot analysis.
+doc57	6	Comparisons were analyzed by single-factor analysis of variance and Fisher's least significant difference test, with p < 0.05 considered significant.
+doc57	7	The intima analyzed by hematoxylin-eosin staining was dramatically thicker in the control group than in the atorvastatin group and sham group (p < 0.01).
+doc57	8	The outcomes of immunohistochemical staining of α-SMA demonstrated that the percentage of α-SMA-positive cells in the control group was higher than in the atorvastatin group (p < 0.01).
+doc57	9	We also evaluated α-SMA, PCNA, p38 MAPK, and phosphorylation of p38 MAPK after statin treatment by Western blot analysis, and the results indicated that atorvastatin did not lead to p38 MAPK reduction (p < 0.05); it did, however, result in inhibition of p38 MAPK phosphorylation (p < 0.01), and it significantly reduced α-SMA and PCNA levels, in comparison with the control group (p < 0.01).
+doc57	10	We have demonstrated that atorvastatin can inhibit accumulation of vascular smooth muscle cells by inhibiting the p38 MAPK pathway, and it is capable of inhibiting intimal hyperplasia in a rat vein graft model.
+doc63	1	Usually viewed as a characteristic of old age, frailty may also occur in non-elderly people, primarily in those suffering from chronic disease.
+doc63	2	Frailty may increase operative risk.
+doc63	3	To determine the prevalence of frailty patients undergoing coronary artery bypass (CABG) and/or heart valve replacement or reconstruction and/or heart valve surgery, as well as the influence of frailty on postoperative outcomes.
+doc63	4	Our study comprised 100 adults who underwent consecutive elective cardiac operations.
+doc63	5	Frailty was assessed using the Fried scale.
+doc63	6	Patients also performed a 6-minute walk test, and we measured maximal inspiratory and expiratory pressures.
+doc63	7	A p value <0.05 was considered significant.
+doc63	8	Of a cohort of 100 patients, based on the Fried frailty criteria, 17 patients (17%) were considered frail, 70 (70%) pre-frail and only 13 (13%) were non-frail.
+doc63	9	Among patients with valvular heart disease, 11 (18.6%) were considered frail and 43 (73%) pre-frail.
+doc63	10	Fifty three percent of the patients considered frail were less than 60 years old (median=48 years old).
+doc63	11	The differences in frailty phenotype between patients with valvular heart disease and coronary artery disease were not statistically significant (p=0.305).
+doc63	12	A comparison between non-frail, pre-frail, and frail patients showed no significant difference in the distribution of comorbidities and cardiac functional status, regardless of their cardiac disease.
+doc63	13	However, hospital mortality was significantly higher in frail patients (29.4%, p=0.026) than in pre-frail patients (8.6%) and non-frail patients (0%).
+doc63	14	Frailty is prevalent even among non-elderly patients undergoing CABG or valvular heart surgery and is associated with higher postoperative hospital mortality.
+doc65	1	This Essay reflects on some current approaches to the promotion of physical activity, proposing greater visibility for leisure-time physical activities and inequalities in access to them.
+doc65	2	The current scenario of increasing inequalities and the importance of confronting them, highlighting the pertinence of public policies, is presented and discussed in light of two theories, the Inverse Equity Hypothesis and the Inverse Care Law.
+doc65	3	The Inverse Equity Hypothesis seeks to understand how inequalities tend to be established in health indicators, based on an expected increase in inequalities when health innovations initially reach the more socially and economically privileged groups.
+doc65	4	Meanwhile, the Inverse Care Law emphasizes that the availability of adequate healthcare tends to vary inversely to the population's need.
+doc65	5	By relating the theories and the promotion of leisure-time physical activity, the essay defends the expansion of public policies aimed at not further increasing inequalities.
+doc65	6	Public policies and their association with Brazilian Unified National Health System (SUS) and its principles should be the priority.
+doc65	7	The essay thus defends approaches to promote socially contextualized leisure-time physical activities, capable of prioritizing the groups that need them the most.
+doc67	1	The goal was to review the literature on incidents and adverse events and their contributing factors in hospital care, described according to the patient's perspective.
+doc67	2	A review was carried out of articles published in the MEDLINE, Scopus and LILACS databases between 2008 and 2019.
+doc67	3	From the 2,686 studies initially found, 167 were pre-selected for reading and then 24 were selected and classified based on a thematic analysis of their content.
+doc67	4	Four categories resulted from the information extracted from the 24 articles: terminology used to define incidents and adverse events, especially different terms such as error and medical error; incidents and adverse events identified by patients, family members and caregivers related to medication, surgery, health care-related infections, falls and pressure injuries; patients' perception of factors that contribute to unsafe care, especially problems related to communication, hand washing and patient identification; suggestions from patients to prevent the occurrence of incidents and adverse events, including training staff, drawing up checklists, listening to patients and adapting the environment.
+doc67	5	Patients were able to identify incidents, adverse events and contributing factors in health care.
+doc67	6	Alongside information from staff, their reports can potentially contribute to the provision of safer health care.
+doc69	1	Echocardiography is essential for the diagnosis and quantification of aortic regurgitation (AR).
+doc69	2	Velocity-time integral (VTI) of AR flow could be related to AR severity.
+doc69	3	This study aims to assess whether VTI is an echocardiographic marker of AR severity.
+doc69	4	We included all patients with moderate or severe native AR and sinus rhythm who visited our imaging laboratory from January to October 2016.
+doc69	5	All individuals underwent a complete echocardiogram with AR VTI measurement.
+doc69	6	The association between VTI and AR severity was analyzed by logistic regression and multivariate regression models.
+doc69	7	A p-value<0,05 was considered statistically significant.
+doc69	8	Among the 62 patients included (68.5±14.9 years old; 64.5%: moderate AR; 35.5%: severe AR), VTI was higher in individuals with moderate AR compared to those with severe AR (2.2±0.5 m vs. 1.9±0.5 m, p=0.01).
+doc69	9	Patients with severe AR presented greater values of left ventricular end-diastolic diameter (LVEDD) (56.1±7.1 mm vs. 47.3±9.6 mm, p=0.001), left ventricular end-diastolic volume (LVEDV) (171±36.5 mL vs. 106±46.6 mL, p<0.001), effective regurgitant orifice (0.44±0.1 cm2vs. 0.18±0.1 cm2, p=0.002), and regurgitant volume (71.3±25.7 mL vs. 42.5±10.9 mL, p=0.05), as well as lower left ventricular ejection fraction (LVEF) (54.1±11.2% vs. 63.2±13.3%, p=0.012). The VTI proved to be a marker of AR severity, irrespective of LVEDD, LVEDV, and LVEF (odds ratio 0.160, p=0.032) and of heart rate and diastolic blood pressure (DBP) (odds ratio 0.232, p=0.044). The VTI of AR flow was inversely associated with AR severity regardless of left ventricular diameter and volume, heart rate, DBP, and LVEF.
+doc69	10	VTI could be a marker of AR severity in patients with native AR and sinus rhythm.
+doc69	11	(Arq Bras Cardiol. 2020;
+doc69	12	[online].ahead print, PP.0-0).
+doc71	1	Previous results on the use of cardiopulmonary bypass (CPB) have generated difficulties in choosing the best treatment for each patient undergoing myocardial revascularization surgery (CABG) in the current context.
+doc71	2	Evaluate the current impact of CPB in CABG in São Paulo State.
+doc71	3	A total of 2905 patients who underwent CABG were consecutively analyzed in 11 São Paulo State centers belonging to the São Paulo Registry of Cardiovascular Surgery (REPLICCAR) I. Perioperative and follow-up data were included online by trained specialists in each hospital.
+doc71	4	Associations of the perioperative variables with the type of procedure and with the outcomes were analyzed.
+doc71	5	The study outcomes were morbidity and operative mortality.
+doc71	6	The expected mortality was calculated using EuroSCORE II (ESII).
+doc71	7	The values of p <5% were considered significant.
+doc71	8	There were no significant differences concerning the patients' age between the groups (p=0.081).
+doc71	9	72.9% of the patients were males.
+doc71	10	Of the patients, 542 underwent surgery without CPB (18.7%).
+doc71	11	Of the preoperative characteristics, patients with previous myocardial infarction (p=0.005) and ventricular dysfunction (p=0.031) underwent surgery with CPB.
+doc71	12	However, emergency or New York Heart Association (NYHA) class IV patients underwent surgery without CPB (p<0.001).
+doc71	13	The ESII value was similar in both groups (p=0.427).
+doc71	14	In CABG without CPB, the radial graft was preferred (p<0.001), and in CABG with CPB the right mammary artery was the preferred one (p<0.001).
+doc71	15	In the postoperative period, CPB use was associated with reoperation for bleeding (p=0.012).
+doc71	16	Currently in the REPLICCAR, reoperation for bleeding was the only outcome associated with the use of CPB in CABG.
+doc71	17	(Arq Bras Cardiol. 2020; 115(4):595-601).
+doc72	1	The sole paragraph of Article 40 of the Brazilian Industrial Property Law determines the extension of the patent term in case of delayed prosecution, guaranteeing 10 years of protection from grant.
+doc72	2	Originally conceived as an exception, this provision became the rule in the case of drug patents, prolonging period of exclusive exploitation.
+doc72	3	This situation impacts both the out-of-pocket spending by families and the budget of the Brazilian Unified National Health System (SUS).
+doc72	4	This study explores the cost to SUS of extending the patent term for nine drugs, which delays the launch of generic or biosimilar alternatives.
+doc72	5	Three groups were analyzed: (a) four patents already extended; (b) three that will be extended if granted; and (c) two drugs with mailbox patents that are in the public domain, but that may have the extension granted by court order.
+doc72	6	Based on the unit values and the total amounts of purchases by the Logistics Department of the Ministry of Health (DLOG), a total expenditure of BRL 10.6 billion on the nine drugs from 2014 to 2018 was estimated.
+doc72	7	The total projected expenditure for the respective extension periods was thus BRL 6.8 billion.
+doc72	8	A market price search for generic alternatives yielded potential savings of BRL 1.2 billion in expenditures by DLOG on four drugs alone.
+doc72	9	Finally, based on the minimum, average, and maximum market price reductions, potential savings of up to BRL 3.9 billion were estimated for DLOG on the purchase of the nine medicines, if the patent terms were not extended.
+doc73	1	Selecting the optimal treatment strategy for coronary revascularization is challenging.
+doc73	2	A crucial endpoint to be considered when making this choice is the necessity to repeat revascularization since it is much more frequent after percutaneous coronary intervention (PCI) than after coronary artery bypass grafting (CABG).
+doc73	3	This study intends to provide insights on patients' preferences for revascularization, strategies in the perspective of patients who had to repeat revascularization.
+doc73	4	We selected a sample of patients who had undergone PCI and were hospitalized to repeat coronary revascularization and elicited their preferences for a new PCI or CABG.
+doc73	5	Perioperative death, long-term death, myocardial infarction, and repeat revascularization were used to design scenarios describing hypothetical treatments that were labeled as PCI or CABG.
+doc73	6	PCI was always presented as the option with lower perioperative death risk and a higher necessity to repeat procedure.
+doc73	7	A conditional logit model was used to analyze patients' choices using R software.
+doc73	8	A p value < 0.05 was considered statistically significant.
+doc73	9	A total of 144 patients participated, most of them (73.7%) preferred CABG over PCI (p < 0.001).
+doc73	10	The regression coefficients were statistically significant for PCI label, PCI long-term death, CABG perioperative death, CABG long-term death and repeat CABG.
+doc73	11	The PCI label was the most important parameter (p < 0.05).
+doc73	12	Most patients who face the necessity to repeat coronary revascularization reject a new PCI, considering realistic levels of risks and benefits.
+doc73	13	Incorporating patients' preferences into benefit-risk calculation and treatment recommendations could enhance patient-centered care.
+doc77	1	To identify the self-reported injectable medications of nursing professionals in the state of São Paulo.
+doc77	2	Survey study that assessed the self-reported frequency of injection medications through a validated electronic questionnaire, applied from September to December 2017.
+doc77	3	The 1,295 computed responses showed non-compliances such as sharing multidose vials for two or more patients (10.8%), reusing single-use supplies, such as use of saline flush syringes for different patients (1.2%) and needle recapping after use (4.9%).
+doc77	4	Greater adherence to glove use for administration of intravenous injections (80.5%) and lack of training for handling safety devices (13%) were reported.
+doc77	5	Correlational data showed that, the older the age, the better the self-reported injecting practices.
+doc77	6	Although most practices are within Safe Injecting practices, there are reports of risky practices, such as sharing single-use supplies.
+doc77	7	Training for the use of safety devices is not yet a reality for all professionals, since many reported it as rare.
+doc81	1	To investigate the influence of speech stimuli in the auditory perceptual identification of hypernasality in individuals with Cleft Lip and Palate (CLP).
+doc81	2	Speech samples from 80 individuals with operated unilateral CLP, ages ranged from nine to 17 years (the mean age of: 12y7m), both genders, were edited for this study.
+doc81	3	Samples were recorded over the production of nine different speech stimuli, including counting and short sentences characterized by oral sounds, one loaded with low pressure consonants and seven loaded with high pressure consonants.
+doc81	4	Three speech-language pathologists rated the presence or absence of hypernasality while analyzing 864 recordings (80 individuals X 9 stimuli + 144 repeated recordings, for measuring the intra-rater agreement).
+doc81	5	Intra-rater and inter-rater indexes of agreement were established for all nine stimulus conditions.
+doc81	6	The indexes of inter-rater agreement were compared using the Z test (p<0.005), with samples comprising significant indexes of agreement interpreted as better stimuli for identifying the hypernasality in these individuals.
+doc81	7	Intra-rater agreement for high pressure stimuli with voiced consonants were significantly lower than indexes for other stimuli.
+doc81	8	Inter-rater agreement between each pair of SLPs ranged from 0.11 (plosive voicing stimuli) to 0.57 (12 short sentences, one of each high pressure consonant).
+doc81	9	The values of mean inter-rater agreement between all SLPs was 0.47 indicating moderate agreement for identifying hypernasal speech.
+doc81	10	Speech recordings obtained over the production of longer speech samples including 12 short sentences, for instance one for each high pressure consonant, may favor inter-rater agreement for identifying hypernasality.
+doc82	1	This study sought to evaluate the frequency and factors associated with non-use of telehealth consultancy by physicians who work in the Family Health Strategy (FHS) in the North of the State of Minas Gerais.
+doc82	2	It is a cross-sectional study that used a previously-tested self-administered questionnaire.
+doc82	3	Poisson regression analysis with robust variance was used after bivariate analysis to identify the factors associated with non-use of telehealth consultancy.
+doc82	4	A total of 385 physicians from 73 municipalities participated in the study.
+doc82	5	The frequency of non-use of telehealth consultancy by physicians in the FHS was 55.8%.
+doc82	6	After multiple analysis, the following variables were identified: the lack of availability of computers and Internet access in the Basic Health Units (BHU) for medical professionals (p = 0.001; PR = 1.10; 95% CI: 1.04-1.17), the lack of information about telehealth consultancy (p< 0.001; PR = 1.47; 95% CI: 1.38-1.56) and lack of training in telehealth consultancy (p < 0.001; PR = 1.15; 95% CI: 1.08-1.24).
+doc82	7	The results support that the informatics infrastructure of the BHU, the dissemination of the service and the training should orient the strategies for implementation, diffusion and improvement of the quality of telehealth consultancy services in primary health care.
+doc86	1	Patients in the postoperative period of myocardial revascularization (Coronary Artery Bypass Grafting - CABG) surgery admitted to the intensive care unit (ICU) are at risk of complications which increase the length of stay and morbidity and mortality.
+doc86	2	Therefore, early recognition of these risks is essential to optimize prevention strategies and a satisfactory clinical outcome.
+doc86	3	To analyze the performance of severity indices in predicting complications in patients in the postoperative of CABG during the ICU stay.
+doc86	4	A cross-sectional study with retrospective analysis of electronic medical records of patients aged ≥ 18 years who underwent isolated CABG and were admitted to the ICU of a cardiology hospital in São Paulo, Brazil.
+doc86	5	The areas under the receiver operating characteristic curves (AUC) with a 95% confidence interval were analyzed to verify the accuracy of the European System for Cardiac Operative Risk Evaluation (EuroScore), Acute Physiology and Chronic Health Evaluation (APACHE II), Simplified Acute Physiology Score (SAPS II) and Sequential Organ Failure Assessment (SOFA) indices in predicting complications.
+doc86	6	The sample consisted of 366 patients (64.58 ± 9.42 years; 75.96% male).
+doc86	7	The complications identified were: respiratory (24.32%), cardiovascular (19.95%), neurological (10.38%), hematological (10.38%), infectious (6.56%) and renal (3.55%).
+doc86	8	APACHE II showed satisfactory performance for predicting neurological (AUC 0.72) and renal (AUC 0.78) complications.
+doc86	9	APACHE II excelled in predicting neurological and renal complications.
+doc86	10	None of the indices performed well in predicting the other analyzed complications.
+doc86	11	Therefore, severity indices should not be used indiscriminately in order to predict all complications frequently presented by patients after CABG.
+doc86	12	(Arq Bras Cardiol. 2020; 115(3):452-459).
+doc88	1	Immunity against measles may result from previous contact with the virus or vaccination.
+doc88	2	In this study we aimed to evaluate the prevalence of immunity to measles in healthcare professionals of a central hospital.
+doc88	3	Retrospective study, with description of the results of measles-specific IgG assay in healthcare professionals, between May 2010 and March 2018.
+doc88	4	The results of 1339 healthcare professionals were analyzed.
+doc88	5	The average age was 39.3 ± 10.11 years, 71.1% female.
+doc88	6	The prevalence of positive IgG was 81.5%, higher among professionals in the age groups 40 - 49 and over 50 years (91.9% and 94.6% respectively).
+doc88	7	Healthcare professionals who presented negative or equivocal IgG were mostly under 40 years old (83.1%) (p < 0.05). The prevalence of serological immunity to measles in healthcare professionals was found to be lower than in other studies.
+doc88	8	That may be due to differences between the characteristics of the studied samples.
+doc88	9	Susceptibility to measles was higher in lower age groups.
+doc88	10	These results may reflect low vaccination coverage in this age group, an incomplete vaccination schedule, or the possibility of older healthcare professionals having the disease, which may confer an immune response with higher IgG levels.
+doc88	11	Knowing the prevalence of susceptibility to measles in healthcare professionals enabled the establishment of prevention strategies for outbreaks that may occur.
+doc88	12	Vaccination remains the best preventative measure, but a third dose of vaccine may be considered in certain epidemiological contexts, particularly in the youngest exposed healthcare professionals.
+doc89	1	To describe organ donations and transplants in Ceará state, Brazil, following the declaration of the COVID-19 pandemic.
+doc89	2	This was a descriptive study using data from the Brazilian Organ Transplantation Association.
+doc89	3	The number of donors and transplants from April to June 2020 was compared to the same period in 2019 and to the first quarter of 2020.
+doc89	4	In the first half of 2020, the state registered 72 effective donors, just 17 (23.6%) of whom related to the second quarter.
+doc89	5	Of the 352 transplants in the first half of 2020, 37 (10.7%) were performed in the second quarter.
+doc89	6	Compared with the period from April to June 2019, there was a reduction of 67.9% and 89.3% in the number of donors and transplants, respectively, in the same period of 2020.
+doc89	7	The number of donors and transplants in Ceará showed an important fall in the three months following the declaration of the COVID-19 pandemic, especially for kidney, heart and cornea transplants.
+doc9	1	To analyze factors associated with poor access to health services among the Brazilian population aged 19 years or older.
+doc9	2	This is a cross-sectional study based on data from the 2013 National Health Survey, obtained from a complex sample.
+doc9	3	The poor access outcome was defined as not having received care the last time the participant sought a health service and not seeking care again for lack of accessibility.
+doc9	4	We analyzed the prevalence of poor access and its association with socioeconomic and health factors by calculating prevalence ratios (PR) with 95% confidence intervals.
+doc9	5	We also used Poisson's multivariate regression model with the Wald test for robust estimation.
+doc9	6	Out of the 60,202 valid responses, 12,435 individuals met the criteria for poor access.
+doc9	7	Poor access had a prevalence of 18.1% (95%CI 16.8 - 19.4) and was associated with the following factors: being black/multiracial (PR = 1.2; 95%CI 1.0 - 1.4); living in the North (PR = 1.5; 1.3 - 1.9) and Northeast (PR = 1.4; 1.2 - 1.6) regions compared to the Southeast region; living in a rural area (PR = 1.2; 1.1 - 1.4); being a smoker (PR = 1.2; 1.0 - 1.4); having poor/very poor self-rated health (PR = 1.3; 1.1 - 1.6); not having private health insurance (PR = 2.3; 1.7 - 2.9).
+doc9	8	Access to health services is still precarious for a considerable part of the Brazilian population, especially the most vulnerable groups.
+doc90	1	To describe the characteristics of deaths due to COVID-19 in the state of Rondônia.
+doc90	2	This was a descriptive study, with data from the Brazilian National Health System Epidemiological Surveillance System Computerization Strategy
+doc90	3	(E-SUS-VE, notified between January 1 and August 20, 2020.
+doc90	4	Statistical tests (Chi-square and Marascuilo procedure) were applied, where differences were considered to be significant when p< 0.05. 184,146 suspected cases were reported, of which 49,804 were confirmed as COVID-19, and 1,020 died (lethality 2.1%).
+doc90	5	Statistically significant differences were observed between age groups and lethality (p-value <0.001); lethality was greater as age increased (Marascuilo procedure, significant in the comparison between the over 60s and the other age groups); death was higher among males (2.7% lethality); and lethality was higher among Black people (3.0%).
+doc90	6	Lethality was greater among the elderly, males and people of brown and black skin color in Rondônia.
+doc91	1	To analyze the limit-situations experienced by nurses in child health care practices, from the perspective of empowerment in health promotion.
+doc91	2	This is a qualitative approach Participatory Action Research, supported by Paulo Freire's Research Itinerary, developed through Culture Circles, consisting of three stages: thematic investigation, coding and decoding and critical unveiling.
+doc91	3	13 Culture Circles were held with nurses from the Family Health Strategy of five Basic Health Units in the city of Manaus, Amazonas.
+doc91	4	A total of 16 nurses participated and 20 generating themes emerged from the Culture Circles, six of which were considered limit-situations by the participants: accumulation of activities; difficulty monitoring and following-up children; work focused on productivity; lack of training; limited human resources; difficulty in reception.
+doc91	5	The study contributed to strengthening nurses through reflective dialogues on the realities experienced, increasing awareness and enabling interventions to transform their practices in child health care.
+doc92	1	To verify whether the use of Hylan G-F20 improves saline lavage and triamcinolone injection results in the treatment of hip osteoarthritis (HOA).
+doc92	2	82 patients with HOA categorized as grades II and III severity, according to Kellgren and Lawrence criteria, were randomized into the groups: lavage and triamcinolone (G0); lavage, triamcinolone, and 2 mL of hylan G-F20 (G1); lavage, triamcinolone, and 4mL of hylan G-F20 (G2); lavage, triamcinolone, and 6mL of hylan G-F20 (G3).
+doc92	3	The VAS, range of motion (ROM), WOMAC, and Lequesne questionnaires were administered at baseline, one, three, six, and twelve months post-injection.
+doc92	4	All groups showed clinically relevant improvements (> 20%) between baseline and first month post-injection, maintaining subjective results throughout the study period (p < 0.001).
+doc92	5	We found no differences between groups in any subjective evaluations (p > 0.05, for all).
+doc92	6	G2 and G3 obtained improved flexion results up to a year (p = 0.028).
+doc92	7	Hylan groups presented an improved external rotation since the first postoperative month and maintained the results up to a year (G1, p = 0.041; G2, p = 0.007), whereas G0 showed no improvement (p = 0.336).
+doc92	8	Hip lavage and triamcinolone injection, with or without the use of hylan, improves pain, function, and quality of life up to a year in HOA.
+doc92	9	Hylan may improve ROM up to one year.
+doc93	1	To describe the surgical treatment of fractures that involves the hallux interphalangeal joint, current indications and management options. we performed a literature review of relevant clinical studies in multiple databases, including PubMed, MedLine and Scopus, from January 1989 to October 2020.
+doc93	2	There is consensus for surgical treatment of intra-articular fractures with a deviation greater than 2 mm, metadiaphyseal fractures with malrotation and/or malangulation, open fractures and unstable fractures.
+doc93	3	The use of more rigid implants allow alignment maintenance during healing process and lower risk of reduction loss.
+doc93	4	Valgus deformity and interphalangeal joint osteoarthritis are possible complications that must be avoided.
+doc94	1	To identify the average direct cost of the procedures performed for phlebitis treatment in patients in an Inpatient Unit and estimate the costs of the procedures performed to treat phlebitis in this unit.
+doc94	2	A quantitative, exploratory-descriptive, single-case study.
+doc94	3	Initially, records of the procedures performed for phlebitis management were identified.
+doc94	4	Then, the cost was calculated by multiplying the execution time (timed using a chronometer) spent by nursing technicians by the unit cost of direct labor, added to the cost of materials in 2017. 107 phlebitis referring to 96 patients were reported.
+doc94	5	To treat the different grades of phlebitis, three procedures were carried out "application of ointment of chamomile flower extract";
+doc94	6	"Compress application";
+doc94	7	"Peripheral venous access installation".
+doc94	8	"Peripheral venous access installation with Íntima® catheter" corresponded to the most expensive procedure (US$ 8.90-SD=0.06).
+doc94	9	Considering the record of the execution of 656 (100%) procedures, the total average direct cost estimate corresponded to US$ 866.18/year. Knowledge about the costs of procedures can support decision making that increase allocation efficiency of consumed resources.
+doc95	1	Electrical isolation of the pulmonary veins is recognized as the cornerstone of non-pharmacological treatment of Atrial Fibrillation (AF), and therefore, has been recommended as the first step in AF ablation according to all guidelines.
+doc95	2	Even though the cryoballoon technology is widely used in North America and Europe, this experience is still incipient in many developing countries such as Brazil.
+doc95	3	To evaluate initial results regarding success and safety of the new technology in patients with persistent and paroxysmal AF.
+doc95	4	One hundred and eight consecutive patients with symptomatic AF refractory to pharmacological treatment were submitted to cryoablation for isolation of the pulmonary veins.
+doc95	5	Patients were separated into two groups according to AF classification: persistent (AF for over one week); or paroxysmal (shorter episodes).
+doc95	6	Recurrence and procedural safety data were analyzed respectively as primary and secondary outcomes.
+doc95	7	The level of significance was 5%.
+doc95	8	One hundred and eight patients, with mean age 58±13 years, 84 males (77.8%), underwent cryoablation.
+doc95	9	Sixty-five patients had paroxysmal AF (60.2%) and 43 had persistent AF (39.2%).
+doc95	10	The mean time of the procedure was 96.5±29.3 minutes and the mean fluoroscopy time was 29.6±11.1 minutes.
+doc95	11	Five (4.6%) complications were observed, none fatal.
+doc95	12	Considering a blanking period of 3 months, 21 recurrences (19.4%) were observed in a one-year follow-up period.
+doc95	13	The recurrence-free survival rates of AF in the paroxysmal and persistent groups were 89.2% and 67.4%, respectively.
+doc95	14	Cryoablation for electrical isolation of the pulmonary veins is a safe and effective method for the treatment of AF.
+doc95	15	Our results are consistent with other studies suggesting that this technology can be used as an initial technique even in cases of persistent AF.
+doc96	1	This study sought to determine serum sclerostin (SOST) expression in patients with osteoporotic thoracolumbar vertebral compression fractures before and after percutaneous kyphoplasty (PKP).
+doc96	2	Serum SOST levels were quantified with a sandwich enzyme-linked immunosorbent assay (ELISA) preoperatively and six months postoperatively.
+doc96	3	Anterior vertebral height, kyphotic angles, and Visual Analogue Scale (VAS) scores were also recorded.
+doc96	4	Serum SOST was highly expressed in patients and remained negatively correlated with bone mineral density (BMD).
+doc96	5	Vertebral heights, local kyphotic angles, and VAS scores were all significantly improved after PKP.
+doc96	6	However, serum SOST was positively correlated with BMD six months after surgery.
+doc96	7	PKP was an effective treatment strategy for osteoporotic thoracolumbar vertebral compression fractures, improving BMD and decreasing serum SOST levels.
+doc97	1	Differences between the updated versions of the Brazilian Guideline on Dyslipidemias and the American Heart Association (AHA)/American College of Cardiology (ACC) Cholesterol Guideline regarding cardiovascular risk stratification and statin eligibility are unknown.
+doc97	2	To compare cardiovascular risk categorization and statin eligibility based on the Brazilian guideline with those based on the AHA/ACC guideline in primary prevention patients.
+doc97	3	We retrospectively analyzed individuals aged 40-74 years without high-risk conditions, with LDL-c 70 to < 190 mg/dL, not on lipid-lowering drugs, who underwent routine clinical assessment.
+doc97	4	Cardiovascular risk was stratified according to the Brazilian and the AHA/ACC guidelines.
+doc97	5	Subjects were considered eligible for statin therapy if LDL-c was at least 30 mg/dL above the target for the cardiovascular risk (Brazilian guideline) or the 10-year atherosclerotic cardiovascular disease risk was ≥7.5% (AHA/ACC guideline).
+doc97	6	A p-value < 0.05 was considered statistically significant.
+doc97	7	The study sample consisted of 18,525 subjects (69% male, age 48 ± 6 years).
+doc97	8	Among subjects considered at intermediate or high risk by the Brazilian guideline, over 80% would be in a lower risk category by the AHA/ACC guideline.
+doc97	9	Among men, 45% and 16% would be statin eligible by the Brazilian and the AHA/ACC guidelines criteria, respectively (p < 0.001).
+doc97	10	Among women, the respective proportions would be 16% and 1% (p < 0.001).
+doc97	11	Eighty-two percent of women and 57% of men eligible for statins based on the Brazilian guideline criterion would not be eligible according to the AHA/ACC guideline criterion.
+doc97	12	Compared with the AHA/ACC guideline, the Brazilian guideline classifies a larger proportion of primary prevention patients into higher-risk categories and substantially increases statin eligibility.
+doc97	13	(Arq Bras Cardiol. 2020; 115(3):440-449).
+doc98	1	This study aimed to validate the Brazilian version of the item banks for Sleep Disturbance and Wake Disturbance from the Patient-Reported Outcomes Measurement Information System (PROMIS).
+doc98	2	Validation of these item banks used classical test theory, item response theory, calibrations of items according to the gradual response model proposed by Samejima, and analysis of Differential Item Functioning (DIF), with a sample consisting of 627 participants over 18 years of age.
+doc98	3	As for data quality, there were no missing data, five items from the Sleep Disturbance bank and four items from the WE bank showed a floor effect, and none of the banks showed a ceiling effect.
+doc98	4	The two banks displayed excellent reliability with homogeneous scale and good temporal stability.
+doc98	5	With confirmatory factor analysis, using absolute and incremental goodness-of-fit indices, both banks displayed good fit, showing that the instruments are valid and sufficiently unidimensional.
+doc98	6	The calibration showed that the items' psychometric properties were satisfactory with good coverage of the sleep-wake construct.
+doc98	7	As for DIF, both the Sleep Disturbance and Wake Disturbance banks proved to be homogeneous for the different test groups.
+doc98	8	In conclusion, the version in Brazilian Portuguese for the item banks on Sleep Disturbance and Wake Disturbance in the PROMIS proved to be a reliable, precise, and valid instrument with robust psychometric analyses.
+doc99	1	According to the World Health Organization, quality of life is defined as the perception an individual has on his/her position within the cultural context and the system of values in which he/she is contained.
+doc99	2	This perception is intrinsically related to the objectives, expectations, patterns, and concerns of such an individual.
+doc99	3	We know that when a member of a family is assailed by an ailment, the quality of life of all of those who surround him/her suffer a strong impact.
+doc99	4	One of the great concerns of the families regarding the development of a child with Autism Spectrum Disorder (ASD) is the lack or impairment of the child's speech.
+doc99	5	Thus, the objective of this study was to analyze the interference of the communicative means of children with ASD upon the quality of life of their mothers.
+doc99	6	This was a transversal study.
+doc99	7	The sample was obtained from 41 mothers of children diagnosed with ASD by a multi-disciplinary team: the mothers were divided into two groups: 20 mothers of non-verbal children-GASD-NV; and 21 mothers of verbal children-GASD.
+doc99	8	We applied the WHOQOL-Bref questionnaire to score and analyze the quality of life of these mothers.
+doc99	9	There was no significant difference in the maternal perception related to the domains that reflected the quality of life which we compared between these two groups of mothers.
+doc99	10	In both groups, we observed high indexes of dissatisfaction.
+doc99	11	We verified that the quality of life of the mothers of children with ASD was affected regardless of the communicative means used by the child.

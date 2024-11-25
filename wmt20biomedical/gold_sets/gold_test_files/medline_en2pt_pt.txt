@@ -1,0 +1,466 @@
+doc10	1	Este estudo investigou a utilização dos serviços de saúde segundo determinantes sociais, comportamentos em saúde e qualidade de vida entre diabéticos.
+doc10	2	A amostra foi composta por 416 diabéticos cadastrados na Estratégia Saúde da Família de um município do Nordeste do Brasil.
+doc10	3	A análise dos dados incluiu estatísticas descritivas, bivariadas e multivariada por meio da modelagem de Árvore de Decisão usando o algoritmo Chi-squared Automatic Interaction Detector (CHAID).
+doc10	4	Evidenciou-se expressiva utilização dos serviços públicos de saúde (80,7%).
+doc10	5	A utilização do serviço público de saúde com regularidade envolveu indivíduos com escolaridade baixa ou média (p < 0,001), empregados ou aposentados e/ou pensionistas (p = 0,019), com alto impacto do diabetes na qualidade de vida (p = 0,032), e que realizavam a quantidade recomendada de exames de glicemia em jejum ao ano (p < 0,001).
+doc10	6	A utilização dos serviços de saúde pôde ser explicada por diferenças relacionadas aos determinantes sociais, aos comportamentos em saúde e ao impacto do diabetes na qualidade de vida dos usuários.
+doc12	1	Avaliar a satisfação profissional e a sobrecarga de trabalho dos enfermeiros atuantes em serviços de saúde mental e realizar uma comparação em relação aos demais profissionais do serviço.
+doc12	2	Estudo transversal, com amostragem por critério de conveniência, realizado em 2016 com 61 profissionais da área de saúde mental dos Centros de atenção psicossocial de um município localizado no extremo sul do Brasil.
+doc12	3	Para coleta de dados foi aplicado um questionário sociodemográfico e as Escalas de avaliação do impacto do trabalho (Impacto-Br) e de satisfação da equipe (Satis-Br).
+doc12	4	A análise dos dados foi realizada através do programa SPSS 21.0.O nível de sobrecarga global dos enfermeiros foi de 2,92 ± 0,42 e de satisfação global de 3,38 ± 0,51.
+doc12	5	Quando avaliado os escores na escala Satis-Br, houve uma diminuição estatisticamente significativa nos níveis de satisfação dos enfermeiros (3,36 ± 0,77) em relação aos demais profissionais atuantes no serviço (3,78 ± 0,56) no escore qualidade dos serviços oferecido (p = 0,04).
+doc12	6	O fator que promoveu maior nível de sobrecarga de trabalho entre os enfermeiros estão relacionados ao sentimento de se sentir fisicamente cansado (2,99 ± 0,92).
+doc12	7	Já o fator que promoveu maior satisfação profissional está relacionado ao bom relacionamento com a equipe (4,06 ± 0,65).
+doc13	1	As troponinas cardíacas T e I são marcadores considerados altamente sensíveis e específicos para o diagnóstico de infarto agudo do miocárdio.
+doc13	2	Atualmente, com o advento dos ensaios ultrassensíveis, uma série de anormalidades não primariamente cardíacas pode se manifestar por meio da elevação destes ensaios.
+doc13	3	A redução de seu limiar de detecção promoveu maior precocidade no diagnóstico e na utilização de medidas terapêuticas baseadas em evidência, no entanto, esta característica aumentou o espectro de doenças cardíacas não coronarianas detectáveis, trazendo desafios para a caracterização das síndromes coronarianas agudas e um novo papel para estes testes nas desordens conhecidas no ambiente das unidades de tratamento intensivo, em especial na sepse.
+doc13	4	A abordagem de pacientes por meio de um maior entendimento do comportamento destes marcadores deve ser redimensionada para sua correta interpretação.
+doc15	1	A diabetes mellitus é uma doença crónica, com uma prevalência crescente a nível mundial.
+doc15	2	As complicações da diabetes são uma causa major de morbilidade e mortalidade, condicionando custos importantes na área da saúde.
+doc15	3	Neste artigo é efetuada uma revisão das manifestações cutâneas mais frequentes presentes em doentes com diabetes e pré-diabetes.
+doc15	4	O reconhecimento atempado destas entidades é fulcral, levando não só a uma avaliação atempada do perfil metabólico como a uma referenciação e tratamento precoces.
+doc15	5	Desta forma, é possível minimizar os efeitos secundários da diabetes a longo prazo, melhorando significativamente o prognóstico dos doentes.
+doc2	1	A singularidade das categorias de enfermagem na participação sociopolítica, especificamente sua ação coletiva, é a temática analisada.
+doc2	2	O artigo associa as condicionantes: origem social e aspectos do mercado de trabalho à ação política dos profissionais.
+doc2	3	A partir da associação analítica do estudo de caso ampliado, articulamos a interpretação da base de dados da Pesquisa Perfil da Enfermagem no Brasil, especificamente, sob os eixos: identificação socioeconômica, mercado de trabalho e condições de trabalho, com estudo etnográfico e entrevistas semiestruturadas em três unidades hospitalares.
+doc2	4	A revisão bibliográfica demonstra a inserção desses indivíduos sem secundarizar sua particularidade: o processo histórico de proletarização na formação social brasileira, a inserção feminina no mercado de trabalho e a relação com sindicatos.
+doc2	5	O histórico dos trabalhadores pautados pela inexperiência em ações de resistência ou representação sindical, associado à valorização do emprego como ascensão social resultam na configuração de regimes de trabalho assimétricos, elemento dificultador de ações organizadas, aspecto fundamental para a melhora das condições de trabalho.
+doc20	1	O artigo propõe uma discussão a respeito da fundação da Santa Casa de Misericórdia de Campos dos Goytacazes e seus desdobramentos na sociedade local, além de um breve estudo sobre os dois primeiros provedores e suas redes (1792-1795).
+doc20	2	A instituição foi inaugurada em 1792, no auge das transformações ocorridas na Europa.
+doc20	3	Em Portugal, o intendente-geral da Polícia de dona Maria I, Diogo Inácio de Pina Manique, planejava reformas à frente da administração da saúde pública.
+doc20	4	Analisam-se, dentro desse contexto, as questões que motivaram a instalação da referida Misericórdia e suas relações com as dinâmicas sociais e políticas típicas de Antigo Regime, ainda enraizadas na sociedade colonial e que adentrariam o século XIX.
+doc21	1	Este estudo teve como objetivo analisar a evidência científica nacional e internacional existente sobre o motivo do estoque e a forma de descarte dos medicamentos no domicílio.
+doc21	2	Realizou-se uma revisão sistemática da literatura de 2001 a 2016 nas bases de dados PubMed, Lilacs e Elsevier’s Scopus Database, utilizando os seguintes unitermos: "Disposal of medicines in household", "Disposal of expired drugs", "Residential expired drugs", "Management of expired medications in household".
+doc21	3	Foram selecionados 33 estudos originais após aplicação dos critérios de inclusão e exclusão.
+doc21	4	Os estudos analisados demonstraram que os principais motivos de estoque no domicílio foram: automedicação; guarda para uso futuro e sobras de tratamentos anteriores.
+doc21	5	E quanto ao descarte dos medicamentos, prevalecem práticas inadequadas, como descarte no lixo comum e na rede de esgoto.
+doc21	6	Alguns países têm adotado programas de orientação sobre o armazenamento e o descarte correto, no entanto, foi apenas encontrado um estudo que descreve um programa nacional gratuito, para orientar essas práticas.
+doc21	7	A partir das evidências cientificas verificou-se a importância do incentivo para a elaboração e a implementação de políticas públicas voltadas para o uso e descarte adequado de medicamentos no domicílio.
+doc23	1	CONTEXTO
+doc23	2	O oclacitinib é um inibidor da Janus quinase (JK) 1 que demonstrou ser eficaz e seguro para o tratamento da dermatite alérgica em cães.
+doc23	3	Seu uso em gatos é limitado pela ausência de dados farmacocinéticos.
+doc23	4	OBJETIVO
+doc23	5	Determinar os parâmetros farmacocinéticos do oclacitinib em gatos após administração oral e intravenosa.
+doc23	6	ANIMAIS
+doc23	7	Seis gatos domésticos de pelo curto.
+doc23	8	MÉTODOS E MATERIAIS: Utilizou-se um delineamento experimental de dois períodos, dois tratamentos, no qual os gatos receberam maleato de oclacitinib IV e VO, na dose de 0,5 mg / kg e 1 mg / kg, respectivamente.
+doc23	9	Um intervalo de uma semana entre os dois tratamentos foi instituído para eliminação dos fármacos.
+doc23	10	Os gatos receberam cada tratamento apenas uma vez.
+doc23	11	A concentração plasmática de oclacitinib foi determinada por cromatografia líquida de alta eficiência aos 0 min, 5 min, 15 min, 30 min, 1 h, 4 h, 6 h, 10 h e 24 h após administração IV, aos 0 min, 15 min, 30 min, 1 h, 2 h, 4 h, 6 h, 10 h e 24 h depois de administração por VO.
+doc23	12	RESULTADOS
+doc23	13	Após a administração VO, o oclacitinib foi absorvido rápida e quase completamente, como demonstrado pela biodisponibilidade absoluta de 87% e Tmax de 35 min.
+doc23	14	A eliminação do fármaco também foi muito rápida, como evidenciado pela meia-vida de 2,3 h e pela depuração calculada como 4,45 mL / min / kg (após administração intravenosa).
+doc23	15	CONCLUSÕES E IMPORTÂNCIA CLÍNICA: Os parâmetros farmacocinéticos do oclacitinib no gato são semelhantes aos descritos para o cão, embora a absorção e a eliminação sejam um pouco mais rápidas e a variabilidade entre os indivíduos seja um pouco maior.
+doc23	16	São recomendadas doses maiores e / ou intervalos de administração mais curtos em gatos para atingir concentrações sanguíneas semelhantes às dos cães.
+doc25	1	OBJETIVO
+doc25	2	Identificar o conhecimento da população referente aos termos “sepse” e “infarto agudo do miocárdio” (IAM).
+doc25	3	MÉTODO
+doc25	4	Estudo transversal, quantitativo.
+doc25	5	Coleta de dados realizada com aplicação de um questionário, para dois grupamentos de participantes distintos: frequentadores de parques selecionados de Porto Alegre/RS e acompanhantes de pacientes internados em um hospital universitário de Porto Alegre/RS.
+doc25	6	A análise dos resultados foi realizada pela estatística descritiva e inferencial.
+doc25	7	RESULTADOS
+doc25	8	A amostra constitui-se de 1986 entrevistados, 1455 de parques e 531 acompanhantes de pacientes internados no hospital.
+doc25	9	Em relação ao conhecimento de sepse, apenas 19,1% dos entrevistados já tinham ouvido falar sobre o tema, já, em comparação ao conhecimento do IAM, 98,7% souberam responder sobre o termo.
+doc25	10	CONCLUSÕES
+doc25	11	Evidenciou-se que o déficit de conhecimento da população sobre o termo “sepse” está diretamente relacionado com o nível social dos entrevistados, demonstrando um déficit no acesso à informação no cuidado em saúde.
+doc27	1	CONTEXTO
+doc27	2	Ainda não foram identificadas características clínicas e histopatológicas marcantes de dermatite pustular (PustD) em cães com leishmaniose canina (CanL); não há relatos de associação entre CanL e PustD.
+doc27	3	OBJETIVOS
+doc27	4	Caracterizar uma série de cães afetados pelo CanL e PustD pruriginosa e avaliar uma possível associação entre as duas condições.
+doc27	5	ANIMAIS
+doc27	6	Quatorze cães e um banco de dados de 2.420 casos.
+doc27	7	MÉTODOS E MATERIAIS: Um estudo retrospectivo clínico e histopatológico foi realizado com 14 cães.
+doc27	8	Utilizou-se imuno-histoquímica de Leishmania (IHC) e PCR em tempo real para L. infantum de biópsias de pele.
+doc27	9	Avaliou-se a associação de PustD com CanL com o teste exato de Fisher usando o banco de dados de 2.420 casos.
+doc27	10	RESULTADOS
+doc27	11	Os cães foram caracterizados: clinicamente como dermatite estéril pruriginosa generalizada ou dermatite pápulo-pustular não responsiva a antibióticos; e histopatologicamente como pústulas neutrofílicas e dermatite perivascular neutrofílica e mastocítica com vasodilatação e edema.
+doc27	12	A IHC revelou formas amastigotas de Leishmania em seis casos e a PCR foi positiva em três dos oito casos negativos na IHC.
+doc27	13	Os tratamentos anti-leishmania e imunomoduladores controlaram os sinais clínicos.
+doc27	14	A diferença na frequência de PustD em cães com CanL e sem CanL foi estatisticamente significante (P <0,001).
+doc27	15	CONCLUSÕES: Existe uma associação entre PustD e CanL. Pelo menos nas áreas endêmicas de Leishmania, a CanL deve ser descartado antes de se tentar um tratamento imunossupressor em cães com PustD com as características mencionadas acima.
+doc27	16	Recomenda-se o estadiamento da CanL através de métodos de diagnóstico, incluindo IHC e PCR.
+doc27	17	O tratamento anti-leishmania e o uso medicamentos anti-inflamatórios ou imunomoduladores de baixa dose em cursos curtos a médios são eficazes no controle dos sinais clínicos de PustD.
+doc29	1	DESFECHOS PARA ADULTOS COM PARALISIA CEREBRAL
+doc29	2	REVISÃO SISTEMÁTICA UTILIZANDO A CLASSIFICAÇÃO INTERNACIONAL DE FUNCIONALIDADE, INCAPACIDADE E SAÚDE: OBJETIVO: No contexto do desenvolvimento de um conjunto de itens da Classificação Internacional de Funcionalidade, incapacidade e saúde (CIF) para adultos com Paralisia Cerebral (PC), essa revisão sistemática busca identificar os desfechos mensurados em estudos com adultos com PC, examinado esses conteúdos com referências baseadas na CIF, e identificar as áreas mais estudadas nesta população.
+doc29	3	MÉTODOS: Embase, MEDLINE, Web of Science, PsycINFO, CINAHL, Cochrane, e Google acadêmico foram consultados para seleção de estudos com adultos com PC, publicados no período entre 2000 e 2007.
+doc29	4	Conceitos relevantes de medidas de desfecho comumente utilizadas foram relacionados à CIF e a frequência das categorias da CIF foram analisadas.
+doc29	5	RESULTADOS
+doc29	6	Dos 274 artigos incluídos, 332 desfechos foram identificados, dos quais 155 foram comumente usados.
+doc29	7	No total, 4409 conceitos relevantes foram relacionados à CIF.
+doc29	8	O componente ‘Atividades e Participação’ foi o mais frequente entre as categorias, seguido por ‘Função corporal’.
+doc29	9	As categorias mais frequentes foram b280 ‘sensação de dor’ (37,6%), d450 ‘Andar’ (33,3%), e d850 ‘Trabalho Remunerado’ (27,5%).
+doc29	10	INTERPRETAÇÃO: A grande gama de categorias da CIF identificadas nesta revisão sistemática enfatiza a heterogeneidade de funcionalidade e incapacidade em adultos com PC.
+doc29	11	Os resultados encontrados refletem especificamente a perspectiva dos pesquisadores e servirá como categorias candidatas a serem consideradas no desenvolvimento de um conjunto de itens da CIF para adultos com PC.
+doc31	1	Os ácidos graxos poli-insaturados (AGPIs) ômega-3 (n-3) de cadeia longa, como os ácidos eicosapentaenoico e docosa-hexaenoico, têm sido associados à saúde humana em todas as etapas da vida, do desenvolvimento fetal ao envelhecimento.
+doc31	2	Esses AGPIs atuam como precursores de vários metabólitos envolvidos na prevenção de algumas doenças.
+doc31	3	Os efeitos reconhecíveis desses suplementos antes da gravidez (maturação dos oócitos), durante a gravidez (melhora do risco de parto prematuro, entre outros) e nos descendentes (em termos de função cognitiva e abordagem dos distúrbios do neurodesenvolvimento) são apresentados nesta revisão narrativa.
+doc31	4	Concluiu-se que a difusão desses suplementos pode melhorar o prognóstico desses pacientes de maneira simples, eficaz, e com altas taxas de segurança.
+doc32	1	OBJETIVO
+doc32	2	descrever a organização dos serviços de saúde para diagnóstico e tratamento dos casos de tuberculose na cidade de Manaus, Amazonas, Brasil.
+doc32	3	MÉTODOS
+doc32	4	estudo descritivo de 156 casos novos de tuberculose diagnosticados e residentes em Manaus, em 2014, caracterizados quanto aos aspectos socioeconômicos, demográficos, processo saúde-doença, relação com os serviços de saúde e resultado do tratamento, mediante aplicação de questionários individuais no 1o e no 6o mês de tratamento.
+doc32	5	RESULTADOS
+doc32	6	cerca de 70% dos casos foram diagnosticados no centro de referência para tuberculose; a maioria deles desconhecia existir agente comunitário de saúde em seu bairro; quanto ao acompanhamento de tratamento, 55,3% necessitam ingressar em filas para marcação de consultas; somente 67,3% dos casos foram acompanhados pelo mesmo profissional durante todo o tratamento.
+doc32	7	CONCLUSÃO
+doc32	8	os achados indicam presença de barreiras no diagnóstico e tratamento dos casos, tanto no centro de referência como nas unidades de atenção primária à saúde.
+doc33	1	O objetivo do presente estudo foi adaptar transculturalmente o instrumento “The Body-related Self-Conscious Emotions Fitness Instrument (BSE-FIT)” para a língua portuguesa brasileira.
+doc33	2	O processo de adaptação envolveu as seguintes etapas: tradução do BSE-FIT para a língua portuguesa; avaliação pelo Comitê de Juízes; retrotradução; análise semântica; e pré-teste.
+doc33	3	Os membros do Comitê de Juízes apontaram dificuldades na tradução do termo “fitness” e questionaram que o significado da palavra na língua portuguesa é mais amplo do que “forma física”, relacionando-o também ao que o corpo é capaz de fazer.
+doc33	4	Na análise semântica foram observadas dificuldades de compreensão no item 4 (orgulhoso do meu preparo físico superior) e optou-se por alterar para “orgulhoso do meu superior preparo físico” para facilitar o entendimento.
+doc33	5	Na etapa de pré-teste não foram observadas dificuldades de preenchimento ou compreensão dos itens e o processo de adaptação transcultural foi encerrado.
+doc33	6	Ao final, alcançaram-se as equivalências semântica, idiomática, conceitual e cultural do instrumento adaptado, além da validade de face e conteúdo.
+doc33	7	Contudo, para que o BSE-FIT possa ser empregado para a população brasileira é necessária a validação das propriedades métricas do mesmo, cujo estudo está em desenvolvimento.
+doc35	1	OBJETIVO
+doc35	2	Analisar as atitudes de responsabilidade filial sobre a institucionalização dos pais idosos.
+doc35	3	MÉTODOS
+doc35	4	Estudo qualitativo com amostra intencional de 100 filhos cuidadores de idosos de duas Unidades de Saúde de Porto Alegre/RS.
+doc35	5	As informações foram coletadas em 2014, por meio de entrevista semiestruturada.
+doc35	6	A análise baseou-se na análise temática.
+doc35	7	Foi utilizado o software NVIVO® versão 10.
+doc35	8	RESULTADOS
+doc35	9	Elaboraram-se duas categorias de acordo com as questões do protocolo: possibilidade de institucionalização dos pais idosos e expectativa de cuidado.
+doc35	10	CONSIDERAÇÕES FINAIS
+doc35	11	A maioria dos filhos cuidadores não considerou a institucionalização dos pais idosos, por julgarem ser um dever deles o cuidado aos pais, e considerarem a institucionalização como abandono.
+doc35	12	A maioria dos filhos cuidadores possuía expectativa de ser cuidada pelos filhos e percebeu a institucionalização como forma de receber este cuidado.
+doc35	13	Os resultados do estudo contribuem para o fortalecimento da rede formal e informal ao idoso e seu filho cuidador.
+doc36	1	OBJETIVO
+doc36	2	o duodenal switch é um procedimento disabsortivo complexo, associado aos melhores resultados de perda de peso e controle metabólico.
+doc36	3	A cirurgia em etapas, com gastrectomia vertical como primeiro passo, é uma opção para reduzir complicações em pacientes superobesos.
+doc36	4	No entanto, alguns problemas persistem, como fígados grandes, que dificultam a abordagem cirúrgica, e complicações, como fístulas graves.
+doc36	5	A bipartição do trânsito intestinal é um modelo modificado e simplificado de desvio biliopancreático que complementa a gastrectomia vertical.
+doc36	6	É semelhante ao duodenal switch com menores complexidade e consequências nutricionais.
+doc36	7	Este estudo avaliou a viabilidade e a segurança da bipartição de trânsito isolada como o procedimento inicial para tratar a superobesidade.
+doc36	8	MÉTODOS
+doc36	9	foram incluídos 41 pacientes superobesos, com IMC médio de 54,5±3,5kg/m2.
+doc36	10	Uma bipartição de trânsito isolada laparoscópica foi realizada como o primeiro procedimento em uma nova abordagem em duas etapas.
+doc36	11	Perda de peso e complicações foram analisadas durante um ano de acompanhamento.
+doc36	12	RESULTADOS
+doc36	13	todos os procedimentos foram completados por laparoscopia.
+doc36	14	Após seis meses, a perda média de excesso de peso percentual foi de 28%, permanecendo estável até o final do estudo.
+doc36	15	Não houve dificuldades intraoperatórias.
+doc36	16	Metade dos pacientes apresentou diarreia precoce e três tiveram úlceras marginais.
+doc36	17	Não houve complicações cirúrgicas maiores ou mortes.
+doc36	18	CONCLUSÃO
+doc36	19	a bipartição de trânsito isolada laparoscópica é uma nova opção para uma abordagem em estágios na superobesidade, que pode permitir um segundo procedimento mais seguro após a perda de peso ao longo de seis meses.
+doc36	20	Pode ser útil, particularmente, para pacientes com obesidade grave.
+doc37	1	OBJETIVO
+doc37	2	Mensurar as atitudes dos enfermeiros sobre o processo de enfermagem em hospital público de ensino.
+doc37	3	MÉTODO
+doc37	4	Estudo transversal e analítico, junto a enfermeiros de um hospital terciário.
+doc37	5	Foi aplicado um instrumento para a caracterização da amostra e o instrumento Posições sobre o Processo de Enfermagem, que mensura a atitude do enfermeiro em relação ao processo de enfermagem.
+doc37	6	São 20 itens a serem considerados, o valor mínimo possível é de 20, e o máximo, de 140.
+doc37	7	Os dados foram submetidos à estatística descritiva, e as variáveis de interesse, analisadas pelos testes Mann-Whitney, t de Student, Qui-quadrado, Kruskal-Wallis, coeficiente de correlação de Spearman e modelos de regressão múltipla hierárquicos, conforme apropriado.
+doc37	8	RESULTADOS
+doc37	9	Em uma amostra de 226 enfermeiros, 80,5% (182) afirmaram realizar o processo de enfermagem diariamente.
+doc37	10	O escore médio do instrumento foi de 102,50 (DP=21,76).
+doc37	11	O item “rotineiro/criativo” apresentou escore mais baixo (3,54), enquanto “sem importância/importante” apresentou escore mais alto (5,81).
+doc37	12	CONCLUSÃO
+doc37	13	Os enfermeiros referiram ser favoráveis e apresentaram atitudes positivas quanto ao processo de enfermagem, além de considerarem-no importante, porém rotineiro, além de que afirmaram pouco ou nenhum contato com pesquisas, aulas e eventos sobre a temática.
+doc38	1	Várias doenças da cavidade abdominal têm, na abordagem cirúrgica, sua principal forma de tratamento.
+doc38	2	Entretanto, o próprio procedimento cirúrgico é um agente estressor que pode promover efeitos adversos não relacionados com o objetivo do tratamento.
+doc38	3	A pré-habilitação emergiu como um programa multifatorial de condicionamento de saúde pré-operatório, que promove melhora na capacidade funcional e na evolução pós-operatória.
+doc38	4	O presente estudo faz uma revisão da literatura usando os bancos de dado MEDLINE, Ovid, Google Scholar e Cochrane para determinar o conceito, as indicações, os meios de seleção dos pacientes, e para sugerir as formas de implementação do programa de pré-habilitação em cirurgias abdominais de grande porte.
+doc41	1	OBJETIVO
+doc41	2	Verificar a ocorrência e as características de atelectasias, opacidades, hipotransparências e infiltrados pulmonares evidenciados ao raio X de tórax dos recém-nascidos prematuros, de uma unidade de terapia intensiva neonatal.
+doc41	3	MÉTODOS
+doc41	4	Trata-se de estudo observacional transversal.
+doc41	5	No período de agosto a dezembro de 2017 foram analisadas todas as radiografias de tórax de recém-nascidos.
+doc41	6	Foram incluídas no estudo as radiografias de tórax de recém-nascidos prematuros com idade gestacional até 36 semanas, no período neonatal que apresentassem alterações evidentes na imagem ou suspeita de alterações, que fossem confirmadas após laudo do médico radiologista.
+doc41	7	As alterações radiológicas foram associadas com possíveis fatores predisponentes.
+doc41	8	RESULTADOS
+doc41	9	No período, foram realizadas 450 radiografias nos recém-nascidos prematuros, sendo que, em 37, foram descritas quatro alterações: 12 (2,66%) descritas como opacidades, 11 (2,44%) como atelectasias, 10 (2,22%) como infiltrados pulmonares e 4 (0,88%) como hipotransparências.
+doc41	10	Observou-se maior ocorrência das atelectasias no pulmão direito (81,8%).
+doc41	11	Dentre as radiografias com alterações, 25 (67,6%) recém-nascidos estavam sob o uso da ventilação mecânica invasiva.
+doc41	12	CONCLUSÃO
+doc41	13	Considerando o laudo radiológico, as alterações observadas têm ocorrências sem diferença estatisticamente significante.
+doc41	14	A atelectasia não foi a alteração mais encontrada.
+doc41	15	Os fatores que podem ter predisposto ao aparecimento das alterações foram a prematuridade extrema, o baixo peso, o sexo masculino, o mal posicionamento da cânula endotraqueal e o uso de ventilação mecânica invasiva.
+doc42	1	O traumatismo cardíaco é comum em acidentes com veículos automotores.
+doc42	2	Uma mulher com 50 anos de idade foi transportada para nosso hospital após sofrer múltiplos traumatismos em um acidente de automóvel quando dirigia em alta velocidade.
+doc42	3	Após admissão à unidade de terapia intensiva, uma ultrassonografia cardíaca revelou ruptura traumática de músculo papilar da valva tricúspide e forame oval patente, enquanto se observou, no exame físico, o sinal de Lancisi.
+doc42	4	Foi realizado tratamento cirúrgico com anuloplastia da valva e fechamento do forame oval patente; durante o ato cirúrgico, diagnosticou-se ruptura oculta do átrio direito.
+doc43	1	OBJETIVO
+doc43	2	Descrever e analisar estratégias de comunicação interprofissional efetiva no gerenciamento de comportamentos destrutivos no trabalho hospitalar e promoção da segurança do paciente.
+doc43	3	MÉTODOS
+doc43	4	Estudo descritivo e qualitativo, desenvolvido com 29 profissionais de saúde de hospital público no Ceará, Brasil.
+doc43	5	Os dados foram coletados em 2014, mediante entrevista em profundidade, analisados pela técnica de análise de conteúdo, com o software MAXQDA®, e discutidos segundo referenciais da segurança do paciente.
+doc43	6	RESULTADOS
+doc43	7	Emergiram 27 unidades de contexto da análise do conteúdo abordando estratégias de comunicação efetiva para gerenciamento de comportamentos destrutivos, destacando-se: reuniões em equipe com diálogo aberto, avaliação de desempenho e feedback; e exercício da liderança com ênfase no suporte individual, treinamentos, reconhecimento e respeito mútuos.
+doc43	8	CONCLUSÕES
+doc43	9	Estratégias individuais e grupais focalizadas em habilidades de comunicação e estabelecimento de respeito mútuo no trabalho atuam como barreiras a comportamentos destrutivos e, se adequadamente instituídas, têm impacto positivo na segurança do paciente.
+doc47	1	O artigo apresenta os resultados da pesquisa qualitativa realizada por meio de entrevistas semiestruturadas em profundidade com dez adolescentes moradoras de uma favela da Zona Sul do Rio de Janeiro, Brasil, com idades entre 15 e 17 anos, e com experiência de aborto ilegal praticado entre 12 e 17 anos.
+doc47	2	Buscou-se examinar de modo mais efetivo a questão do aborto ocorrido na adolescência e as estratégias usadas pelas adolescentes para concretizá-lo em contexto ilegal.
+doc47	3	Foram evidenciados os métodos utilizados, os locais de realização e a maneira pela qual aconteceu o processo de realização do aborto.
+doc47	4	Os abortos foram realizados em clínicas clandestinas; no apartamento do amigo de um dos parceiros; e por meio do uso do remédio Cytotec (misoprostol).
+doc47	5	Os valores pagos variaram entre R$ 500,00 e R$ 2.500,00, e todos foram realizados sem o conhecimento ou participação dos responsáveis pelas adolescentes.
+doc47	6	Uma adolescente teve de recorrer a um serviço de saúde por conta de complicações resultantes do aborto.
+doc47	7	As entrevistadas contaram com amigas e/ou parceiros, e quase todas se encaminharam sozinhas para realizar o aborto, o que deve motivar uma reflexão sobre os riscos corridos e a solidão dessas adolescentes para a realização de um ato inseguro e ilegal.
+doc47	8	Conclui-se que o estudo sobre o aborto nesse momento da vida representa contribuições importantes para a compreensão da sexualidade e reprodução na adolescência.
+doc48	1	A doença coronária, responsável por um terço de todas as mortes, é a causa de morte mais comum em todo o mundo.
+doc48	2	Todavia, com o decréscimo das taxas de mortalidade associadas a esta patologia, observa-se um número crescente de doentes com a doença, com aumento da necessidade de gestão dos seus sintomas e prognóstico.
+doc48	3	A reabilitação cardíaca, componente essencial do tratamento contemporâneo da doença arterial coronária, é uma intervenção complexa que envolve variadas técnicas, incluindo exercício físico, correção dos fatores de risco cardiovasculares tradicionais, terapia comportamental e apoio psicológico, sendo considerada uma prioridade em países em que a prevalência da doença é elevada.
+doc48	4	Esta revisão sistemática Cochrane constitui uma atualização de uma revisão Cochrane publicada em 2011, tendo identificado 16 novos ensaios clínicos (3872 doentes), predominantemente em status pós-enfarte agudo do miocárdio e pós-cirurgia de revascularização miocárdica.
+doc48	5	Incluiu, assim, 63 ensaios clínicos aleatorizados que estudaram a eficácia e o custo-efetividade da reabilitação cardíaca baseada no exercício físico, em pacientes com doença arterial coronária.
+doc48	6	A confiança na evidência científica variou de baixa a moderada.
+doc48	7	Dos principais resultados destaca-se o efeito da reabilitação cardíaca, em comparação com a ausência de exercício físico, na redução na mortalidade cardiovascular, todavia sem redução da mortalidade total.
+doc48	8	Apesar da reabilitação cardíaca ter diminuído o risco global de internamento hospitalar, o mesmo não se verificou para o risco de enfarte, cirurgia de revascularização miocárdica ou intervenção coronária percutânea.
+doc48	9	Neste artigo sumarizam-se e discutem-se os principais resultados, conclusões e implicações desta revisão sistemática para a prática clínica.
+doc49	1	OBJETIVO
+doc49	2	Analisar as representações sociais de profissionais de saúde acerca do cuidado de pessoas vivendo com HIV.
+doc49	3	MÉTODO
+doc49	4	Estudo descritivo e exploratório, de abordagem qualitativa, à luz da Teoria das Representações Sociais, realizado com profissionais de saúde.
+doc49	5	Utilizou-se da técnica de entrevista semiestruturada, a qual foi analisada por meio da técnica de análise de conteúdo lexical.
+doc49	6	RESULTADOS
+doc49	7	Participaram 46 profissionais Os resultados analisados revelam que as representações e as práticas de cuidado referidas pelos profissionais de saúde são de ordem técnica, relacional e organizacional, assegurando o sigilo do diagnóstico e preocupando-se em desenvolver ações de acolhimento, fornecer orientações, esclarecimentos e apoio emocional e psicológico, além de se basear no sigilo, na prática assistencial de natureza multiprofissional e no enfrentamento das dificuldades estruturais.
+doc49	8	CONCLUSÃO
+doc49	9	É importante estimular o cuidado multiprofissional às pessoas que vivem com HIV, de forma que os profissionais se engajem, desenvolvam pensamento crítico e sejam capazes de atuar na melhoria dos serviços.
+doc5	1	O estigma internalizado ocorre quando o indivíduo tem consciência do estigma a ele atribuído, concordando e aplicando a si próprio os estereótipos negativos sobre sua doença.
+doc5	2	A internalização do estigma agrava os sintomas do transtorno mental, levando a isolamento, sentimentos de baixa autoestima, culpa e autorreprovação.
+doc5	3	Buscou-se produzir mais conhecimentos acerca dessa temática, a partir da visão das pessoas com transtorno mental que participam de ações visando construir coletivamente soluções no cuidado em saúde mental.
+doc5	4	Com o objetivo de analisar o processo de estigma e estigma internalizado, realizou-se pesquisa qualitativa, com entrevistas semiestruturadas.
+doc5	5	Os resultados revelaram que o estigma internalizado tem efeitos negativos no indivíduo, e que a família tem forte influência nesse processo.
+doc50	1	CONFIABILIDADE DO INSTRUMENTO DE PONTUAÇÃO DAS ESTRATÉGIAS DE APRENDIZAGEM MOTORA NA INTERVENÇÃO DE FISIOTERAPIA PARA CRIANÇAS COM PARALISIA CEREBRAL: OBJETIVO: Avaliar a confiabilidade do Instrumento de Pontuação das Estratégias de Aprendizagem Motora (Motor Learning Strategies Rating Instrument, MLSRI-20) em intervenções de fisioterapia para crianças com paralisia cerebral (PC) baseadas na marcha e registradas por vídeo.
+doc50	2	MÉTODO: Trinta videos de 18 crianças com PC, com idades de 6 a 17 anos, participando ou em intervenções de fisioterapia baseada no Lokomat foram pontuadas usando o MLSRI-20.
+doc50	3	Os examinadores fisioterapeutas forneceram uma avaliação geral e item-específica após pontuar cada vídeo, o que foi usado para interpretar os resultados de confiabilidade.
+doc50	4	RESULTADOS: Tanto a confiabilidade inter-examinador quanto intra-examinador do MLSRI-20 foi boa.
+doc50	5	O coeficiente de correlação intraclasse (CCI) da confiabilidade inter-foi 0,78 com intervalo de confiança (IC) a 95% de 0,53-0,89 e coeficiente de variação (CV) de 11,8%.
+doc50	6	O CII da confiabilidade intra-examinador foi 0,89 com CI a 95% de 0,76-0,95 e CV de 7,8%.
+doc50	7	A avaliação dos examinadores identificou o delineamento da tarefa e as verbalizações dos terapeutas para interpretação como fontes de desafios na pontuação da confiabilidade inter-examinadores.
+doc50	8	INTERPRETAÇÃO: O MLSRI-20 é uma ferramenta confiável para mensurar a extensão em que um fisioterapeuta usa estratégias de aprendizagem motora durante uma intervenção gravada em video.
+doc50	9	Os resultados têm implicações clínicas e científicas para a documentação e análise do conteúdo de aprendizagem motora em crianças com PC.
+doc51	1	A mortalidade devida à epidemia de doença renal crônica de origem não tradicional (DRCnt) na Mesoamérica atinge dezenas de milhares de pessoas, principalmente homens jovens.
+doc51	2	Não há consenso sobre a sua etiologia.
+doc51	3	Na década de 1990, informações empíricas apontavam o trabalho em plantações de cana de açúcar como um fator de risco; pesticidas e estresse térmico também eram considerados causas possíveis.
+doc51	4	As pesquisas populacionais subsequentes sustentam uma origem ocupacional da doença, com uma elevada proporção de homens quando comparados à de mulheres, em areas de baixa altitude, onde o risco da doença é mais elevado, mas com pequenas diferenças de gênero quando se consideram as categorias ocupacionais e baixa prevalência no ambiente não-ocupacional.
+doc51	5	A DRCnt foi identificada em trabalhadores agrícolas da cana de açúcar e de outras culturas que exigem trabalho físico de alta intensidade e em ocupações não agrícolas envolvendo um trabalho manual intenso em ambientes quentes, mas não entre os agricultores de subsistência.
+doc51	6	Estudos recentes com desenhos mais robustos demonstraram mudanças na função renal e nos biomarcadores de hidratação ao longo dos turnos de trabalho, e diminuição da função renal relacionada à exposição ao calor e à carga de trabalho ao longo da colheita.
+doc51	7	A implementação de uma intervenção de água-descanso-sombra durante a colheita em El Salvador interrompeu o declínio da função renal em cortadores de cana.
+doc51	8	Na Nicarágua, intervenções água-descanso-sombra parecem ter sido suficientes para evitar lesões renais em trabalhadores canavieiros com cargas de trabalho baixa e moderada, mas não entre os cortadores de cana que têm carga de trabalho mais pesada.
+doc51	9	Estudos sobre exposição a pesticidas e a fatores de risco de origem infecciosa têm sido largamente negativos.
+doc51	10	Os fatores de risco não-ocupacionais não explicam os padrões epidemiológicos observados.
+doc51	11	Em conclusão, ocupação é o principal desencadeador da epidemia de DRCnt na Mesoamérica, e o estresse térmico ocupacional é o único fator comprovado que leva à disfunção renal nas populações afetadas.
+doc51	12	Os cortadores de cana que trabalham em engenhos de açúcar e expostos a um estresse térmico extremo podem ser considerados uma população ocupacional sentinela.
+doc51	13	A prevenção do estresse térmico ocupacional é crítica, especialmente considerando os efeitos das mudanças climáticas.
+doc53	1	OBJETIVO
+doc53	2	O objetivo deste estudo foi descrever o tempo de trânsito oral total (TTOT) da deglutição em diferentes consistências de alimento na criança com acometimento neurológico (CAN) e com indicação de gastrostomia.
+doc53	3	MÉTODO
+doc53	4	Estudo clínico transversal incluiu 15 indivíduos com CAN e indicação de gastrostomia, sendo 10 do sexo masculino e cinco do sexo feminino, 13 com alimentação via oral exclusiva e dois com sonda nasogástrica, faixa etária de um a 14 anos, média de 5,7 anos, acompanhados no Grupo Multidisciplinar de Gastroenterologia Pediátrica da Universidade de Marília-UNIMAR.
+doc53	5	A deglutição foi analisada por estudo videofluoroscópico da deglutição.
+doc53	6	Foram mensuradas 19 imagens do tempo de trânsito oral total (TTOT) da deglutição, por software específico, utilizando alimento pastoso (13 imagens) e alimento líquido (seis imagens).
+doc53	7	O TTOT foi categorizado em curto ou longo baseado em definições já evidenciadas na literatura.
+doc53	8	RESULTADOS
+doc53	9	A média e o desvio padrão para o TTOT foram, respectivamente, 10,75s e 11,76s para o pastoso e 4,22s e 1,54s para o líquido.
+doc53	10	CONCLUSÃO
+doc53	11	O tempo de trânsito oral total é longo nas consistências pastosa e líquida em crianças com acometimento neurológico e com indicação de gastrostomia.
+doc54	1	MELHORANDO AS FUNÇÕES DO CORPO POR MEIO DA PARTICIPAÇÃO EM ATIVIDADES DA COMUNIDADE EM JOVENS COM DEFICIÊNCIAS FÍSICAS: OBJETIVO: Examinar o impacto do engajamento em uma atividade auto-selecionada em três funções corporais relevantes (motora, cognitiva e afetiva), bem como no desempenho da atividade selecionada.
+doc54	2	MÉTODO: Um desenho de série temporal individual interrompida com múltiplas linhas de base foi usado.
+doc54	3	Sete jovens (quatro do sexo masculino, três do sexo feminino), idades de 15 a 25 anos (mediana 18a; intervalo interquartil 17-20a) com deficiências físicas participaram por 8 semanas de uma atividade comunitária de sua escolha (Ex: natação, tocar piano).
+doc54	4	Mudanças em três funções corporais relevantes, relacionadas à atividade específica escolhia, incluíram a área motora (ex: Teste de alcance funcional, Escala de Comprometimento de Tronco, dinamometria), cognitiva e afetiva (Sitema de Avaliação do comportamento para crianças), bem como desempenho na atividade (Medida Canadense de Desempenho Ocupacional) foram medidos repetidamente, fornecendo trajetórias individuais de resultados. were measured repeatedly, providing individual outcome trajectories.
+doc54	5	Modelos lineares e efeitos mistos foram usados.
+doc54	6	RESULTADOS: Melhoras significativas em pelo menos um aspecto da função motora (6 em 6), cognição (3 em 3), afeto (5 em 7), e desempenho (7 em 7) foram observados.
+doc54	7	Especificamente, a intervenção teve efeitos de moderados a grandes na hiperatividade (1,45, intervalo de confiança [IC] a 95% 1,0-1,9) com menor efeito na ansiedade (0,21, IC 95% 0,10-0,32) e inadequação (0,21, IC 95% 0,02-0,39).
+doc54	8	Ao mesmo tempo, um notável tamanho de efeito para desempenho na atividade foi observado (4,61, IC 95% 0,76-8,46) foi observado.
+doc54	9	A mudança média entre resultados motores foi substancial (3,7 DPs da linha de base), mas não significativa.
+doc54	10	INTERPRETAÇÃO: Os achados fornecem evidência inicial dos benefícios resultants das intervenções com base na participação, com ênfase no mérito de terapias significativas na “vida real” para engajar jovens.
+doc55	1	Esse artigo analisa o conhecimento, atitudes e práticas sobre tuberculose de agentes comunitários de saúde (ACS) no Recife, município com altas taxas de incidência e de abandono do tratamento no Brasil.
+doc55	2	O estudo transversal foi conduzido em uma amostra representativa dos ACS utilizando questionário padronizado.
+doc55	3	Descreveram-se as frequências das variáveis referentes ao conhecimento, atitudes e práticas e analisou-se a associação do conhecimento satisfatório e práticas adequadas com características dos ACS.
+doc55	4	Dos 401 ACS elegíveis, 385 (96,0%) foram entrevistados.
+doc55	5	A maioria era composta por mulheres (87,5%), com idade ≥ 40 anos (66,0%) e desempenhando a função há mais de nove anos (74,5%).
+doc55	6	Um percentual de 61,7% tinha conhecimento satisfatório e esse conhecimento (75,8%) esteve associado às práticas adequadas (p = 0,008).
+doc55	7	Quanto às atitudes, 97,1% dos ACS acreditavam estar sob risco de contrair tuberculose e 53,2% atribuíram o risco à função.
+doc55	8	Parcela significativa dos ACS apresentou conhecimento satisfatório sobre tuberculose e esse conhecimento esteve associado às práticas adequadas.
+doc55	9	Esse resultado sugere a necessidade de investimentos em ações de capacitação que podem contribuir para a melhoria dos indicadores de tuberculose no município.
+doc56	1	A deficiência múltipla em crianças, presente em diversas síndromes, é uma condição que acarreta problemas de ordem física, econômica e social e afeta os pais dessas crianças e suas famílias.
+doc56	2	O anseio de conhecer melhor essa problemática, sob a perspectiva da análise qualitativa, deu origem ao objetivo deste estudo, que é de identificar e sintetizar o que a literatura científica aborda sobre as repercussões do nascimento e do cuidado de um filho com deficiência múltipla na família.
+doc56	3	Trata-se de uma metassíntese qualitativa, realizada nas bases de dados Scopus, PsycInfo e SciELO, utilizando-se os descritores: qualitativo; crianças com deficiência; relações pais-filhos; relações familiares; e cuidadores.
+doc56	4	Os dados foram analisados em três etapas, segundo o método adotado por Noblit & Hare: extração de conceitos de primeira ordem; produção de conceitos de segunda ordem; e síntese interpretativa.
+doc56	5	Depois do processo de busca e elegibilidade, oito estudos foram incluídos; desses, emergiram seis conceitos de segunda ordem: restrição social; desgaste nas relações familiares; sentimentos que afligem; instabilidade financeira; mudança na dinâmica familiar; e estresse na saúde e no bem-estar.
+doc56	6	Com base nesses conceitos, elaboraram-se três sínteses: deficiência e parentalidade ideal; o ônus do cuidado; e (re)ssignificações e adaptações da família.
+doc56	7	Os estudos apontaram que os pais e a família passam por dificuldades advindas das representações sobre a deficiência múltipla e dos encargos do cuidado (problemas de saúde, limitação para outras atividades, aumento dos custos financeiros, mudança de rotina).
+doc56	8	Indicam, também, que esses elementos penetram e podem interferir nas relações familiares e sociais.
+doc57	1	Este estudo examinou a estrutura dimensional e a confiabilidade da versão em português brasileiro do Food Choice Questionnaire (FCQ) de 36 itens, instrumento utilizado para medir a importância dos motivos que levam às escolhas alimentares.
+doc57	2	A amostra incluiu 502 adultos.
+doc57	3	Utilizou-se análises fatoriais confirmatórias (AFC) para avaliar a estrutura configural (dimensionalidade) e métrica (magnitude de cargas fatoriais, correlações residuais e validade fatorial discriminante).
+doc57	4	A avaliação de consistência interna usou o coeficiente ômega (Ω); a reprodutibilidade temporal usou o coeficiente Kappa com ponderação quadrática (κ) em uma amostra separada de 41 indivíduos.
+doc57	5	A AFC final corrobora a estrutura original de 9 fatores e mostra altas cargas fatoriais (λi > 0,80 em 34 itens); duas correlações residuais (r(i2-i3) = 0,773 e r(i16i17) = 0,853); e correlações fatoriais indicando validade fatorial discriminante (φ < 0,80).
+doc57	6	Quanto à confiabilidade, há adequada consistência interna (Ω = 0,877 a 0,968) e boa reprodutibilidade teste-reteste indicando estabilidade temporal (κ = 0,768 a 0,917).
+doc57	7	Conclui-se que a versão do FCQ possui boas propriedades configurais e métricas, já podendo ser recomendada para uso no Brasil na sua presente forma.
+doc58	1	Este artigo objetiva i) descrever e analisar a expansão do provimento de dentistas no Sistema Único de Saúde (SUS); ii) identificar e analisar as características do vínculo trabalhista dos dentistas com o serviço; iii) caracterizar as vagas em concurso público, no que se refere aos requisitos, atribuições e remuneração.
+doc58	2	Neste estudo de caso, descritivo, foram consultados bancos de dados do Ministério da Saúde e editais de concurso público.
+doc58	3	Os achados apontam que 48% dos dentistas cadastrados no Cadastro Nacional dos Estabelecimentos de Saúde (CNES) realizam atendimento no SUS, em 13 anos observou-se um aumento de 118% dos municípios com equipes de saúde bucal (eSB) implantadas.
+doc58	4	A cobertura populacional estimada pelas eSB aumentou 10,46% entre os anos de 2007 e 2015.
+doc58	5	O principal mecanismo de ingresso nos Centros de Especialidades Odontológicas (CEO) foi o concurso público.
+doc58	6	O salário na atenção primária variou de 1,05 a 12,67 salários mínimos, para cargos de 40 horas semanais e nos CEOs de 3,35 a 7,05.
+doc58	7	Conclui-se que é necessário, entre outras medidas, o planejamento de estratégias voltadas aos recursos humanos em saúde.
+doc58	8	A continuidade dos êxitos alcançados demanda que medidas regulatórias dos contratos de trabalho e apoio aos gestores entrem na agenda das ações da política em saúde bucal.
+doc59	1	Introdução: A dieta cetogénica é uma dieta com baixo teor de hidratos de carbono, que pode ser usada no tratamento da epilepsia infantil refratária.
+doc59	2	O principal objetivo deste estudo foi avaliar a eficácia nos doentes que completaram pelo menos três meses de dieta, no que respeita ao controlo das crises, comportamento e estado de alerta.
+doc59	3	Foi também avaliada a variação do número de fármacos antiepiléticos, as razões de descontinuação e os efeitos secundários.
+doc59	4	Material e Métodos: Análise retrospetiva dos processos clínicos dos doentes com epilepsia refratária sob dieta cetogénica, de outubro de 2007 a janeiro de 2018, num hospital pediátrico de nível 3.
+doc59	5	Resultados: Nos 29 doentes elegíveis, a média da idade de implementação foi 7,9 anos (+/– 5,6).
+doc59	6	Destes, 18 tiveram uma redução ≥ 50% das crises, 19 tiveram uma melhoria marcada do comportamento e 18 do seu estado de alerta.
+doc59	7	Dos 15 que completaram 18 meses, a mediana do número de fármacos antiepiléticos permaneceu idêntica à do início (três fármacos).
+doc59	8	A principal razão de descontinuação foi por decisão familiar.
+doc59	9	Os principais efeitos secundários foram a hipercolesterolémia (n = 23) e a hipertrigliceridémia (n = 21).
+doc59	10	Discussão: Os resultados foram semelhantes aos obtidos noutras coortes, nomeadamente no que respeita à idade de início, à percentagem de doentes que completou a dieta, às razões da suspensão e à melhoria do comportamento e estado de alerta.
+doc59	11	Conclusão: Para além do controlo das crises, os doentes tiveram uma marcada melhoria do seu comportamento e estado de alerta.
+doc59	12	É necessário desenvolver estratégias para aumentar a adesão das famílias à dieta.
+doc60	1	CONFIABILIDADE E RESPONSIVIDADE DO TESTE DA FUNÇÃO MANUAL DE JEBSEN-TAYLOR E DO TESTE DA CAIXA E BLOCOS PARA CRIANÇAS COM PARALISIA CEREBRAL: OBJETIVO: Avaliar a confiabilidade e a responsividade do Teste da Função Manual de Jebsen-Taylor (TFMJT) e do Teste da Caixa e Blocos (TCB) para crianças com paralisia cerebral (PC).
+doc60	2	MÉTODO: Neste estudo retrospectivo, análises de confiabilidade foram realizadas com testes t pareados considerando um tempo curto (média 14d) e longo (média 120d) entre dois períodos de avaliação.
+doc60	3	Adicionalmente, coeficiente de correlacão intraclasse (CCI) foi usado para avaliar o nível de conguência.
+doc60	4	A responsividade a terapia foi conduzida com um teste t pareado em uma amostra considerando a idade, o nível de habilidade manual classificado pelo Sistema de Classificação da Habilidade Manual (MACS), e a topografia.
+doc60	5	RESULTADOS: Nossos principais resultados confirmaram a confiabilidade dos testes em um curto período de tempo para o TFMJT em ambas as mãos e para o TCB na mão menos afetada.
+doc60	6	Estes resultados foram consistentes com o CCI.
+doc60	7	A responsividade foi confirmada, exceto na mão menos afetada para o TFMJT, com resultados similares para a abordagem por idade, MACS e topografia.
+doc60	8	INTERPRETAÇÃO: Este estudo apóia o uso do TFMJT e do TCB para examinar mudanças após intervenções de curto prazo em crianças com PC.
+doc60	9	Estes resultados devem ser interpretados em associação com valores normativos ou um grupo controle quando usados em longos períodos de avaliação.
+doc62	1	OBJETIVO
+doc62	2	investigar os efeitos da abreviação do jejum pré-operatório, uma recomendação do protocolo de “Aceleração da Recuperação Total Pós-operatória” (ACERTO), em sintomas pós-operatórios de pacientes submetidas à cirurgias ginecológicas.
+doc62	3	MÉTODOS
+doc62	4	estudo controlado, randomizado, duplo-cego, de 80 cirurgias ginecológicas realizadas no período de janeiro a junho de 2016.
+doc62	5	As pacientes foram aleatoriamente alocadas em dois grupos: Grupo Controle, com 42 pacientes, e Grupo Suco, com 38, e que receberam, respectivamente, 200ml de solução inerte ou 200ml de líquido enriquecido com carboidrato e proteína quatro horas antes da cirurgia.
+doc62	6	Os sintomas pós-operatórios estudados foram sede, fome, dor, agitação, satisfação e bem-estar, em ambos os grupos.
+doc62	7	Para medir a intensidade dos sintomas foi utilizada a Escala Visual Analógica (EVA), associada à Escala Facial (EF) para dor, aplicadas dez horas após a cirurgia.
+doc62	8	RESULTADOS
+doc62	9	as pacientes do Grupo Suco apresentaram menos dor (3,51x1,59), sede (3,63x0,85), fome (3,86x2,09) e agitação (2,54x0,82) em relação ao Grupo Controle (P<0,05).
+doc62	10	As variáveis satisfação (6,89x8,68) e bem-estar (5,51x7,12) foram maiores (P<0,05) quando houve a ingestão do líquido contendo carboidrato e proteína (Grupo Suco) em relação à solução inerte (Grupo Controle).
+doc62	11	CONCLUSÃO
+doc62	12	a abreviação do jejum pré-operatório com líquido contendo carboidrato e proteína antes de cirurgias ginecológicas reduz sede, fome, dor, agitação e favorece maior satisfação e bem-estar do que a ingestão de solução inerte.
+doc66	1	Objetivou-se avaliar a capacidade para o trabalho de mototaxistas e sua associação com fatores sociodemográficos, laborais e qualidade de vida.
+doc66	2	Estudo transversal, realizado com 392 mototaxistas, utilizando-se formulário com dados sociodemográficos, laborais, Índice de Capacidade de Trabalho e o WHOQOL-bref.
+doc66	3	Empregou-se análise descritiva e inferencial.
+doc66	4	A prevalência de capacidade para o trabalho moderada/boa foi de 51%.
+doc66	5	Mototaxistas com 40 ou mais anos tiveram aumento de 31% na capacidade baixa para o trabalho (RP: 1,31; IC 95%: 1,07; 1,61) comparados aos mais jovens.
+doc66	6	Mototaxistas de 21 a 29 e de 30 a 39 anos apresentaram maiores medianas para absenteísmo (p = 0,023) e prognóstico próprio sobre a capacidade de trabalho no futuro (p < 0,001).
+doc66	7	Houve maior proporção para doenças diagnosticadas entre aqueles com cinco anos ou mais na profissão (p = 0,003) e para prognóstico próprio naqueles com cinco anos ou menos (p < 0,001).
+doc66	8	Mototaxistas com capacidade moderada/boa apresentaram melhor percepção de qualidade de vida no domínio físico (p < 0,001).
+doc66	9	A capacidade baixa para o trabalho de mototaxistas foi associada à maior exposição aos fatores nocivos que afetam sua qualidade de vida e força de trabalho.
+doc66	10	É necessário priorizar políticas públicas e ações educativas para minimizar essa exposição.
+doc71	1	OBJETIVO
+doc71	2	Analisar a percepção de profissionais de saúde e acompanhantes/familiares quanto ao desenvolvimento da comunicação para a segurança do paciente em internações pediátricas.
+doc71	3	MÉTODO
+doc71	4	estudo exploratório-descritivo, qualitativo, realizado em unidades de internação clínico-cirúrgicas pediátricas de três hospitais de Porto Alegre, RS, Brasil.
+doc71	5	Participaram do estudo 44 profissionais de saúde e 94 acompanhantes de crianças hospitalizadas, totalizando 138 participantes.
+doc71	6	A coleta ocorreu no período de 2016 a 2017, por meio de entrevistas semiestruturadas.
+doc71	7	Realizou-se análise de conteúdo do tipo temática.
+doc71	8	RESULTADOS
+doc71	9	Emergiram duas categorias: “Barreiras para a Comunicação Efetiva” que abordou as falhas e dificuldades no processo de comunicação e “Ferramentas para Qualificar a Comunicação” que apresenta recomendações para as melhorias, em especial, instrumentalização do acompanhante/familiar.
+doc71	10	CONCLUSÕES
+doc71	11	As barreiras para a comunicação efetiva envolvem múltiplos fatores e as estratégias de comunicação efetiva podem auxiliar no desenvolvimento de melhorias para a segurança do paciente pediátrico.
+doc72	1	OBJETIVO
+doc72	2	Investigar os ensaios clínicos randomizados sobre a ação da acupuntura auricular para a dor crônica nas costas em adultos, identificar os desfechos mais utilizados para avaliar essa condição, o protocolo utilizado para aplicar a intervenção e identificar nos estudos qual o efeito da terapia sobre a intensidade da dor.
+doc72	3	MÉTODO
+doc72	4	Revisão sistemática e metanálise, conduzidas entre junho de 2017 e maio de 2018, nas bases de dados PubMed, CINAHL, PEDro, Embase, Scopus e na Biblioteca Virtual em Saúde.
+doc72	5	Listas de referências de revisões sistemáticas também foram exploradas.
+doc72	6	RESULTADOS
+doc72	7	Foram localizados 427 estudos, 15 incluídos na análise qualitativa, e sete na análise quantitativa.
+doc72	8	A acupuntura auricular obteve resultados positivos em 80% dos estudos.
+doc72	9	Os desfechos mais utilizados foram a intensidade e a qualidade da dor, consumo de medicação, incapacidade física e qualidade de vida.
+doc72	10	Não há padronização no protocolo de acupuntura auricular para dor crônica nas costas.
+doc72	11	Os resultados da metanálise apontaram que a acupuntura auricular foi eficaz em reduzir os escores de intensidade da dor (p=0,038).
+doc72	12	CONCLUSÃO
+doc72	13	A acupuntura auricular é uma prática promissora para o tratamento da dor crônica nas costas em adultos.
+doc76	1	Aborda a relação entre ciência e cerrado no período entre a publicação do livro de Eugenius Warming (1892) e artigo de Rawitscher, Ferri e Rachid (1943), botânicos da Universidade de São Paulo.
+doc76	2	Warming afirmou que a escassez de recursos hídricos influenciou na formação da vegetação característica e na baixa fertilidade dos solos.
+doc76	3	Arrojado Lisboa, Alberto Sampaio, Philipe Vasconcelos e Barbosa de Oliveira propuseram projetos diversificados sobre o aproveitamento econômico do cerrado.
+doc76	4	Já o artigo de 1943 apontou para a riqueza dos recursos hídricos na região, influenciando o aumento de experimentos agrícolas.
+doc76	5	Este texto enfatiza principalmente o levantamento da diversidade da vegetação dos cerrados e os debates sobre a (in)fertilidade dos solos para cultivo em larga escala.
+doc80	1	OBJETIVO
+doc80	2	Analisar a perspectiva da criança sobre a própria condição de saúde, suas experiências relacionadas ao atendimento ambulatorial hospitalar e ao uso de fantoches como estratégia lúdica para a coleta de dados.
+doc80	3	MÉTODO
+doc80	4	Estudo qualitativo, incluiu 16 crianças diagnosticadas com doenças crônicas, recrutadas em um ambulatório pediátrico do interior paulista.
+doc80	5	Os dados foram coletados em outubro de 2016 mediante entrevista semiestruturada e utilizou-se o fantoche como recurso facilitador na comunicação.
+doc80	6	As entrevistas foram analisadas por meio da análise temática indutiva.
+doc80	7	RESULTADOS
+doc80	8	Foram construídos quatro temas: “criança em seguimento ambulatorial: o que elas sabem?”; “emoções que perpassam o seguimento ambulatorial”; “o ambulatório dos meus sonhos”; e “a utilização dos fantoches e o universo lúdico da entrevista”.
+doc80	9	CONSIDERAÇÕES FINAIS
+doc80	10	Foi possível identificar o motivo e os principais sentimentos vivenciados durante o atendimento ambulatorial, assim como as preferências das crianças acerca dos aspectos físicos e estruturais do ambulatório.
+doc82	1	OBJETIVO
+doc82	2	Uma proporção significativa de lactentes desenvolve sibilância recorrente após um evento de bronquiolite aguda (BA).
+doc82	3	Estudos recentes demonstraram proteção para sibilância recorrente e menor morbidade respiratória em lactentes tratados com azitromicina durante uma crise de sibilância.
+doc82	4	O objetivo do presente estudo foi testar a hipótese de que a administração de azitromicina durante um evento BA reduz sibilos e reinternações hospitalares subsequentes.
+doc82	5	MÉTODOS
+doc82	6	Trata-se de uma análise secundária de um estudo randomizado, duplo-cego, controlado por placebo, incluindo dados não publicados de sibilância e hospitalizações durante os seis meses iniciais após a internação por bronquiolite aguda.
+doc82	7	O estudo foi realizado em um hospital universitário terciário.
+doc82	8	Os bebês (<12 meses de idade) hospitalizados com BA foram randomizados para receber azitromicina ou placebo, administrados por via oral, por sete dias.
+doc82	9	As famílias foram contatadas por telefone aos três e seis meses após o evento agudo inicial, e responderam a um questionário padronizado para identificar sibilos recorrentes e reinternações hospitalares.
+doc82	10	RESULTADOS
+doc82	11	Cento e quatro pacientes foram incluídos (grupo Azitromicina, n=50; grupo Placebo, n=54).
+doc82	12	Considerando o total de pacientes contatados com sucesso três meses após a hospitalização (n=70), a taxa de recorrência de sibilância no grupo da azitromicina foi significativamente menor do que no grupo placebo (RR=0,48; CI=0,24-0.98; p=0,038).
+doc82	13	CONCLUSÕES
+doc82	14	A azitromicina reduziu significativamente o risco de sibilância subsequente entre zero e três meses após a admissão hospitalar por bronquiolite aguda.
+doc84	1	OBJETIVO
+doc84	2	Analisar as repercussões da utilização do Plano de Parto no processo de parturição a partir da produção científica nacional e internacional.
+doc84	3	MÉTODOS
+doc84	4	Revisão integrativa da literatura realizada nas bases de dados LILACS, PUBMED, CINAHL e SciELO, compreendendo 13 artigos publicados nos idiomas inglês, espanhol e português, no período de 2008 a 2018.
+doc84	5	RESULTADOS
+doc84	6	A construção do Plano de Parto no pré-natal influencia positivamente o processo de parturição e os desfechos materno-fetais.
+doc84	7	Expectativas irrealistas podem causar insatisfação com a experiência de parto.
+doc84	8	Prestadores de cuidado desempenham papel central no apoio a realização do planejamento e no cumprimento deste.
+doc84	9	CONCLUSÕES
+doc84	10	As publicações analisadas justificam a implementação clínica do Plano de Parto por se configurar como tecnologia potencializadora de cuidados humanizados e satisfação materna.
+doc84	11	Persistem desafios relacionados à adesão das mulheres ao instrumento e apoio profissional para melhorar o cumprimento destes.
+doc88	1	A violência de gênero e uma violação dos direitos humanos e um grave problema de saúde pública que deve ser abordado de forma transversal e com uma abordagem interdisciplinar.
+doc88	2	A colaboração e coordenação entre os setores, incluída a saúde, é fundamental para garantir a correta abordagem.
+doc88	3	Os objetivos deste trabalho são: conhecer quais são os agentes que abordam a violência de gênero nas comunidades, e estudar as opiniões das comunidades em relação ao rol e à função da abordagem do sistema público de saúde perante esta problemática.
+doc88	4	Foi realizada uma pesquisa-ação qualitativa com seminários de autoteste comunitário local, utilizando diferentes técnicas qualitativas.
+doc88	5	Análise temática.
+doc88	6	Os resultados indicam que existem diversos atores locais que abordam a problemática e que a atenção primaria em saúde cumpre uma função relevante, fundamentalmente, devido as suas características de proximidade com a população e abordagem interdisciplinaria.
+doc88	7	Os obstáculos identificados pelas comunidades relacionados para a abordagem desde o sistema de saúde estavam vinculados principalmente com o modelo biomédico de atenção, a descentralização e a falta de recursos, capacitação e políticas integradas.
+doc88	8	Em conclusão, os seminários facilitaram a construção de um conhecimento coletivo ao respeito da realidade local, onde se destaca a função da atenção primária à saúde e a necessidade de articular ações e abordagens entre setores e municípios.
+doc89	1	Objetivo
+doc89	2	Identificar os padrões sociais e comportamentais e as questões de saúde mental associados aos homicídios por parceiro íntimo seguidos por suicídio (HPIS) na Jamaica, a partir de análise da mídia e de inquéritos policiais.
+doc89	3	Métodos
+doc89	4	Revisão de inquéritos policiais e de relatos publicados na imprensa escrita, no rádio ou na televisão sobre HPIS na Jamaica de janeiro de 2007 a junho de 2017.
+doc89	5	Os 27 casos identificados foram analisados qualitativamente utilizando códigos pré-identificados e codificação aberta para gerar temas e padrões.
+doc89	6	Resultados
+doc89	7	Foi detectada uma taxa de prevalência de 0,1 por 100 000 habitantes.
+doc89	8	Em todos os casos, os autores do homicídio eram homens.
+doc89	9	Os padrões sociodemográficos associados aos incidentes de HPIS – idade, traços de personalidade, arma utilizada e momento do evento – coincidiram com os encontrados em estudos anteriores.
+doc89	10	Obsessão por parte do agressor, ciúme sexual e medo da separação foram gatilhos frequentes.
+doc89	11	Apesar dos relatos de problemas de saúde mental em ambos os parceiros, tanto do sexo feminino quanto do masculino, nem o casal nem os membros da comunidade procuraram ajuda antes do homicídio seguido do suicídio.
+doc89	12	Conclusão
+doc89	13	Estes resultados indicam a necessidade de mudanças culturais na atitude frente a disputas domésticas e problemas de saúde mental e de uma redefinição da responsabilidade da comunidade quanto a HPIS.
+doc89	14	Os sinais de alerta associados a HPIS devem ser contemplados em programas de prevenção da violência e do suicídio.
+doc9	1	Objetivo
+doc9	2	Analisar e acompanhar os pacientes previamente selecionados por pediatras desde o nascimento, em busca de alterações patológicas nos quadris, naqueles considerados com exame físico inicial alterado.
+doc9	3	Métodos
+doc9	4	Estudo de coorte prospectivo, iniciado nos primeiros dias de vida, em 68 quadris de 34 recém-nascidos, de um total de 1.273 nascidos vivos no ano da pesquisa, devido a alguma alteração no exame inicial do pediatra.
+doc9	5	Primeiramente, foram utilizados exame clínico e ultrassonográfico, com o método de Graf, tendo sido instituído tratamento específico naqueles que se fizeram necessários.
+doc9	6	Resultados
+doc9	7	Dos 68 quadris em 34 pacientes, dois quadris em dois pacientes distintos necessitaram de intervenção com uso do suspensório de Pavlik por 8 semanas, obtendo resultado satisfatório em ambos após o término do tratamento.
+doc9	8	Conclusão
+doc9	9	Apesar da baixa carga horária da Ortopedia nos cursos de medicina, podem-se observar dados condizentes com a literatura, tanto na apresentação de achados clínicos, quanto nos que se fez necessário o tratamento, de forma que se mostra necessária a realização de avaliação inicial adequada de todos os recém-nascidos, em especial naqueles que possuem fatores de risco.
+doc93	1	OBJETIVO
+doc93	2	descrever a estrutura das equipes dos Núcleos de Apoio à Saúde da Família (NASF) quanto a espaços físicos, formação recebida, educação permanente e profissionais que apoiam as equipes de Atenção Básica à Saúde no Brasil, em 2013.
+doc93	3	MÉTODOS
+doc93	4	estudo descritivo, com dados da fase de avaliação externa do Programa de Melhoria do Acesso e da Qualidade da Atenção Básica (PMAQ).
+doc93	5	RESULTADOS
+doc93	6	as 1.773 equipes de NASF utilizam, principalmente, consultórios compartilhados na unidade básica de saúde (UBS) (85,7%); para 63,4% dos profissionais, foi oferecida formação específica quando iniciaram o trabalho no NASF, e para 67,4%, educação permanente; as equipes receberam o apoio principalmente de fisioterapeutas (87,4%) e profissionais de educação física (87,0%).
+doc93	7	CONCLUSÃO
+doc93	8	as equipes de NASF têm estrutura de acordo com o preconizado nas diretrizes; há profissionais do NASF que não receberam formação específica para o trabalho.
+doc94	1	A acidose tubular renal distal primária deve-se a um defeito genético caracterizado pela incapacidade de acidificar a urina.
+doc94	2	A sintomatologia é inespecífica e muito variável.
+doc94	3	Descrevem-se seis casos de acidose tubular renal distal numa família em que a doença afetou quatro gerações.
+doc94	4	O primeiro caso foi diagnosticado aos três anos por hematúria e urolitíase.
+doc94	5	Posteriormente foram estudados a irmã, os dois filhos e dois sobrinhos do caso índex.
+doc94	6	Apesar de assintomáticos, todos apresentavam nefrocalcinose e acidose metabólica hiperclorémica, à exceção de um caso com gasimetria normal mas com nefrocalcinose e incapacidade de acidificação urinária.
+doc94	7	Na evolução todos mantiveram nefrocalcinose, o caso índex desenvolveu hipertensão arterial mas nenhum evoluiu para insuficiência renal crónica.
+doc94	8	O diagnóstico da acidose tubular renal distal autossómica dominante é geralmente mais tardio e com sintomatologia mais ligeira.
+doc94	9	A doença pode contudo manifestar-se precocemente e com espectro de gravidade variável.
+doc94	10	O rastreio pela história familiar permite antecipar o diagnóstico e iniciar tratamento mais precocemente.
+doc95	1	O estudo tem como objetivo analisar tendências e distribuição das taxas de mortalidade por homicídios (TMH) segundo porte populacional dos municípios brasileiros entre 2000 e 2015.
+doc95	2	Trata-se de estudo ecológico dos óbitos do Sistema de Informações sobre Mortalidade, com TMH padronizada pelo método direto e intervalo de 95% de confiança.
+doc95	3	A TMH no Brasil cresceu 6% (para 29,1/100 mil) no período, com aumento em municípios de pequeno (83%; 12,7 para 23,2/100 mil) e médio porte (52%; 19,7 para 30,1/100 mil); o que se verifica para ambos os sexos, diferentes idades, regiões e em eventos por arma de fogo.
+doc95	4	A TMH decresceu em municípios de grande porte metropolitanos (19%; 40,6 para 32,9/100 mil) e da região Sudeste (55%; 45,6 para 20,6/100 mil).
+doc95	5	O risco relativo-RR de cidades pequenas e médias em relação a grandes já é maior ou próximo de 1 em mulheres (RR 0,99; 1,03), pessoas com 60 ou mais anos (RR 1,43; 1,36) e homicídios por outros meios (RR 1,16; 1,18).
+doc95	6	As cidades de São Paulo e Rio de Janeiro foram as que mais contribuíram para a redução das TMH, em especial nas cidades grandes (-37,6 e -22,3 homicídios/100 mil hab.).
+doc95	7	Municípios de porte pequeno e médio apresentam tendências consistentes de incremento de TMH mesmo considerando subgrupos populacionais.
+doc96	1	Os cuidados paliativos oncológicos constituem uma abordagem interdisciplinar, centralizada no doente e nas suas famílias, realizada ao longo da trajetória das doenças neoplásicas, alicerçada no controlo de sintomas, na comunicação assertiva e na tomada de decisão compartilhada.
+doc96	2	Apesar de as normas de orientação clínica aconselharem uma intervenção holística, integrando precocemente os cuidados paliativos no tratamento oncológico tradicional, a investigação demonstra um grande atraso na referenciação dos doentes, restringindo os cuidados paliativos no fim de vida.
+doc96	3	Por que razão parece existir um racionamento da referenciação precoce, atentatório da dignidade humana?
+doc96	4	Em grande parte, é por falta de conhecimento, treino e educação dos profissionais de saúde sobre os cuidados paliativos e as técnicas para lidar com o processo de morrer e a morte.
+doc96	5	Vários estudos demonstram o benefício da integração de ações paliativas na rotina dos tratamentos oncológicos ativos, não só a nível do controlo eficaz de sintomas físicos e psicológicos, mas a nível da qualidade de vida global, da satisfação do doente e da família, dos custos dos cuidados de saúde e também da sobrevida, em alguns casos.
+doc96	6	É necessário tomar medidas que encorajem o oncologista a obter mais formação em cuidados paliativos, como um estágio formal, obrigatório, integrado no seu internato de formação específica.
+doc96	7	Deste modo, uma nova geração de médicos mudará seguramente a vida dos doentes com cancro, e suas famílias, integrando — sem racionamento desproporcionado — oncologia e medicina paliativa.

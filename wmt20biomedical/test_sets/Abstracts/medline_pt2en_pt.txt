@@ -1,0 +1,498 @@
+doc1	1	OBJETIVO
+doc1	2	Comparar o perfil de saúde física, cognitiva e psicológica e o contexto de cuidado de idosos cuidadores de idosos em diferentes arranjos de moradia.
+doc1	3	MÉTODO
+doc1	4	Estudo quantitativo e transversal realizado com 349 cuidadores divididos em arranjos de moradia unigeracional, bigeracional e multigeracional.
+doc1	5	Para avaliação foram utilizados questionários sociodemográfico e de cuidado, e instrumentos de avaliações da saúde física, cognitiva e psicológica.
+doc1	6	Para análises dos dados foram utilizados os testes Qui-quadrado e U Mann Whitney.
+doc1	7	RESULTADOS
+doc1	8	Os idosos cuidadores de lares unigeracionais eram mais velhos e independentes para as atividades instrumentais de vida diária.
+doc1	9	Nos arranjos de moradia multigeracionais houve proporção significativamente maior de cuidadores que consideravam a renda familiar insuficiente, recebiam ajuda emocional e sentiam-se mais sobrecarregados e estressados.
+doc1	10	CONCLUSÃO
+doc1	11	As diferenças identificadas entre os grupos podem contribuir para elaboração de políticas de cuidado e promoção da saúde de idosos cuidadores.
+doc100	1	Por que adoecem os professores?
+doc100	2	Essa é a questão que o ensaio levanta e para qual sugere pistas de respostas.
+doc100	3	Após constatar que as doenças que prevalecem entre professores brasileiros são as mesmas que prevalecem entre professores do mundo todo, conclui-se que o nó do problema está no trabalho dos professores, o invariante da questão.
+doc100	4	É, portanto, esse trabalho que precisa ser melhor e mais conhecido e que deve ser o centro das atenções.
+doc100	5	A autora defende a tese de que são os próprios professores os que têm as melhores condições de fazê-lo, exatamente porque são os que o conhecem melhor.
+doc100	6	Para ilustrar essa tese, apresenta os principais resultados de uma pesquisa de âmbito nacional na qual professores da Educação Básica, no Brasil, analisaram o seu próprio trabalho, amparados por um dispositivo metodológico, a Análise Coletiva do Trabalho (ACT), que lhes oferecia condições para se expressarem livremente e valorizava a sua palavra.
+doc100	7	A ACT se revelou um potente instrumento de análise do trabalho, pois integrava aspectos tanto da atividade como do emprego dos professores, em geral analisados separadamente, o que aumentava o seu poder explicativo.
+doc100	8	Além disso, evidenciou os lados positivos e negativos desse trabalho, oferecendo várias pistas para se compreender não só por que os professores adoecem como também o que os mantém saudáveis, duas questões diferentes, embora relacionadas entre si.
+doc11	1	Embora haja uma unanimidade nas falas dos gestores que o Sistema Único de Saúde é subfinanciado, é unânime também o fato de haver problemas na eficiência da gestão dos gastos.
+doc11	2	Nesta perspectiva, este estudo faz uma avaliação da eficiência técnica em saúde dos sete municípios da região de saúde Rota dos Bandeirantes do estado de São Paulo no período de 2009 a 2012, utilizando-se o Índice de Eficiência Técnica em Saúde.
+doc11	3	Este índice é composto por meio de indicadores estruturais e indicadores de resultados, oriundos principalmente, do sistema de pactuação de metas e indicadores e coletados da base de dados do Departamento de Informática do SUS.
+doc11	4	Identificou-se que apenas o município de Barueri atingiu alta eficiência técnica em saúde, enquanto que os demais apresentaram baixa eficiência.
+doc11	5	Concluiu-se que os municípios com maior receita disponível e maior gasto per capita atingiram os melhores resultados nos indicadores de saúde e, portanto, melhores índices de eficiência técnica em saúde.
+doc11	6	Todavia alguns municípios, mesmo com uma pequena estrutura, atingiram resultados melhores que seus vizinhos, demostrando eficiência na gestão de sua estrutura e, desta forma, o recurso mostrou-se como condição necessária para que haja eficiência, porém, não suficiente.
+doc14	1	Este trabalho adaptou transculturalmente o questionário espanhol “Conocimiento del Paciente sobre sus Medicamentos” (CPM-ES-ES) para uso no Brasil.
+doc14	2	Ele mede o grau de conhecimento sobre medicamentos por meio de 11 perguntas.
+doc14	3	Oitenta pacientes ≥ 80 anos foram investigados e com 39 também foi entrevistado o cuidador.
+doc14	4	A avaliação das equivalências conceitual e de item considerou o conceito de conhecimento e as perguntas que o medem como pertinentes.
+doc14	5	A equivalência semântica foi obtida pela correspondência de significado denotativo e conotativo dos itens.
+doc14	6	O estudo da equivalência de mensuração incluiu análise fatorial e o cálculo de estimativas de validade e confiabilidade.
+doc14	7	Semelhante ao questionário original, a análise de componentes principais identificou 4 componentes, porém, em 2 deles houve diferenças nos itens incluídos.
+doc14	8	Uma pergunta foi removida desta análise devido à sua inadequação amostral.
+doc14	9	O conhecimento sobre medicamentos esteve correlacionado à complexidade da prescrição r = -0,22, p = 0,046.
+doc14	10	O conhecimento sobre anti-hipertensivos esteve correlacionado à sua adesão r = 0,70, p < 0,001, e ao controle da pressão arterial rb = 0,46, p = 0,029.
+doc14	11	A versão adaptada apresentou equivalência funcional de modo que pode ser usada no contexto brasileiro.
+doc16	1	A pesquisa buscou identificar os fatores de risco individuais e contextuais da assistência à saúde, suas interações e diferenciais regionais na determinação da mortalidade infantil nas capitais brasileiras.
+doc16	2	Trata-se de um estudo caso-controle, no qual considerou-se casos os 7.470 óbitos infantis ocorridos em 2012 nas 27 capitais do país, registrados no Sistema de Informações sobre Mortalidade (SIM) e pareados com o Sistema de Informações de Nascidos Vivos (SINASC) por meio do linkage, e 24.285 controles obtidos mediante amostra dos nascidos sobreviventes entre 2011 e 2012 do universo de 1.424.691 nascimentos.
+doc16	3	As variáveis explicativas do nível individual corresponderam às informações disponibilizadas pelo SINASC, e a variável contextual consistiu um índice de qualidade da assistência hospitalar relativo aos 702 serviços de saúde onde ocorreram os nascimentos.
+doc16	4	Empregou-se o modelo logístico multinível e a análise de interação.
+doc16	5	Os principais determinantes da mortalidade infantil foram os fatores biológicos (baixo peso ao nascer, prematuridade, malformação congênita, asfixia grave/moderada e raça/cor), mediados pelos socioeconômicos maternos (escolaridade, estado civil e ocupação), e pela insuficiência de pré-natal.
+doc16	6	Realizar baixo número de consultas pré-natais representou risco para a mortalidade infantil independentemente da qualidade do serviço, à exceção das capitais da Região Sul.
+doc16	7	Na interação entre renda e pré-natal, observou-se que realizar poucas consultas e nascer em cidades com alta renda representaram risco maior quando comparados aos nascimentos em capitais de baixa renda (OR = 0,68).
+doc16	8	A análise multinível evidenciou desigualdades regionais nos modelos de risco e reiterou a importância dos determinantes biológicos com mediação dos fatores socioeconômicos e assistenciais na mortalidade infantil.
+doc17	1	O objetivo deste artigo é investigar o processo de medicalização dos indígenas do povo Xukuru de Pesqueira, PE, após o conflito ocorrido em 2003.
+doc17	2	Estudo descritivo, quantitativo, desenvolvido com indígenas atendidos no polo base Xukuru de Cimbres.
+doc17	3	A amostra final foi composta por 75 usuários em uso de medicamentos psicotrópicos.
+doc17	4	Os dados foram analisados no SPSS versão 18.0, utilizando a prova do qui quadrado.
+doc17	5	Observou-se que 8% da população estudada faz uso de psicotrópicos, sendo os mais usados os BZD (78,67%).
+doc17	6	Com relação à idade, 68% são adultos jovens e 26,67% são idosos.
+doc17	7	A renda de 81,33% das famílias perfaz mais de um salário mínimo.
+doc17	8	Com relação ao estado civil, do grupo de indígenas que faz uso dos BZD e outros psicotrópicos, 50,85% e 66,67%, respectivamente, são casados.
+doc17	9	O estudo delineou o perfil dos índios Xukuru de Cimbres usuários de psicotrópicos e evidenciou uma assistência à saúde mental fragmentada, focada na doença e no uso da medicação.
+doc17	10	Os achados revelam uma população adulta vulnerável do ponto de vista socioeconômico, um padrão de cronificação do consumo dos psicotrópicos e o distanciamento das práticas de curas tradicionais indígenas, característicos do processo de medicalização da saúde.
+doc18	1	Introdução: A disfunção da trompa de Eustáquio é uma patologia comum associada a sintomas nasais e otológicos.
+doc18	2	A avaliação sintomática desta patologia é importante para o seu correto diagnóstico e avaliação da resposta ao tratamento implementado.
+doc18	3	O “7-item Eustachian Tube Dysfunction Questionnaire”, descrito e validado por McCoul et al, demonstrou tratar-se de uma ferramenta adequada, de fácil e rápida aplicação, com boa reprodutibilidade na avaliação dos sintomas de disfunção da trompa de Eustáquio.
+doc18	4	Este estudo apresenta o processo validação da versão Portuguesa do “7-item Eustachian Tube Dysfunction Questionnaire”.
+doc18	5	O objectivo deste trabalho foi a adaptação e validação do “7-item Eustachian Tube Dysfunction Questionnaire” para a língua portuguesa.
+doc18	6	Material e Métodos: O “7-item Eustachian Tube Dysfunction Questionnaire” foi traduzido e adaptado para língua portuguesa, de acordo com a metodologia recomendada na literatura científica.
+doc18	7	A versão portuguesa foi aplicada a um grupo teste de 50 doentes consecutivos com o diagnóstico de disfunção da trompa de Eustáquio e a um grupo de controlo de 25 pessoas.
+doc18	8	Todos os doentes com disfunção da trompa de Eustáquio repetiram o questionário num período de duas semanas.
+doc18	9	Foi realizada análise estatística para determinar as suas propriedades psicométricas (consistência interna, reprodutibilidade teste-reteste e validade discriminatória).
+doc18	10	Resultados: O “7-item Eustachian Tube Dysfunction Questionnaire” traduzido apresentou uma consistência interna similar à do questionário original para cada item e uma forte correlação item-total.
+doc18	11	A aplicação do questionário foi fácil e rápida.
+doc18	12	Verificou-se boa reprodutibilidade teste- reteste da versão traduzida do questionário, com excelentes coeficientes de correlação intraclasse e sem diferenças significativas entre o valor total das primeira e segunda medições.
+doc18	13	A validade discriminatória foi confirmada através da diferença estatisticamente significativa entre a pontuação do grupo teste e grupo controlo.
+doc18	14	Discussão: Este estudo demonstra que a versão portuguesa do “7-item Eustachian Tube Dysfunction Questionnaire”, é um instrumento adaptado, validado e bem aceite para a avaliação dos sintomas de disfunção da trompa de Eustáquio na população portuguesa.
+doc18	15	Conclusão: A versão portuguesa do “7-item Eustachian Tube Dysfunction Questionnaire” é recomendada para o rastreio de disfunção da trompa de Eustáquio na população Portuguesa e para a monitorização da resposta ao seu tratamento.
+doc19	1	Imagem por ressonância magnética do cérebro como preditora do desempenho bimanual e função executiva de crianças com paralisia cerebral unilateral OBJETIVO: Examinar a associação entre as características do exame de imagem por ressonância magnética (IRM) e a função executiva e desempenho bimanual em crianças com paralisia cerebral (PC) unilateral.
+doc19	2	MÉTODO: Escaneamentos clínicos de IRM cerebrais foram classificados como: 1) padrão patológico predominante (normal, lesão da substância branca [LSB]; lesão da substância cinzenta; insultos vasculares focais [IVF]; malformações; ou outro); e (2) lesões focais (frontal, gânglios basais, e/ou tálamo).
+doc19	3	As avaliações incluíram: (1) desempenho bimanual; (2) destreza unimanual; e (3) tarefas de função executiva (processamento de informações, controle da atenção, flexibilidade cognitiva, e estabelecimento de metas) e pontuações comportamentais (pais).
+doc19	4	RESULTADOS: De 131 crianças recrutadas, 60 eram inelegíveis para análise, restando 71 crianças (47 do sexo masculino, 24 do sexo feminino) na amostra final (média de idade 9a [DP 2a], 6a-12a 8m).
+doc19	5	IRMs cerebrais eram do tipo LSB (69%) e IVFs (31%); e frontais (59%), talâmicas (45%), de gânglios da base (37%), e de gânglios da base mais talâmicas (21%).
+doc19	6	O desempenho bimanual foi menor em IVF versus LSB (p<0,003), e com lesões frontais (p=0,36), gânglios da base (p=0,032), e talâmicas/gânglios da base (p=0,013).
+doc19	7	Com exceção do processamento de informações, as tarefas da função executiva não foram associadas com o padrão predominante.
+doc19	8	Lesões frontais foram preditivas do controle da atenção (p=0,049) e flexibilidade cognitiva (p=,.009) mas não do estabelecimento de metas, processamento de informações, e pontuações comportamentais.
+doc19	9	INTERPRETAÇÃO: A IRM cerebral clínica prediz resultados cognitivos e motores quando lesões focais e padrões predominantes de lesão são considerados.
+doc22	1	Este estudo tem como objetivo verificar a existência de associação entre os diferentes tipos de agentes contratantes atuantes na atenção básica brasileira, e a qualidade do cuidado ofertado medida pelo Programa de Melhoria e Acesso da Qualidade da Atenção Básica (PMAQ).
+doc22	2	Trata-se de pesquisa quantitativa, com abordagem descritiva e inferencial por meio de regressão logística.
+doc22	3	Foram analisados 4.469 municípios brasileiros.
+doc22	4	Os resultados mostraram que não houve associação entre o tipo de agente contratante, se público ou privado, e a nota obtida no processo de certificação (valor de p > 0,05).
+doc22	5	Verificou-se que os municípios maiores e socioeconomicamente mais dinâmicos concentram as maiores parcelas de municípios que têm os serviços de atenção básica gerenciados por agentes contratantes privados (23,2%).
+doc22	6	No que se refere à nota da certificação obtida, também foram esses municípios que obtiveram as notas mais altas.
+doc22	7	Por fim, em todas as categorias tanto de agentes contratantes públicos quanto de agentes contratantes privados, a maioria dos municípios teve notas classificadas como média (entre 50 e 69,99).
+doc22	8	Dessa forma, identificou-se que a qualidade do cuidado ofertado na atenção básica brasileira medida pelo PMAQ não está associada ao tipo de agente contratante envolvido na gestão do serviço quando os dados são municipalizados.
+doc22	9	Além disso, encontrou-se que os agentes contratantes privados e as notas mais altas obtidas no processo de certificação estão concentrados nos municípios maiores e com melhores indicadores socioeconômicos.
+doc24	1	OBJETIVO
+doc24	2	avaliar os resultados perioperatórios e pós-operatórios relacionados à excisão total do mesorreto transanal, bem como, qualidade dos espécimes obtidos pela excisão total do mesorreto transanal através da análise histopatológica da qualidade do mesorreto, acometimento das margens proximal e distal e positividade da margem circunferencial.
+doc24	3	MÉTODOS
+doc24	4	estudo prospectivo, descritivo, em pacientes consecutivos portadores de adenocarcinoma de reto localizados até 10cm da borda anal, sem metástase à distância, submetidos ou não à quimioterapia e radioterapia neoadjuvantes.
+doc24	5	Foram avaliados a presença de dificuldades técnicas, índice de conversão para via abdominal, tempo cirúrgico e intercorrências intra e pós-operatórias.
+doc24	6	A qualidade do mesorreto foi classificada em ressecção completa, parcialmente completa ou incompleta.
+doc24	7	RESULTADOS
+doc24	8	entre dezembro de 2016 e maio de 2019, 41 pacientes foram submetidos à excisão total do mesorreto transanal, dos quais 75% foram classificados como estágio clínico III, 13% estágio clínico II e 12% estágio clínico I.
+doc24	9	A média de distância entre borda anal e borda inferior do tumor foi de 6,2cm.
+doc24	10	Quarenta por cento dos tumores encontravam-se na parede retal anterior e 17% foram classificados como circunferenciais.
+doc24	11	A média de tempo operatório foi de 189 minutos.
+doc24	12	A média de internação hospitalar foi de 4,6 dias.
+doc24	13	Não houve óbitos intra-hospitalares.
+doc24	14	Oitenta e dois por cento dos espécimes foram classificados como ressecção completa.
+doc24	15	CONCLUSÃO
+doc24	16	a excisão total do mesorreto transanal demonstra adequada qualidade do mesorreto e adequadas margens cirúrgicas, estando associada a baixos índices de complicações perioperatórias, tempo cirúrgico aceitável e curto tempo de hospitalização.
+doc26	1	Os autores descrevem um caso clínico de corecção de endoleak tipo 1A após EVAR com recurso a endo-âncoras.
+doc26	2	Trata-se de uma doente de sexo feminino, de 85 anos, com antecedentes de hipertensão, dislipidemia, insuficiência renal crónica e múltiplas intervenções abdominais (apendicectomia, colecistectomia clássica e histerectomia).
+doc26	3	A doente foi observada em consulta externa por AAA com 7,5 cm, colo de 14 mm, angulado.
+doc26	4	Submetida a EVAR com colocação de endoprótese Medtronic® Endurant II sem intercorrências de relevo.
+doc26	5	Decorrido um mês após o procedimento a angiotomografia computorizada (ATC) abdomino-pélvica revelou endoleak tipo 1A.
+doc26	6	Programada a correção do endoleak, que consistiu em stenting da artéria renal esquerda (a mais baixa), colocação de cuff aórtico proximal e de 9 endo-âncoras (Sistema APTUS®), com resultado final satisfatório.
+doc26	7	A ATC de controlo após a reintervenção mostrou permeabilidade das artérias renais e da endoprótese, exclusão aneurismática e ausência de endoleaks.
+doc28	1	Pesquisa objetivou investigar os fatores que interferem no retorno ao trabalho em indivíduos com paraplegia traumática e caracterizar o trabalho posterior à lesão, por meio de estudo epidemiológico do tipo transversal, sem inferência estatística.
+doc28	2	Participaram da pesquisa pacientes internados no Programa de Lesão Medular do Hospital Sarah de Reabilitação, Salvador.
+doc28	3	A análise descritiva usou média e desvio-padrão para variáveis contínuas e proporções para variáveis categóricas.
+doc28	4	Houve predomínio de homens entre os 42 pacientes entrevistados; a idade média foi de 36 anos.
+doc28	5	A escolaridade média foi de 9 anos.
+doc28	6	Retornaram ao trabalho 22 entrevistados, 21 deles inseridos no mercado de trabalho informal.
+doc28	7	A média de tempo para voltar a trabalhar foi de 3 anos.
+doc28	8	Principais motivos para voltar a trabalhar: necessidade de dinheiro, satisfação pessoal e contato com outras pessoas.
+doc28	9	O retorno ao trabalho mostra-se, neste estudo, relevante para o adulto com lesão medular, proporcionando-lhe maior rendimento e melhor qualidade de vida.
+doc28	10	Evidenciamos a importância de maior grau de escolaridade para o retorno ao trabalho bem sucedido.
+doc28	11	Portanto, é preciso aprimorar o processo de retorno ao trabalho, a qualificação e a reabilitação profissional desse trabalhador.
+doc3	1	OBJETIVO
+doc3	2	analisar a frequência e fatores associados à cobertura por planos privados de saúde na região metropolitana de Manaus, AM, Brasil.
+doc3	3	MÉTODOS
+doc3	4	estudo transversal de base populacional realizado em 2015, por meio de entrevista domiciliar; as razões de prevalência (RP) e intervalos de confiança (IC95%) foram calculadas pela regressão de Poisson, com variância robusta ajustada por sexo e faixa etária.
+doc3	5	RESULTADOS
+doc3	6	foram entrevistados 4.001 indivíduos, dos quais 13% (IC95% 12,0 a 14,1%) tinham plano de saúde; maior cobertura por planos foi observada entre militares (RP=3,18 - IC95% 1,64;6,15), empregados dos setores privado (RP=1,91 - IC95% 1,46;2,52) e público (RP=1,75 - IC95% 1,23;2,49); a cobertura por planos de saúde foi menor entre pessoas mais pobres (RP=0,21 - IC95% 0,13;0,33) e de menor escolaridade (RP=0,66 - IC95% 0,46;0,99).
+doc3	7	CONCLUSÃO
+doc3	8	a frequência de planos de saúde foi baixa e associou-se a melhor poder aquisitivo, escolaridade e situação de trabalho.
+doc30	1	As situações de insegurança alimentar e nutricional (IAN) são impeditivos para a concretização do direito humano à alimentação adequada (DHAA) e podem estar ligadas à disponibilidade, ao acesso, ao consumo, à produção, à utilização biológica dos alimentos e às questões sociais, políticas e econômicas, que expressam os problemas alimentares atuais existentes entre os países.
+doc30	2	O objetivo é revisar como a alimentação é compreendida enquanto um direito humano na produção científica da área da saúde, em artigos que se dedicaram à análise empírica da SAN em diferentes cenários urbanos com crianças e adolescentes.
+doc30	3	Realizou-se uma revisão integrativa da literatura, com 80 artigos científicos disponíveis na base de dados PubMed, publicados no período de 2007 a 2016.
+doc30	4	Foram extraídas dos estudos informações a respeito dos cenários de investigação, abordagens metodológicas, aspectos relacionados à IAN, conclusões e recomendações.
+doc30	5	Esta revisão mostrou a diversidade dos focos temáticos para a compreensão da alimentação como um direito humano e as estratégias de ação tiveram como foco os cuidados primários em saúde.
+doc30	6	A alimentação, tanto nos países desenvolvidos quanto nos que estão em desenvolvimento, é um direito humano em disputa que necessita efetivação, visando à justiça social para todas as pessoas.
+doc34	1	OBJETIVO
+doc34	2	Descrever os encaminhamentos para colposcopia em um hospital no Brasil e a frequência relativa dos pacientes que foram beneficiados, considerando as indicações corretas para o exame e seus diagnósticos finais.
+doc34	3	MéTODOS:  Foi realizado um estudo retrospectivo no banco de dados do serviço de colposcopia do Hospital Universitário de Taubaté, Taubaté, SP, Brasil.
+doc34	4	A frequência validou em análise de prontuários de mulheres encaminhadas por indicação clínica ou alteração citológica, atendidas no período de março de 2015 a março de 2017.
+doc34	5	A população selecionada e analisada incluiu 256 resultados que estavam correlacionadas aos dados citológicos, clínicos e com o resultado da colposcopia.
+doc34	6	RESULTADOS
+doc34	7	Das mulheres encaminhadas, 45% apresentaram-se fora da idade de rastreamento conforme as diretrizes de rastreio de câncer de colo uterino, sendo que 8,6% eram adolescentes e adultas jovens < 25 anos de idade e 36,4% das pacientes tinham idade ≥ 65 anos.
+doc34	8	Um total de 50% das pacientes não possuía indicação de colposcopia, ou seja, citologias normais, de alterações benignas, ectopia, cervicite, células escamosas atípicas de significado indeterminado (ASC-US) e lesão intraepitelial escamosa de baixo grau (LSIL) sem persistência e aspecto clínico normal.
+doc34	9	Um total de 39,84% das pacientes que realizaram a colposcopia tiveram resultados de lesão de alto grau ou câncer e, dessa forma, se beneficiaram com o encaminhamento adequado.
+doc34	10	CONCLUSãO:  A maioria (60,16%) das pacientes encaminhadas para o serviço de colposcopia não se beneficiou com o encaminhamento, por resultados sem alterações como colposcopias negativas, histologias com ausência de neoplasia intraepitelial cervical (NIC) ou apenas NIC 1, ou estavam fora da idade de rastreamento.
+doc34	11	Esses achados demonstram, portanto, significativo número de encaminhamentos desnecessários e inadequados.
+doc39	1	OBJETIVO
+doc39	2	Conhecer os recursos utilizados e as competências necessárias ao enfermeiro para a gestão das práticas educativas nos serviços de saúde.
+doc39	3	MÉTODO
+doc39	4	Trata-se de uma revisão integrativa de literatura, realizada nas bases de dados Latino-Americano e do Caribe de Informação em Ciências da Saúde (BIREME), PubMed Central (PMC), Scopus e Web of Science (WoS), a qual após análise resultou em 18 estudos, publicados entre o período de 2011 a 2017, que foram apresentados em três categorias.
+doc39	5	RESULTADOS
+doc39	6	Os resultados foram apresentados nas categorias: recursos instrumentais utilizados na educação em saúde, recursos tecnológicos aplicados às práticas educativas, e competências para gestão das práticas educativas.
+doc39	7	CONCLUSÃO
+doc39	8	Este estudo traz como contribuição para a prática do enfermeiro subsídios para o desenvolvimento da gestão das práticas educativas nos serviços de saúde por meio de recursos tecnológicos e instrumentais e de competências profissionais que visam o desenvolvimento da equipe, autonomia do usuário e crescimento institucional.
+doc4	1	Os agrotóxicos podem causar inúmeros problemas de saúde e são considerados agentes otoagressores.
+doc4	2	O objetivo deste estudo foi analisar as características auditivas nas altas frequências em trabalhadores com e sem exposição aos agrotóxicos, que apresentaram resultados normais na audiometria convencional.
+doc4	3	Estudo transversal com 87 trabalhadores, de ambos os gêneros, entre 19 e 59 anos, com vínculo de trabalho formal, informal e/ou que atuavam na agricultura familiar e realizaram Audiometria de Altas Frequências.
+doc4	4	O uso de glifosato foi relatado por 73% dos trabalhadores e as misturas de agrotóxicos diversos ocorreram em 78% deles.
+doc4	5	Não foi identificado uso adequado dos equipamentos de proteção individual recomendados para a atividade agrícola.
+doc4	6	Os trabalhadores expostos a agrotóxicos apresentaram piores resultados na Audiometria de Altas Frequências quando comparados aos que não tiveram contato com agrotóxicos (p < 0,0001).
+doc4	7	A Audiometria de Altas Frequências pode ser considerada um instrumento sensível para detectar, precocemente, alterações auditivas em trabalhadores expostos a agrotóxicos, e, seu uso em serviços de saúde poderá contribuir para as ações de vigilância em saúde do trabalhador.
+doc40	1	OBJETIVO
+doc40	2	analisar a validade da hipertensão arterial sistêmica (HAS) autorreferida na população adulta de Rio Branco, Acre, Brasil.
+doc40	3	MÉTODOS
+doc40	4	estudo de acurácia diagnóstica com 576 adultos (18-59 anos); foram calculados acurácia, sensibilidade, especificidade e valores preditivos positivo e negativo para construção da curva de Receiver Operating Characteristic (ROC).
+doc40	5	RESULTADOS
+doc40	6	as prevalências de HAS aferida (padrão ouro) e autorreferida foram de 19,6% e 16,6%, respectivamente; a HAS autorreferida apresentou 53,7% de sensibilidade e 92,4% de especificidade; a sensibilidade variou de 29,9%, nos indivíduos abaixo de 40 anos, a valores superiores a 70,0% entre os obesos e os que autorrelataram dislipidemia; a especificidade apresentou uma variação de 70,0%, nos que referiram diabetes mellitus, a 95,3% nos eutróficos; a curva ROC para análise da hipertensão apresentou área sob a curva de 0,77 (IC95% 0,72;0,81).
+doc40	7	CONCLUSÃO
+doc40	8	o autorrelato de HAS em adultos a partir dos 40 anos apresenta acurácia para utilização em pesquisas no município.
+doc44	1	IMPACTO DA HIPOTERMIA TERAPÊUTICA NOS ESPASMOS INFANTIS: UM ESTUDO DE COORTE OBSERVACIONAL: OBJETIVO: Estabelecer a incidência de espasmos infantis em crianças da República da Irlanda e comparar a incidência de espasmos infantis antes e após a introdução da hipotermia terapêutica em lactentes com encefalopatia hipóxica-isquêmica (EHI).
+doc44	2	MÉTODO: Crianças nascidas entre 2003 e 2015 e diagnosticadas com espasmos infantis (espasmos epilépticos com ou sem hipsarritmia) nos primeiros 2 anos de vida foram identificadas por meio de checagem dos relatórios de eletroencefalografia e listas de pacientes de neurologia pediátrica.
+doc44	3	Dados sobre nascidos vivos foram obtidos nas bases de dados estatísticas dos hospitais regionais.
+doc44	4	Prontuários médicos sobre casos de espasmos infantis foram revisados quanto a dados demográficos, resultados diagnósticos, resposta ao tratamento, curso da doença, e resultado desenvolvimental.
+doc44	5	RESULTADOS: Quarenta e dois lactentes com espasmos infantis foram identificados.
+doc44	6	A incidência cumulativa de espasmos infantis até os dois anos de idade foi 4,01 por 10.000 nascidos vidos.
+doc44	7	Diferenças devida ao sexo foram mínimas (22 meninos, 20 meninas) e a maior parte dos lactentes nasceu próximo ao termo, com idades gestacionais variando de 30,0 41,8 semanas (mediana [intervalo interquartil] 39,6 sem [38,1-40,0sem]).
+doc44	8	A etiologia dos espasmos infantis foi identificada em dois terços dos casos, com a EHI sendo a causa mais comum (7 em cada 42).
+doc44	9	Outras causas incluíram anormalidades cromossômicas e monogenéticas (8 em 42).
+doc44	10	Os espasmos infantis aconteceram em graus moderados a severos de EHI, com incidência significantemente maior naqueles com EHI severa (p=0,029).
+doc44	11	Lactentes com EHI severa que não receberam hipotermia terapêutica tinham seis vezes mais probabilidade de desenvolver espasmos infantis comparados com os que receberam, mas a diferença não foi estatisticamente significativa.
+doc44	12	(4 em16 vs 1 em 24, p=0,138).
+doc44	13	INTERPRETAÇÃO: Este esudo fornece informação detalhada sobre espasmos infantis antes e após a introdução de hipotermia terapêutica.
+doc44	14	A severidade da EHI é um fator de risco para o desenvolvimento de espasmos infantis.
+doc44	15	A introdução de hiportermia terapêutica por ter tido um impacto, mas o efeito foi difícil de assegurar nesta coorte devido ao pequeno número de lactentes.
+doc45	1	AVALIAÇÃO DA MÃO PARA LACTENTES (AML): VALORES NORMATIVOS DE REFERÊNCIA: OBJETIVO: Criar valores normativos de referência para uso unilateral e bilateral das mãos, usando a Avaliação da mão para lactentes (AML), uma avaliação baseada em critérios que foi desenvolvida recentemente para mensurar o uso da mão em lactentes de 3 a 12 anos em risco para paralisia cerebral (PC).
+doc45	2	MÉTODO: No total, 489 avaliações da AML de lactentes com desenvolvimento típico (243 do sexo feminino, 246 do sexo masculino), com idades de 3 a 10 meses (média 6m 14d [DP 2m 5]), foram coletadas na Itália e na Suécia.
+doc45	3	Curvas normativas de crescimento baseadas em médias e desvios padrão foram criadas, assim como curvas de aquisição de habilidades para cada item do teste.
+doc45	4	Correlação com a idade e diferenças entre grupos baseadas no sexo e na nacionalidade, assim como diferenças entre mão direita e esquerda, foram investigadas.
+doc45	5	RESULTADOS As curvas de crescimento mostraram aumento contínuo na média e diminuição no DP com a idade.
+doc45	6	Não houve diferenças enter grupos com base no sexo ou nacionalidade.
+doc45	7	Houve uma diferença média inexpressiva (0,1 escore bruto) entre mãos direita e esquerda.
+doc45	8	INTERPRETAÇÃO: Valores normativos de referência da AML agora estão disponíveis, o que pode ajudar a identificar o uso anormal da mão para cada mês de vida, assim como diferenças entre lados em lactentes em risco para PC.
+doc46	1	OBJETIVO
+doc46	2	Esta comunicação breve tem como proposta mostrar os traços fonológicos inerentes à classe das soantes – nasais e líquidas – que seriam mais ou menos problemáticos no registro ortográfico desses fonemas.
+doc46	3	MÉTODO
+doc46	4	Foram analisadas substituições ortográficas de produções textuais realizadas por crianças da 1ª série do Ensino Fundamental.
+doc46	5	A análise dos dados foi realizada de acordo com o modelo Padrão de Aquisição de Contrastes (PAC).
+doc46	6	RESULTADOS
+doc46	7	Foi observado que as substituições foram distribuídas entre as duas classes de fonemas e, no interior de cada uma, foram detectados contrastes fonológicos mais e menos instáveis no registro ortográfico desses fonemas.
+doc46	8	CONCLUSÃO
+doc46	9	Essa maior e menor instabilidade de contrastes apontou para questões fonológicas, bem como para questões relacionadas à complexidade ortográfica desses segmentos, indicando, portanto, uma relação não direta entre fala e ortografia.
+doc52	1	A relação entre transtornos depressivos em idosos e demência, particularmente a doença de Alzheimer (DA), é altamente complexa.
+doc52	2	Embora a natureza desse relacionamento ainda seja motivo de debate, o diagnóstico e o tratamento diferenciais continuam sendo um grande desafio clínico.
+doc52	3	Revisamos descobertas recentes sobre o dilema de transtornos depressivos em idosos e DA.
+doc52	4	Existe um contínuo biológico entre os transtornos depressivos em idosos – ou pelo menos um subgrupo deles – e a DA.
+doc52	5	Enquanto indivíduos idosos com depressão e pacientes com DA exibem níveis circulantes mais altos de moléculas pró-inflamatórias e menor BDNF do que os controles correspondentes, os níveis de Aβ42 no LCR podem discriminar a DA de distúrbios depressivos em idosos.
+doc52	6	O papel do tratamento antidepressivo como estratégia para minimizar o risco de DA ainda precisa ser estabelecido.
+doc6	1	O objetivo deste artigo é verificar a prevalência e fatores associados a sintomas depressivos em idosos institucionalizados.
+doc6	2	Trata-se de um estudo epidemiológico com delineamento transversal, composto por 42 idosos de uma Instituição de Longa Permanência para Idosos (ILPI).
+doc6	3	A coleta de dados foi realizada no período de abril a dezembro de 2014 por meio de um questionário com informações sobre aspectos demográficos e socioeconômicos, a Escala de Depressão Geriátrica em versão reduzida (EDG-15) e o Mini Exame do Estado Mental (MEEM).
+doc6	4	Dos idosos estudados, 54,8% apresentaram sintomas depressivos, predominando o sexo feminino com 64,7%.
+doc6	5	Houve associação significativa entre sintomas depressivos e as variáveis: aposentado (p = 0,043); incontinência urinária (p = 0,028); autopercepção de saúde (p-valor = 0,042) e qualidade do sono (p-valor = 0,000).
+doc6	6	O estudo verificou alta prevalência de sintomas depressivos em idosos institucionalizados, associado às variáveis presença de incontinência urinária, autopercepção de saúde (negativa), qualidade de sono (ruim) e aposentadoria (sim).
+doc6	7	Através do estudo e diante das necessidades enfrentadas por essa população, faz-se necessário a busca por medidas que atuem diretamente nas variáveis modificáveis, prevenindo e tratando-as.
+doc61	1	CONTEXTO
+doc61	2	A identificação de alérgenos ambientais em cavalos com doenças alérgicas facilita o afastamento de alérgenos e a imunoterapia específica.
+doc61	3	HIPÓTESE/OBJETIVOS: Avaliar co-reatividade alergênica entre 44 alérgenos ambientais.
+doc61	4	ANIMAIS
+doc61	5	Cavalos com suspeita de doença alérgica (n = 344) cujo soro foi testado para alérgenos ambientais.
+doc61	6	MÉTODOS E MATERIAIS: Foram realizados ensaios sorológicos para IgE alérgeno-específica com 44 alérgenos divididos em seis grupos relacionados taxonômicamente: ácaros da poeira doméstica/de estocagem, bolores, insetos, gramíneas, pólens de árvores e herbáceas.
+doc61	7	Utilizando comparações pareadas, calculou-se odds ratios (ORs) para cada par ambiental a fim de se determinar se havia probabilidade aumentada ou diminuída de se apresentar um resultado positivo para um alérgeno, no caso de positividade ao outro.
+doc61	8	A significância do OR foi configurada (utilizando a correção de Holm-Bonferroni) como P < 0.00006 para todos os cavalos (n = 344) e P < 0.00005 para os cavalos com ao menos uma reação positiva (n = 239).
+doc61	9	Utilizando a ANOVA unidirecional e os testes post hoc de Tukey (significância de P < 0.05), testou-se as diferenças nos logaritmos médios e ORs entre os três grupos, alérgenos taxonômicamente relacionados com uma associação estatisticamente significativa (relacionados e associados), alérgenos relacionados sem relação significativa (relacionados não associados) e alérgenos não relacionados.
+doc61	10	RESULTADOS
+doc61	11	Associações estatisticamente significativas foram observadas entre pares de alérgenos relacionados e não relacionados, o primeiro sendo mais frequente.
+doc61	12	Para todos os cavalos (n = 344) e cavalos com ao menos uma reação positiva (n = 239), a reação cruzada variou entre 100% (gramíneas) e 0% (bolores).
+doc61	13	O grupo das herbáceas foi uma exceção por apresentar mais reação cruzada com outro grupo (gramíneas).
+doc61	14	CONCLUSÕES E IMPORTÂNCIA CLÍNICA: Observou-se co-reatividade dentro e entre certos grupos de alérgenos relacionados.
+doc61	15	Mais estudos são necessários para determinar se isso é devido à reação cruzada alergênica.
+doc63	1	Introdução: A emergência de bactérias multirresistentes constitui um desafio médico na atualidade.
+doc63	2	O objetivo do presente estudo foi determinar a incidência das infeções por bactérias multirresistentes numa unidade de Cuidados Intensivos Neonatais.
+doc63	3	Material e Métodos: Estudo de incidência, retrospetivo, descritivo dos episódios infeciosos por bactérias multirresistentes, de 2008 a 2017, numa unidade de apoio perinatal diferenciado.
+doc63	4	Resultados: Incluíram-se 64 episódios infeciosos (medianas - idade gestacional: 28 semanas; peso ao nascimento: 885 g).
+doc63	5	As bactérias isoladas foram: Enterobacteriaceae (n = 46); Staphylococcus aureus meticilino-resistente (n = 12); Acinetobacter baumannii (n = 4); Pseudomonas aeruginosa (n = 2).
+doc63	6	Identificou-se um fator de risco em 90,6% dos episódios, destacando-se cateter central (89%) e antibioticoterapia prévia (78%).
+doc63	7	A taxa de letalidade associada foi 10,9% (taxa de mortalidade unidade: 4,4%).
+doc63	8	A incidência global foi 3,2 episódios infeciosos/100 internamentos, correspondentes a 1,7 episódios/1000 dias de internamento.
+doc63	9	Verificaram-se três surtos infeciosos com impacto crescente de Enterobacteriaceae.
+doc63	10	Discussão: A taxa de incidência descrita reflete uma população de risco, internada numa unidade de Cuidados Intensivos e num período longo de tempo.
+doc63	11	A distribuição das bactérias isoladas evidencia a evolução da multirresistência relatada internacionalmente, com predomínio crescente de Enterobacteriaceae.
+doc63	12	A ocorrência de surtos aponta para a necessidade de perceber fatores de risco e meios de disseminação local.
+doc63	13	A relevância destas infeções está patente na taxa letalidade, superior às infeções hospitalares em geral.
+doc63	14	Conclusão: A taxa de incidência reflete a dimensão local do problema, constituindo um indicador de qualidade, relevante para o controlo destas infeções.
+doc64	1	Verificou-se a relação entre diferentes índices antropométricos e os lipídios plasmáticos.
+doc64	2	Os dados foram coletados de 2014 a 2016 em 854 escolares (6-18 anos).
+doc64	3	Foram aferidas a circunferência da cintura (CC), o percentual de gordura corporal (%G) por bioimpedância, o índice de massa corporal (IMC) e relação da cintura/estatura (RCE).
+doc64	4	Em sangue coletado em jejum mediu-se o colesterol total (CT), HDLc, e triglicerídeos e calculou-se o colesterol não HDL (Não HDLc).
+doc64	5	Os dados são apresentados por média ± desvio padrão, porcentagens.
+doc64	6	A comparação de médias foi feita pelo teste t ou ANOVA seguida de teste de Tukey.
+doc64	7	A associação entre variáveis foi testada por regressão linear.
+doc64	8	O estudo foi aprovado pelo Comitê de Ética da Universidade Federal do Espírito Santo.
+doc64	9	Meninos obesos tinham CT, Não HDLc e LDLc mais elevados do que os eutróficos.
+doc64	10	Em meninas este achado foi apenas para o Não HDLc.
+doc64	11	Crianças com o %G e RCE inadequados apresentaram LDLc e Não HDLc maiores (p < 0,001), os quais associaram-se positivamente (p < 0,001) com as frações lipídicas (CT e Não HDLc).
+doc64	12	O excesso de gordura corporal elevou em 21% a probabilidade de ocorrência de colesterol acima da referência (170 mg/dL).
+doc64	13	O excesso de gordura corporal associou-se com o perfil lipídico aterogênico (maior Não HDLc), principalmente em meninos.
+doc65	1	OBJETIVOS
+doc65	2	Validar o construto e o critério do Questionário para Avaliação da Sexualidade Feminina após a Menopausa (QSFM).
+doc65	3	MéTODOS:  Estudo metodológico de validação de questionário incluiu mulheres na pós-menopausa.
+doc65	4	A validade de construto foi testada por meio da análise fatorial e a validade de critério foi realizada por meio da correlação entre o QSFM e o Índice de Função Sexual Feminina (FSFI).
+doc65	5	A Curva ROC foi utilizada para verificar sensibilidade, especificidade e determinar o ponto de corte do QSFM.
+doc65	6	RESULTADOS
+doc65	7	Foram avaliadas 181 mulheres, com idade média de 56,4 ± 5,7 anos.
+doc65	8	A análise fatorial exploratória mostrou que o QSFM apresentou teste de Kaiser = 0,88 e χ2 = 3293,7 (p < 0,001), comunalidades ≥ 0,5 com extração de nove fatores com autovalor ≥ 1; explicando 66,3% da variância total.
+doc65	9	O QSFM apresentou cargas fatoriais entre 0,4 e 0,8.
+doc65	10	Uma forte correlação entre os dois questionários (r = 0,79; p = 0,000) foi demonstrada.
+doc65	11	O ponto de corte do QSFM foi ≤ 55,5, assumindo sensibilidade de 87,9% e especificidade de 78,9% (p < 0,001).
+doc65	12	CONCLUSãO:  Como o QSFM demonstrou uma forte concordância com o questionário FSFI, ele apresentou boas propriedades psicométricas para avaliar a sexualidade em mulheres na pós-menopausa.
+doc65	13	Com base nesses resultados, o QSFM pode ser amplamente utilizado como um instrumento específico para examinar a função sexual em mulheres na pós-menopausa.
+doc65	14	Estudos futuros são necessários para examinar o instrumento QSFM em diferentes populações.
+doc67	1	A identificação do atual perfil de formação profissional de auxiliares e técnicos de enfermagem (A&TE) se torna elemento central na compreensão da dinâmica da qualificação desses trabalhadores em diferentes Estados, com o objetivo de revelar tanto a existência de tendências para sub e sobrequalificação, quanto a participação do setor público na oferta e expansão dos cursos de enfermagem no país.
+doc67	2	O artigo explora três aspectos relevantes da formação profissional a partir dos resultados encontrados na pesquisa “Perfil da Enfermagem no Brasil (FIOCRUZ/COFEN)”: o nível de escolaridade/qualificação; a distribuição geográfica e a participação governamental na consolidação do quadro atual.
+doc67	3	Trata-se de um estudo analítico baseado na interpretação de indicadores definidos pelo Coeficiente de Assimetria de Pearson.
+doc67	4	O estudo utiliza o banco de dados gerado pela pesquisa, além de dados do MEC/Inep e do IBGE.
+doc67	5	Os resultados alcançados estabelecem relações entre as características de formação, distribuição de A&TE em todos os estados brasileiros com o fenômeno da superqualificação, além de evidenciar um aparente descolamento da Rede Federal de Educação com a real demanda por técnicos de enfermagem no país.
+doc68	1	CONTEXTO
+doc68	2	O gênero Malassezia é composto por um grupo de leveduras lipofílicas que evoluíram como comensais de pele e patógenos cutâneos oportunistas de uma variedade de mamíferos e aves.
+doc68	3	OBJETIVOS
+doc68	4	O objetivo deste documento é fornecer à comunidade veterinária e outros grupos interessados informações atualizadas sobre ecologia, fisiopatologia, diagnóstico, tratamento e prevenção de doenças de pele associadas à Malassezia em cães e gatos.
+doc68	5	MÉTODOS E MATERIAIS: Os autores serviram como Painel de Diretrizes (GP) e revisaram a literatura disponível antes de outubro de 2018.
+doc68	6	O GP preparou uma revisão detalhada da literatura e fez recomendações sobre os tópicos selecionados.
+doc68	7	O comitê de diretrizes de consenso clínico da Associação Mundial de Dermatologia Veterinária (WAVD) forneceu orientações e supervisão para esse processo.
+doc68	8	O documento foi apresentado em duas reuniões internacionais de sociedades de dermatologia veterinária e em um curso internacional de micologia; foi disponibilizado para comentários no site da WAVD por um período de seis meses.
+doc68	9	Os comentários foram compartilhados eletronicamente com o GP e as respostas incorporadas no documento final.
+doc68	10	CONCLUSÕES E IMPORTÂNCIA CLÍNICA: Houve uma expansão notável do conhecimento sobre leveduras do gênero Malassezia e seu papel na doença animal, principalmente desde o início dos anos 90.
+doc68	11	A dermatite por Malassezia em cães e gatos evoluiu de uma doença em que a sua existência permanecia na obscuridade e controvérsia, passando a ser um diagnóstico de rotina na prática veterinária em geral.
+doc68	12	Os sinais clínicos são bem reconhecidos e as abordagens diagnósticas são bem desenvolvidas.
+doc68	13	Sabe-se que uma variedade de terapias tópicas e sistêmicas é eficaz, especialmente quando fatores predisponentes são identificados e corrigidos.
+doc69	1	OBJETIVO
+doc69	2	Descrever características clínicas e sociodemográficas de mulheres com endometriose profunda infiltrativa e avaliar sua qualidade de vida dentro de 6 meses de tratamento clínico.
+doc69	3	MéTODOS:  Estudo de corte transversal descritivo com 60 mulheres em seguimento ambulatorial na Universidade de Campinas, Campinas, SP, Brasil, com endometriose profunda infiltrativa diagnosticada por cirurgia ou métodos de imagem (ultrassonografia ou ressonância magnética), em tratamento clínico há pelo menos 6 meses.
+doc69	4	Para avaliar a qualidade de vida, foram utilizados os questionários SF-36 e EHP-30.
+doc69	5	RESULTADOS
+doc69	6	A média etária das mulheres foi de 37,7 ± 6,0 anos; 50% delas apresentaram dismenorreia, 57% dispareunia e 50% dor pélvica crônica.
+doc69	7	O SF-36 e o EHP-30 mostraram comprometimento da qualidade de vida destas mulheres.
+doc69	8	No SF-36, os piores domínios foram os aspectos emocionais (40,2 ± 43,1) e a autoestima e disposição (46,1 ± 24,8), enquanto que no EHP-30 foram o bem-estar social (50,3 ± 30,6), a infertilidade (48,0 ± 36,3) e as relações sexuais (54,0 ± 32,1).
+doc69	9	CONCLUSãO:  Embora tratadas clinicamente, as mulheres com endometriose profunda apresentaram comprometimento em diferentes domínios da qualidade de vida independente do questionário utilizado para avaliação.
+doc7	1	OBJETIVO
+doc7	2	Avaliar o conhecimento e a atitude dos enfermeiros da Estratégia Saúde da Família sobre sexualidade na velhice.
+doc7	3	MÉTODO
+doc7	4	Estudo transversal, exploratório-descritivo, de abordagem quantitativa, com enfermeiros da Estratégia Saúde da Família do município de Sobral-CE.
+doc7	5	Utilizou-se de questionário sociodemográfico e profissional e da Aging Sexual Knowledge And Attitudes Scale , versão brasileira.
+doc7	6	Os dados foram processados no GraphPad Prism 5®, e estabelecido nível de significância p<0,05.
+doc7	7	RESULTADOS
+doc7	8	Participaram 56 enfermeiros, a maioria do sexo feminino, jovens adultas, que se autodeclaram saber orientar sobre sexualidade.
+doc7	9	A média dos escores do conhecimento foi de 29,95 (DP=2,21), em uma variação de 20 a 60; já para a atitude, a média foi de 27,14 (DP=2,19) na escala, que varia de oito a 40.
+doc7	10	Os participantes que declararam receber educação permanente em saúde e realizar educação em saúde sobre sexualidade detêm um conhecimento significativamente favorável, mas não foi encontrada atitude significante.
+doc7	11	CONCLUSÃO
+doc7	12	Os enfermeiros possuem conhecimento adequado sobre a sexualidade na velhice, mas difundem ainda atitudes conservadoras.
+doc7	13	Investir em processos de educação permanente em saúde pode melhorar o saber e fazer dos enfermeiros.
+doc70	1	OBJETIVO
+doc70	2	O objetivo do estudo foi caracterizar e comparar o uso de elementos típicos da gramática de história e o nível de coerência global na narrativa oral de crianças com Transtorno de Déficit de Atenção e Hiperatividade à narrativa de crianças sem o transtorno e com desenvolvimento típico.
+doc70	3	MÉTODO
+doc70	4	Participaram 40 crianças com idade entre 5 e 10 anos, de ambos os sexos, que frequentavam o ensino fundamental, sendo 20 com diagnóstico de Transtorno de Déficit de Atenção e Hiperatividade (Grupo TDAH) e 20 com desenvolvimento típico (Grupo TD).
+doc70	5	Os participantes de cada grupo eram semelhantes quanto ao sexo, idade cronológica, escolaridade e nível socioeconômico.
+doc70	6	O livro “Frog Where Are You?” foi utilizado para eliciar a narrativa oral de história, que foi analisada quanto à presença dos principais elementos típicos do esquema de história (personagem, tema/tópico, evento/trama e desfecho) e posteriormente classificada dentre quatro diferentes níveis crescentes de organização, correspondendo ao nível de coerência global da história.
+doc70	7	RESULTADOS
+doc70	8	O grupo TDAH apresentou menor pontuação nos elementos estruturais “tema/tópico” e “desfecho” e narrativa com grau de coerência inferior quando comparado ao grupo TD.
+doc70	9	CONCLUSÃO
+doc70	10	As crianças com TDAH deste estudo apresentaram dificuldades no uso de elementos típicos da gramática de história, principalmente relacionados com a manutenção do tema central e desfecho da história.
+doc70	11	Tais elementos são considerados fundamentais para a construção do sentido da narrativa, o que justifica os níveis inferiores de coerência encontrados na narrativa oral do grupo TDAH.
+doc73	1	O objetivo deste estudo é verificar a prevalência e os fatores associados ao aborto induzido no ingresso em uma coorte de mulheres vivendo com HIV/aids, no Município do Rio de Janeiro, Brasil, no período 1996-2016.
+doc73	2	O critério de elegibilidade para o ingresso na coorte era ser do sexo feminino ao nascimento, ter mais de 18 anos de idade e ter infecção comprovada pelo HIV.
+doc73	3	Na visita inicial, dados sobre aspectos sexuais, reprodutivos, comportamentais e da infecção pelo HIV foram obtidos durante entrevista face a face com o médico assistente.
+doc73	4	Foi calculada a prevalência de aborto induzido na vida e verificados os fatores associados ao aborto induzido por meio de regressão logística múltipla, para o total de mulheres e entre aquelas com gestação prévia.
+doc73	5	Do total de mulheres, 30,4% referiram algum aborto induzido na vida, sendo este valor de 33,5% em mulheres com gestação prévia.
+doc73	6	A frequência de aborto induzido relatado apresentou queda significativa no período analisado (41,7% de 1996-2000 vs. 22,5% de 2011-2016, p < 0,001).
+doc73	7	Os fatores associados ao aborto induzido, tanto para o total de mulheres quanto para aquelas com gestação prévia, foram o aumento da idade, escolaridade mais elevada, número de parceiros sexuais na vida ≥ 5, gestação na adolescência, uso de qualquer droga ilícita na vida e período de ingresso na coorte após 2005.
+doc73	8	Mudanças no perfil socioeconômico, sexual, reprodutivo e da infecção pelo HIV são explicações possíveis para a redução da prática do aborto no período.
+doc73	9	Estudos que utilizem métodos de aferição direta do aborto devem ser conduzidos em outras populações, para confirmar a tendência de queda do aborto induzido no país e seus determinantes.
+doc74	1	DESEMPENHO EM ATIVIDADES DIÁRIAS NAS FORMAS CONGÊNITA E INFANTIL DA DISTROFIA MIOTÔNICA TIPO 1: UM ESTUDO POPULACIONAL: OBJETIVO: Identificar e descrever o perfil caracterizando habilidades motoras e de processamento durante o desempenho de atividades diárias em indivíduos com formas congênita e infantil da distrofia miotônica tipo 1 (DM1), e investigar diferenças no desempenho entre subgrupos.
+doc74	2	MÉTODO: Sessenta participantes (34 do sexo masculino, 26 do sexo feminino, média de idade =17a 8m, DP=6a 0m, variação 5a 8m-29a 0m) foram divididos em subrupos de DM1 congênita severa (n=9), congênita leve (n=20), e infantil (n=31).
+doc74	3	O desempenho em atividades diárias foi avaliado usando um instrumento observacional padronizado: a Avaliação de Habilidades Motoras e de Processamento.
+doc74	4	RESULTADOS: Déficits no desempenho foram mais pronunciados nas habilidades de processamento do que motoras.
+doc74	5	Um desempenho mais do que 2 DPs abaixo dos valores normativos idade-específicos foi visto em 65% dos participantes para habilidades de processamento e 33% dos participantes para habilidades motoras.
+doc74	6	Os valores de corte indicaram potencial necessidade de assistência em atividades diárias para 79% dos participantes com mais de 18 anos de idade (n=28) devido a habilidades de processamento deficientes.
+doc74	7	INTERPRETAÇÃO: Déficits extensos no desempenho de atividades diárias foram encontrados nas formas congênita e infatil de DM1, devidos principalmente a habilidades de processamento deficientes.
+doc74	8	Tais habilidades impactam a capacidade de realizar atividades diárias e podem explicar a dependência em indivíduos com DM1.
+doc74	9	Habilidades de processamento devem ser consideradas ao se avaliar o desempenho em atividades diárias.
+doc75	1	Este estudo teve o objetivo de descrever as causas e as tendências de Internações por Condições Sensíveis à Atenção Primária (ICSAP) em menores de um ano, entre 2008 e 2014, no estado de São Paulo, Brasil.
+doc75	2	Trata-se de um delineamento ecológico, baseado em dados secundários do Sistema de Informações Hospitalares.
+doc75	3	Classificaram-se as internações segundo o diagnóstico principal e a Lista Brasileira de ICSAP, considerando as seguintes faixas etárias: Neonatais precoce, Neonatal tardia e Pós-neonatal.
+doc75	4	Para a análise de tendência das internações foram ajustados modelos de regressão linear.
+doc75	5	Ocorreram 851.713 internações de Menores de um ano, sendo 22,6% por ICSAP.
+doc75	6	As principais reduções das frequências de internação foram: Pneumonias bacterianas (-7,10%) e Desvios nutricionais (-7,70) em Neonatal precoce.
+doc75	7	As elevações foram: Doenças relacionadas ao pré-natal e parto (+10,14%) e Doenças imunizáveis e condições evitáveis em Pós-neonatal (+14,13%), com destaque para coqueluche e sífilis congênita.
+doc75	8	Os resultados mostram uma deficiência no cuidado à saúde infantil na atenção primária no estado de São Paulo, enquanto que as tendências de internações estimadas podem auxiliar no planejamento de estratégias para diminuir os agravos e os gastos no setor terciário de atenção em saúde.
+doc77	1	Os cateteres venosos centrais são amplamente usados na prática clínica e estão relacionados a vários tipos de complicações, entre elas o mau posicionamento no momento do implante do cateter.
+doc77	2	Os autores relatam o caso de um cateter totalmente implantável que foi inadvertidamente posicionado na veia torácica interna direita, sendo a complicação reconhecida após tentativa do uso do cateter na enfermaria.
+doc77	3	A veia torácica interna direita fica na projeção da veia inominada direita e da veia cava superior, simulando um bom posicionamento do cateter na radioscopia em projeção anteroposterior.
+doc77	4	Em caso de mau funcionamento de um cateter central no pós-operatório imediato, a conduta deve incluir imagens oblíquas ou de perfil, para excluir a complicação relatada neste trabalho sem necessidade de tomografia computadorizada.
+doc78	1	Estudos mostram que, a despeito da queda das taxas de mortalidade e das melhorias nas condições de saúde, os trabalhadores têm saído mais cedo da atividade econômica.
+doc78	2	Esperar-se-ia que uma vida mais longa aumentasse os retornos aos investimentos em capital humano.
+doc78	3	A literatura associa a saída precoce do mercado de trabalho à cobertura da seguridade social.
+doc78	4	O adiamento da idade à aposentadoria é considerado uma alternativa para conter o desequilíbrio fiscal em muitos países.
+doc78	5	No entanto, estudos sugerem a existência de barreiras que inibem a permanência do trabalhador mais velho na atividade econômica.
+doc78	6	Entre elas, cita-se o preconceito por parte dos empregadores.
+doc78	7	O objetivo deste trabalho é buscar entender a não participação de homens brasileiros de 50-64 anos nas atividades econômicas, aí incluídos os que não estão aposentados (nem-nem).
+doc78	8	São o primeiro grupo a ser afetado pela reforma previdenciária proposta pelo governo.
+doc78	9	A proporção desses no total desta faixa etária aumentou de 3,5% para 10,2%, entre 1984 e 2017.
+doc78	10	Baixa escolaridade e piores condições de saúde em relação aos demais homens podem dificultar essa inserção.
+doc78	11	Isso sugere uma discriminação com relação aos trabalhadores mais velhos e a falta de políticas públicas que visem reforçar a capacidade destes indivíduos para conseguir um emprego.
+doc79	1	O Brasil foi um dos primeiros países do mundo a proibir os Dispositivos Eletrônicos de Fumar (DEFs), tal proibição foi motivada pela inexistência de evidências relativas às alegadas propriedades terapêuticas e da inocuidade destes produtos.
+doc79	2	Por conta de tal proibição, A Anvisa foi criticada, especialmente de grupos de usuários.
+doc79	3	Estes grupos argumentam que tal ação proibiu um produto que auxiliaria a cessação ao tabagismo e seria menos tóxico que os cigarros comuns.
+doc79	4	Assim sendo, surge o questionamento se esta decisão foi acertada ou não.
+doc79	5	Os dados disponíveis mostram que os DEFs possuem formulações diversas e algumas substâncias tóxicas são liberadas durante sua utilização em níveis significativos.
+doc79	6	Estudos em animais e em humanos demonstraram potencial efeito tóxico.
+doc79	7	Os DEFs também demostraram que podem afetar a saúde de fumantes passivos.
+doc79	8	Quanto a seu uso como ferramenta de cessação, os estudos ainda não são conclusivos.
+doc79	9	Observou-se também um alto grau de uso entre adolescentes em países que seu uso foi autorizado.
+doc79	10	Desta forma o Brasil ao proibir estes produtos, impediu que a população consumisse um produto sem comprovação que auxiliasse no tratamento do tabagismo, com indícios de significativa toxidade e altamente atrativo aos jovens.
+doc8	1	Introdução: A ambliopia requer uma abordagem atempada para uma máxima recuperação visual.
+doc8	2	Não existe informação sobre a idade de referenciação da ambliopia.
+doc8	3	O presente artigo pretende perceber se há diferenças na idade média de referenciação para consulta terciária de Oftalmologia, entre não-amblíopes e amblíopes, num contexto sem rastreio implementado.
+doc8	4	Material e Métodos: A amostra correspondeu a todas as crianças nascidas no Hospital de Braga entre 1997 - 2012 (3 - 18 anos de idade), com consulta de Oftalmologia em 2014.
+doc8	5	A informação foi recolhida pelos registos clínicos, tendo sido criado o grupo nãoamblíope e amblíope, dividido em estrábico e refrativo (anisometrópico/bilateral).
+doc8	6	Resultados: A amostra contemplou 1665 participantes, 1369 (82,2%) não-amblíopes e 296 (17,8%) amblíopes.
+doc8	7	Dentro das ambliopias: 67,9% (n = 201) refrativas e 32,1% (n = 95) estrábicas.
+doc8	8	Nas ambliopias refrativas: 63,7% (n = 128) anisometrópicas e 36,3% (n = 73) bilaterais.
+doc8	9	A média de idades na primeira consulta foi de 6,24 ± 3,90 anos, 6,39 ± 3,98 nos não-amblíopes e 5,76 ± 3,58 nos amblíopes.
+doc8	10	Dentro dos subgrupos de ambliopia, existiram diferenças significativas na idade na primeira consulta (F3,1250 = 8,45; p < 0,001; η2 = 0,020).
+doc8	11	As ambliopias estrábicas e as refrativas bilaterais foram referenciadas mais cedo, quando comparadas com não-amblíopes ou ambliopias anisometrópicas (p < 0,05).
+doc8	12	A ambliopia anisometrópica teve a maior média de idade na primeira consulta: 6,92 ± 3,57 anos de idade.
+doc8	13	Discussão: Sem um rastreio pré-escolar específico, os amblíopes foram referenciados para a primeira observação oftalmológica significativamente mais tarde do que o desejado, especialmente a ambliopia anisometrópica, com uma idade pós-escolar de média para a primeira avaliação oftalmológica.
+doc8	14	Conclusão: Identificar crianças de alto risco é essencial para uma referenciação precoce, ajudando a minimizar consequências visuais.
+doc81	1	A saúde oral tem sido pouco cuidada no contexto do Serviço Nacional de Saúde em Portugal.
+doc81	2	A quase inexistência de uma rede de medicina dentária levanta problemas de acessibilidade que condicionam a necessidade de complementar os serviços públicos com uma oferta predominantemente privada.
+doc81	3	Mas esta coexistência não é sempre fácil, sobretudo quando há necessidade dos serviços se cruzarem e colaborarem ativamente na resolução dos problemas do doente.
+doc81	4	Uma situação comum é a colocação de implantes dentários e a necessidade de realizar uma tomografia computorizada maxilofacial prévia para estudo de leito para colocação de implantes dentários osteointegrados, onde a aplicação de regulação governamental desenquadrada do contexto clínico pode condicionar a acessibilidade aos tratamentos.
+doc81	5	Com base neste cenário, discutem-se as opções do ponto de vista ético, na perspetiva do doente, do médico e da relação entre ambos.
+doc81	6	Conclui-se que a decisão médica não pode ser desenquadrada de uma avaliação clínica que apenas o ambiente de intimidade da consulta médica pode proporcionar.
+doc81	7	É um imperativo ético que se sobrepõe aos constrangimentos administrativos e burocráticos e que se bem gerido é potenciador de uma melhor saúde e de maior capacitação da pessoa.
+doc83	1	O presente estudo tem como objetivo caracterizar o perfil epidemiológico de vítimas de acidentes escorpiônicos e ofídicos e avaliar a adequação das prescrições de soros antivenenos.
+doc83	2	Estudo transversal cujas fontes de dados foram as fichas de notificação de acidentes por animais peçonhentos do Sistema de Informação de Agravos de Notificação no município de Vitória da Conquista (BA), Brasil.
+doc83	3	Foram incluídas as informações de acidentes escorpiônicos ou ofídicos no período entre julho de 2016 e junho de 2017 atendidos no município.
+doc83	4	Os dados obtidos e as variáveis de interesse foram analisadas de acordo com as perguntas deste estudo.
+doc83	5	No período observado foram atendidas 293 vítimas de acidentes por animais peçonhentos.
+doc83	6	Destas, 149 (50,9%) foram homens e 114 (38,9%) possuíam entre 20 a 59 anos.
+doc83	7	Foram 235 (80,9%) casos de escorpionismo e 58 (19,1%) de ofidismo.
+doc83	8	Destes, 203 (69,3%) foram classificados como leves e em 200 (68,5%) casos foi prescrita soroterapia para estes pacientes.
+doc83	9	Quanto à adequação das prescrições, 172 (59,7%) foram julgadas inadequadas e destas, o uso de número de ampolas acima do indicado foi a mais frequente.
+doc83	10	A prescrição inapropriada de soros antivenenos ocorreu em aproximadamente em 60% dos casos avaliados.
+doc83	11	Apesar disso, a maioria dos acidentes foi classificada como leve, em homens jovens.
+doc85	1	A doença de Parkinson é a segunda doença neurodegenerativa mais comum, tendo sido documentado um aumento significativo da sua prevalência nas últimas três décadas.
+doc85	2	A fisiopatologia da doença assenta numa interação genética-ambiente, estimando-se que cerca de 5% – 10% dos casos tenham causa genética monogénica.
+doc85	3	O diagnóstico é clínico, apoiado por investigação complementar adequada.
+doc85	4	Não dispomos ainda de uma forma de diagnosticar com certeza a doença de Parkinson in vivo, à exceção de testes genéticos em circunstâncias específicas, cuja utilidade é limitada a uma minoria de casos.
+doc85	5	Recentemente foram propostos novos critérios de diagnóstico, com o objetivo de melhorar a acuidade diagnóstica, com ênfase nas características que apontam para outras causas de parkinsonismo.
+doc85	6	As opções terapêuticas atualmente disponíveis são clinicamente úteis, pois têm a capacidade de melhorar os sintomas da doença e a qualidade de vida dos doentes.
+doc85	7	Após a introdução da levodopa, a estimulação cerebral profunda surgiu, mais recentemente, como a segunda intervenção terapêutica com importante impacto sintomático no tratamento desta doença.
+doc85	8	Os sintomas não motores e as complicações motoras são responsáveis por uma parte considerável da incapacidade na doença de Parkinson, pelo que devem ser identificados e tratados.
+doc85	9	A investigação científica atual foca-se na identificação de potenciais biomarcadores da doença, que permitam alcançar um diagnóstico certeiro e atempado, e na criação de terapêuticas mais eficazes, de modo a preencher as necessidades clínicas atualmente não satisfeitas.
+doc85	10	Este artigo apresenta uma revisão atualizada sobre a doença de Parkinson, guiando o leitor através dos conceitos mais atualizados nesta temática, de forma a permitir a sua aplicação na prática clínica diária.
+doc86	1	A recente mudança de modelo da atenção primária à saúde para estratégia de Saúde da Família, com foco centrado no usuário e na territorialização foi o momento ideal para implantação do Projeto AcolheSUS em uma Unidade Básica de Saúde (UBS) da Região Central de Brasília, Distrito Federal.
+doc86	2	A equipe de servidores da UBS realizou o diagnóstico situacional da unidade e o planejamento estratégico situacional, com o objetivo de reorganizar o serviço a partir da problematização e com foco nos processos de trabalho.
+doc86	3	Com o AcolheSUS houve aumento do número de cadastros individuais realizados pelas equipes de 135 para 3.525, o número de atendimentos de enfermagem aumentou em 193,7% e o número de procedimentos realizados por enfermeiros teve um acréscimo 121,2%.
+doc86	4	O percentual de residentes da área adstrita que procuravam a unidade básica de saúde durante o processo de mudança de modelo de atenção era 71% do total e alcançou 90,5% após o AcolheSUS.
+doc86	5	A média mensal de usuários acolhidos e classificados foi de 1.099,8.
+doc86	6	A construção conjunta de protocolos sólidos e o ajuste de processos de trabalho contribuíram para a melhoria na oferta de serviços e propiciaram maior acesso do usuário à unidade de saúde.
+doc87	1	OBJETIVO
+doc87	2	Este artigo tem como objetivo avaliar o impacto do tratamento com testosterona na expansão dos tecidos adiposos visceral, subcutâneo e intramedular de ratas ovariectomizadas e a expressão de receptores ativados por proliferadores de peroxissoma (RAPPs) gama nas gorduras visceral e subcutânea.
+doc87	3	MéTODOS:  No total, 48 ratas Wistar foram castradas e divididas aleatoriamente em 6 grupos de tratamento: o grupo E2 recebeu estradiol 5 μg/dia; o grupo T, testosterona 5 μg/dia; o grupo E2 + T, estradiol 5 μg/dia + testosterona 5 μg/dia; o grupo TT, testosterona 30 μg/dia; o grupo E2 + TT, estradiol 5 μg/dia + testosterona 30 μg/dia; e o grupo P recebeu placebo.
+doc87	4	Após 5 semanas, as ratas foram submetidas a eutanásia, o tecido adiposo inguinal e visceral foi coletado, pesado, e se avaliou a expressão dos RAPP gama por reação em cadeia da polimerase via transcriptase reversa quantitativa (RCP-TRq).
+doc87	5	Os ossos do fêmur direito foram colhidos e processados histologicamente para contagem de números de adipócitos intramedulares.
+doc87	6	RESULTADOS
+doc87	7	A expansão do tecido adiposo visceral foi muito maior no grupo TT quando comparado a outros grupos tratados (p < 0,001).
+doc87	8	O grupo TT também apresentou maior expansão da gordura inguinal (p < 0,01), e os grupos E2 + T e E2 + TT apresentaram menor crescimento em relação ao grupo P (p < 0,01).
+doc87	9	O número de adipócitos intramedulares no fêmur mostrou apenas diferenças significativas entre os grupos TT e E2 + TT (p < 0,05).
+doc87	10	A expressão de RAPP gama não mostrou diferenças entre os grupos.
+doc87	11	CONCLUSãO:  O uso de testosterona em altas doses leva a uma importante expansão nos tecidos adiposos visceral e inguinal.
+doc87	12	A associação com o estradiol exerce um efeito repressivo de expansão nos tecidos adiposos visceral e inguinal.
+doc90	1	Introdução: Valores elevados de lipoproteína(a), relacionados com a progressão da aterosclerose, são frequentemente considerados marcadores de trombose.
+doc90	2	O perfil de lipoproteína(a) foi avaliado num grupo de doentes sem eventos cardiovasculares mas com elevado risco vascular, estabelecendo-se a correlação com outros fatores de risco cardiovascular e inferindo-se os resultados para doentes com alterações metabólicas e, pelo menos, dois fatores de risco vascular.
+doc90	3	Material e Métodos: Este estudo observacional longitudinal incluiu 516 doentes com, pelo menos, dois fatores de risco cardiovascular e que frequentavam, regularmente e há pelo menos dois anos, a consulta ambulatória de metabolismo e risco vascular para prevenção primária.
+doc90	4	Os parâmetros sociodemográficos, clínicos e antropométricos foram recolhidos na primeira visita.
+doc90	5	A morfologia hepática foi avaliada por ultrassonografia em 509 doentes (98,6%).
+doc90	6	O risco vascular a 10 anos foi estimado através de tabelas de cálculo de risco de Framingham, doença cardiovascular e risco coronário sistemático.
+doc90	7	Resultados: Foram encontradas correlações significativas entre os níveis de lipoproteína(a) e os fatores de risco vasculares analisados, assim como entre lipoproteína(a) e as escalas de risco de Framingham, doença cardiovascular e risco coronário sistemático.
+doc90	8	Os valores de lipoproteína(a) apresentaram-se mais elevados em doentes com esteatose.
+doc90	9	Discussão: Os valores elevados de lipoproteína(a) estão diretamente associados com todos os marcadores de risco cardiovascular e com esteatose hepática não alcoólica.
+doc90	10	Conclusão: Como tal, considerando a sua elevada acessibilidade e custo reduzido, o marcador lipoproteína(a) deverá ser integrado na avaliação de rotina de doentes com risco vascular.
+doc91	1	OBJETIVO
+doc91	2	Este estudo investigou o efeito da educação musical no repertório de habilidades escolares em crianças expostas e não expostas à educação musical.
+doc91	3	MÉTODO
+doc91	4	Foram avaliadas 80 crianças, entre oito a doze anos, ambos os sexos, divididos em dois grupos: 40 alunos com educação musical (experimental) e 40 alunos sem educação musical (controle).
+doc91	5	Para coleta dos dados, foram utilizados o questionário do Sistema de Avaliação de Habilidades Sociais (SSRS-M) e o Teste de Desempenho Escolar (TDE).
+doc91	6	RESULTADOS
+doc91	7	Indicaram diferença estatisticamente significante nas crianças expostas à educação musical, evidenciando que houve melhoria no desempenho escolar e na competência acadêmica.
+doc91	8	CONCLUSÃO
+doc91	9	Portanto, é de grande relevância o benefício da aprendizagem musical aliada a diferentes áreas da educação e da saúde, uma vez que pode representar uma estratégia eficaz na prática inclusiva e na promoção da saúde física e mental das crianças.
+doc92	1	CONTEXTO
+doc92	2	Recomenda-se terapia antifúngica tópica para desinfetar pelos de animais infectados por dermatófitos.
+doc92	3	OBJETIVO
+doc92	4	Determinar a atividade antifúngica imediata e residual (24, 48 e 72 h) dos produtos comumente usados para aplicação focal (n = 11) e de corpo inteiro (n = 3).
+doc92	5	ANIMAIS
+doc92	6	Amostras de pelos de gatinhos naturalmente infectados.
+doc92	7	MÉTODOS E MATERIAIS: A atividade antifúngica imediata foi avaliada usando esporos infectados isolados.
+doc92	8	Em um desafio mais robusto, escovas de dentes contendo pelos inteiros infectados foram tratadas repetidamente com produtos até cultura negativa.
+doc92	9	A atividade residual foi determinada tratando 0,04 g de pelo não infectado com os produtos do teste, permitindo que os pelos secassem e plaqueando-os em placas de cultura de fungos inoculadas com Microsporum canis.
+doc92	10	A atividade residual foi avaliada nas 24, 48 e 72 horas após o tratamento.
+doc92	11	RESULTADOS
+doc92	12	Todos os produtos apresentaram boa eficácia contra os esporos infectados isolados.
+doc92	13	Dois produtos exigiram três tratamentos para desinfetar pelos inteiros infectados (miconazol 0,2% e cetoconazol 0,15%); todos os outros produtos foram eficazes após um tratamento.
+doc92	14	Para cada produto, a atividade residual às 24, 48 e 72 h foi semelhante.
+doc92	15	Para todos os produtos corporais, o enxofre de cal e o enilconazol apresentaram atividade residual, mas, como esperado, nenhuma foi detectada para shampoo de nitrato de miconazol a 2% / clorexidina a 2%.
+doc92	16	Para produtos de terapia focal, foi detectada atividade residual para clotrimazol 1%, terbinafina 1%, miconazol a 0,2, 1 ou 2%, escalazol 0,5% com gluconato de clorexidina e cetoconazol 1% com gluconato de clorexidina.
+doc92	17	Um limpador de ouvidos com cetoconazol a 0,15% não demostrou atividade residual.
+doc92	18	CONCLUSÕES E IMPORTÂNCIA CLÍNICA: Os resultados apoiam a aplicação duas vezes por semana de enilconazol e enxofre de cal e o uso de terapia tópica focal adjuvante diariamente ou em dias alternados.
+doc97	1	Os objetivos do estudo foram identificar modelos de assistência obstétrica em gestantes de risco habitual na Região Sul do Brasil, estimar os fatores associados a esses modelos e os desfechos maternos e neonatais.
+doc97	2	Realizou-se estudo seccional a partir da pesquisa Nascer no Brasil, de base hospitalar, que envolveu puérperas e recém-nascidos.
+doc97	3	Foram identificadas 2.668 gestantes de risco habitual.
+doc97	4	Procedeu-se a uma análise exploratória, com a utilização da proporção de práticas por hospital, entre elas o desencadeamento do trabalho de parto, a presença de acompanhante, a cesárea e o contato pele a pele, para a obtenção de modelos de assistência obstétrica denominados Boas Práticas, Intervencionista I e Intervencionista II. Em seguida, realizou-se uma análise inferencial das características associadas.
+doc97	5	Os resultados mostraram que o acesso ao financiamento público ou privado, os fatores culturais e a atuação dos profissionais de saúde apresentaram associações com os modelos de assistência.
+doc97	6	A assistência pública apresentou diferentes contextos: um primeiro, alicerçado em políticas públicas e na prática baseada em evidência; um segundo, baseado na intencionalidade pelo parto vaginal, sem considerar os princípios de humanização.
+doc97	7	Já a assistência privada é padronizada e centrada no profissional médico, com maiores níveis de intervenção.
+doc97	8	Conclui-se que há predomínio dos modelos de assistência obstétrica intervencionistas na Região Sul do Brasil, uma assistência na contramão das melhores evidências, e que as mulheres assistidas em hospitais públicos possuem mais chance de serem beneficiadas com as boas práticas.
+doc98	1	OBJETIVO
+doc98	2	descrever a adequação de práticas alimentares às recomendações do Guia alimentar para a população brasileira e analisar fatores sociodemográficos associados, entre adultos.
+doc98	3	MÉTODOS
+doc98	4	estudo transversal, com amostra de conveniência de 900 adultos (18-60 anos) residentes no território brasileiro; uma escala de práticas alimentares (24 itens; escore 0-72), baseada nas recomendações do Guia, foi aplicada por meio de um painel on-line; análises de regressão linear múltipla foram empregadas.
+doc98	5	RESULTADOS
+doc98	6	os participantes do estudo tinham, em média, 33,5 anos; 52,2% eram mulheres; o escore médio na escala foi de 36,4 pontos (DP=8,5), e mostrou-se diretamente associado à idade (p tendência linear <0,001), e maior entre indivíduos residentes nas regiões Norte-Nordeste (37,8) comparados aos das regiões Centro-Sul (35,8) (p T-teste=0,001).
+doc98	7	CONCLUSÃO
+doc98	8	a adequação das práticas alimentares às recomendações do Guia esteve diretamente associada à idade, e foi maior entre indivíduos das regiões Norte e Nordeste do país.
+doc99	1	ESCALAS DESENVOLVIMENTAL E SÓCIO EMOCIONAL DA AVALIAÇÃO NEURODESENVOLVIMENTAL PADRONIZADA DO LACTENTE (SINDA): CONFIABILIDADE E VALOR PREDITIVO EM UMA POPULAÇÃO DE RISCO: OBJETIVO: Avaliar a confiabilidade e validade preditiva das escalas desenvolvimental e sócio emocional da Avaliação Neurodesenvolvimental Padronizada do Lactente (SINDA).
+doc99	2	MÉTODO: Para avaliar a confiabilidade, dois grupos de três avaliadores formando oito pares de availadores pontuaram independentemente as escalas desenvolvimental e sócio emocional de 60 lactentes.
+doc99	3	Para avaliar a validade preditiva, 223 lactentes (idade gestacional 30sem [variação 23-sem]; 117 do sexo masculino, 106 do sexo feminino) atendidos em uma clínica não-acadêmica foram avaliados por diferentes avaliadores com as escalas neurológica, desenvolvimental e sócio emocional da SINDA.
+doc99	4	Resultados neurodesenvolvimentais atípicos na idade corrigida de 24 meses ou mais implicaram um Índice Desenvolvimental Mental ou Psicomotor segundo a Bayley de menos de 70 ou uma desordem neurológica (incluindo paralisia cerebral).
+doc99	5	Transtornos comportamentais e emocionais foram classificados de acordo com a Classificação Internacional de Doenças, 10a edição.
+doc99	6	Valores preditivos foram calculados a partir da SINDA (2-12 mess de idade corrigida, mediana 7 meses) e também o resultado típico versus atípico, e para deficiência intelectual apenas (Índice de Desenvolvimento mental <70).
+doc99	7	RESULTADOS: Os avaliadores concordaram fortemente quanto às avaliações desenvolvimental e sócio emocional (escores desenvolvimentais: coeficiente de correlação de Spearman ρ=0,972; itens isolados do comportamento sócio-emocional κ de Cohen =0,783-0,896).
+doc99	8	Aos 24 meses ou mais, 65 crianças tiveram resultado atípico.
+doc99	9	Escores neurológicos atípicos predizeram resultado atípico (sensibilidade 83%, especificidade 96%); escores desenvolvimentais atípicos predizeram deficiência intelectual (sensibilidade 77%, especificidade 92%).
+doc99	10	Emocionalidade atípica e auto-regulação atípica foram associados com transtornos comportamentais e emocionais.
+doc99	11	INTERPRETAÇÃO: As três escalas da SINDA são confiáveis, e têm validade preditiva satisfatória para resultado desenvolvimental atípico aos 24 meses ou mais em um ambiente clínico não-acadêmico.
+doc99	12	A escala desenvolvimental da SINDA tem validade preditiva promissora para deficiência intellectual.
+doc99	13	A escala sócio-emocional da SINDA é uma ferramenta para aconselhamento dos cuidadores.

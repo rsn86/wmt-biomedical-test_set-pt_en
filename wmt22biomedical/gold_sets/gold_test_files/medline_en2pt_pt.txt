@@ -1,0 +1,454 @@
+doc1	1	Traduzir para o idioma português a ferramenta My Experience Book, avaliar o conteúdo da tradução, o nível de legibilidade, a qualidade e a identidade visual do material e disponibilizá-lo online.
+doc1	2	Estudo descritivo, transversal, de caráter quantitativo e qualitativo.
+doc1	3	Os procedimentos contaram com cinco etapas, sendo: tradução do material; avaliação e resposta ao questionário 1 referente à tradução; determinação da validade do conteúdo; avaliação da legibilidade; disponibilização do material online e avaliação do conteúdo voltado à qualidade e a identidade visual (questionário 2).
+doc1	4	Participaram do estudo três fonoaudiólogos, juízes e 22 profissionais (fonoaudiólogos e médicos otorrinolaringologistas de serviços de saúde auditiva e reabilitação).
+doc1	5	A tradução do material apresentou taxas de concordância de validade maiores que 90%.
+doc1	6	A legibilidade classificou o material com nível fácil de leitura.
+doc1	7	Dentre os 184 profissionais convidados, 22 concordaram com a participação, demonstrando baixa adesão ao estudo.
+doc1	8	A maior parte dos respondentes concordaram positivamente com os aspectos relacionados ao conteúdo e coerência do material traduzido, vídeos, imagens ilustrativas e legendas.
+doc1	9	O material também foi considerado importante pela maioria dos avaliadores.
+doc1	10	Todos os fonoaudiólogos referiram fazer uso do instrumento na prática clínica.
+doc1	11	O material traduzido referente à ferramenta é de grande relevância, pois reúne informações práticas voltadas à criação de um caderno de experiências, bem como orientações quanto ao uso do instrumento como recurso adicional para a estimulação do desenvolvimento das habilidades auditivas e de linguagem de crianças com deficiência auditiva.
+doc2	1	A cardiomiopatia hipertrófica (CMH) pode causar obstrução da via de saída do ventrículo esquerdo (VSVE) e ser responsável pelo surgimento de sintomas limitantes, como cansaço físico.
+doc2	2	Quando tais sintomas são refratários ao tratamento farmacológico, os tratamentos alternativos intervencionistas podem ser úteis, como a ablação septal por meio da infusão de álcool na artéria coronária ou por meio da miectomia cirúrgica.
+doc2	3	Recentemente, o uso de cateter de radiofrequência (RF) para ablação do septo endocárdico guiado por mapeamento eletroanatômico mostrou-se eficaz apesar da elevada incidência de bloqueio atrioventricular total.
+doc2	4	Uma alternativa seria a aplicação de radiofrequência no ponto de início do gradiente septal guiada pelo ecocardiograma transesofágico (ETE).
+doc2	5	O ecocardiograma é um método de imagem com elevada acurácia para determinação da anatomia septal.
+doc2	6	Avaliar o efeito em longo prazo da ablação septal para alívio do gradiente ventrículo-arterial, utilizando o ETE para auxiliar no posicionamento do cateter na área de maior obstrução septal.
+doc2	7	Avaliar também os efeitos da ablação na classe funcional e parâmetros ecocardiográficos.
+doc2	8	Doze pacientes sintomáticos com obstrução da VSVE, refratários à terapia farmacológica, foram submetidos à ablação endocárdica septal com cateteres com ponta de 8 mm, cujo posicionamento foi orientado na região de maior obstrução com auxílio do ETE.
+doc2	9	Foram realizadas aplicações de radiofrequência (RF) termocontrolada e escalonadas sobre a área alvo.
+doc2	10	Após cada aplicação, o gradiente era reavaliado e nova aplicação era realizada de acordo com critério clínico.
+doc2	11	Foram avaliados os efeitos das aplicações de RF tanto para o gradiente em repouso como para o provocado por meio da manobra de Valsalva, e considerado o gradiente.
+doc2	12	As diferenças foram significativas quando o valor de p foi menor ou igual a 0,05.
+doc2	13	Observou-se que a redução da média dos gradientes máximos obtidos foi de 96,8±34,7 mmHg para 62,7±25,4 mmHg ao final de três meses do procedimento (p=0,0036).
+doc2	14	Após um ano, a média dos gradientes máximos obtidos foi de 36,1±23,8 mmHg (p=0,0001).
+doc2	15	O procedimento foi bem tolerado e não houve registro de bloqueio atrioventricular total e nem complicações graves.
+doc2	16	A ablação septal guiada pelo ETE foi eficaz e segura, com resultados mantidos durante o período de seguimento clínico.
+doc2	17	É uma opção razoável para o tratamento intervencionista da obstrução da VSVE em CMH.
+doc3	1	Alimentos ultraprocessados são marcadores de padrões alimentares não saudáveis e seu consumo é elevado entre os adolescentes.
+doc3	2	Características do ambiente alimentar escolar se associam a práticas alimentares de estudantes.
+doc3	3	O objetivo do estudo foi investigar a associação entre a presença de cantinas e a disponibilidade de alimentos ultraprocessados nas cantinas com o consumo destes alimentos, dentro da escola, entre adolescentes do 9º ano do Ensino Fundamental das redes pública e particular do Município de São Paulo, Brasil.
+doc3	4	Foi realizado um estudo transversal com dados do SP-Proso, em amostra de 2.680 adolescentes.
+doc3	5	Foram feitos modelos de regressão linear multinível para avaliar as associações entre as exposições presença de cantinas nas escolas e disponibilidade de alimentos ultraprocessados com desfechos de frequência de consumo de ultraprocessados na escola.
+doc3	6	A presença de cantinas esteve associada à maior frequência de consumo de embutidos (0,46; IC95%: 0,24; 0,68), salgadinhos de pacote (0,50; IC95%: 0,19; 0,80), guloseimas (0,82; IC95%: 0,55; 1,09) e bebidas açucaradas (0,34; IC95%: 0,06; 0,62), bem como um escore de frequência de consumo de ultraprocessados (2,37; IC95%: 1,25; 3,48).
+doc3	7	A disponibilidade de salgadinhos de pacote, guloseimas e bebidas açucaradas nas cantinas aumentou a frequência de consumo desses alimentos.
+doc3	8	Foi observado um efeito dose/resposta entre a diversidade de ultraprocessados nas cantinas e a frequência de consumo destes alimentos.
+doc3	9	Um ambiente alimentar escolar com maior disponibilidade de ultraprocessados está associado ao maior consumo dos mesmos na escola, o que aponta para a necessidade de regulamentar o comércio de alimentos dentro destas instituições.
+doc5	1	Foi demonstrado que as subunidades de interleucina-35 (IL-35) estão fortemente expressas nas placas ateroscleróticas em humanos.
+doc5	2	Assim, considera-se que elas têm um papel na aterosclerose.
+doc5	3	Neste estudo, os níveis de IL-35 foram comparados com o grupo controle em pacientes com doença arterial coronariana (DAC) estável, e a associação entre os níveis de IL-35 e o tipo, gravidade e extensão da lesão foram investigadas com o escore Gensini (GS) e o escore Syntax (SS) no grupo de pacientes.
+doc5	4	Sessenta pacientes (18 mulheres e 42 homens) com DAC, diagnosticados por meio da angiografia coronária, que apresentaram dor no peito típica e teste de esforço não invasivo positivo, e 46 pacientes (18 mulheres e 28 homens) com luminograma normal, foram incluídos no estudo.
+doc5	5	Tanto o GS quanto o SS foram calculados para o grupo de pacientes, e esses valores foram comparados com os níveis de IL-35.
+doc5	6	Variáveis com distribuição não normal foram avaliadas com o teste U de Mann-Whitney, enquanto os parâmetros com distribuição normal foram analisados com o teste t de Student.
+doc5	7	A diferença entre as variáveis categóricas foi avaliada pelo teste de qui-quadrado ou de Fisher.
+doc5	8	Os valores de p<0,05 foram considerados como estatisticamente sinificativos.
+doc5	9	Não foram observadas diferenças significativas entre pacientes e o grupo controle em termos de características demográficas e achados laboratoriais.
+doc5	10	Em comparação ao grupo controle, os níveis de IL-35 no grupo com DAC foram consideravalmente menores (36,9±63,9 ng/ml vs. 33,2±13,2 ng/ml, p<0,008).
+doc5	11	Embora não tenha sido estatisticamente significativo, os níveis de IL-35 foram maiores em pacientes com SS mais baixo do que nos com SS mais alto (33,2±13,7 vs. 31,8±8,9, p=0,51).
+doc5	12	Os valores de IL-35 em pacientes com GS alto foram significativamente mais baixos do que em pacientes com GS baixo (35±17,4 vs. 30,7±8,6, p=0,043).
+doc5	13	Demonstrou-se que os níveis de IL-35 podem ser um novo biomarcador para a DAC estável, e que a IL-35 está associada à extensão da DAC.
+doc6	1	Doença falciforme (DF) é a condição genética mais comum no mundo, com uma prevalência variável nos continentes.
+doc6	2	A substituição de um nucleotídeo muda um aminoácido na cadeia da β globina, e altera a estrutura normal da hemoglobina, que é então chamada de hemoglobina S, e pode ser herdada em homozigose (HbSS) ou heterozigose (HbSC, HbSβ), e leva a hemólise crônica, vaso-oclusão, inflamação, e ativação endotelial.
+doc6	3	Realizou-se uma revisão narrativa da literatura considerando doença falciforme e gestação, as complicações clínicas e obstétricas, o cuidado antenatal específico, e o seguimento para monitoramento materno e fetal.
+doc6	4	Gestantes com DF têm maior risco de desenvolver complicações clínicas e obstétricas, como crises dolorosas, complicações pulmonares, infecções, eventos tromboembólicos, pré-eclâmpsia, e morte materna.
+doc6	5	E seus recém-nascidos correm maior risco de desenvovler complicações neonatais: restrição de crescimento fetal, prematuridade e óbito fetal/neonatal.
+doc6	6	Complicações graves podem ocorrer em qualquer genótipo da doença.
+doc6	7	Concluiu-se que DF é uma condição de alto risco que aumenta a morbimortalidade materna e perinatal.
+doc6	8	Um seguimento com abordagem multidisciplinar na gestação e puerpério é fundamental para o diagnóstico e o tratamento das complicações.
+doc7	1	Introdução: Apesar do risco da COVID-19 na gravidez poder ser acrescido, são necessários estudos em larga escala para o melhor conhecimento do impacto desta infeção nesta população.
+doc7	2	O objetivo deste estudo é descrever as complicações obstétricas e a taxa de transmissão vertical em grávidas com infeção a SARS-CoV-2.
+doc7	3	Material e Métodos: Os casos conhecidos de infeção por SARS-CoV-2 na gravidez foram registados nos hospitais portugueses por obstetras.
+doc7	4	Foram recolhidos dados epidemiológicos, da gravidez e do parto.
+doc7	5	Resultados: Registaram-se 630 casos positivos em 23 maternidades portuguesas, a maioria no termo (87,9%) e assintomática (62,9%).
+doc7	6	A comorbilidade materna mais frequente foi a obesidade.
+doc7	7	A taxa de parto pré-termo e de leves para a idade gestacional foi de 12,1% e 9,9%, respectivamente.
+doc7	8	No terceiro trimestre, 2,9% das grávidas necessitaram de suporte respiratório.
+doc7	9	Verificou-se uma taxa de 1,5% de morte fetal, incluindo dois casos de transmissão vertical.
+doc7	10	Houve cinco casos de degradação respiratória no pós-parto, mas sem mortes maternas registadas.
+doc7	11	A taxa de cesarianas foi mais elevada na primeira do que na segunda vaga (68,5% vs 31,5%).
+doc7	12	A positividade do RT-PCR SARS-CoV-2 entre os recém-nascidos foi de 1,3%.
+doc7	13	Conclusão: A infeção pelo SARS-Cov-2 na gravidez pode acarretar riscos aumentados para as grávidas e fetos.
+doc7	14	Recomenda-se uma vigilância individualizada nestes casos e a profilaxia desta população com a vacinação.
+doc8	1	Avaliar a utilidade do pico de fluxo da tosse para predizer o desfecho da extubação em pacientes que obtiveram sucesso no teste de respiração espontânea.
+doc8	2	A busca cobriu as bases de dados científicos MEDLINE, Lilacs, Ibecs, Cinahl, SciELO, Cochrane, Scopus, Web of Science e literatura cinzenta.
+doc8	3	Utilizaram-se os critérios Quality Assessment of Diagnostic Accuracy Studies para avaliar a qualidade da metodologia e o risco de viés dos estudos.
+doc8	4	A heterogeneidade estatística da razão de verossimilhança (LR) e razão de chance diagnóstica (RCD) do diagnóstico foram avaliadas com utilização de gráficos em floresta, teste Q de Cochran e um gráfico crosshair summary Receiver Operating Characteristic, utilizando um modelo com múltiplos pontos de corte.
+doc8	5	Inicialmente obteve-se, nas bases de dados, um total de 3.522 referências; dentre estas, selecionaram-se para análise qualitativa 12 estudos que incluíram 1.757 participantes.
+doc8	6	Muitos estudos apresentavam um risco de viés incerto em termos da seleção de pacientes e do fluxo e tempo.
+doc8	7	Dentre os 12 estudos incluídos, sete tinham alto risco e cinco risco incerto para o item padrão de referência.
+doc8	8	O desempenho diagnóstico do pico de fluxo da tosse para o resultado da extubação foi baixo a moderado quando se consideram os resultados de todos os estudos incluídos, com +LR de 1,360 (IC95% 1,240 - 1,530), -LR de 0,218 (IC95% 0,159 - 0,293) e razão de chance diagnóstica de 6,450 (IC95% 4,490 - 9,090).
+doc8	9	Uma análise de subgrupos que incluiu somente estudos com valores de corte entre 55 e 65 L/minuto demonstrou desempenho ligeiramente melhor, porém ainda moderado.
+doc8	10	A avaliação do pico de fluxo da tosse, considerando valor de corte entre 55 e 65 L/minuto, pode ser útil como medida complementar antes da extubação.
+doc8	11	São necessários estudos com melhor delineamento para elucidar o melhor método e equipamento para registrar o pico de fluxo da tosse, assim como o melhor ponto de corte.
+doc9	1	Traduzir para o idioma português a ferramenta My Experience Book, avaliar o conteúdo da tradução, o nível de legibilidade, a qualidade e a identidade visual do material e disponibilizá-lo online.
+doc9	2	Estudo descritivo, transversal, de caráter quantitativo e qualitativo.
+doc9	3	Os procedimentos contaram com cinco etapas, sendo: tradução do material; avaliação e resposta ao questionário 1 referente à tradução; determinação da validade do conteúdo; avaliação da legibilidade; disponibilização do material online e avaliação do conteúdo voltado à qualidade e a identidade visual (questionário 2).
+doc9	4	Participaram do estudo três fonoaudiólogos, juízes e 22 profissionais (fonoaudiólogos e médicos otorrinolaringologistas de serviços de saúde auditiva e reabilitação).
+doc9	5	A tradução do material apresentou taxas de concordância de validade maiores que 90%.
+doc9	6	A legibilidade classificou o material com nível fácil de leitura.
+doc9	7	Dentre os 184 profissionais convidados, 22 concordaram com a participação, demonstrando baixa adesão ao estudo.
+doc9	8	A maior parte dos respondentes concordaram positivamente com os aspectos relacionados ao conteúdo e coerência do material traduzido, vídeos, imagens ilustrativas e legendas.
+doc9	9	O material também foi considerado importante pela maioria dos avaliadores.
+doc9	10	Todos os fonoaudiólogos referiram fazer uso do instrumento na prática clínica.
+doc9	11	O material traduzido referente à ferramenta é de grande relevância, pois reúne informações práticas voltadas à criação de um caderno de experiências, bem como orientações quanto ao uso do instrumento como recurso adicional para a estimulação do desenvolvimento das habilidades auditivas e de linguagem de crianças com deficiência auditiva.
+doc10	1	Esta pesquisa destaca a moradia como uma das dimensões da vida de indivíduos que vivenciam sofrimentos psíquicos graves, que reverbera em seu cuidado e plano terapêutico singular.
+doc10	2	O objetivo deste artigo é apreender os sentidos das experiências de morar para os usuários dos Centros de Atenção Psicossocial (CAPS) do município de Santos, estado de São Paulo.
+doc10	3	Pesquisa qualitativa realizada com usuários de diferentes serviços por meio de entrevistas semiestruturadas submetidas a análise de conteúdo temática.
+doc10	4	O estudo identificou que a noção de casa remete a proteção, individualidade e memórias afetivas que corroboram a construção de uma vida concreta ampliada no viver em liberdade na cidade, apresentando moradias plurais, localizadas em territórios distintos.
+doc10	5	As formas de apropriação dos espaços demonstraram as possibilidades e os desafios próprios das trocas sociais e vivências cotidianas.
+doc10	6	Estar e habitar uma casa representa ter acesso a bens materiais e subjetivos, assim como a garantia do cuidado em liberdade.
+doc10	7	Entretanto, ainda existem limitações no exercício da efetiva participação social.
+doc11	1	Introdução: A infecção por SARS-CoV-2 tem sido associada ao desenvolvimento agudo de sintomas mentais e comportamentais e perturbações psiquiátricas.
+doc11	2	O objetivo deste estudo foi determinar a prevalência de diferentes diagnósticos neuropsiquiátricos em doentes hospitalizados com infeção SARS-CoV-2 avaliados pela Psiquiatria de Ligação.
+doc11	3	Material e Métodos: Realizámos um estudo transversal num hospital da região de Lisboa, em Portugal.
+doc11	4	Revimos os processos clínicos dos pacientes internados com um resultado RT-PCR positivo para SARS-CoV-2 avaliados pela Unidade de Psiquiatria de Ligação (UPL) entre fevereiro e dezembro de 2020.
+doc11	5	Incluímos dados sociodemográficos e clínicos, incluindo quinze sintomas neuropsiquiátricos.
+doc11	6	A incidência de diferentes diagnósticos psiquiátricos foi o nosso outcome primário.
+doc11	7	Explorámos também diferenças entre dois grupos: doentes com delirium e doentes sem delirium.
+doc11	8	Resultados: Incluímos 46 casos [Idade: mediana = 67 anos; amplitude interquartil (AIQ) = 24)], a maioria do sexo masculino (60,9%).
+doc11	9	Delirium foi o diagnóstico mais frequente na nossa amostra (43,5%), seguido de perturbação depressiva major (21,7%).
+doc11	10	Doentes com delirium tiveram uma prevalência maior de sintomas de COVID-19 (delirium: 19/20, 95%; sem delirium: 14/26, 53,8%; p = 0,02), bem como um intervalo de tempo mais longo entre um teste RT-PCR SARS-CoV-2 positivo e observação pela UPL (delirium: mediana = 16,5, AIQ = 16; sem delirium: mediana = 8, AIQ = 16,3; p = 0,045).
+doc11	11	Agitação (52,2%) e sintomas cognitivos (47,8%) foram os sintomas neuropsiquiátricos mais relatados.
+doc11	12	Conclusão: Foi encontrada na nossa amostra uma elevada prevalência de delirium.
+doc11	13	Este resultado está de acordo com literatura recente relativamente a doentes internados com COVID-19.
+doc11	14	A maior frequência de sintomas COVID-19 no grupo com delirium sugere uma possível associação entre infecção sintomática por SARS-CoV-2 e o desenvolvimento desta síndrome.
+doc12	1	Avaliar a influência do estresse oxidativo na expressão genética das óxido nítrico sintases (<i>nitric oxide synthases</i>, NOS, em inglês; NOS 3 e NOS 2) e, consequentemente, nas respostas cardiovasculares na pré-eclâmpsia.
+doc12	2	MéTODOS:  Este foi um estudo caso-controle no qual pacientes com pré-eclâmpsia (grupo PE) e controles com gravidez normal (grupo GN) foram incluídos de acordo com as diretrizes do American College of Obstetricians and Gynecologists (ACOG).
+doc12	3	Foram estimados os níveis séricos de malondialdeído (MDA) da capacidade antioxidante total, e de óxido nítrico (<i>nitric oxide</i>, NO, em inglês).
+doc12	4	A frequência cardíaca e a pressão arterial média foram registradas.
+doc12	5	O perfil genético da NOS3 e da NOS2 foi feito por reação em cadeia de polimerase em tempo real (<i>real-time polymerase chain reaction</i>, RT-PCR, em inglês).
+doc12	6	A análise estatística foi feita utilizando-se o teste <i>t</i> de Student, e valores de <i>p</i> < 0,05 foram considerados estatisticamente significativos.
+doc12	7	Os níveis séricos de malondialdeído sérico estavam aumentados (<i>p</i> < 0,0001), e a capacidade antioxidante total, reduzida no grupo PE (<i>p</i> = 0,034), o que indicava estresse oxidativo.
+doc12	8	No grupo PE, a pressão arterial média era significativamente maior (<i>p</i> < 0,0001), mas os níveis séricos de NO não demostraram redução estatisticamente significativa (<i>p</i> = 0,20).
+doc12	9	O perfil de expressão genética da NOS3 e da NOS2 revelou uma regulação negativa no grupo PE de 8,49 e 51,05 vezes, respectivamente.
+doc12	10	CONCLUSãO:  O estresse oxidativo pode levar à disfunção endotelial, o que pode resultar em aumento da pressão arterial média.
+doc12	11	O NO pode desempenhar um papel neste mecanismo, mas as interações com outras substâncias vasoativas/biológicas não podem ser negligenciadas, uma vez que a expressão genética da NOS3 e da NOS2 foi reduzida.
+doc13	1	Desde a instituição da circulação extracorpórea, há cinco décadas, a lesão cerebral decorrente desse procedimento durante cirurgias cardiovasculares tem sido uma complicação frequente.
+doc13	2	Não existe uma causa única de lesão cerebral pelo uso de circulação extracorpórea, porém se sabe que acomete cerca de 70% dos pacientes submetidos a esse procedimento.
+doc13	3	A avaliação da pressão intracraniana é um dos métodos que podem orientar os cuidados com os pacientes submetidos a procedimentos associados com distúrbios neurológicos.
+doc13	4	Este artigo descreve dois casos de pacientes submetidos à cirurgia cardiovascular com circulação extracorpórea, para os quais os procedimentos de neuroproteção na fase pós-operatória foram guiados pelos achados relacionados ao formato das ondas de pressão intracraniana, obtidos por meio de um método não invasivo de monitoramento.
+doc14	1	A erradicação das formas contemporâneas de escravidão é uma relevante questão científica, social e institucional.
+doc14	2	De fato, esforços globais têm sido feitos para compreender, mapear e eliminar a escravidão contemporânea, como um dos objetivos do Desenvolvimento Sustentável das Nações Unidas até 2030.
+doc14	3	Entretanto, pouca atenção tem sido dada para o lugar da vigilância em saúde do trabalhador (VISAT) nas estratégias e lutas pela erradicação dessas relações de exploração.
+doc14	4	Para suprir essa lacuna, este artigo discute o trabalho escravo contemporâneo (TEC) e suas especificidades no Brasil, na perspectiva da VISAT.
+doc14	5	Inicialmente, destacamos as relações entre trabalho escravo, saúde do/a trabalhador/a e a vigilância em saúde e, em seguida, apresentamos três desafios da vigilância para o enfretamento do TEC: o desafio de caracterizar setores econômicos, regiões e populações afetadas; o de identificar determinantes, riscos e efeitos à saúde; e o de fortalecer práticas e serviços de saúde do trabalhador para desencadear ações de formação, informação e intervenção em regiões de maior presença de TEC.
+doc14	6	Conclui-se que a vigilância em saúde do trabalhador pode trazer contribuições significativas para emancipação de trabalhadores em contextos de trabalho escravo.
+doc15	1	Descrever as práticas clínicas atuais relacionadas à utilização de cânula nasal de alto fluxo por intensivistas pediátricos brasileiros e compará-las com as de outros países.
+doc15	2	Para o estudo principal, foi administrado um questionário a intensivistas pediátricos em países das Américas do Norte e do Sul, Ásia, Europa e Austrália/Nova Zelândia.
+doc15	3	Comparou-se a coorte brasileira com coortes dos Estados Unidos, Canadá, Reino Unido e Índia.
+doc15	4	Responderam ao questionário 501 médicos, dos quais 127 eram do Brasil.
+doc15	5	Apenas 63,8% dos participantes brasileiros tinham disponibilidade de cânula nasal de alto fluxo, em contraste com 100% dos participantes no Reino Unido, no Canadá e nos Estados Unidos.
+doc15	6	Coube ao médico responsável a decisão de iniciar a utilização de uma cânula nasal de alto fluxo segundo responderam 61,2% dos brasileiros, 95,5% dos localizados no Reino Unido, 96,6% dos participantes dos Estados Unidos, 96,8% dos médicos canadenses e 84,7% dos participantes da Índia; 62% dos participantes do Brasil, 96,3% do Reino Unido, 96,6% dos Estados Unidos, 96,8% do Canadá e 84,7% da Índia relataram que o médico responsável era quem definia o desmame ou modificava as regulagens da cânula nasal de alto fluxo.
+doc15	7	Quando ocorreu falha da cânula nasal de alto fluxo por desconforto respiratório ou insuficiência respiratória, 82% dos participantes do Brasil considerariam uma tentativa com ventilação não invasiva antes da intubação endotraqueal, em comparação com 93% do Reino Unido, 88% dos Estados Unidos, 91,5% do Canadá e 76,8% da Índia.
+doc15	8	Mais intensivistas brasileiros (6,5%) do que do Reino Unido, Estados Unidos e Índia (1,6% para todos) afirmaram utilizar sedativos com frequência concomitantemente à cânula nasal de alto fluxo.
+doc15	9	A disponibilidade de cânulas nasais de alto fluxo no Brasil ainda não é difundida.
+doc15	10	Há algumas divergências nas práticas clínicas entre intensivistas brasileiros e seus colegas estrangeiros, principalmente nos processos e nas tomadas de decisão relacionados a iniciar e desmamar o tratamento com cânula nasal de alto fluxo.
+doc16	1	Analisar o nível de atividade física e a prática de exercício físico, examinar as características maternas associadas, assim como níveis de ansiedade de gestantes de alto risco.
+doc16	2	MéTODOS:  Estudo observacional, transversal e quantitativo, realizado no ambulatório de Pré-Natal de Alto Risco (PNAR) de uma maternidade terciária.
+doc16	3	Foram incluídas gestantes com idade entre de 18 e 40 anos; feto único e com idade gestacional (IG) até 38 semanas.
+doc16	4	O nível de atividade física e prática de exercício físico das participantes do estudo foram investigados usando o Questionário de Atividade Física na Gestação (QAFG).
+doc16	5	Os dados sociodemográficos, antropométricos e médicos maternais foram investigados usando um formulário específico.
+doc16	6	Para níveis de ansiedade, a versão curta do Inventário de Ansiedade Traço-Estado (STAI) foi aplicado.
+doc16	7	Usamos o teste t de Student, teste qui-quadrado, razão de chances (OR) com um intervalo de confiança de 95% (IC 95%) e regressão logística multinomial.
+doc16	8	O nível de significância considerado foi 5%.
+doc16	9	Das 109 gestantes incluídas no estudo, 82 (75,2%) foi classificada como sedentária/pouco ativa.
+doc16	10	Os maiores gastos energéticos foram em atividades domésticas (133.81 ± 81.84 METs), seguidas pelas atividades ocupacionais (40.77 ± 84.71 METs).
+doc16	11	Apenas 19.3% praticaram exercício físico durante a gravidez (4.76 ± 12.47 METs), sendo a caminhada lenta a atividade mais relatada.
+doc16	12	Maior grau de escolaridade foi o fator mais importante associado a gestante ser moderadamente ou vigorosamente ativa (OR = 29,8; IC 95% 4,9–117,8) .
+doc16	13	Nuliparidade (OR = 3,1; IC 95% 1,0–9,1), baixos níveis de ansiedade (OR = 3,6; IC 95% 1,2–10,7) e não trabalhar na gestação (OR = 4,8; IC 95% 1.1–19,6) foram associados à prática de exercício físico durante a gestação.
+doc16	14	CONCLUSãO:  A maioria das gestantes de alto risco desenvolveram um padrão sedentário, com baixa prevalência da prática de exercício físico.
+doc16	15	Reconhecer os fatores que dificultam a adoção de um estilo de vida mais ativo fisicamente é fundamental para a orientação adequada e individualizada acerca da prática de exercício físico durante a gestação.
+doc17	1	O objetivo desta pesquisa qualitativa foi investigar as concepções teóricas dos trabalhadores sobre o grupo bem como analisar os fatores impulsores e restritivos da prática terapêutica grupal nos Centros de Atenção Psicossocial (CAPS).
+doc17	2	Participaram do estudo 66 trabalhadores de CAPS e ambulatórios da
+doc17	3	Rede de Atenção Psicossocial (RAPS) de 23 municípios do estado de Goiás.
+doc17	4	A coleta de dados se deu por meio de questionário estruturado e entrevista grupal registrada em gravação de áudio e fotografias.
+doc17	5	Da análise temática dos dados emergiram o conceito do que o grupo é e do que o grupo não é.
+doc17	6	Tanto no eixo das forças impulsoras, quanto das forças restritivas, as categorias foram organizadas em três blocos de análise: aspectos relacionados ao serviço, aos profissionais e aos usuários.
+doc17	7	Aspectos relacionais, estruturais, terapêuticos e a competência profissional para a coordenação de grupo se integram de modo antagônico, complementar e indissociável para apreensão da realidade estudada.
+doc17	8	Conclui-se que evidenciar os aspectos restritivos que precisam ser reconhecidos e aprimorados bem como os impulsores que precisam ser mantidos e potencializados pode contribuir ativamente para ampliar a capacidade terapêutica do uso da tecnologia grupal no contexto da saúde mental.
+doc18	1	Determinar a prevalência de citologia com laudo de células glandulares atípicas (AGCs, na sigla em inglês) e analisar a significância clínica nas diferentes faixas etárias MéTODOS:  Estudo observacional retrospectivo, usando os dados arquivados no sistema do Instituto Nacional de Câncer no Brasil, que incluiu mulheres rastreadas entre janeiro de 2002 a dezembro de 2008.
+doc18	2	As mulheres incluídas tinham citologia com resultado de AGCs, que foram acompanhadas com colposcopia e nova citologia RESULTADOS:  Um total de132,147 exames citopatológicos foram incluídos durante o período de estudo.
+doc18	3	Quinhentas e trinta e três mulheres com citologia de AGC foram identificadas e destas, 69.41% (370) foram encaminhadas para colposcopia e nova citologia.
+doc18	4	A prevalência de citologia de AGC na população estudada foi 0.4%.
+doc18	5	A maioria das mulheres (79.22%) com resultado citológico de AGC tinham idade entre 25 e 54 anos.
+doc18	6	A segunda citologia demonstrou 67.56% (250/370) de normalidade, 24.5% (91/370) de atipias escamosas, e 6.2% (23/370) de AGC.
+doc18	7	Na biopsia das mulheres com a 2ª citologia de AGC, 43.4% (10/23) tinham histologia normal, 43.4% (10/23) tinha lesões escamosas, 8.7% (2/23) tinha adenocarcinoma invasor e 1.2% (1/23) tinha laudo inconclusivo.
+doc18	8	Todas as mulheres com lesões intraepiteliais escamosas de alto grau (HSIL, na sigla em inglês) ou adenocarcinoma invasor (respectivamente 5 e 2 pacientes), após a 2ª citologia com AGC, tinham 25 anos de idade ou mais.
+doc18	9	CONCLUSãO:  A prevalência de citologia com AGC foi baixa na população estudada.
+doc18	10	Muitos casos de citologia com AGC apareceram em mulheres adultas, entre 25 e 54 anos de idade.
+doc18	11	Embora a maioria das pacientes tiveram histologia normal após seguimento, várias apresentaram lesões intraepiteliais escamosas ou glandulares invasoras.
+doc19	1	O objetivo deste estudo foi comparar a frequência de papilomavírus humano (HPV) de alto risco e citologia anal anormal em mulheres imunocompetentes com e sem lesões genitais induzidas por HPV.
+doc19	2	MéTODOS:  Este estudo transversal analítico e observacional foi realizado entre julho de 2017 e dezembro de 2018 em um ambulatório especializado de um hospital terciário em Fortaleza, CE.
+doc19	3	Cinquenta e sete mulheres imunocompetentes com e sem lesões intraepiteliais genitais foram avaliadas.
+doc19	4	Foram divididas em dois grupos: grupo 1, composto por mulheres com lesões genitais associadas ao HPV (<i>n</i> = 26) e grupo 2, composto por mulheres sem lesões genitais associadas ao HPV (<i>n</i> = 31).
+doc19	5	Amostras para citologia em meio líquido e testes de reação em cadeia da polimerase em tempo real para DNA-HPV de alto risco foram coletadas do colo do útero e do ânus.
+doc19	6	Todos os casos foram avaliados por anuscopia de alta resolução; sendo realizada biópsia quando necessária.
+doc19	7	Os testes exatos de Fisher e qui-quadrado foram aplicados para dados consolidados na tabela de contingência; o teste t de Student e o teste U de Mann-Whitney foram aplicados para variáveis independentes.
+doc19	8	As infecções anais por HPV de alto risco foram mais frequentes no grupo 1 (razão de chances [RC], 4,95; intervalo de confiança [IC] de 95%, 1,34–18,3; <i>p</i> = 0,012), assim como infecções concomitantes por HPV de alto risco em colo uterino e ânus (RC 18,8; IC de 95%, 2,20–160; <i>p</i> < 0,001).
+doc19	9	A incidência de infecção de HPV cervical de alto risco foi associada à infecção de HPV anal de alto risco (RC, 4,95; IC de 95%, 1,34–18,3; <i>p</i> = 0,012).
+doc19	10	Não houve diferença estatística em relação à citologia anal anormal ou anuscopia entre os grupos, e não houve caso de lesão intraepitelial anal em nenhum dos grupos.
+doc19	11	CONCLUSãO:  Mulheres imunocompetentes com lesões genitais associadas ao HPV e com HPV cervical de alto risco foram mais propensas a ter HPV anal de alto risco.
+doc20	1	O estudo genético tem como objetivo identificar indivíduos em risco de cancro hereditário.
+doc20	2	Na última década, verificou-se um aumento significativo do número de genes analisados devido ao surgimento de painéis de sequenciação multi-gene.
+doc20	3	Neste sentido, os médicos podem ser confrontados com resultados genéticos para os quais não há orientações de manejo ou seguimento, apesar de progressos na compreensão da relevância clínica dessas variantes genéticas.
+doc20	4	Nesta revisão de literatura, discutimos as vantagens e desvantagens dos testes de sequenciação multi-gene e apresentamos um resumo das recomendações disponíveis relativas à orientação dos portadores de variantes genéticas patogénicas.
+doc21	1	Descrever a qualidade de vida (QV) do fonoaudiólogo brasileiro e relacionar com aspectos sociodemográficos, profissiográficos e relativos à atuação na pandemia de COVID-19.
+doc21	2	Estudo epidemiológico de base populacional, transversal.
+doc21	3	A pesquisa envolveu fonoaudiólogos do Brasil, que foram convidados a responder, on-line, o formulário WHOQOL-bref sobre a sua saúde e QV, além de questões sociodemográficas e profissiográficas.
+doc21	4	Participaram 609 fonoaudiólogos na faixa etária entre 21 e 65 anos e média de 34 anos.
+doc21	5	Menores pontuações no domínio físico da QV foram dadas por fonoaudiólogos do sexo feminino, que faziam atendimento ambulatorial, não trabalhavam em clínica particular, atuavam de forma indireta na pandemia, se afastaram do trabalho e cujo motivo de afastamento foram aspectos psicoemocionais; no domínio psicológico, sexo feminino, ausência de companheiro, que trabalhavam em clínica particular ou outro local e que atuaram de forma direta ou indireta na pandemia; no domínio relações sociais, ausência de companheiro, em atendimento ambulatorial, mas não em clínicas particulares; e no domínio meio ambiente, menores escores na raça/cor preta e parda, nos com ausência de companheiro, que faziam atendimento domiciliar, mas não em clínica particular ou gestão/administrativo ou outro.
+doc21	6	O fonoaudiólogo brasileiro apresentou mais baixos escores de QV nos domínios psicológico e meio ambiente e verificou-se que a sua QV está relacionada a fatores como sexo, cor/raça, presença de companheiro, região do conselho, ambientes de atendimento, atuação direta com pacientes de COVID e diagnóstico de COVID-19.
+doc22	1	Introdução: O Western Ontario Shoulder Instability Index (WOSI) é um questionário de autopreenchimento utilizado especificamente para determinar o impacto da instabilidade do ombro na qualidade de vida.
+doc22	2	O objetivo deste estudo foi traduzir o WOSI para português e analisar a sua validade e fiabilidade para a população portuguesa com instabilidade do ombro.
+doc22	3	Material e Métodos: O WOSI foi traduzido e adaptado culturalmente da sua versão original para Português (WOSI-PT).
+doc22	4	Foram efetuadas as análises de consistência interna e teste-reteste para determinar o seu nível de fiabilidade.
+doc22	5	Os questionários WOSI-PT, QuickDASH, and SF-12 foram aplicados a 81 pacientes com sintomas de instabilidade para avaliar a validade, enquanto a fiabilidade foi testada usando 50 desses pacientes selecionados de modo aleatório, num estudo do tipo teste-reteste com 72 horas de intervalo.
+doc22	6	Resultados: A fiabilidade do WOSI-PT foi excelente com alfa de Cronbach de 0,97 e um ICC (intraclass correlation coeficiente) de 0.98.
+doc22	7	Relativamente à validade de constructo, a correlação entre o WOSI-PT e a QuickDASH foi alta e negativa (-0,79).
+doc22	8	A correlação entre o WOSI-PT e o SF-12 foi positiva e moderada para a componente física (0,66) e positiva e baixa para a componente de saúde mental (0,34).
+doc22	9	Conclusão: O WOSI-PT é um instrumento fiável e valido para avaliar o impacto da instabilidade do ombro na qualidade de vida.
+doc24	1	O manejo cardíaco, ventilatório e renal no ambiente de terapia intensiva tem melhorado nas últimas décadas.
+doc24	2	Cognição e sedação representam dois dos últimos desafios a vencer.
+doc24	3	Como a sedação convencional não é ideal, e a sedação evocada por agonistas adrenérgicos alfa-2 (sedação “cooperativa” com dexmedetomidina, clonidina ou guanfacina) representa uma alternativa valiosa, este artigo abrange três tópicos práticos para os quais há lacunas na medicina baseada em evidência.
+doc24	4	O primeiro deles é a mudança de sedação convencional para sedação cooperativa (“mudança”): a resposta curta consiste em retirada abrupta de sedação convencional, implantação imediata de infusão de um agonista alfa-2 e uso de “sedação de resgate” (bolos de midazolam) ou “sedação agressiva” (haloperidol em bolos) para estabilizar a sedação cooperativa.
+doc24	5	O segundo tópico é a mudança de sedação convencional para sedação cooperativa em pacientes instáveis (por exemplo: delirium tremens refratário, choque séptico, síndrome do desconforto respiratório agudo etc.), pois, para evitar a hipotensão e a bradicardia provocadas por desativadores simpáticos, a resposta curta é manter o volume sistólico por administração de volume, vasopressores e inotrópicos.
+doc24	6	Por fim, para evitar essas mudanças e dificuldades associadas, os agonistas alfa-2 podem ser sedativos de primeira linha.
+doc24	7	A resposta curta é administrar agonistas alfa-2 lentamente desde a admissão ou intubação endotraqueal, até estabilização da sedação cooperativa.
+doc24	8	Dessa forma, conclui-se que os agonistas alfa-2 são, ao mesmo tempo, agentes desativadores simpáticos e sedativos, bem como a desativação simpática implica na manutenção do volume sistólico e na avaliação persistente da volemia.
+doc24	9	A medicina baseada em evidência deve documentar esta proposta.
+doc26	1	A manutenção do rebordo ósseo alveolar é prerrogativa para o sucesso da terapia com implantes.
+doc26	2	A fibrina rica em plaquetas (PRF) poderia beneficiar o reparo ósseo, mas seus resultados microscópicos quantitativos são ainda inconclusivos.
+doc26	3	O objetivo deste trabalho foi analisar histomorfometricamente alvéolos dentários humanos pós-extração tratados com fibrina autóloga, fosfato de cálcio bifásico ou sua associação.
+doc26	4	A amostra consistiu de pacientes adultos voluntários saudáveis, com indicação clínica e tomográfica de enxerto unitário pós-exodontia de pré-molares superiores para manutenção de rebordo alveolar e posterior implante.
+doc26	5	Os 10 pacientes remanescentes no estudo foram divididos em 3 grupos de acordo com o tipo de preenchimento usado no alvéolo dentário: plug de PRF autóloga recoberto por membrana de PRF (G1), PRF associada a enxerto aloplástico de hidroxiapatita com beta fosfato tricálcio recoberto por membrana de colágeno (G2) ou enxerto aloplástico de beta fosfato tricálcio recoberto por membrana de colágeno (controle).
+doc26	6	Após 8 meses, foram realizadas biópsias ósseas nos locais enxertados e os pacientes seguiram a reabilitação implanto-protético.
+doc26	7	Blocos histológicos incluídos em parafina foram microtomizados para gerar 3 lâminas de secções em diferentes profundidades, que foram coradas em HE.
+doc26	8	A avaliação histomorfométrica analisou 30 fotomicrografias por bloco, quantificando a presença percentual de osso neoformado, tecido conjuntivo e biomaterial remanescente pelo programa ImageJ. Os dados paramétricos permitiram comparações intergrupos usando ANOVA e pós-teste de comparações múltiplas de Tukey com significância estatística de 5% (p<0,05), havendo normalidade dos 3 grupos pelo teste Jarque-Bera (p>0,05).
+doc26	9	Houve maior média de osso neoformado em G1 (68,83%) em comparação a G2 (35,69%) e controle (16,28%).
+doc26	10	Houve maior presença de tecido conjuntivo no controle (61,56 %).
+doc26	11	Biomaterial remanescente foi maior em G2 (15,75%), mas não diferiu estatisticamente para o controle.
+doc26	12	A regeneração óssea obtida com PRF isolada ou em associação sugere a eficácia destas terapias, encorajando o uso clínico deste concentrado sanguíneo em procedimentos odontológicos.
+doc28	1	As mulheres possuem variáveis metabólicas, imunológicas e genéticas que conferem maior proteção à infecção pelo coronavírus.
+doc28	2	Todavia, a indicação de tratamento para certas patologias e para a contracepção é determinada por hormônios que possuem efeitos adversos e levantam dúvidas quanto ao seu uso durante a pandemia da COVID-19.
+doc28	3	Desta forma, o presente estudo busca investigar as especificidades da mulher e a relação dos hormônios sexuais femininos com a COVID-19, assim como relatar as principais recomendações neste contexto.
+doc28	4	Para isso, realizou-se uma revisão da literatura nas principais bases de dados, fontes auxiliares de dados e sites oficiais.
+doc28	5	Portanto, considerando o estado hipercoagulável da COVID-19, surge o debate quanto à utilização de contraceptivos pelo seu risco relativo de efeitos tromboembólicos.
+doc28	6	No entanto, as atuais evidências disponíveis, assim como as recomendações dos principais órgãos de saúde do mundo, demonstraram que o uso de contraceptivos hormonais deve ser mantido durante a pandemia.
+doc29	1	O tratamento endoscópico das varizes esofágicas tem sido utilizado como principal intervenção em pacientes com hipertensão portal secundária à esquistossomose, mas com taxas significativas de recorrência de varizes esofágicas e ressangramento.
+doc29	2	Os resultados em longo prazo do tratamento endoscópico exclusivo são pouco estudados quanto à relação das dimensões esplênicas neste contexto.
+doc29	3	Avaliar, por meio da ultrassonografia, o índice esplênico e a dimensão longitudinal (craniocaudal) do baço como preditores de ressangramento e recorrência de varizes no seguimento tardio de pacientes esquistossomóticos não operados, após erradicação endoscópica das varizes esofágicas.
+doc29	4	Estudo observacional retrospectivo por meio da análise de prontuários de pacientes com diagnóstico de esquistossomose hepatoesplênica.
+doc29	5	A curva ROC foi usada para determinar o melhor ponto de corte para o índice esplênico médio como preditor de recorrência e sangramento.
+doc29	6	Foram analisados 54 pacientes, durante o período de 2002 a 2018.
+doc29	7	O tempo médio de seguimento foi de 8 anos.
+doc29	8	O índice esplênico provou ser um teste sensível em valores acima de 144 como preditor de ressangramento.
+doc29	9	Na análise da dimensão longitudinal, o valor acima de 20 cm apresentou teste estatisticamente significativo para recorrência de varizes e valor acima de 19 cm apresentou-se como teste muito sensível e estatisticamente significativo para ressangramento.
+doc29	10	A análise do índice esplênico e da dimensão craniocaudal, obtidos por ultrassonografia, podem predizer recorrência de varizes e ressangramento após erradicação endoscópica exclusiva.
+doc30	1	A doença hepática gordurosa não-alcoólica já é considerada um problema de saúde pública, principalmente em pacientes com obesidade severa.
+doc30	2	O objetivo do presente estudo foi investigar os diferentes escores de bioquímiosa disponíveis e determinar qual deles poderia servir melhor como uma ferramenta de avaliação da NAFLD em uma população de obesos.
+doc30	3	Este é um estudo transversal de pacientes obesos.
+doc30	4	Todos os pacientes foram avaliados com parâmetros laboratoriais séricos 1 semana antes da biópsia e todos os pacientes foram submetidos a biópsia hepática intra-operatória, durante a cirurgia bariátrica.
+doc30	5	Cento e quarenta e três pacientes obesos foram incluídos.
+doc30	6	Apenas APRI (0,65; IC 95%: 0,55 a 0,8) e HOMA-IR (0,7; IC 95%: 0,58 a 0,82) mostraram capacidade significativa de predição de esteatose grave.
+doc30	7	HSI, NALFDS, ALS / AST e FIB-4 não foram capazes de prever corretamente esteatose grave na biópsia hepática.
+doc30	8	APRI mostrou alta especificidade (82%) e baixa sensibilidade (54%).
+doc30	9	Em contraste, o HOMA-IR apresentou alta sensibilidade (84%) e baixa especificidade (48%).
+doc30	10	O NALFDS, FIB-4, AST / ALT e HSI não têm utilidade para avaliação de esteatose grave em pacientes com obesidade severa.
+doc30	11	Diabetes e avaliação bioquímica relacionada à resistência à insulina, como o HOMA-IR, podem ser empregados como boas ferramentas de rastreamento para esteatose grave em tais pacientes.
+doc30	12	O escore APRI é a ferramenta diagnóstica bioquímica mais específica para esteatose em pacientes com obesidade severa e pode ser empregado, por equipes médicas, para auxiliar na indicação de cirurgia bariátrica ou metabólica.
+doc31	1	Os programas convencionais de reabilitação cardíaca (RC) foram forçados a encerrar devido à Covid-19.
+doc31	2	Modelos alternativos para que os doentes tenham acesso a um programa de RC evitando a inatividade física devem ser considerados.
+doc31	3	O objetivo deste estudo foi avaliar os níveis de atividade física (AF) de um programa digital de RC em casa.
+doc31	4	Foram recrutados e avaliados (inicialmente e aos três meses) 116 doentes cardiovasculares (CV) (62,6±8,9 anos, 95 homens) que frequentavam um programa presencial de RC, nos seguintes parâmetros: AF, comportamento sedentário, adesão, sintomas CV e não CV, sentimentos face à pandemia, hábitos alimentares, fatores de risco, segurança e eventos adversos.
+doc31	5	A intervenção consistiu num programa digital multidisciplinar de RC, inclusive acompanhamento regular, sessões de exercício, de ensino e de psicologia em grupo.
+doc31	6	Completaram com sucesso todas as avaliações <i>online</i> (15,5% <i>drop-out</i>) 98 pessoas com doença CV.
+doc31	7	Houve um efeito favorável no aumento da AF moderada a vigorosa e diminuição do tempo sedentário aos três meses.
+doc31	8	Quase metade da amostra fez, pelo menos, mais de uma sessão de exercício físico <i>online</i> por semana e assistiu a pelo menos uma das sessões educacionais <i>online</i>. Não se verificaram eventos <i>major</i> e registou-se apenas um <i>minor</i>. Em tempo de pandemia, os níveis de AF moderada a vigorosa melhoraram após três meses em doentes CV que frequentavam previamente um modelo presencial de RC.
+doc31	9	São necessários mais programas de RC com maior variedade de conteúdos adaptados à preferência individual para dar resposta às necessidades motivacionais e clínicas dos doentes CV.
+doc32	1	O hemoperitoneu espontâneo na gravidez é uma complicação rara, associado a morbimortalidade materna e fetal elevadas.
+doc32	2	Os autores descrevem o caso clínico de uma grávida que, às 32 semanas de gestação, recorreu ao serviço de urgência por dor abdominal, apresentando líquido livre na ecografia abdominal.
+doc32	3	Na laparotomia identificou-se um hemoperitoneu com aparente origem num vaso varicoso da face posterior do útero.
+doc32	4	Fez-se cesariana, resultando um nado-vivo.
+doc32	5	A hemorragia foi controlada com pontos hemostáticos e compressão.
+doc32	6	Os médicos devem considerar este diagnóstico perante uma grávida com queixas de dor abdominal, anemia aguda ou sinais de choque hipovolémico.
+doc32	7	Uma intervenção precoce prevenirá maus desfechos maternos e fetais.
+doc33	1	Este estudo visa conhecer o cenário atual da atuação fonoaudiológica em serviços de TAN no Brasil, identificando seus obstáculos e perspectivas, bem como verificar a adequação dos Programas de TAN nacionais aos indicadores de qualidade pré-estabelecidos.
+doc33	2	Estudo observacional analítico, realizado com fonoaudiólogos no exercício da TAN no Brasil, entre agosto de 2018 e agosto de 2019, por meio de um questionário online estruturado.
+doc33	3	Foram realizadas análises descritivas e correlacionais dos dados no programa SPSS versão 22.0.
+doc33	4	A prática efetiva da TAN entre os profissionais não foi condizente, na sua totalidade, com os protocolos oficiais.
+doc33	5	48,5% dos fonoaudiólogos afirmaram interrupção da TAN em algum momento nos locais de trabalho, principalmente pela necessidade de reparo do equipamento (64,7%).
+doc33	6	Quanto aos registros do fluxo e dados de atendimento, que contemplam os indicadores de qualidade, houve maior controle do número total de neonatos que realizaram a TAN (87,9%) e menor controle quanto aos resultados falsos positivos (21,2%).
+doc33	7	81,8% dos fonoaudiólogos afirmaram ter disponibilidade para utilizar um sistema para registro e controle de dados da TAN.
+doc33	8	Apesar de as práticas dos profissionais estarem em geral condizentes com protocolos oficiais, a não linearidade do processo e a falta de controle dos dados constituem obstáculos importantes para a qualidade dos serviços de TAN.
+doc33	9	A maioria dos programas de TAN nacionais apresentados não cumprem os indicadores de qualidade pré-estabelecidos.
+doc33	10	Considera-se que a informatização dos registros poderá beneficiar os profissionais e potencializar a implementação da TAN como prevista na legislação e políticas públicas nacionais.
+doc34	1	O objetivo deste estudo foi descrever as mudanças na frequência do consumo de refeições de adolescentes residentes na região metropolitana do Rio de Janeiro, em período de 5 anos.
+doc34	2	Utilizaram-se dados de dois estudos transversais, de base populacional, que foram realizados por meio de visitas domiciliares.
+doc34	3	Em 2005, a amostra final foi de 1089 domicílios com 511 adolescentes (de 12 a 18 anos), e em 2010 de 1121 domicílios com 314 adolescentes.
+doc34	4	A frequência do consumo de refeições foi obtida por meio de questionário autopreenchido e a avaliação da adequação de peso dos adolescentes foi realizada com base nos pontos de corte do IMC por sexo e faixa etária.
+doc34	5	Houve aumento da substituição diária do almoço tradicional por lanche (3,7% para 13,7%) e no consumo do jantar tradicional (62,9% para 72,0%).
+doc34	6	Os adolescentes com sobrepeso consumiram o desjejum com menor frequência do que aqueles sem sobrepeso (2005: 68,3% vs 79,3% p=0,02, 2010: 59,5% vs 77,4% p=0,03).
+doc34	7	Conclui-se que houve aumento da substituição diária do almoço tradicional por lanche e no consumo do jantar tradicional no período de 5 anos.
+doc34	8	Ademais, a prática do desjejum diário se associou com a classificação de IMC nos dois momentos do estudo, de modo que aqueles com sobrepeso consomem o desjejum com menor frequência.
+doc36	1	Determinar a prevalência de citologia com laudo de células glandulares atípicas (AGCs, na sigla em inglês) e analisar a significância clínica nas diferentes faixas etárias MéTODOS:  Estudo observacional retrospectivo, usando os dados arquivados no sistema do Instituto Nacional de Câncer no Brasil, que incluiu mulheres rastreadas entre janeiro de 2002 a dezembro de 2008.
+doc36	2	As mulheres incluídas tinham citologia com resultado de AGCs, que foram acompanhadas com colposcopia e nova citologia RESULTADOS:  Um total de132,147 exames citopatológicos foram incluídos durante o período de estudo.
+doc36	3	Quinhentas e trinta e três mulheres com citologia de AGC foram identificadas e destas, 69.41% (370) foram encaminhadas para colposcopia e nova citologia.
+doc36	4	A prevalência de citologia de AGC na população estudada foi 0.4%.
+doc36	5	A maioria das mulheres (79.22%) com resultado citológico de AGC tinham idade entre 25 e 54 anos.
+doc36	6	A segunda citologia demonstrou 67.56% (250/370) de normalidade, 24.5% (91/370) de atipias escamosas, e 6.2% (23/370) de AGC.
+doc36	7	Na biopsia das mulheres com a 2ª citologia de AGC, 43.4% (10/23) tinham histologia normal, 43.4% (10/23) tinha lesões escamosas, 8.7% (2/23) tinha adenocarcinoma invasor e 1.2% (1/23) tinha laudo inconclusivo.
+doc36	8	Todas as mulheres com lesões intraepiteliais escamosas de alto grau (HSIL, na sigla em inglês) ou adenocarcinoma invasor (respectivamente 5 e 2 pacientes), após a 2ª citologia com AGC, tinham 25 anos de idade ou mais.
+doc36	9	CONCLUSãO:  A prevalência de citologia com AGC foi baixa na população estudada.
+doc36	10	Muitos casos de citologia com AGC apareceram em mulheres adultas, entre 25 e 54 anos de idade.
+doc36	11	Embora a maioria das pacientes tiveram histologia normal após seguimento, várias apresentaram lesões intraepiteliais escamosas ou glandulares invasoras.
+doc37	1	Avaliar o grau de correlação/concordância dos parâmetros Doppler materno-fetal entre fetos normais e com restrição do crescimento (restrição de crescimento fetal [RCF]).
+doc37	2	MéTODOS:  O presente estudo observacional e retrospectivo incluiu 274 gestações únicas.
+doc37	3	Os seguintes parâmetros Doppler materno-fetal foram avaliados: artéria uterina (AUt), artéria umbilical (AU), artéria cerebral média (ACM), razão cérebro-placentária (RCP) e razão umbilical-cerebral (U/C).
+doc37	4	A avaliação da RCF baseou-se nos critérios de Figueiras e Gratacós.9 Os coeficientes de correlação de Spearman foram estimados para avaliar a correlação entre os índices de resistência (IR) e pulsatilidade (IP) dos parâmetros Doppler.
+doc37	5	A concordância entre dois parâmetros do Doppler foi avaliada pelo coeficiente Kappa.
+doc37	6	No total, 502 exames Doppler foram incluídos e RCF foi observado em 19 de 274 fetos.
+doc37	7	Observou-se forte correlação entre IR e IP da AUt, AU e ACM em todas as amostras (<i>p</i> < 0,001).
+doc37	8	Dos 502 exames Doppler, houve concordância entre os percentis U/C e RCP para 480 (95,6%) e discordância para 22 (4,4%), com coeficiente Kappa de 0,26, correspondendo a concordância fraca.
+doc37	9	Dos 68 casos com peso fetal estimado ≤ 9° (pequeno para a idade gestacional [PIG]), houve concordância entre U/C > 1,0 e RC<i>p</i> < 5<sup>o</sup> percentil em 61 (88,4%) e discordância em 7 (5,8%) com coeficiente Kappa de 0,49, correspondendo a concordância moderada.
+doc37	10	CONCLUSãO:  Forte correlação foi observada entre o IR e IP dos exames Doppler AUt, AU e ACM no presente estudo; entretanto, fraca concordância foi observada entre U/C e RCP em fetos normais e com RCF.
+doc37	11	Nos PIG, U/C e RCP demonstraram concordância moderada.
+doc38	1	A hiperinsuflação manual é utilizada em unidades de terapia intensiva neonatal e pediátrica para promover um flow bias expiratório, porém não há consenso sobre os benefícios da técnica.
+doc38	2	Assim faz-se necessária uma revisão que apresente suas evidências.
+doc38	3	Este estudo objetiva revisar a literatura sobre a manobra de hiperinsuflação manual em unidades de terapia intensiva neonatal e pediátrica, para analisar as evidências dessa técnica em relação às formas de aplicação (associadas ou não a outras técnicas), sua segurança, o desempenho dos ressuscitadores manuais e a influência da experiência do fisioterapeuta, além de avaliar a qualidade metodológica dos artigos encontrados.
+doc38	4	Realizou-se uma busca nas bases de dados: Web of Science, ScienceDirect, PubMedⓇ, Scopus, CINAHL e SciELO.
+doc38	5	Dois pesquisadores selecionaram os artigos de forma independente.
+doc38	6	Verificaram-se os estudos duplicados, avaliados por títulos, resumos e, então, leitura na íntegra.
+doc38	7	Analisou-se a qualidade dos artigos pela escala PEDro.
+doc38	8	Foram incluídos seis artigos, sendo dois com alta qualidade metodológica.
+doc38	9	Os principais resultados trouxeram informações sobre a contribuição da válvula de pressão positiva expiratória final no aumento dos volumes pulmonares e a utilização das compressões torácicas para otimizar o flow bias expiratório, a influência negativa da experiência do operador no aumento do pico de fluxo inspiratório, o desempenho de diferentes ressuscitadores manuais durante a realização da técnica e a segurança na aplicação, com manutenção da estabilidade hemodinâmica e aumento da saturação periférica de oxigênio.
+doc38	10	Os estudos disponíveis apontam para um efeito positivo da manobra de hiperinsuflação manual realizada em crianças internadas em unidades de terapia intensiva.
+doc38	11	Registro PROSPERO: CRD42018108056.
+doc39	1	É importante saber qual medicamento usar como tratamento de primeira linha para fechar o duto.
+doc39	2	O objetivo deste estudo é comparar a eficácia e os efeitos colaterais das formas intravenosas (IV) de ibuprofeno e paracetamol e contribuir para a literatura investigando o primeiro medicamento selecionado no tratamento clínico da persistência do canal arterial (PCA).
+doc39	3	Nosso estudo foi realizado entre janeiro de 2017 e dezembro de 2019.
+doc39	4	Foram incluídos no estudo bebês prematuros com peso ao nascer (PN) ≤1500 g e idade gestacional (IG) ≤32 semanas.
+doc39	5	No período do estudo, todos os bebês com persistência do canal arterial hemodinamicamente significativa (hsPCA) receberam ibuprofeno intravenoso (IV) como resgate como tratamento clínico primário ou tratamento com paracetamol IV se houvesse contraindicações para o ibuprofeno.
+doc39	6	Os pacientes foram divididos em dois grupos: pacientes que receberam ibuprofeno IV e pacientes que receberam paracetamol IV.
+doc39	7	Desses pacientes, 101 receberam paracetamol IV e 169 receberam ibuprofeno IV.
+doc39	8	A taxa de sucesso do fechamento da PCA com o primeiro curso do tratamento foi de 74,3% no grupo de paracetamol IV e 72,8% no grupo de ibuprofeno IV (p=0,212).
+doc39	9	Nossos resultados mostram que o paracetamol IV é tão eficaz quanto o ibuprofeno IV no tratamento de primeira linha de hsPCA, podendo se tornar o tratamento preferencial para o controle de hsPCA.
+doc40	1	Há poucos estudos sobre a segurança de se realizar adenomastectomia (<i>nipple-sparing mastectomy</i>, NSM, em inglês) para tratamento de recidiva local.
+doc40	2	O objetivo deste estudo foi avaliar os resultados de pacientes com indicação para mastectomia que optaram por se submeter a NSM para o tratamento de recorrência local.
+doc40	3	MéTODOS:  Foram analisadas 24 pacientes submetidas a NSM para tratamento de recidiva local após tratamento conservador entre janeiro de 2001 e dezembro de 2018.
+doc40	4	As pacientes foram acompanhadas por um período médio de 132 meses a partir da primeira cirurgia.
+doc40	5	Após a NSM, 5 (20,8%) pacientes foram diagnosticadas com recorrência local, e apenas 1 paciente foi a óbito.
+doc40	6	As pacientes apresentaram 4,8% de necrose parcial e 2,4% de necrose total do mamilo.
+doc40	7	CONCLUSãO:  Em um longo período de acompanhamento desde a primeira cirurgia, foram observadas baixas taxas de complicação pós-operatória e boa sobrevida, porém, associadas com uma alta taxa de recorrência local em pacientes submetidas a NSM para tratamento de recidiva local após cirurgia conservadora.
+doc40	8	Neste estudo, demonstrou-se que a NSM pode ser considerada uma opção cirúrgica para pacientes que não querem se submeter a mastectomia total.
+doc41	1	Descrever a eficácia e a segurança da embolização de proteção na embolização de artérias prostáticas e discutir sua relevância clínica.
+doc41	2	Estudo retrospectivo, observacional, de um único centro, que inclui 39 pacientes submetidos a embolização de artérias prostáticas para tratamento de sintomas do trato urinário inferior relacionados a hiperplasia benigna da próstata, de junho de 2008 a março de 2018.
+doc41	3	O acompanhamento foi realizado em 3 meses e 12 meses, incluindo International Prostate Symptom Score, escore de qualidade de vida, antígeno prostático específico, ultrassom, ressonância magnética e urofluxometria.
+doc41	4	Embolização de proteção foi realizada em 45 artérias: artérias retais médias em 19 (42,2%); artérias pudendas internas acessórias em 11 (24,4%); anastomoses com ramos da artéria pudenda interna em 10 (22,2%); artérias vesicais superiores em quatro (8,9%); e artéria obturatória em uma (2,2%).
+doc41	5	Houve um caso de embolização não alvo que provocou uma úlcera peniana, atribuída a refluxo de partículas para uma artéria não protegida.
+doc41	6	Não houve complicações relacionadas com os ramos protegidos.
+doc41	7	Os pacientes apresentaram melhora significativa em todos os resultados estudados (<i>p</i> < 0,05) e não relataram piora da função sexual durante o acompanhamento.
+doc41	8	Embolização de proteção pode ser realizada para diminuir embolização não alvo sem interferir nos resultados da embolização de artérias prostáticas.
+doc41	9	Além disso, não foi observado nenhum evento adverso diferente dos já esperados ou previamente publicados.
+doc41	10	A embolização de proteção na região pudenda é segura.
+doc42	1	O avanço em endoscopia digestiva e a existência de sistemas open-acess levaram a um aumento quantitativo de endoscopias.
+doc42	2	Porém, a sobreutilização da endoscopia tem sido reportada na literatura.
+doc42	3	Este estudo tem como objetivo aferir prospectivamente as indicações para endoscopia digestiva alta (EDA) e endoscopia digestiva baixa (EDB) em unidades de saúde públicas e privadas.
+doc42	4	Estudo prospetivo, multicêntrico, que incluiu doentes submetidos a endoscopia digestiva alta (EDA) ou baixa (EDB) com intuito não terapêutico em 2 unidades hospitalares públicas e 5 unidades privadas.
+doc42	5	Adequabilidade da indicação definida pelas recomendações da American Society for Gastrointestinal Endoscopy (EDA) e do European Panel on Appropriateness of Gastrointestinal Endoscopy II (EDB).
+doc42	6	<i>EDA:</i> Incluídos 215 doentes (masculino – 43.7%; idade média – 61.0 ± 15.11 anos), 54.0% (<i>n</i> = 116) em unidades hospitalares públicas.
+doc42	7	Referenciação por gastrenterologista em 34.9% (<i>n</i> = 75).
+doc42	8	Indicação considerada adequada em 62.3% (<i>n</i> = 134): 42.4% em unidades privadas versus 79.3% em unidades públicas (odds ratio [OR] 5.20, 95% confidence interval [CI] 2.85–9.49, <i>p</i> < 0.01).
+doc42	9	Indicação adequada em 74.7% com referenciação por gastrenterologista versus 56.1% por não-gastrenterologista (OR 2.31, 95% CI 1.24–4.28; <i>p</i> < 0.01).
+doc42	10	Identificados achados endoscópicos relevantes em 47.9%.
+doc42	11	<i>EDB:</i> Incluídos 287 doentes (masculino – 49.1%; idade média – 60.4 ± 14.4 anos), 48,1% (<i>n</i> = 138) em unidades públicas.
+doc42	12	Referenciação por gastrenterologista em 20.6% (<i>n</i> = 59).
+doc42	13	A indicação foi considerada adequada em 70.0% (<i>n</i> = 201): 53.0% em unidade privada versus 88.4% em unidade pública (OR 6.75, 95% CI 3.66–12.47; <i>p</i> < 0.01).
+doc42	14	Achados endoscópicos relevantes em 57.1%: 77.7% (<i>n</i> = 129) em exames com indicação adequada vs 22.3% (<i>n</i> = 37) sem indicação adequada (<i>p</i> < 0.05).
+doc42	15	Neste estudo, uma percentagem significativa dos procedimentos endoscópicos foi realizada sem indicação apropriada, especialmente no sector privado, o que influenciou a rentabilidade diagnóstica.
+doc42	16	A prescrição tendo por base critérios definidos é fundamental para o uso racional de um sistema de acesso livre.
+doc43	1	Os fatores relacionados à perda de peso nos pacientes obesos submetidos à cirurgia bariátrica sempre foram exaustivamente estudados na tentativa de propor a melhor técnica cirúrgica com maior perda de peso e resolução as comorbidades à longo prazo.
+doc43	2	Os pacientes apresentam variações anatômicas no que tange o comprimento do intestino delgado.
+doc43	3	Há estudos que demonstram alterações de peso nos pacientes que apresentam diferentes comprimentos das alças intestinais na técnica do by-pass em Y de Roux.
+doc43	4	O presente trabalho realizou um estudo entre a influência do IMC, a perda de peso e o comprimento da alça comum nos resultados cirúrgicos à longo prazo.
+doc43	5	Estudo transversal descritivo pela análise retrospectiva de 112 prontuários de pacientes submetidos à cirurgia bariátrica aberta pela técnica do bypass gástrico no Hospital de Clínicas -UFPR.
+doc43	6	Os dados foram correlacionados em programas estatísticos para este fim.
+doc43	7	Dos 112 pacientes, 83,03% eram do sexo feminino, média de idade de 41,52 anos.
+doc43	8	O comprimento médio do intestino delgado total dos pacientes foi de 5,02 metros.
+doc43	9	Houve uma relação diretamente proporcional entre o comprimento do intestino delgado e a perda de peso (p=0,0428).
+doc43	10	Há uma ampla gama de variáveis relacionadas à perda de peso nos pacientes submetidos à cirurgia bariátrica, tais como a técnica utilizada, o comprimento das alças no by-pass gástrico em Y de Roux e a rotina de acompanhamento nutricional e físico do paciente.
+doc43	11	É importante considerar os detalhes técnicos do procedimento cirúrgico, e verificar a perda de peso avaliando-se o paciente como um todo e outras variáveis.
+doc44	1	Identificar evidências atuais sobre topiramato para o estado de mal epiléptico refratário.
+doc44	2	Foi revisada a literatura para investigar a eficácia do topiramato no tratamento de estado de mal epiléptico refratário.
+doc44	3	Os termos de busca utilizados foram: “status epilepticus”, “refractory”, “treatment” e “topiramate”.
+doc44	4	Não se empregaram restrições.
+doc44	5	A busca identificou 487 artigos que descreviam o uso de topiramato para tratamento de estado de mal epiléptico refratário e seus resultados.
+doc44	6	Relatos de caso, revisões e experimentos em animais foram excluídos.
+doc44	7	Após exclusão de duplicatas e aplicação dos critérios de inclusão e exclusão, restaram nove estudos.
+doc44	8	Realizaram-se análises descritivas e qualitativas, com os seguintes resultados: as taxas de resposta, definidas como término de crises até 72 horas após administração de topiramato, variaram entre 27% e 100%.
+doc44	9	A mortalidade variou de 5,9% a 68%.
+doc44	10	Desfechos funcionais positivos, definidos como alta hospitalar, volta à funcionalidade basal ou reabilitação, foram documentados por sete estudos, e as taxas variaram entre 4% e 55%.
+doc44	11	A maioria dos estudos reportou apenas efeitos colaterais leves ou ausentes.
+doc44	12	Topiramato foi efetivo em abortar estado de mal epiléptico refratário, apresentando baixa mortalidade e boa tolerabilidade.
+doc44	13	Portanto, topiramato poderia ser uma boa opção como terceira linha para estado de mal epiléptico refratário, porém mais estudos são necessários.
+doc45	1	A cirurgia de resgate é definida como a ressecção cirúrgica após falha de primeiro tratamento com intuito curativo.
+doc45	2	Relatar a experiência de um centro de referência no tratamento do câncer gástrico com a cirurgia de resgate para o adenocarcinoma de estômago.
+doc45	3	Análise retrospectiva dos pacientes com câncer gástrico operados entre 2009 e 2020.
+doc45	4	40 pacientes foram submetidos à tentativa de gastrectomia de resgate com intuito curativo.
+doc45	5	Para análise, foram divididos em dois grupos: 23 pacientes após ressecção endoscópica e 17 após gastrectomia.
+doc45	6	No primeiro grupo, todos tiveram ressecção com margens livres, a média de internação foi 15,7 dias e 2 (8,6%) tiveram complicações maiores.
+doc45	7	No seguimento médio de 37,2 meses, houve apenas 1 recidiva.
+doc45	8	A sobrevida global média foi 46 meses.
+doc45	9	No grupo pós-gastrectomia 9 (52,9%) foram resgatados com intenção curativa, a média de internação foi 12,2 dias e 3 (17,6%) apresentaram complicações maiores.
+doc45	10	No seguimento médio de 22 meses, 5 recidivaram.
+doc45	11	A sobrevida global média e a sobrevida livre de doença foram respectivamente: 24 e 16,5 meses.
+doc45	12	A cirurgia de resgate no câncer gástrico oferece nova possibilidade de controle da doença a longo prazo e/ou aumento de sobrevida, tendo taxa de complicações aceitáveis.
+doc46	1	Analisar a quantidade de exames cérvico-vaginais, também chamados de Teste de Papanicolau, entre os anos de 2006 e 2015 em todos os estados brasileiros, bem como verificar o número de exames realizados fora da faixa etária indicada, e o impacto econômico desse excesso.
+doc46	2	MéTODOS:  Os dados foram coletados a partir da base de dados do Ministério da Saúde chamada Sistema de Informação do Câncer do Colo de Útero (SISCOLO), que reúne os resultados de exames realizados em todo o Brasil pelo sistema único de saúde (SUS).
+doc46	3	A partir disso, foi analisado o número de exames e a faixa-etária de realização dos mesmos; além disso, esses números foram estratificados de acordo com o estado brasileiro de origem do exame.
+doc46	4	Foi verificada a quantidade de exames fora da idade recomendada, e, assim, foi observado o impacto econômico gerado.
+doc46	5	Entre 2006 e 2015, 87.425.549 exames de Papanicolau foram realizados no Brasil.
+doc46	6	Deste montante, 20.215.052 testes foram realizados fora da faixa-etária preconizada pelo Ministério da Saúde do Brasil, o que equivale a 23,12% do total.
+doc46	7	A partir desse número, considerando que cada exame cérvico -vaginal realizado pelo SUS gera um custo de R$ 7,30 para o governo, de acordo com informações na Tabela SUS datada de setembro de 2018, foram gastos R$ 147.569.880 em exames realizados sem indicação.
+doc46	8	CONCLUSãO:  No Brasil, no protocolo do Ministério da Saúde sobre as práticas adequadas em coleta de exames cérvico-vaginais, sendo sua edição mais recente de 2016, a recomendação é realizar o teste de Papanicolau em mulheres dentro de uma faixa-etária específica, na qual a chance de se diagnosticar uma lesão supera o ônus de um sobrediagnóstico ou uma lesão com grande potencial de regressão.
+doc46	9	Entretanto, essa recomendação não tem sido seguida corretamente, gerando mais de 20 milhões de exames excedentes e um custo monetário exorbitante para o sistema público de saúde.
+doc46	10	É importante que medidas sejam tomadas para que o protocolo seja empregado corretamente a fim de reduzir riscos para a paciente, bem como a redução de gastos desnecessários para o SUS.
+doc47	1	O processo de Reforma Psiquiátrica Brasileira (RPB) propõe o rompimento com o paradigma manicomial em diversas dimensões.
+doc47	2	Pensar nos espaços de cuidado e no direito à cidade constituem bandeiras importantes para tal.
+doc47	3	Dessa forma, construímos um arcabouço teórico-conceitual objetivando discutir e sistematizar a relação da arquitetura dos espaços de cuidado destinados à loucura e à produção de subjetividades e relações.
+doc47	4	Assim, a partir da arqueogenealogia, organizamos um diálogo entre conceitos e autores que abordem o espaço e a arquitetura como dispositivos de produção de subjetividades e relações, tais como, instituições totais e mortificação do eu (Erving Goffman) e síndrome espaço-comportamental (Mirian de Carvalho), e experiências como as de Maura Lopes Cançado e Lima Barreto.
+doc47	5	Objetivamos, ainda, discutir e desenhar, pelas lentes de campos diversos de saber, um ideal de cidade que nos ajude a enfrentar o paradigma manicomial e fortalecer o processo de RPB: a cidade aberta, aquela que inclui a diferença.
+doc47	6	Ao localizarmos a importância da discussão das arquiteturas, dos espaços e da cidade que construímos para o processo de RPB, propomos, como resultado deste artigo, construir e adicionar uma nova dimensão de análise de tal processo às já existentes: a dimensão espacial.
+doc48	1	Verificar a associação entre recursos do ambiente familiar, aspectos sociodemográficos e desempenho escolar de estudantes do Ensino Fundamental.
+doc48	2	Estudo observacional analítico transversal, com amostra probabilística estratificada por sexo, idade e ano escolar.
+doc48	3	Participaram 124 adolescentes, de ambos os sexos, entre 11 e 14 anos, matriculados no Ensino Fundamental II de uma instituição particular.
+doc48	4	Os responsáveis receberam um formulário online contendo: Inventário dos Recursos do Ambiente Familiar (RAF), Critério de Classificação Econômica Brasil (CCEB) e questões sociodemográficas.
+doc48	5	O desempenho escolar foi fornecido pela instituição.
+doc48	6	Realizou-se distribuição de frequência das variáveis categóricas e medidas de tendência central e de dispersão para as contínuas.
+doc48	7	Utilizou-se os testes Mann-Whitney, Kruskal-Wallis e coeficiente de correlação de Spearman, sendo considerados significantes os que apresentaram valor de p≤0,05.
+doc48	8	A maioria da amostra possuía 11 anos, do sexo feminino, cursava o 6º ano do Ensino Fundamental, obteve desempenho escolar muito bom, apresentava classificação A e declarou que a/o chefe de família possuía Ensino Superior completo.
+doc48	9	Houve associação entre idade e ano escolar com a interação com os pais, ligação família-escola e RAF total.
+doc48	10	Os processos proximais demonstraram correlação positiva de magnitude moderada com passeios e brinquedos.
+doc48	11	Houve correlação positiva moderada entre total do RAF e atividades previsíveis que sinalizam estabilidade.
+doc48	12	Os processos proximais se correlacionaram de maneira positiva forte com a ligação família-escola.
+doc48	13	Ter livros em casa revelou correlação positiva fraca com o desempenho escolar.
+doc48	14	Os recursos do ambiente familiar apresentaram relação com o desempenho escolar dos adolescentes.
+doc49	1	Embora se saiba que a fração de ejeção (FE) do ventrículo esquerdo (VE) medida por eletrocardiograma seja preservada em pacientes com acromegalia, não há informação suficiente sobre deformação longitudinal global e deformação do átrio esquerdo (SLG-VE e SAE).
+doc49	2	O objetivo deste estudo foi avaliar as funções do ventrículo esquerdo (VE) e do átrio esquerdo (AE) por ecocardiograma strain (ES) em pacientes com acromegalia.
+doc49	3	Este estudo incluiu 50 pacientes com acromegalia na forma ativa da doença e 50 controles saudáveis com idade, sexo e área de superfície corporal similares.
+doc49	4	Além dos ecocardiogramas de rotina, medições de SLG-VE e SAE foram realizadas com o ES.
+doc49	5	Os valores dos SAE e SLG-VE foram significativamente mais baixos em pacientes com acromegalia (p<0,05 para todos).
+doc49	6	Na análise bivariada, a pressão arterial sistólica, o pró-hormônio N-terminal do peptídeo natriurético cerebral, o fator de crescimento semelhante à insulina tipo 1, e detectou-se que os níveis de IMVE tinham correlação positiva com SAE e SLG-VE (p<0,05).
+doc49	7	O nível de IGF-1 tinha forte correlação com SAE e SLG-VE (p<0,001 e β=0,5 vs. p<0,001 e β=0,626, respectivamente); 48% dos pacientes com acromegalia têm SLG-VE reduzido (<20%).
+doc49	8	O índice de massa do ventrículo esquerdo (IMVE) determina independentemente a presença de SLG-VE reduzido, e cada 1g/m2 de aumento no nível de IMVE aumenta a probabilidade de redução de SLG-VE em 6%.
+doc49	9	Embora a fração de ejeção de VE seja normal em pacientes com acromegalia, os valores de SAE e SLG-VE são significativamente mais baixos.
+doc49	10	Além do aumento em IMVE, outro achado do envolvimento cardíaco pode ser a redução de SAE e SLG-VE.
+doc49	11	Portanto, além do ecocardiograma de rotina, SAE e SLG-VE podem ser úteis para avaliar os sinais iniciais de envolvimento cardíaco antes da ocorrência de alterações cardíacas irreversíveis.
+doc50	1	Este artigo tem como objetivo avaliar o papel das desigualdades sociais nos padrões de alimentação complementar nos países da América Latina e do Caribe.
+doc50	2	Trata-se de um estudo ecológico que utilizou dados agregados de inquéritos de base populacional.
+doc50	3	A unidade de análise da pesquisa foram 16 países da América Latina e do Caribe com informações disponíveis.
+doc50	4	Foram selecionados como desfechos a prevalência dos seguintes indicadores de alimentação complementar: introdução alimentar de alimentos sólidos, semissólidos e pastosos” (IASSP), “diversidade alimentar mínima” (DAM), “frequência alimentar mínima” (FAM) e “alimentação mínima aceitável” (AMA).
+doc50	5	As diferenças da prevalência dos indicadores entre os quintis de riqueza mais ricos e mais pobres foram calculadas de forma absoluta e relativa.
+doc50	6	Comparando os quatro indicadores de alimentação complementar, o IASSP teve o melhor desempenho, com 10 países, entre os 11 avaliados, apresentando prevalência acima de 80%.
+doc50	7	O indicador com pior desempenho foi o AMA, com apenas um país, entre os oito avaliados, com prevalências acima de 60%.
+doc50	8	Na quase totalidade dos países, a população mais pobre possuía prevalências de indicadores de alimentação complementar menores que os mais ricos.

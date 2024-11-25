@@ -1,0 +1,491 @@
+doc1	1	OBJETIVO
+doc1	2	O objetivo do presente estudo foi realizar uma revisão abrangente da literatura a fim de fornecer um quadro completo e claro da istmocele—uma área hipoecoica dentro do miométrio no local da cicatriz uterina de uma cesariana anterior—aprofundando todos os aspectos desta condição MéTODOS:  Uma revisão abrangente da literatura foi realizada para identificar os estudos mais relevantes sobre este tema.
+doc1	3	RESULTADOS
+doc1	4	Todos os aspectos da istmocele foram estudados e descritos: fisiopatologia, sintomas clínicos, classificação e diagnóstico.
+doc1	5	Os tratamentos médico e cirúrgico também foram relatados de acordo com os dados reais da literatura.
+doc1	6	CONCLUSãO:  A cesárea é o procedimento cirúrgico mais comum realizado em todo o mundo, e uma das consequências desta técnica é a istmocele.
+doc1	7	Uma classificação única e sistemática da istmocele é necessária para melhorar seu diagnóstico e manejo.
+doc1	8	Novos estudos devem ser realizados para melhor entender sua patogênese.
+doc3	1	Esse artigo é resultado do acompanhamento fotodocumental à Casa de Parto David Capistrano Filho por 12 anos descontinuados (entre 2005 e 2017).
+doc3	2	As fotos narram o cotidiano da casa, documentando suas atividades regulares com as famílias, os momentos festivos, domésticos, terapêuticos, comunitários e de exercício de cidadania pelo direito à saúde reprodutiva de qualidade e autônoma.
+doc3	3	A Casa de Parto é um equipamento público de saúde que atende a gestantes de baixo risco habitual em Realengo, zona oeste do Rio de Janeiro.
+doc3	4	Sua proposta mais ampla de saúde se baseia em educação e informação por meio do acolhimento de proximidade e vínculo, práticas não medicalizadas e cuidado transdisciplinar.
+doc5	1	OBJETIVO
+doc5	2	Determinar o desempenho da dosagem do receptor ativador de plasminogênio tipo uroquinase solúvel quando da alta da unidade de terapia intensiva para predição da mortalidade após permanência na mesma unidade.
+doc5	3	MÉTODOS
+doc5	4	Durante 24 meses conduziu-se um estudo prospectivo observacional de coorte em uma unidade de terapia intensiva polivalente de oito leitos.
+doc5	5	Colheram-se os seguintes dados: APACHE II, SOFA, níveis de proteína C-reativa e receptor ativador de plasminogênio tipo uroquinase solúvel, além de contagem de leucócitos no dia da alta da unidade de terapia intensiva, em pacientes que sobreviveram à permanência na unidade de terapia intensiva.
+doc5	6	RESULTADOS
+doc5	7	Durante este período, incluíram-se no estudo 202 pacientes; 29 (18,6%) morreram após alta da unidade de terapia intensiva.
+doc5	8	Os não sobreviventes eram mais idosos e tinham enfermidades mais graves quando admitidos à unidade de terapia intensiva, com escores de severidade mais elevados, e necessitaram de vasopressores por mais tempo do que os que sobreviveram.
+doc5	9	As áreas sob a curva Característica de Operação do Receptor para SOFA, APACHE II, proteína C-reativa, contagem de leucócitos e receptor ativador de plasminogênio tipo uroquinase solúvel, no momento da alta da unidade de terapia intensiva, avaliadas como marcadores de prognóstico de morte hospitalar, foram, respectivamente, 0,78 (IC95% 0,70 - 0,86); 0,70 (IC95% 0,61 - 0,79); 0,54 (IC95% 0,42 - 0,65); 0,48 (IC95% 0,36 - 0,58); 0,68 (IC95% 0,58 - 0,78).
+doc5	10	O SOFA associou-se de forma independente com risco mais elevado de morte no hospital (OR 1,673; IC95% 1,252 - 2,234), assim como para mortalidade após 28 dias (OR 1,861; IC95% 1,856 - 2,555) e mortalidade após 90 dias (OR 1,584; IC95% 1,241 - 2,022).
+doc5	11	CONCLUSÃO
+doc5	12	A dosagem do receptor ativador de plasminogênio tipo uroquinase solúvel na alta unidade de terapia intensiva teve um valor prognóstico fraco de mortalidade após a permanência nesta unidade.
+doc9	1	Este texto apresenta algumas reflexões produzidas a partir do relato de experiência da participação dos autores no Fórum AWID (Associação para os Direitos das Mulheres e o Desenvolvimento, em sua sigla em inglês), ocorrido em setembro de 2016, no Brasil.
+doc9	2	A partir de exercício reflexivo, são apresentadas algumas questões sobre princípios e controvérsias no trabalho de pesquisa e ativismo sobre/com homens e feminismos, tendo por base a longa trajetória de trabalho sobre masculinidades e igualdade de gênero desses autores.
+doc9	3	A partir do campo de estudos e intervenções políticas sobre homens e masculinidades que tomam o feminismo como marco teórico e ético-político, discorre-se sobre a produção de masculinidades no projeto de transformação social feminista em contextos cada vez mais conservadores e marcados pelo machismo e patriarcado.
+doc9	4	Problematiza-se, ainda, como a hierarquia de gênero emerge com vigor no contexto político brasileiro contemporâneo, desde o processo de impeachment da ex-presidenta Dilma Rousseff até a formulação de políticas atuais na área da educação e saúde.
+doc10	1	OBJETIVO
+doc10	2	Avaliar a infraestrutura hospitalar e o conhecimento dos coordenadores sobre a estrutura da unidade para à higienização das mãos.
+doc10	3	MÉTODO
+doc10	4	Estudo transversal descritivo realizado em um hospital universitário no Sul do Brasil, entre dezembro de 2016 e janeiro de 2017. Foram avaliadas 18 unidades de internação e entrevistados 16 coordenadores.
+doc10	5	Utilizou-se o questionário sobre estrutura da unidade para a higienização das mãos da estratégia multimodal da Organização Mundial de Saúde.
+doc10	6	Utilizou-se a estatística descritiva.
+doc10	7	RESULTADOS
+doc10	8	Todas as unidades possuíam preparações alcóolicas, e 93,8% dos dispensadores eram substituídos quando vazios.
+doc10	9	Observaram-se falta de cartazes ilustrativos, dispensadores de álcool gel, pias em algumas enfermarias, e pouca disponibilidade de dispensadores ao alcance das mãos próximos ao leito/maca do paciente.
+doc10	10	CONCLUSÕES
+doc10	11	Constatou-se que os profissionais recebiam instruções para a higienização das mãos e a existência de protocolos.
+doc10	12	Lacunas foram observadas na infraestrutura das unidades, como a presença de pias e torneiras não adequadas.
+doc13	1	OBJETIVO
+doc13	2	Relacionar o desempenho na fluência de leitura oral com a compreensão de leitura de escolares do Ensino Fundamental I.
+doc13	3	MÉTODO
+doc13	4	Participaram deste estudo 97 escolares, distribuídos em três grupos: Grupo I (GI): composto por 32 escolares do 3º ano; Grupo II (GII): composto por 28 escolares do 4º ano; e Grupo III (GIII): composto por 37 escolares do 5º ano.
+doc13	5	A leitura oral de um texto foi gravada e analisada, observando-se as pausas realizadas pelos escolares, percebidas auditivamente por juízes, medidas a velocidade de leitura, por meio do número de palavras lidas corretamente, e realizada também a avaliação da compreensão de leitura.
+doc13	6	RESULTADOS
+doc13	7	Para os escolares do Grupo I e III, o desempenho na compreensão foi relacionado com os escores de palavras lidas corretamente por minuto, o que não ocorreu com os escolares do Grupo II.
+doc13	8	O GII e GIII apresentaram relações negativas não significantes entre o número de pausas e a compreensão.
+doc13	9	CONCLUSÃO
+doc13	10	Os dados demonstraram que a taxa de leitura oral tem relação com a compreensão de leitura, entretanto, o número de pausas não demonstrou diferenças significantes em relação à compreensão de leitura para a maior parte dos anos escolares analisados.
+doc15	1	O objetivo do estudo foi verificar se o capital social seria um preditor da mortalidade por todas as causas entre idosos brasileiros residentes em comunidade.
+doc15	2	Participaram 935 idosos sobreviventes da coorte idosa do Projeto Bambuí em 2004, que foram acompanhados até 2011. O desfecho foi a mortalidade por todas as causas e a exposição de interesse foi o capital social, mensurado em seus dois componentes, o cognitivo (coesão social e o suporte social) e o estrutural (participação social e satisfação com a vizinhança).
+doc15	3	Variáveis sociodemográficas, de condições de saúde e tabagismo foram incluídas na análise para o propósito de ajuste.
+doc15	4	A análise dos dados baseou-se no modelo dos riscos proporcionais de Cox, que fornece hazard ratios (HR) e intervalos de 95% de confiança (IC95%).
+doc15	5	O componente estrutural do capital social, na dimensão da participação social, foi o único independentemente associado à mortalidade: os idosos que não participavam de grupos sociais ou associações apresentaram um risco de morte duas vezes maior (HR = 2,28; IC95%: 1,49-3,49) que suas contrapartes.
+doc15	6	Os resultados desta investigação evidenciam a necessidade de estender as intervenções direcionadas à promoção da longevidade para além do campo específico de atuação da saúde, voltando-se também para características ambientais e sociais.
+doc18	1	OBJETIVO
+doc18	2	Descrever as características das quedas com dano de pacientes, seus fatores de risco e lesões decorrentes.
+doc18	3	MÉTODOS
+doc18	4	Estudo longitudinal e retrospectivo de 260 registros de quedas com dano de pacientes adultos em unidades clínicas e cirúrgicas de um hospital geral, de setembro de 2012 a junho de 2017. Os dados foram coletados em maio de 2018 a partir do instrumento de investigação de quedas e prontuário eletrônico, sendo a análise estatística descritiva.
+doc18	5	RESULTADOS
+doc18	6	A maioria dos pacientes que sofreram queda com dano eram idosos (78%), do sexo feminino (55%), em tratamento clínico (68%) e desacompanhados (59,4%).
+doc18	7	As quedas ocorreram da própria altura (63,4%) e no quarto do paciente (67,3%).
+doc18	8	A gravidade dos danos foi leve em 80,8% dos casos, grave em 11,9% e moderado, 7,3%.
+doc18	9	CONCLUSÕES
+doc18	10	Melhorar a compreensão sobre as quedas e suas consequências pode subsidiar os profissionais na avaliação dos riscos e no estabelecimento de medidas preventivas.
+doc23	1	Objetivo
+doc23	2	Avaliar a frequência e os tipos de lesões da coluna cervical superior em pacientes idosos assintomáticos submetidos a tomografia computadorizada (TC) para investigação de trauma leve na cabeça.
+doc23	3	Materiais e Métodos
+doc23	4	De janeiro de 2015 a dezembro de 2016, analisamos prospectivamente 2613 pacientes idosos assintomáticos com pequeno traumatismo na cabeça. com protocolo de TC dedicado incluindo a região de C1-C2.
+doc23	5	Resultados
+doc23	6	Trinta e três dos 2613 pacientes apresentaram lesões na coluna cervical superior, com frequência de 1,26% em toda a população e de 8,37% (33/394) em pacientes com achados relacionados ao trauma.
+doc23	7	Seis dos 33 pacientes apresentaram fratura de C1 e 27/33 pacientes apresentaram fratura de C2. A dose de TC aumentou 25% e 23,68% com scanner de 16 e 128 fileiras, respectivamente.
+doc23	8	Conclusão
+doc23	9	A inclusão de C1-C2 na TC de cabeça revelou uma taxa de lesões da coluna cervical superior de 1,26% em pacientes idosos assintomáticos com lesão pequena na cabeça.
+doc23	10	O protocolo ajuda a detectar potencialmente lesões fatais e pode ser adotado para pessoas idosas com trauma leve na cabeça.
+doc24	1	Os antagonistas do factor de necrose tumoral alfa são reconhecidos como eficazes na obtenção de remissão clínica e cicatrização da mucosa na doença de Crohn ativa moderada a grave.
+doc24	2	Considerando que estes desempenham um papel central na modulação imunomediada, há alguma preocupação sobre a sua segurança a longo prazo.
+doc24	3	Assim, existe evidência de que podem aumentar o risco de infeções oportunistas, como a tuberculose, em particular a reativação da infeção latente.
+doc24	4	Devido à elevada incidência mundial de tuberculose e à sua frequência em doentes imunocomprometidos, a exclusão da infeção latente faz parte do rastreio antes de iniciar anti-TNFα. Apenas alguns casos de tuberculose disseminada grave foram relatados em doentes imunocomprometidos, provavelmente relacionados com o uso generalizado de testes de rastreio de maior acuidade, como os ensaios de libertação de interferão gama.
+doc24	5	No entanto, apesar do rastreio negativo, o risco de desenvolver infeção ativa por tuberculose permanece durante o tratamento.
+doc24	6	Nestes casos, a tuberculose torna-se mais difícil de diagnosticar, devido à sua forma de apresentação mais rara (infeção extrapulmonar e disseminada), é mais difícil de tratar, devido à alta taxa de resistência e apresenta maior morbidade e mortalidade associada.
+doc24	7	Os autores relatam um caso enigmático de tuberculose miliar, apesar do rastreio negativo de infeção latente, através de ensaio de libertação de interferão gama, em doente com Crohn tratado com infliximab e azatioprina, com foco no rastreio, diagnóstico e desafio terapêutico.
+doc24	8	Este caso levanta a discussão o manejo da terapêutica anti-TNFα e a necessidade de se desenvolverem estratégias para diagnosticar e tratar precocemente a tuberculose neste contexto.
+doc27	1	Objetivo
+doc27	2	Avaliar a capacidade de regeneração dos tendões Grácil e Semitendíneo; Identificar a sensibilidade e especificidade da manobra semiológica para detecção da presença dos tendões isquiotibiais; verificar espessura e região de inserção dos tendões regenerados.
+doc27	3	Métodos
+doc27	4	30 pacientes foram submetidos à cirurgia para reconstrução do LCA, com retirada dos tendões do semitendíneo e grácil.
+doc27	5	Após a cirurgia, os pacientes foram acompanhados clinicamente por exame físico e por RM.
+doc27	6	Resultados
+doc27	7	Observou-se que em 36,66% eles se apresentavam visíveis, enquanto 83,33% os tendões estavam palpáveis.
+doc27	8	Observou-se à RM, quanto a região da inserção distal dos tendões regenerados: Semitendíneos, 28% proximal ao ponto padronizado do MFC, 16% se apresentaram ao nível e 56% distal.
+doc27	9	Já quanto aos tendões do Grácil, 36,66% apresentavam-se proximais, 10% ao nível e 53,33% distal.
+doc27	10	Onze tendões do ST e do G tiveram regeneração completa.
+doc27	11	Conclusões
+doc27	12	Ficaram caracterizadas, por RM, as regenerações parciais ou totais dos tendões ST e G;a palpação, é eficaz para avaliar a regeneração dos tendões, porém RM mantem-se como padrão ouro; apenas parte dos pacientes os tendões ST e G se regeneraram de maneira completa, limitando a sua reutilização como enxerto nos casos de nova lesão ligamentar.
+doc28	1	OBJETIVO
+doc28	2	Avaliar se a realização de procedimentos anti-incontinência durante a correção cirúrgica do prolapso anterior e/ou apical em mulheres assintomáticas para incontinência urinária (IU) pode prevenir a incontinência urinária de esforço (IUE) no pós-operatório.
+doc28	3	MéTODOS::  Foi realizada uma revisão sistemática dos artigos publicados nas bases de dados PubMed, Cochrane Library e Lilacs até o dia 31 de março de 2016. Dois revisores realizaram a coleta e a análise de dados, de forma independente.
+doc28	4	Todos os estudos selecionados foram analisados metodologicamente.
+doc28	5	Os resultados estão apresentados como risco relativo (RR), com 95% de intervalo de confiança (IC).
+doc28	6	RESULTADOS
+doc28	7	Após a seleção do estudo, apenas nove estudos preencheram os pré-requisitos necessários.
+doc28	8	Nesta revisão, 1.146 pacientes foram incluídos.
+doc28	9	No total, a revisão incluiu ensaios de três tipos diferentes de procedimentos anti-incontinência.
+doc28	10	Descobrimos que realizar qualquer procedimento anti-incontinência ao mesmo tempo que o reparo do prolapso reduziu a incidência de IU no pós-operatório (RR = 0,50; IC 95%: 0,28–0,91).
+doc28	11	No entanto, quando fizemos a análise separadamente pelo tipo de procedimento anti-incontinência, encontramos resultados diferentes.
+doc28	12	Na análise de subgrupos com slings miduretrais, é benéfico realizá-lo para reduzir a incidência de IU (RR = 0,08; IC 95%: 0,02–0,28).
+doc28	13	Por outro lado, na análise de subgrupo com colposuspensão de Burch, não houve diferença significativa com o grupo controle (RR = 1,47; IC 95%: 0,28–7,79]).
+doc28	14	CONCLUSãO::  A realização de qualquer procedimento profilático anti-incontinência ao mesmo tempo que o reparo do prolapso reduziu a incidência de IUE no pós-operatório.
+doc28	15	A colposuspensão de Burch não mostrou diminuição na incidência de IUE no pós-operatório.
+doc29	1	OBJETIVO
+doc29	2	Compreender a experiência dos avós de ter um neto hospitalizado em Unidade de Terapia Intensiva Pediátrica.
+doc29	3	MÉTODO
+doc29	4	Estudo qualitativo, que utilizou o referencial teórico do Interacionismo Simbólico e, como referencial metodológico, os pressupostos da Teoria Fundamentada nos Dados, realizado com avós de crianças hospitalizadas em Unidade de Terapia Intensiva Pediátrica de um hospital-escola de uma universidade do interior de São Paulo.
+doc29	5	Os dados foram coletados por meio de observação participante e entrevistas semiestruturadas e analisados seguindo as etapas de codificação aberta e axial da Teoria Fundamentada.
+doc29	6	RESULTADOS
+doc29	7	Foram entrevistados nove avós.
+doc29	8	Identificaram-se dois fenômenos: “Percebendo-se envoltos em uma tempestade” e “Lutando para ser a âncora da família”, que compreendem o sofrimento vivenciado e o papel de suporte desenvolvido pelos avós durante a hospitalização.
+doc29	9	CONCLUSÃO
+doc29	10	Os avós desenvolvem um importante papel de sustentação familiar durante a crise, portanto é essencial que se pense em estratégias de cuidado da família que envolvam também essa geração familiar, cada vez mais presente e participativa nos diferentes cenários de atenção à saúde.
+doc30	1	Objetivo
+doc30	2	Este é um estudo descritivo para relatar nosso método de correção cirúrgica para pacientes com deformidades de hálux valgo.
+doc30	3	Métodos
+doc30	4	De 2006 a 2012, 516 pacientes consecutivos (601 pés) com deformidade de hálux valgo foram tratados cirurgicamente em nosso departamento, depois que os tratamentos conservadores foram esgotados.
+doc30	5	O ângulo do hálux valgo, o ângulo intermetatarsal, o ângulo articular metatarsal distal e o grau de osteoartrite da primeira articulação metatarsofalângica foram medidos em radiografias pré-operatórias simples do antepé com apoio de peso.
+doc30	6	Resultados
+doc30	7	Os pacientes jovens com desvio intermetatarsal grave foram submetidos à combinação de osteotomia distal e proximal do primeiro metatarso (n = 21).
+doc30	8	Os pacientes com desvio intermetatarsal menor foram submetidos a osteotomia de Chevron no metatarso distal (n = 196), enquanto que os pacientes com desvio intermetatarsal grave e deformidades menos flexíveis e sem osteoartrite foram submetidos a osteotomia da base do metatarso com um procedimento distal no tecido mole (n = 173).
+doc30	9	Nos pacientes idosos ativos com osteoartrite na primeira articulação metatarsofalângica realizou-se artrodese (n = 100) ou artroplastia de ressecção (n = 58).
+doc30	10	Conclusão
+doc30	11	Determinar alguns ângulos com radiografias simples do antepé com apoio de peso em combinação com idade e nível de atividade dos pacientes pode ajudar e simplificar o método de correção cirúrgica, usando o esquema que desenvolvemos.
+doc30	12	Nível de Evidência IV, Série de casos.
+doc31	1	OBJETIVO
+doc31	2	Estimar a prevalência e os fatores associados à sarcopenia, dinapenia e sarcodinapenia em idosos residentes no município de São Paulo.
+doc31	3	MÉTODOS
+doc31	4	Estudo transversal de base populacional envolvendo 1.168 idosos pertencentes à terceira onda do Estudo SABE (Saúde, Bem-Estar e Envelhecimento), em 2010. Foramconsiderados sarcopênicos os idosos com índice de massa muscular esquelética ≤ 8,90 kg/m2 para homens e ≤6,37 kg/m2 para mulheres, dinapênicos aqueles com força de preensão manual < 30 kg para homens e < 20kg para mulheres, e sarcodinapênicos aqueles que apresentavam sarcopenia associada à dinapenia.
+doc31	5	Características sociodemográficas, comportamentais, condições clínicas, nutricionais e bioquímicas foram consideradas para determinar os fatores associados a cada uma das três condições por meio de regressão logística multinomial.
+doc31	6	RESULTADOS
+doc31	7	A prevalência de sarcopenia, dinapenia e sarcodinapenia foi, respectivamente, 4,8% (IC95% 3,6-6,3), 30,9% (IC95% 27,5-34,6) e 9,0% (IC95% 7,2-11,3).
+doc31	8	O avanço da idade e a desnutrição foram associados às três condições analisadas.
+doc31	9	O prejuízo cognitivo foi associado à dinapenia e à sarcodinapenia.
+doc31	10	A escolaridade, ter o hábito de fumar e não ter vida conjugal foram associados à sarcopenia, enquanto osteoartrite, escolaridade, ser ex-fumante e apresentar valores baixos de hemoglobina foram associados à dinapenia.
+doc31	11	Foram associados à sarcodinapenia o hábito de fumar e o risco de desnutrição.
+doc31	12	CONCLUSÃO
+doc31	13	Dinapenia é a condição mais prevalente na população idosa, seguida pela sarcodinapenia e sarcopenia.
+doc31	14	Exceto por idade, escolaridade e desnutrição, os fatores associados à sarcopenia e à dinapenia são distintos.
+doc31	15	Entretanto, há similaridades em algumas associações quando se trata da presença de sarcodinapenia.
+doc32	1	Os autores abordam o vazio legal que existe, no acesso, por parte de estudantes de medicina, aos registos clínicos, à informação de saúde, na posse e à guarda legal e institucional das unidades de saúde.
+doc32	2	Por outro lado, desenvolvem uma tese jurídica que configura a criação do segredo do estudante de medicina e a sua vinculação ao dever de sigilo, como pressupostos que fundamentam o direito do estudante de medicina em aceder e reutilizar informação de saúde.
+doc32	3	O estudante de medicina tem legitimidade para aceder a informação de saúde, a registos clínicos, já que é inequívoco ser portador de uma necessidade informacional, legítima, constitucionalmente protegida e suficientemente relevante.
+doc32	4	Concluem, que o poder legislativo se associe às instituições, universitárias e hospitalares, instituindo, por diploma legal, o Segredo do Estudante de Medicina, a sua vinculação ao dever de sigilo e o direito do estudante de medicina em aceder e reutilizar informação de saúde.
+doc32	5	E deve fazê-lo, em diploma específico, nos precisos termos do texto aprovado, por unanimidade, pelo Conselho das Escolas Médicas Portuguesas, pelo Conselho Nacional de Ética e Deontologia Médicas, pelo Conselho Nacional da Ordem dos Médicos e pelo Bastonário da referida Ordem.
+doc36	1	Entre 1945-1964 o Brasil vivia uma acelerada modernização.
+doc36	2	Transformando-se numa sociedade urbana, sob o jugo do higienismo, procurava refutar práticas e costumes considerados tradicionais e arcaicos.
+doc36	3	Nesse contexto, a figura tradicional da parteira é preterida socialmente para dar espaço ao conhecimento médico, que passa a incidir sobre o partejar e o maternar.
+doc36	4	Este texto analisa o Boletim da LBA, investigando o processo de medicalização e cientifização da maternidade e do parto, tomando em observação os embates científicos e morais sobre maternidade e parto que ocupavam as páginas da publicação oficial da maior instituição de assistência no país.
+doc38	1	O objetivo desta pesquisa é analisar as implicações da violência entre pares no contexto escolar, do clima escolar e da percepção dos contextos de desenvolvimento no bem-estar subjetivo de crianças e adolescentes.
+doc38	2	A amostra é composta por 910 estudantes do 6º e 7º ano do ensino fundamental, de 27 escolas, públicas e privadas, urbanas e rurais do Ceará.
+doc38	3	Trata-se de um estudo transversal quantitativo que utilizou os instrumentos escala de vitimização e agressão entre pares e de clima escolar; três índices de percepção dos contextos de desenvolvimento (casa, escola, bairro); três escalas de bem-estar (satisfação com a vida para estudantes, índice de bem-estar pessoal e item único de satisfação com a vida) para coleta de dados.
+doc38	4	Os dados passaram por análise de variância multivariada com nível de significância não superior a 0,01.
+doc38	5	Os resultados indicam que a tipologia bullying, isoladamente ou em interação com as variáveis analisadas, é a que mais impacto exerce sobre o bem-estar da população estudada, sendo os envolvidos os que apresentam as menores médias de bem-estar.
+doc38	6	Níveis baixos de percepção dos contextos casa, escola, bairro, e do clima escolar, bem como estudar em escola pública e/ou morar em zona rural, estão igualmente associados a bem-estar subjetivo baixo.
+doc39	1	O câncer colorretal (CCR) esporádico é tradicionalmente diagnosticado após a sexta década de vida, embora uma pequena porcentagem de casos seja diagnosticada em doentes abaixo dos 40 anos de idade, e a incidência está aumentando.
+doc39	2	Existe uma grande controvérsia a respeito da evolução clínica de doentes jovens portadores de CCR em comparação aos mais idosos.
+doc39	3	Os objetivos deste estudo foram avaliar a prevalência de CCR em doentes jovens, rever a literatura pertinente e discutir suas características mais importantes nesta faixa etária.
+doc39	4	Para tanto realizou-se revisão da literatura envolvendo doentes com CCR com foco na idade ao diagnóstico.
+doc39	5	A informação extraída da revisão de literatura demonstrou uma tendência de redução da incidência em pessoas mais idosas com efeito oposto em adolescentes e adultos jovens.
+doc39	6	Sua agressividade biológica ainda não foi claramente reconhecida, embora seja usualmente diagnosticado mais tardiamente e em associação com características histológicas adversas.
+doc39	7	Apesar disso, estas características não afetam a evolução.
+doc39	8	Este aparente aumento na incidência de CCR entre pacientes jovens durante as últimas décadas levanta a necessidade de uma maior suspeita diagnóstica na avaliação de sintomas comuns neste grupo.
+doc39	9	Assim, programas educacionais devem disseminar informação tanto para população como para médicos a fim de melhorar a prevenção e o diagnóstico precoce.
+doc40	1	Objetivo
+doc40	2	Avaliar a porcentagem de concordância entre métodos de diagnóstico por imagem na avaliação de linfonodomegalias em pacientes HIV(+)/AIDS.
+doc40	3	Materiais e Métodos
+doc40	4	Foi realizado estudo aberto, comparativo e prospectivo dos métodos de diagnóstico por imagem na avaliação de linfonodomegalias.
+doc40	5	Foram avaliados 30 pacientes (19 homens e 11 mulheres).
+doc40	6	Todos foram submetidos a ultrassonografia e tomografia computadorizada (TC) e 20 também foram submetidos a ressonância magnética (RM).
+doc40	7	Foi determinado o grau de concordância entre dois examinadores usando-se métodos de diagnóstico por imagem.
+doc40	8	Resultados
+doc40	9	A TC obteve o maior grau de concordância, com taxa de 28/30 (93,3%) e coeficiente kappa de 0,85.
+doc40	10	Quando comparado o grau de concordância para linfonodomegalias entre dois examinadores e entre TC e ultrassonografia, o examinador 1 teve taxa de 24/30 (80,0%) e kappa de 0,49, e o examinador 2 teve taxa de 21/30 (70,0%) e kappa de 0,31.
+doc40	11	Entre RM e TC, o examinador 1 teve taxa de 10/20 (50,0%) e kappa de -0,18, e o examinador 2 teve taxa de 17/20 (85,0%) e kappa de 0,69.
+doc40	12	Entre RM e ultrassonografia, o examinador 1 teve taxa de 14/20 (70,0%) e kappa de 0,20, e o examinador 2 teve taxa de 15/20 (75,0%) e kappa de 0,38.
+doc40	13	Conclusão
+doc40	14	Este estudo indica que a concordância entre métodos depende fortemente da forma como a pesquisa é conduzida e não da capacidade do examinador.
+doc41	1	OBJETIVO
+doc41	2	Verificar a melhor amostra de fala para validação do AVQI para o português-brasileiro; identificar o contexto de fala com melhor correlação perceptivo-acústica e que possui maior acurácia diagnóstica com o AVQI.
+doc41	3	MÉTODO
+doc41	4	Gravações de 50 sujeitos (disfônicos e vocalmente saudáveis), incluindo: vogal/a/; meses do ano; números (1 a 20) e repetição das frases do CAPE-V. As amostras de fala foram editadas para conter três diferentes durações mais vogal: D1-fala completa; D2-fala com 3s de segmentos sonoros; D3-fala com ponto de corte pré-determinado.
+doc41	5	Três avaliadores realizaram a análise perceptivoauditiva (APA) das amostras combinadas em 3 contextos seguidos da vogal e deram um único escore do desvio vocal (G:0 a 3).
+doc41	6	Verificou-se qual estímulo de fala possuía melhor correlação perceptivo-acústica considerando o Gmédio; analisou-se qual estímulo possuía melhor acurácia diagnóstica considerando como presença ou ausência G<0,5 e G<0,68.
+doc41	7	RESULTADOS
+doc41	8	A correlação perceptivo-acústica variou de r = 0,482 a r = 0,634 (Correlação de Spearman); números apresentou os valores mais elevados.
+doc41	9	O AVQI foi altamente específico e pouco sensível.
+doc41	10	Considerando G<0,5, a melhor sensibilidade e valor da curva ROC foi para frases em D3 (0,578;0,72).
+doc41	11	Considerando G<0,68, houve boa acurácia diagnóstica para números de 1 a 10 e maior sensibilidade para números de 1 a 20.
+doc41	12	CONCLUSÃO
+doc41	13	Melhor correlação perceptivo-acústica foi para números, 1 a 10. As frases do CAPE-V produziram melhor acurácia diagnóstica com G<0,5, números apresentou elevada acurácia diagnóstica com G<0,68.
+doc41	14	Números é bastante usual na clínica brasileira, logo, sugere-se seu uso para validação e análises do AVQI.
+doc42	1	Objetivos
+doc42	2	A deficiência pélvica severa apresenta um problema difícil na artroplastia do quadril.
+doc42	3	Especificamente, os objetivos são restaurar o estoque ósseo pélvico, colocar o componente acetabular na posição anatômica correta e otimizar a estabilidade da articulação.
+doc42	4	Atualmente, existem muitas técnicas cirúrgicas para a cirurgia de revisão protética em defeitos do complexo acetabular, mas não há consenso sobre o melhor tratamento.
+doc42	5	Os objetivos deste trabalho são revisar casos de médio prazo operados por apresentar defeito ósseo grave (Paprosky tipo III) tratado com aloenxerto ósseo e gaiola anelar Bursch - Schneider anti protusio (BSAC).
+doc42	6	Métodos
+doc42	7	Foi realizada uma revisão retrospectiva consecutiva das primeiras 23 reconstruções acetabulares complexas realizadas entre 2006 e 2011. Esta série inclui a curva de aprendizado do procedimento e tem um acompanhamento mínimo de 5 anos.
+doc42	8	Conclusão
+doc42	9	Em conclusão, nosso estudo confirma a eficácia do uso de aloenxerto morselado congelado combinado com um anel de metal tipo BSAC durante a reconstrução acetabular.
+doc42	10	É necessário recuperar o centro de rotação do quadril em sua localização anatômica para o sucesso a longo prazo.
+doc42	11	Em casos de soltura maciça, o centro anatómico de rotação só pode ser restaurado pela reconstrução da densidade óssea usando um enxerto protegido por um anel que melhora a centralização da cabeça.
+doc42	12	Nível de Evidência tipo IV, Série de Casos.
+doc43	1	O objetivo deste artigo é descrever a experimentação do tabaco e fatores associados em adolescentes da zona rural do sudoeste da Bahia.
+doc43	2	Este foi um recorte da pesquisa Adolescer, do tipo seccional, em 2015, com 390 adolescentes.
+doc43	3	Os dados foram analisados através de medidas de frequência e qui-quadrado; e regressão de Poisson, com variância robusta, para estimar as razões de prevalências (RP) para a experimentação do tabaco em relação às variáveis explicativas.
+doc43	4	Dos adolescentes, 5,1% experimentaram cigarro alguma vez na vida e 0,3% faziam uso regular.
+doc43	5	Mostraram-se associados à experimentação: sexo masculino (RP = 6,46); ter tido relação sexual alguma vez na vida (RP = 20,55); ter pais que raramente ou nunca entenderem os seus problemas (RP = 7,89); ter 3 ou mais amigos (RP = 0,10).
+doc43	6	Apesar das baixas prevalências de experimentação do tabaco e do seu uso regular, que indicam a adoção de um estilo de vida mais saudável ou ainda uma maior autonomia e capacidade de decisão para o não consumo, sabe-se que não existe nível seguro de exposição ao tabaco.
+doc43	7	Sugere-se o estabelecimento de parceria intersetorial educação-saúde para fortalecer ações de promoção da saúde e prevenção de doenças, com ênfase no tabagismo.
+doc45	1	Polymethylmetacrylte (PMMA) é um composto utilizado na indústria e desde os anos 80's também tem sido empregado nas áreas odontológica e biomédica como constituinte de cimentos ósseos.
+doc45	2	A hydroxyapatite (HAp) é uma biocerâmica produzida naturalmente nos ossos.
+doc45	3	Esses dois componentes são constituintes fundamentais no preparo de cimentos ósseos.
+doc45	4	A síntese artificial de HAp pode ser feita pelo método sol-gel.
+doc45	5	Bifosfanatos tem também sido utilizado na odontologia em implantes dentários e na medicina nuclear, como radiofármaco ou no tratamento paliativo sistêmico de redução de dor das metástasis ósseas com
+doc47	1	O objetivo deste estudo foi analisar o impacto da fragilidade, da multimorbidade e da incapacidade funcional na sobrevida de idosos assistidos em ambulatório de geriatria e identificar os fatores clínicos de risco associados ao óbito.
+doc47	2	Estudo longitudinal, com 133 idosos avaliados inicialmente em relação à fragilidade, multimorbidade (presença simultânea de 3 doenças crônicas ou mais) e perda funcional nas Atividades de Vida Diária.
+doc47	3	Utilizou-se o método Kaplan Meier, para a análise de sobrevida, e a regressão de Cox, para a associação dos fatores clínicos com o óbito.
+doc47	4	Após seguimento de seis anos, 21,2% dos participantes faleceram, sendo a sobrevida menor entre os idosos frágeis (p < 0,05).
+doc47	5	As variáveis fragilidade (HR = 2,26; IC95%: 1,03-4,93) e Insuficiência Renal Crônica (HR = 3,00; IC95%: 1,20-7,47) foram fatores de maiores riscos para óbito na análise multivariada.
+doc47	6	A fragilidade impactou negativamente na sobrevida desses pacientes, porém não foi observada associação estatisticamente significativa em relação à multimorbidade e perda funcional.
+doc47	7	O rastreio de vulnerabilidades no serviço ambulatorial de geriatria é relevante, em virtude do número expressivo de idosos portadores de síndromes geriátricas que utilizam este tipo de atendimento e do direcionamento dos cuidados desses indivíduos.
+doc48	1	INTRODUçÃO
+doc48	2	Doenças cardiometabólicas são prevalentes nas populações, estando entre as principais causas de morte.
+doc48	3	Objetivos: Este subestudo do Saúde, Bem-Estar e Envelhecimento (Sabe) descreve as prevalências autorreferidas de hipertensão, diabete mellitus (DM) e doença cardiovascular aterosclerótica (DCV) nas suas três ondas (2000, 2006 e 2010) e analisa a associação com fatores de risco selecionados.
+doc48	4	MÉTODOS
+doc48	5	Empregou-se regressão logística.
+doc48	6	RESULTADOS
+doc48	7	O predomínio de mulheres e a idade (68 anos) foram mantidos nas três ondas.
+doc48	8	No período, verificou-se tendência geral de aumento nas prevalências de hipertensão (53,1 a 66,7%), DM (16,7 a 25%) e DCV (23,0 a 27,2%) - estabilização da prevalência de DCV apenas de 2006 a 2010. Indivíduos do sexo feminino, com índice de massa corporal (IMC) > 27 kg/m2 e ex-fumantes tenderam consistentemente à maior probabilidade de hipertensão autorreferida ao longo das ondas.
+doc48	9	Apresentar IMC > 27 kg/m2 associou-se à maior probabilidade de referir DM nas três ondas, enquanto com ex-fumantes isso aconteceu apenas em 2010. Ter sido fumante também se associou à DCV nas ondas, mas não o excesso de peso.
+doc48	10	Averiguando-se pares de ondas para testar alterações nas prevalências, viu-se que em geral houve elevação significativa nos percentuais das doenças com o tempo.
+doc48	11	CONCLUSÃO
+doc48	12	Em suma, DM, hipertensão e DCV autorreferidos ocorreram com elevadas prevalências nos participantes do Sabe em São Paulo.
+doc48	13	A associação de IMC elevado com doenças cardiometabólicas sugere que adiposidade corporal pode favorecê-las, embora esta análise não permita assegurar relação causa × efeito.
+doc48	14	É possível que o aumento dos percentuais de doentes da primeira para a terceira onda reflita melhora nas condições de diagnóstico e/ou no controle dessas doenças no período.
+doc49	1	Objetivo
+doc49	2	Determinar a relação entre o resultado funcional obtido com a cirurgia de Oberlin, o nível cognitivo do paciente e com o tempo decorrido entre o trauma e a cirurgia.
+doc49	3	Métodos
+doc49	4	Foram analisados dezoito pacientes, sendo 17 homens (94,4%) e uma mulher (5,6%), com idade média de 29,5 anos (17 a 46 anos), com lesão traumática alta do plexo braquial (C5-C6 e C5-C7).
+doc49	5	Avaliamos a amplitude de movimento ativa, a força muscular de flexão do cotovelo e o questionário DASH (Disabilities of the Arm, Shoulder and Hand) e determinamos a correlação entre o resultado obtido e o nível cognitivo do paciente, avaliado pelo Mini Exame do Estado Mental (MEEM).
+doc49	6	Resultados
+doc49	7	Observamos correlações de significância estatística entre MEEM e recuperação de força (84,4%, p<0,001), classificada como ótima; MEEM e BMRC - British Medical Research Council (78,4%, p> 0,001), classificada como boa.
+doc49	8	Conclusões
+doc49	9	Verificamos correlação positiva entre a capacidade cognitiva e os resultados funcionais dos pacientes submetidos à cirurgia de Oberlin.
+doc49	10	O tempo decorrido entre o trauma e o procedimento cirúrgico apresenta uma relação inversamente proporcional com a recuperação da força.
+doc50	1	Objetivo
+doc50	2	Artrite reumatoide é uma doença prevalente na população (0,5% a 1%), envolvendo tratamento tanto ortopédico, quanto reumatológico.
+doc50	3	A técnica do “Time Trade Off”, que determina a quantidade de anos que o paciente ou o profissional daria para ter sucesso absoluto em determinado procedimento, vem ganhando espaço nos protocolos modernos.
+doc50	4	Diante disto, comparamos a avaliação dada pelo paciente, pelo ortopedista e pelo reumatologista usando “Time Trade Off” e correlacionamos com repercussão clínica e escores já estabelecidos: Brief Michigan Questionnaire (Anexo I) e Disease Activity Score-28 (DAS-28) (Anexo II).
+doc50	5	Métodos
+doc50	6	Estudo prospectivo com 37 pacientes diagnosticados com artrite reumatoide, que foram submetidos ao questionário “Time Trade Off” pelo ortopedista, pelo reumatologista e por um avaliador independente, e avaliação através do DAS-28 e do Brief Michigan.
+doc50	7	Resultados
+doc50	8	Através da análise descritiva, notou-se medianas semelhantes entre ortopedista, reumatologista e paciente.
+doc50	9	Entretanto, evidenciou-se correlação fraca entre paciente e reumatologista, paciente e o Brief Michigan; e ortopedista e o DAS-28.
+doc50	10	Conclusão
+doc50	11	Valores de mediana semelhantes demonstram “Time Trade Off” equivalentes entre ortopedista, reumatologista e paciente.
+doc50	12	Mas, diante das correlações fracas entre os escores, não foi possível substituí-los por uma escala única de avaliação.
+doc53	1	OBJETIVO
+doc53	2	Avaliar a acurácia dos níveis de interleucina 3 para predizer prognóstico em pacientes sépticos.
+doc53	3	MÉTODOS
+doc53	4	Conduzimos uma coorte prospectiva que incluiu pacientes adultos internados em unidade de terapia intensiva, que apresentassem sepse ou choque séptico iniciados há até 48 horas.
+doc53	5	Mediram-se os níveis séricos de interleucina 3 quando da inclusão (dia 1) e nos dias 3 e 7. O desfecho primário analisado foi a mortalidade hospitalar por qualquer causa.
+doc53	6	RESULTADOS
+doc53	7	Foram incluídos 120 pacientes.
+doc53	8	Os níveis séricos de interleucina 3 dosados à inclusão foram significativamente mais elevados em pacientes que faleceram em comparação aos que sobreviveram à internação hospitalar (91,2pg/mL versus 36pg/mL; p = 0,024).
+doc53	9	Em modelo de sobrevivência de Cox com inclusão de idade e valores sequenciais de SOFA, os níveis de interleucina 3 mensurados na inclusão mantiveram-se independentemente associados à mortalidade hospitalar (HR 1,032; IC95% 1,010 - 1,055; p = 0,005).
+doc53	10	Em curva Característica de Operação do Receptor construída para investigação adicional da acurácia da interleucina 3 na predição do prognóstico, encontrou-se área sob a curva de 0,62 (IC95% 0,51 - 0,73; p = 0,024) para mortalidade hospitalar.
+doc53	11	Valores iniciais de interleucina 3 acima de 127,5pg/mL mostraram-se significativamente associados à mortalidade hospitalar (p = 0,019; OR = 2,97; IC95% 1,27 - 6,97; p = 0,019), entretanto com baixo desempenho (especificidade de 82%, sensibilidade de 39%, valor preditivo positivo de 53%, valor preditivo negativo de 72%, razão de verossimilhança negativa de 0,73 e razão de verossimilhança positiva de 2,16).
+doc53	12	CONCLUSÃO
+doc53	13	Níveis elevados de interleucina 3 mostraram-se independentemente associados à mortalidade hospitalar em pacientes sépticos, entretanto com baixo desempenho clínico.
+doc54	1	OBJETIVO
+doc54	2	Descrever os efeitos de melhorias sucessivas nos sistemas de alerta precoce para identificação de pacientes com sepse, no que se refere ao tempo até o diagnóstico, à administração de antibióticos e à mortalidade.
+doc54	3	MÉTODOS
+doc54	4	Trata-se de um estudo observacional de coorte, que descreve as sucessivas melhorias implantadas em um período de 10 anos no sistema de alerta precoce para detecção de sepse, incluindo vigilância ativa manual sistemática, alertas eletrônicos via telefonista, e alertas enviados diretamente a dispositivos móveis da enfermagem.
+doc54	5	Para todos os períodos, após o desencadeamento do alerta, o tratamento foi realizado segundo as diretrizes institucionais para sepse.
+doc54	6	RESULTADOS
+doc54	7	Durante estes anos, detectaram-se 637 pacientes com sepse.
+doc54	8	O tempo mediano entre a triagem e o diagnóstico foi reduzido de 19:20 (9:10 - 38:15) horas para 12:40 (2:50 - 23:45) horas quando se utilizou o método manual de vigilância (p = 0,14), para 2:10 (1:25 - 2:20) horas quando o alerta foi enviado automaticamente ao serviço telefônico do hospital (p = 0,014) e para 1:00 (0:30 - 1:10) horas quando o alerta foi enviado diretamente ao telefone celular da enfermagem (p = 0,02), com manutenção de valores similares nos anos que se seguiram.
+doc54	9	Não houve diferença no tempo até o tratamento em relação aos pacientes sobreviventes e não sobreviventes.
+doc54	10	CONCLUSÃO
+doc54	11	Sistemas eletrônicos auxiliam na redução do tempo entre a triagem e o diagnóstico e entre o diagnóstico e o início da antibioticoterapia em pacientes com sepse.
+doc58	1	O objetivo deste artigo é avaliar a prevalência de dislipidemia e os fatores associados em crianças de 4 a 7 anos de idade.
+doc58	2	Estudo transversal, realizado com 402 crianças de 4 a 7 anos de idade, acompanhadas por um Programa de Apoio a Lactação nos primeiros seis meses de vida.
+doc58	3	Foram dosados colesterol total, triglicerídeos e lipoproteínas de alta (HDL) e baixa densidades (LDL).
+doc58	4	Selecionou-se variáveis que poderiam estar associadas ao perfil lipídico, como o histórico familiar de dislipidemia, estado nutricional e o consumo alimentar das crianças.
+doc58	5	Realizou-se análise de Regressão de Poisson com variância robusta.
+doc58	6	O nível de significância adotado foi de p < 0,05.
+doc58	7	Observou-se valores aumentados da LDL em 46,8% (188), colesterol total em 37,6% (151), triglicerídeos em 10,4% (42) e HDL abaixo do desejável em 33,8% (136) das crianças.
+doc58	8	Houve associação estatisticamente significativa entre o histórico familiar de dislipidemia com colesterol total, LDL e triglicerídeos (p < 0,05 e p < 0,001, respectivamente); Desmame precoce com LDL (p < 0,05); Sedentarismo com LDL e triglicerídeos (p < 0,05 e p < 0,001, respectivamente); bem como HDL com o consumo de bala (p < 0,05).
+doc58	9	Houve importante prevalência de alterações no perfil lipídico das crianças.
+doc58	10	São necessárias atividades de educação nutricional e programas voltados para esse grupo.
+doc59	1	Introdução
+doc59	2	Em contraste com a colonoscopia, há poucos estudos relativos à qualidade dos relatórios da endoscopia digestiva alta (EDA) e métodos para a sua melhoria.
+doc59	3	Auditorias de qualidade são recomendadas, mas a sua influência na qualidade da EDA não está suficientemente estudada.
+doc59	4	O objetivo foi avaliar a qualidade dos relatórios de EDA, bem como do efeito de uma intervenção com auditoria.
+doc59	5	Métodos
+doc59	6	Estudo prospetivo realizado num centro terciário de referência.
+doc59	7	O estudo incluiu a análise de 1,000 relatórios de EDA consecutivas realizadas antes de uma intervenção e de 250 após.
+doc59	8	Os relatórios foram analisados de acordo com parâmetros de qualidade definidos por três gastrenterologistas com experiência.
+doc59	9	Resultados
+doc59	10	Antes da intervenção, 51.8% das endoscopias incompletas não continham qualquer justificação para o facto e 88.1% das lesões foram corretamente descritas.
+doc59	11	No total, 64.1% dos relatórios foram considerados de alta qualidade.
+doc59	12	Após a intervenção, a recomendação de follow-up (53.4% vs. 80.8%, p = 0.001), descrição correta das lesões (88.1% vs. 95.8%, p = 0.001) e descrição correta de todos os segmentos (92.2% vs. 96.4%, p = 0.020) aumentaram significativamente.
+doc59	13	A percentagem de endoscopias incompletas não justificadas diminuiu significativamente (51.8% vs. 28.9%, p = 0.010).
+doc59	14	A percentagem de EDA de alta qualidade aumentou 13.9% após a intervenção (p < 0.001).
+doc59	15	Tanto especialistas como internos melhoraram com a intervenção, verificando-se um aumento similar na percentagem de EDA de alta qualidade (13.9% vs. 13.4%).
+doc59	16	Conclusões
+doc59	17	Uma intervenção baseada numa auditoria é uma boa forma de melhorar a qualidade da documentação de EDA independentemente do grau ou experiência.
+doc59	18	O cumprimento de parâmetros de qualidade pode depender do software utilizado e como tal o seu melhoramento deve ser uma prioridade.
+doc62	1	O objetivo deste trabalho foi estimar o efeito do seguro de saúde sobre a sobrevivência global e livre de doença em pacientes com câncer de mama.
+doc62	2	A amostra foi composta por mulheres operadas no Instituto de Cancerologia Las Américas em Medellín, Colombia, com dados do registro institucional.
+doc62	3	As variáveis foram comparadas entre o regime subsidiado e contributivo com teste do qui-quadrado (χ2) ou teste t de Student, método de Kaplan-Meier e log-rank test.
+doc62	4	A variável de interesse foi ajustada por meio de uma regressão de Cox.
+doc62	5	Foram incluídas 2.732 pacientes durante um período médio de acompanhamento de 36 meses.
+doc62	6	Do regime contributivo morreram 10% das mulheres e do regime subsidiado morreram 23%.
+doc62	7	Houve diferenças nos tempos de acesso ao tratamento (regime contributivo: 52 vs. regime subsidiado: 112 dias; p < 0,05).
+doc62	8	Sobrevivência livre de doença e sobrevivência global foram melhores em regime contributivo do que em regime subsidiado (p < 0,05); sobrevivência global depende de variáveis do tumor e do tratamento.
+doc62	9	Sobrevivência global e sobrevivência livre de doença e os tempos de acesso para atenção e diagnóstico no estágio inicial foram melhores em regime contributivo do que em regime subsidiado.
+doc63	1	O objetivo deste artigo é avaliar a condição nutricional de crianças com baixo peso ao nascer (BPN) e possíveis associações com variáveis independentes maternas, sexo e antecedentes neonatais Estudo transversal com 544 escolares com BPN (5 a 10 anos de idade) da região metropolitana de São Paulo.
+doc63	2	Variáveis: dados neonatais das declarações de nascidos vivos (peso ao nascer e idade gestacional), informações sobre a gestação e a condição nutricional atual das mães.
+doc63	3	A avaliação da condição nutricional dos escolares foi realizada por meio da obtenção dos dados de peso e estatura utilizados cálculo do escore z da estatura/idade (ZEI) e índice de massa corporal (ZIMC).
+doc63	4	Observou-se baixa estatura; sobrepeso e obesidade em 6,2%, 8,6% e 12,3% das crianças avaliadas, respectivamente.
+doc63	5	A presença de baixa estatura nos escolares associou-se com estatura materna < 150 cm (OR = 6,94; IC95% 2,34–20,6).
+doc63	6	O sobrepeso/obesidade nas crianças com BPN associou-se de forma independente com o sobrepeso/obesidade da mãe (OR = 2,40; IC95% 1,44–4,01) e o sexo masculino (OR = 1,77; IC95% 1,06–2,95).
+doc63	7	Um quinto dos escolares com BPN apresentaram excesso de peso, que se associou à condição nutricional materna atual e ao gênero masculino; a baixa estatura associou-se à estatura materna.
+doc65	1	OBJETIVO
+doc65	2	analisar a tendência de internações para realização de procedimentos cirúrgicos e de mortalidade cirúrgica no Brasil, no período de 2008 a 2016.
+doc65	3	MÉTODOS
+doc65	4	estudo ecológico, de séries temporais.
+doc65	5	Os dados sobre internações cirúrgicas e mortalidade entre 2008 e 2016 foram obtidos do Departamento de Informática do Sistema Único de Saúde.
+doc65	6	A análise de tendência foi realizada por meio de modelos de regressão polinomial.
+doc65	7	RESULTADOS
+doc65	8	foram realizados no período do estudo, 37.565.785 procedimentos cirúrgicos pelo Sistema Único de Saúde, uma média anual de 4.151.050 cirurgias.
+doc65	9	A média do coeficiente dos procedimentos cirúrgicos foi de 2,12 cirurgias por 100 habitantes/ano, com variação de 1,92 a 2,56 habitantes/ano entre as regiões do país.
+doc65	10	A taxa de mortalidade cirúrgica foi de 1,63%, com variação de 1,07% a 2,02% entre as regiões.
+doc65	11	CONCLUSÃO
+doc65	12	constatou-se tendência significativa crescente dos procedimentos cirúrgicos realizados e de mortalidade cirúrgica; entretanto, o coeficiente de procedimentos cirúrgicos realizados é inferior ao preconizado pela meta internacional, com disparidades regionais no acesso aos cuidados cirúrgicos e na mortalidade, o que compromete a garantia da cobertura universal da saúde preconizada pelo Sistema Único de Saúde.
+doc71	1	Objetivo
+doc71	2	Demonstrar se a tomografia por emissão de pósitrons acoplada a tomografia computadorizada usando-se fluorodesoxiglicose marcada com flúor-18 realizada imediatamente após ablação percutânea (iAP 18F-FDG PET/CT) pode ser útil na avaliação do resultado desse tratamento.
+doc71	3	Materiais e Métodos
+doc71	4	Foram avaliados, retrospectivamente, 20 pacientes (13 homens e 7 mulheres; média de idade: 65,8 ± 12,1 anos) submetidos a ablação percutânea de metástases apresentando captação de 18F-FDG no exame de PET/CT.
+doc71	5	Os tumores primários foram, principalmente, câncer colorretal (45%) ou câncer de pulmão (40%).
+doc71	6	A iAP 18F-FDG PET/CT foi realizada para avaliar tumor residual viável.
+doc71	7	O tratamento foi considerado sucesso (sem lesão viável) se nenhuma captação de 18F-FDG fosse observada na iAP 18F-FDG PET/CT.
+doc71	8	Resultados
+doc71	9	Vinte e seis lesões foram submetidas a ablação percutânea por meio de crioablação (n = 7) ou radiofrequência (n = 19).
+doc71	10	O tamanho médio das lesões era de 2,52 ± 1,49 cm. A iAP 18F-FDG PET/CT detectou tumor viável com sensibilidade, especificidade, acurácia, valor preditivo positivo e valor preditivo negativo de 66,7%, 95%, 88,5%, 80% e 90,5%, respectivamente.
+doc71	11	Houve correlação significativa entre os achados da iAP 18F-FDG PET/CT e os resultados do seguimento clínico dos pacientes (kappa = 0,66; p < 0,01).
+doc71	12	Conclusão
+doc71	13	A iAP 18F-FDG PET/CT é capaz de avaliar o resultado da ablação percutânea e poderá permitir reintervenção precoce de lesões residuais viáveis, reduzindo a morbidade.
+doc71	14	Um número maior de pacientes é necessário para confirmar esses achados.
+doc72	1	OBJETIVO
+doc72	2	Avaliar a prevalência de incapacidades físicas, cognitivas e psiquiátricas, fatores associados e sua relação com qualidade de vida em pacientes sobreviventes de internação em unidades de terapia intensiva brasileiras.
+doc72	3	MÉTODOS
+doc72	4	Um estudo de coorte prospectivo multicêntrico está sendo conduzido em dez unidades de terapia intensiva adulto clínico-cirúrgicas representativas das cinco regiões geopolíticas do Brasil.
+doc72	5	Pacientes com idade ≥ 18 anos que receberam alta das unidades de terapia intensiva participantes e permaneceram internados na unidade de terapia intensiva por 72 horas ou mais, nos casos de internação clínica ou cirúrgica de urgência, e por 120 horas ou mais, nos casos de internação cirúrgica eletiva, serão incluídos de forma consecutiva.
+doc72	6	Estes pacientes serão seguidos por 1 ano, por meio de entrevistas telefônicas estruturadas 3, 6 e 12 meses pós-alta da unidade de terapia intensiva.
+doc72	7	Dependência funcional, disfunção cognitiva, sintomas de ansiedade e depressão, sintomas de estresse pós-traumático, qualidade de vida relacionada à saúde, re-hospitalizações e mortalidade em longo prazo serão avaliados como desfechos.
+doc72	8	DISCUSSÃO
+doc72	9	O presente estudo tem o potencial de contribuir para o conhecimento a respeito da prevalência e dos fatores associados à síndrome pós-cuidados intensivos na população de pacientes adultos sobreviventes de internação em unidades de terapia intensiva brasileiras.
+doc72	10	Ademais, a associação entre síndrome pós-cuidados intensivos e qualidade de vida relacionada à saúde poderá ser estabelecida.
+doc73	1	Objetivou-se avaliar o conhecimento sobre o diabetes, a atitude para o autocuidado e os fatores associados, por meio de estudo transversal, na linha de base de um ensaio clínico randomizado, com idosos diabéticos na atenção primária de saúde do Recife, Nordeste do Brasil.
+doc73	2	Utilizou-se o Diabetes Knowledge Scale (DKN-A) e o Diabetes Attitudes Questionnaire (ATT-19).
+doc73	3	Dos 202 idosos, 77,7% apresentaram conhecimento insuficiente sobre a doença, com destaque para a cetonúria, substituição de alimentos e desconhecimento das causas e dos cuidados com a hipoglicemia.
+doc73	4	Quanto à atitude, 85,6% tiveram ajustamento psicológico negativo em relação ao diabetes.
+doc73	5	O modelo de regressão logística mostrou que morar sozinho foi fator de proteção (OR = 0,24; IC95% 00,9-0,65; OR = 0,22; IC95% 0,07-0,71) e baixa escolaridade fator de risco (OR = 7,78; IC95% 3,36-18,01; OR = 13,05; IC95% 4,63-36,82) para conhecimento insuficiente e atitude negativa para o autocuidado, respectivamente.
+doc73	6	Os achados reforçam a necessidade de ações educativas interdisciplinares que incluam aspectos socioeconômicos, psicoemocionais e educacionais na gestão do diabetes com vistas à manutenção da autonomia e funcionalidade do idoso.
+doc76	1	OBJETIVO
+doc76	2	comparar o polimorfismo dos genes Glutationa S-transferase teta 1 (GSTT1) e Glutationa S-transferase mu 1 (GSTM1) da área do tumor com as margens proximal e distal de espécimes de estômago ressecados de pacientes com câncer gástrico, e investigar a presença do DNA do vírus Epstein-Barr (EBV) e Helicobacter pylori.
+doc76	3	MÉTODOS
+doc76	4	coletamos prospectivamente amostras teciduais da área do tumor e das margens de ressecção proximal e distal dos estômagos de dez pacientes com adenocarcinoma gástrico submetidos à gastrectomia com linfadenectomia D2 e submetemos esses espécimes à extração de DNA.
+doc76	5	Comparamos a área do tumor com as margens proximal e distal dos estômagos ressecados para o polimorfismo dos genes GSTT1 e GSTM1 e investigamos a presença de DNA do EBV e H. pylori.
+doc76	6	Utilizamos o exon 5 do gene p53 como controle interno da reação de PCR multiplex.
+doc76	7	RESULTADOS
+doc76	8	em um paciente, detectamos genótipos GSTT1 e GSTM1 nulos na área do tumor, em contraste com a presença de ambos os genes nas margens proximal e distal.
+doc76	9	Encontramos DNA do EBV e H. pylori na área do tumor e também nas margens proximal e distal.
+doc76	10	Em outro paciente, a margem proximal foi negativa para GSTT1 e o DNA do EBV foi negativo na margem distal.
+doc76	11	Em três pacientes, o EBV-DNA foi negativo apenas na margem distal.
+doc76	12	CONCLUSÃO
+doc76	13	este é o primeiro relato em que diferentes genótipos, infecção por EBV-DNA e H. pylori foram observados no mesmo paciente, indicando provável deleção desses genes em resposta à progressão tumoral e heterogeneidade intratumoral.
+doc77	1	O medo de cair é um fator de risco de queda.
+doc77	2	Também tem sido associado ao declínio funcional, diminuição da qualidade de vida e aumento do isolamento social na população idosa.
+doc77	3	Este estudo teve como objetivo analisar preditores do medo de cair em pessoas idosas portuguesas residentes na comunidade.
+doc77	4	Foi desenvolvido um estudo transversal com uma amostra de conveniência de 98 participantes (57,1% mulheres; média etária 74,07 ± 8,74 anos).
+doc77	5	O protocolo de coleta de dados incluiu um questionário sociodemográfico e de saúde, a Escala de Confiança no Equilíbrio específica para a Atividade, a Escala de Ansiedade e Depressão Hospitalar, a Escala Breve de Redes Sociais de Lubben, o Timed Up and Go, e o Teste de Sentar e Levantar Cinco Vezes.
+doc77	6	Os dados foram analisados com recurso à estatística descritiva e inferencial.
+doc77	7	Os resultados indicam que no gênero feminino (p = 0.01), a percepção de saúde física boa (p = 0.01) e moderada (p = 0.02) e os sintomas de depressão (p ≈ 0.00) são preditores do medo de cair.
+doc77	8	Controlar estes preditores é um aspecto fundamental para a promoção da independência das pessoas idosas, minimizando as consequências associadas ao medo de cair.
+doc78	1	O pé plano flexível é condição frequente na criança pequena e apresenta forte tendência para correção espontânea, ou tornar-se moderado ou leve no adulto, o que não causará problemas futuros.
+doc78	2	Entretanto, em uma pequena proporção de casos a deformidade é mais grave, não melhora, o que pode levar ao comprometimento do desempenho mecânico, deformidade e, eventualmente, dor.
+doc78	3	Nestes casos o tratamento cirúrgico deve ser considerado.
+doc78	4	O objetivo desta revisão sistemática foi avaliar os resultados da literatura no tratamento do pé plano flexível sintomático da criança ou adolescente por um procedimento bastante frequente que é a osteotomia de alongamento da coluna lateral do calcâneo.
+doc78	5	Foi realizada busca sistemática eletrônica nas bases de dados PubMed, Web of Science, Cochrane, CINAHL, SciELO, SCOPUS e LILACS por artigos publicados entre março de 1975 e setembro de 2016. Após aplicação dos critérios de elegibilidade, os artigos selecionados foram avaliados quanto aos resultados clínicos, radiográficos e complicações.
+doc78	6	Dos 341 artigos encontrados nas bases de dados, apenas oito estudos foram selecionados, segundo os critérios de inclusão e exclusão, com um total de 105 pacientes e 167 pés tratados.
+doc78	7	Somente três autores realizaram estudo prospectivo, mas sem caso controle ou aleatorização.
+doc78	8	A maioria das publicações no período avaliado é composta por estudos descritivos ou série de casos (nível de evidência III ou IV), com grandes variações metodológicas, mas com alto índice de satisfação dos pacientes e cirurgiões, em relação aos resultados.
+doc78	9	Entretanto, são necessárias pesquisas com desenho prospectivo, aleatorizado, grupo controle adequado e critérios de avaliação validados.
+doc80	1	O hábito de fumar, ou tabagismo, preocupação da Atenção Primária à Saúde (APS), é um grave problema de saúde pública e a principal causa de morte evitável no mundo.
+doc80	2	A relevância de ações, cujo foco seja facilitar a cessação deste vício, motiva a discussão de estudos que apresentam diferentes abordagens para tal enfrentamento visando contribuir para a formação dos profissionais da APS.
+doc80	3	Utilizou-se as bases de dados Lilacs, Medline e Web of Science considerando as produções científicas recentes (2010 a 2015).
+doc80	4	Os descritores foram combinados a operadores boleanos e, após análise dos artigos encontrados, 75 são discutidos nesta revisão por apresentarem estratégias de maior prevalência na APS.
+doc80	5	Conclui-se que a abordagem individual breve ou intensa a partir do método dos 5A's (Modelo Transteórico) é a mais adotada, assim como os fármacos adesivos de Nicotina e Bupropiona.
+doc80	6	O uso crescente de tecnologia dura necessita de novos estudos que averiguem os seus impactos no tratamento a tabagistas.
+doc80	7	Evidenciou-se a necessidade de o profissional de saúde ser mais bem preparado para abordar o tema com os usuários, além de carecer do estímulo e das condições próprias para atuar na equipe de APS refletindo diretamente os avanços científicos em sua prática clínica.
+doc81	1	O objetivo deste artigo é investigar associação entre a proveniência de lanches consumidos na escola, seu valor nutricional e o sobrepeso/obesidade.
+doc81	2	Estudo transversal com 3.930 escolares de 7-10 anos de idade, de Santa Catarina.
+doc81	3	O consumo alimentar na escola foi avaliado com R-24 horas ilustrado, e a origem dos lanches por entrevista estruturada.
+doc81	4	Refrigerantes e sucos artificiais, frituras, salgadinhos industrializados, lanches prontos, doces, guloseimas e biscoitos recheados foram classificados como “lanches de baixo valor nutricional”, enquanto frutas, sucos naturais, legumes, verduras e sopa de verduras foram os “lanches de alto valor nutricional”.
+doc81	5	Realizou-se regressão logística univariada e múltipla.
+doc81	6	O sobrepeso/obesidade se associou significativamente ao consumo de alimentos provenientes da cantina (OR = 1,34; IC = 1,07-1,68), na rede particular.
+doc81	7	Trazer alimentos de casa foi significativamente associado ao maior consumo de lanches de baixo valor nutricional, nas escolas públicas (OR = 1,56; IC = 1,32-1,83) e nas particulares (OR = 2,64; IC = 1,76-3,97).
+doc81	8	Os resultados apontam a necessidade de expansão de normativas que minimizem a disponibilidade de alimentos de baixo valor nutricional nas cantinas e que promovam educação nutricional envolvendo a comunidade escolar.
+doc82	1	Objetivos
+doc82	2	Avaliar retrospectivamente os resultados da aplicação do protocolo de tratamento das infecções agudas após artroplastia total do joelho e estabelecer fatores preditivos de bons resultados ou falhas.
+doc82	3	Métodos
+doc82	4	Trinta-e-dois pacientes diagnosticados com infecção aguda após artroplastia total do joelho entre 2004 e 2009 foram avaliados.
+doc82	5	Os casos caracterizados como infecção foram tratados de acordo com o protocolo de tratamento recomendado em nossa instituição.
+doc82	6	Resultados
+doc82	7	Através da aplicação de nosso protocolo para infecções agudas após artroplastia total do joelho, 26 (81,2%) pacientes tiveram bons resultados e seis (18,8%) apresentaram resultados insatisfatórios.
+doc82	8	Após a análise estatística, as variáveis que se correlacionaram com um pior prognostico foram idade (p=0,038) e número de procedimentos cirúrgicos para limpeza realizados (p=0,038).
+doc82	9	Conclusão
+doc82	10	Nosso protocolo de tratamento foi efetivo no controle de infecção após as artroplastias.
+doc82	11	Revisão da prótese em dois tempos deve ser realizada quando o primeiro desbridamento cirúrgica não for eficaz no controle do quadro infeccioso.
+doc83	1	Avaliou-se a insatisfação com os serviços odontológicos entre idosos brasileiros dentados e edentados e sua associação com variáveis contextuais e individuais.
+doc83	2	Foram utilizados os dados do Levantamento Nacional de Saúde bucal realizado em 2010 e dados contextuais referentes aos municípios.
+doc83	3	Análises descritivas, bivariadas e multinível foram realizadas.
+doc83	4	Incluiu-se 1.989 idosos.
+doc83	5	Destes, 11,2% dos idosos dentados e 22,1% dos edentados estavam insatisfeitos.
+doc83	6	Entre os dentados, a insatisfação foi associada com variáveis contextuais (localização do município, índice de desenvolvimento humano, Índice de GINI, presença de Centro de Especialidades Odontológicas e cobertura das equipes de saúde bucal) e individuais pertencentes à atenção à saúde e condições de saúde bucal.
+doc83	7	Para os idosos edentados, não foi identificado associação com variáveis contextuais.
+doc83	8	Apenas o motivo do uso do serviço e a satisfação com dentes e boca foram associados.
+doc83	9	Identificou-se uma prevalência considerável de insatisfação com os serviços, sendo maior entre os idosos edentados.
+doc83	10	Entre os idosos dentados, foi observado associação com variáveis contextuais.
+doc85	1	O objetivo deste artigo é descrever o consumo e o comportamento alimentar de adolescentes quilombolas e não quilombolas da zona rural do sudoeste baiano.
+doc85	2	Estudo transversal com 390 adolescentes de 10 a 19 anos em 2015, utilizando questionário adaptado da PeNSE e PNS. O consumo alimentar foi avaliado pela frequência nos últimos 7 dias de alimentos marcadores de alimentação saudável e não saudável.
+doc85	3	Realizar o desjejum foi marcador de comportamento saudável e, realizar refeição enquanto assistia TV, de não saudável.
+doc85	4	Foi realizada distribuição de frequências e as diferenças entre os grupos quilombola e não quilombola foram testadas com qui-quadrado.
+doc85	5	A razão de prevalência (RP) estimou a associação do consumo e comportamento alimentar e as variáveis de interesse.
+doc85	6	Observou-se baixo consumo de frutas (30,8%), hortaliças (44,3%) e leite (24,4%).
+doc85	7	Quando comparados, os quilombolas tiveram consumo de feijão maior (RP = 1,11), entretanto, o consumo de hortaliças (RP = 0,73), frutas (RP = 0,67) e leite (RP = 0,68) foi inferior ao dos não quilombolas.
+doc85	8	Recomendam-se políticas públicas voltadas à assistência nutricional, específicas aos adolescentes rurais, uma vez que os maus hábitos alimentares podem permanecer ao longo da vida e levar a condições precárias de saúde.
+doc87	1	A metastização do local de gastrostomia é considerada uma complicação incomum da colocação de gastrostomia endoscópica percutânea (PEG) em pacientes com tumores da cabeça e pescoço, no entanto é importante considerar essa possibilidade ao avaliar sintomas relacionados com a gastrostomia.
+doc87	2	Os autores apresentam o caso de um homem de 40 anos com consumo excessivo de álcool e tabagismo ativo, diagnosticado com carcinoma espinocelular orofaríngeo no estádio IV.
+doc87	3	O paciente desenvolveu uma polineuropatia motora desmielinizante paraneoplásica que, associada ao efeito de massa tumoral, causou disfagia com necessidade de alimentação por sonda nasogástrica.
+doc87	4	Foi administrado tratamento com radioterapia, seguido de quimioradioterapia e foi colocada PEG com o método de
+doc88	1	OBJETIVO
+doc88	2	Avaliar o polimorfismo rs42524 do gene pró-colágeno tipo I alfa (α) 2 (COL1A2) como fator relacionado ao desenvolvimento de prolapso de órgãos pélvicos (POP) em mulheres brasileiras.
+doc88	3	MéTODOS:  O estudo envolveu 112 mulheres com POP nos estádios III e IV (grupo caso) e 180 mulheres com POP nos estádios zero e I (grupo controle).
+doc88	4	Outros dados clínicos foram obtidos por meio de entrevistas com as pacientes sobre seu histórico médico, e o sangue das voluntárias também foi coletado para extração de DNA genômico.
+doc88	5	A região promotora do gene COL1A2 contendo o polimorfismo rs42524 foi amplificada, e a discriminação entre as variantes G e C foi realizada por digestão dos produtos de reação em cadeia da polimerase (RCP) com a enzima MspA1I, seguida de análise por eletroforese em gel de agarose.
+doc88	6	RESULTADOS
+doc88	7	Foram analisadas 292 mulheres.
+doc88	8	No grupo caso, 71 tinham o genótipo G/G, 33 tinham o genótipo G/C, e 7 tinham o genótipo C/C.
+doc88	9	Por sua vez, a relação no grupo controle foi de 117 G/G, 51 G/C e 11 C/C.
+doc88	10	Não houve diferenças significativas entre os grupos.
+doc88	11	CONCLUSãO:  Nossos dados não mostraram associação do polimorfismo do gene COL1A2 com a ocorrência de POP.
+doc89	1	É bem conhecida a remissão com corticoterapia dos linfomas primários do sistema nervoso central, mas a sua remissão sem qualquer tipo de tratamento é extremamente rara.
+doc89	2	Apresentamos um caso raro de uma remissão espontânea e posterior recidiva noutra localização de um linfoma difuso de grandes células B do sistema nervoso central.
+doc89	3	A apresentação atípica deste caso confundiu os neurocirurgiões e neurologistas, atrasando o diagnóstico e tratamento.
+doc89	4	A doente foi submetida a biópsia de uma das lesões cerebrais e, posteriormente, iniciou radioterapia e quimioterapia com citarabina + metotrexato + rituximab.
+doc89	5	Neste momento, 32 meses após o diagnóstico histológico, a doente encontra-se assintomática, sem défices neurológicos focais e com remissão completa da doença.
+doc89	6	Foi também efetuada uma pesquisa na PubMed até junho de 2017 sobre a remissão espontânea dos linfomas do sistema nervoso central.
+doc90	1	INTRODUçÃO
+doc90	2	Condições da infância podem influenciar peculiaridades individuais do desenvolvimento e assim afetar a saúde dos adultos.
+doc90	3	OBJETIVO
+doc90	4	Avaliar associações entre condições pregressas e saúde, como informadas nas pesquisas SABE de 2000, de 2006 e de 2010.
+doc90	5	MÉTODOS
+doc90	6	Condições pregressas referem-se a situações anteriores aos 15 anos: a condição econômica, a fome, a avaliação da saúde, a presença de doenças e ter vivido em ambiente rural por mais de cinco anos.
+doc90	7	As variáveis de controle foram o sexo, a escolaridade e a renda.
+doc90	8	O desfecho é a autoavaliação da saúde nas categorias “Boa” e “Má”.
+doc90	9	A análise abrangeu pessoas entre 60 e 65anos.
+doc90	10	RESULTADOS
+doc90	11	A análise bivariada mostrou associações segundo a origem nas três coortes.
+doc90	12	Foram ainda significantes a condição econômica e ter passado fome, para os entrevistados em 2006. Na análise multivariada pela regressão de Poisson, o elemento de comparação foi a razão de prevalência.
+doc90	13	Origem rural foi a única entre as condições pregressas a apresentar significância no modelo inicial.
+doc90	14	As variáveis de controle- sexo, coorte, escolaridade - também apresentaram significância.
+doc90	15	No modelo final, foram consideradas as variáveis significantes no inicial e uma interação entre origem rural e número de doenças.
+doc90	16	Permaneceram significantes a coorte, o sexo, a escolaridade e o número de doenças quando o indivíduo teve origem rural.
+doc90	17	Estenúmero não foi associado ao desfecho se a origem fosse urbana.
+doc90	18	CONCLUSÃO
+doc90	19	Há conexões entre as condições pregressas e a saúde do idoso, o que constitui em importante instrumento para a atenção à saúde, tanto para o indivíduo como para a comunidade.

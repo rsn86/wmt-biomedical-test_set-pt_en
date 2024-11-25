@@ -1,0 +1,515 @@
+doc5	1	Plasmaférese (PLEX) é um procedimento em que o plasma é separado de fatores inflamatórios como imunoglobulinas autorreativas circulantes, sistema complemento e citocinas, e seu efeito terapêutico se baseia na remoção desses mediadores de processos patológicos.
+doc5	2	A PLEX está bem estabelecida no tratamento de diversos distúrbios neurológicos, e é utilizada com sucesso em surtos de doenças desmielinizantes inflamatórias do sistema nervoso central (CNS-IDD).
+doc5	3	A PLEX modula principalmente o sistema imunológico humoral; assim, tem efeito teórico maior em doenças com mecanismos patológicos humorais proeminentes, como a neuromielite óptica (NMO).
+doc5	4	No entanto tem também efeito terapêutico comprovado em surtos de esclerose múltipla (EM).
+doc5	5	Estudos sugerem que a corticoterapia é pouco eficaz em pacientes com surtos graves de CNS-IDD, e que estes apresentam melhora clínica após o tratamento com PLEX.
+doc5	6	Atualmente, a PLEX está geralmente estabelecida apenas como terapia de resgate para surtos não responsivos a corticosteroides.
+doc5	7	No entanto, há lacunas na literatura sobre a quantidade de troca de volume plasmático, o número de sessões, e o tempo de início da aférese terapêutica.
+doc5	8	Dessa forma, resumimos neste artigo estudos clínicos e metanálises, especialmente sobre EM e NMO, e delineamos os dados clínicos sobre a experiência com o uso de PLEX em surtos graves de CNS-IDD, as taxas de melhora clínica, os fatores prognósticos para uma resposta favorável, e destacamos o provável papel do tratamento precoce nestes casos.
+doc5	9	Em um segundo momento, reunimos essas evidências em uma sugestão de protocolo de tratamento de CNS-IDD com PLEX na prática clínica rotineira.
+doc6	1	Revisar os pacientes que foram submetidos à cirurgia de revisão protética de quadril neste hospital, considerados como pacientes com alto risco de luxação ou luxação recorrente, submetidos a cirurgia por acetábulo cimentado de dupla mobilidade (CMD).
+doc6	2	Analisando as diferentes formas de posicionamento desses copos, seus resultados clínicos e reluxações.
+doc6	3	Os 69 casos correspondiam a 34 homens e 35 mulheres com uma idade média de 77,39 anos.
+doc6	4	O tempo médio de acompanhamento foi de 4,7536 anos.
+doc6	5	O tipo de intervenção realizada variou de acordo com a causa da intervenção, o estoque ósseo acetabular e o estado do copo primário.
+doc6	6	Nos casos em que houve uma boa fixação do metal primário, optouse por realizar uma cimentação do DMC cimentado na cúpula acetabular metálica firme existente, o que ocorreu em 23 casos.
+doc6	7	Nos casos em que houve um afrouxamento acetabular primário com um bom estoque ósseo disponível, cimentou-se um CMD (21 caixas).
+doc6	8	Nos casos em que havia um Paprosky tipo III, cimentou-se um DMC a um anel de reforço Bursch-Schneider juntamente com a colocação de um enxerto ósseo esponjoso (25 caixas).
+doc6	9	A avaliação clínica realizada no final do acompanhamento, de acordo com a Escala MD, mostrou que o valor médio foi de 16,454 (DP 0,79472), com uma sobrevivência ao final do acompanhamento de 100% do DMC inserido.
+doc6	10	O uso do DMC cimentado pode ser uma boa solução para substituição do THA, especialmente em casos de reluxação ou risco de deslo-camento devido a fatores de predisposição pessoais ou técnicos.
+doc6	11	O uso destes DMC cimentados pode ser realizado diretamente ao osso, dentro
+doc6	12	da cúpula metálica fixa existente, ou cimentados a um anel de reforço, dependendo do defeito acetabular.
+doc6	13	<b><i>Nível de Evidência III; Série de Casos Comparativos</i></b> .
+doc9	1	O objetivo deste estudo foi analisar a repercussão da implementação do PECS no índice de sobrecarga de mães de crianças com Transtorno do Espectro do Autismo (TEA).
+doc9	2	Trata-se de um estudo longitudinal (CEP 0403/2017).
+doc9	3	A amostra foi constituída por 20 díades mães-crianças com TEA.
+doc9	4	As mães tinham em média, 41 anos e 5 meses e as crianças, 7 anos e 2 meses.
+doc9	5	Quinze crianças eram do gênero masculino e cinco, do feminino.
+doc9	6	Foi aplicada a versão brasileira da escala Burden Interview cujo objetivo é a verificação do nível de sobrecarga dos cuidadores.
+doc9	7	Para análise dos comportamentos não-adaptativos aplicou-se o Autism Behavior Checklist (ABC) e para análise do repertório lexical: os Testes de Vocabulário Auditivo e Expressivo.
+doc9	8	O Programa de Implementação do PECS foi composto por 24 sessões de terapia fonoaudiológica individual com a presença ativa das mães.
+doc9	9	Ao final do Programa todas as crianças e suas respectivas mães foram reavaliadas com parte dos instrumentos utilizados na fase inicial do estudo.
+doc9	10	Houve tendência de redução dos índices de sobrecarga materna após a implementação do PECS.
+doc9	11	Notamos diminuição significativa dos comportamentos não-adaptativos e aumento dos índices de vocabulário expressivo e auditivo das crianças no momento final do estudo.
+doc9	12	Não observamos correlação significativa entre os índices de sobrecarga com a idade, escolaridade e quociente intelectual das crianças; nem com a escolaridade e nível socioeconômico materno.
+doc9	13	Foi possível analisar a repercussão da implementação do PECS na sobrecarga de mães de crianças com TEA assistidas pelo Programa.
+doc10	1	A coexistência da esclerose lateral amiotrófica (ELA) com formas clínicas da doença de Parkinson (DP), embora incomum, é encontrada em um grau maior do que seria esperado ao acaso.
+doc10	2	Os mecanismos patológicos da ELA e da DP ainda não são totalmente compreendidos e a coexistência dessas duas doenças sugere que elas podem compartilhar mecanismos em comum.
+doc10	3	Apresentamos uma amostra de pacientes com ELA clinicamente definida ou provável que foram avaliados com tomografia computadorizada por emissão de fóton único (SPECT)/TRODAT e comparados com controles sem ELA.
+doc10	4	MéTODOS:  Pacientes com ELA clinicamente definida ou provável foram avaliados com a escala funcional de esclerose lateral amiotrófica (ALSFRS) para definir a gravidade e foram coletados os seus dados demográficos.
+doc10	5	Os resultados do TRODAT de pacientes com ELA foram comparados com aqueles de pacientes com diagnóstico de DP com menos de 10 anos de duração e com pacientes com diagnóstico de outros distúrbios do movimento não associados a doenças neurodegenerativas.
+doc10	6	Um total de 75% dos pacientes com ELA apresentou resultados de TRODAT abaixo dos níveis considerados normais; 25% no grupo controle sem doença neurodegenerativa e 100% no grupo DP.
+doc10	7	Uma diferença estatisticamente significativa foi encontrada entre os pacientes com ELA e o grupo controle sem doença neurodegenerativa nos valores de TRODAT <i>p</i> < 0,05.
+doc10	8	CONCLUSõES:  Nosso estudo está de acordo com as evidências neuropatológicas e funcionais que demonstram a existência de disfunção nigroestriatal em pacientes com ELA.
+doc10	9	Mais pesquisas para entender melhor o papel dessas mudanças no processo fisiopatológico da ELA precisam ser realizadas.
+doc11	1	Discute-se se eosinófilos no sangue (EOS) na doença pulmonar obstrutiva crônica (DPOC) são associados à evolução da doença.
+doc11	2	O objetivo deste estudo foi avaliar se a contagem diferencial de células brancas do sangue (CBS), os sintomas e o tratamento podem prever o declínio da função pulmonar e as exacerbações em pacientes com DPOC.
+doc11	3	Foram retrospectivamente examinados pacientes com DPOC estável submetidos a um monitoramento mínimo de três anos em nossas clínicas ambulatoriais.
+doc11	4	Coletaram-se informações sobre volumes pulmonares (VEF1 e CVF), contagens total e diferencial de CBS, exacerbações agudas de DPOC (número nos 12 meses anteriores ao início do estudo = EA-DPOC-B; e durante o monitoramento = EA-DPOC-F), status tabagístico e tratamento.
+doc11	5	Os declínios de VEF1 e EA-DPOC-F foram descritos empregando modelo linear generalizado e regressão binomial negativa com interceptação aleatória de nível 2, respectivamente.
+doc11	6	Os modelos incluíram contagens de eosinófilo e neutrófilo como potenciais preditores e foram ajustados de acordo com sexo, idade, status tabagístico, EA-DPOC-B, tratamento com broncodilatadores e corticosteroides inalados (CSI).
+doc11	7	68 pacientes foram considerados, dos quais 36 para EOS- (< 170 células/μL, valor da mediana) e 32 para EOS+ (≥ 170 células/μL).
+doc11	8	∆VEF1 foi maior em EOS+ do que em EOS- (34,86 mL/ano vs 4,49 mL/ano, p = 0,029).
+doc11	9	Após o ajuste em relação aos potenciais confundidores, as contagens de eosinófilos (β = 19,4; CI 95% 2,8,36,1; p = 0,022) e CSI (β = -57,7; CI 95% -91,5,-23,9; p = 0,001) foram positivamente e negativamente associadas ao declínio da função pulmonar, respectivamente.
+doc11	10	Os EOS não foram associados ao número de EA-DPOC-F. Em pacientes com DPOC estável, o maior nível de EOS (embora em um intervalo regular) prevê um maior declínio de VEF1, enquanto os CSIs são associados a uma evolução mais lenta da obstrução do fluxo aéreo.
+doc16	1	Documentar o conhecimento das mulheres de Granada sobre o câncer do colo do útero e a infecção por papilomavírus humano (HPV), bem como suas atitudes em relação aos métodos de rastreamento de câncer do colo do útero primário.
+doc16	2	Neste estudo qualitativo, usamos grupos focais em Granada para coletar informações sobre conhecimentos, atitudes e percepções das mulheres sobre o rastreamento de câncer do colo do útero e conhecimentos gerais sobre HPV.
+doc16	3	Foram conduzidos dez grupos focais, incluindo 73 participantes e representando 5 das 6 paróquias de Granada, com mulheres de 19 a 59 anos de idade.
+doc16	4	As participantes responderam perguntas sobre exames ginecológicos, Papanicolau, HPV, razões para procurar ou evitar o rastreamento de câncer do colo do útero e como diferentes modalidades de testes podem afetar sua tomada de decisão.
+doc16	5	As respostas foram codificadas e organizadas por temas comuns.
+doc16	6	Muitas participantes já tinham ouvido falar do HPV, mas um número muito menor conhecia sua relação causal com o câncer do colo do útero, formas de prevenir a infecção por HPV ou os testes para os tipos de HPV de alto risco, que causam quase todos os casos de câncer do colo do útero.
+doc16	7	Muitas participantes sabiam que o rastreamento de câncer do colo do útero era benéfico, mas várias barreiras para o rastreamento foram indicadas, incluindo preocupações relacionadas à privacidade e ao estigma, o potencial desconforto e o custo e inconveniência envolvidos.
+doc16	8	Nossos achados têm implicações para as futuras iniciativas de rastreamento de câncer do colo do útero em Granada.
+doc16	9	Essas iniciativas devem se focar em educar a população de Granada sobre o papel da infecção por HPV no câncer do colo do útero e a importância da detecção precoce por meio do rastreamento.
+doc16	10	Além disso, é fundamental abordar questões de estigma e privacidade para eliminar o câncer do colo do útero em Granada.
+doc19	1	O artigo tem como objetivo estimar a incidência e o agravamento do problema de coluna (PC) durante a primeira onda da COVID-19 no Brasil, bem como investigar os fatores demográficos, socioeconômicos e as mudanças nas condições de vida associadas.
+doc19	2	Utilizou-se a ConVid - Pesquisa de Comportamentos, realizada entre abril e maio de 2020, como fonte de dados.
+doc19	3	Estimou-se o número e a distribuição dos entrevistados que desenvolveram PC e a dos que tiveram agravamento no problema preexistente, seus intervalos de 95% de confiança e o teste qui-quadrado de Pearson.
+doc19	4	Estimou-se também a razão de chance de desenvolver PC ou ter piora de problema preexistente por meio de modelos de regressão logística múltipla.
+doc19	5	O PC preexistente foi reportado por 33,9% (IC95% 32,5-35,3) dos entrevistados e mais da metade (54,4%; IC95% 51,9-56,9) teve piora do quadro.
+doc19	6	A incidência cumulativa de PC na primeira onda da pandemia foi de 40,9% (IC95% 39,2-42,7).
+doc19	7	Ser mulher, o aumento percebido do trabalho doméstico e o sentimento frequente de tristeza ou depressão foram associados a ambos os desfechos.
+doc19	8	Os fatores socioeconômicos não foram associados a nenhum dos desfechos.
+doc19	9	A alta incidência e agravamento do PC durante a primeira onda revelam a necessidade de estudos em períodos mais recentes, dada a longa duração da pandemia.
+doc8	1	O déficit cognitivo na doença de Parkinson (DP) é uma importante causa de incapacidade funcional nestes pacientes e a detecção precoce, com instrumentos sensíveis, pode contribuir para o acompanhamento longitudinal.
+doc8	2	Investigar a acurácia diagnóstica, sensibilidade e especificidade do Exame Cognitivo de Addenbrooke-II em pacientes com DP, usando uma bateria neuropsicológica ampla como método de referência.
+doc8	3	MéTODOS:  Estudo transversal, observacional, caso-controle.
+doc8	4	Local: serviço de reabilitação.
+doc8	5	Um total de 150 pacientes e 60 controles saudáveis pareados por idade, sexo e escolaridade.
+doc8	6	Para avaliação do nível I, foi utilizada a Addenbrooke Cognitive Examination (ACE-III).
+doc8	7	A avaliação do nível II utilizou o exame neuropsicológico, com testes padronizados para esta população.
+doc8	8	Todos os pacientes estavam na fase “on” da medicação.
+doc8	9	A acurácia diagnóstica da bateria foi investigada por meio da análise do receiver operating characteristic (ROC, na sigla em inglês).
+doc8	10	O grupo clínico foi dividido em 3 subgrupos: cognição normal na DP (CN-DP-16%), comprometimento cognitivo leve devido à DP (CCL-DP-69,33%) e demência devido à DP (D-DP-14,66%).
+doc8	11	As notas de corte ideais da ACE-III para detectar CCL-DP e D-DP foram 85/100 (sensibilidade 58,65%, especificidade 60%)
+doc8	12	e 81/100 pontos (sensibilidade 77,27%, especificidade 78,33%), respectivamente.
+doc8	13	A idade associou-se inversamente com o desempenho dos escores (totais e domínios da ACE-III), enquanto a faixa de escolaridade apresentou correlação significativamente positiva no desempenho destes escores.
+doc8	14	CONCLUSõES:  A ACE-III é uma bateria útil para avaliação de domínios cognitivos e diferenciar indivíduos com CCL-DP e D-DP de controles saudáveis.
+doc8	15	Pesquisas futuras, em ambiente comunitário, são necessárias para fornecer capacidade discriminatória da ACE-III nos diferentes estágios da demência.
+doc17	1	O trabalho analisou o efeito das Consultas Públicas (CP) e suas contribuições nas recomendações da Comissão Nacional de Incorporação de Tecnologias (CONITEC).
+doc17	2	Trata-se de estudo descritivo e retrospectivo, com abordagem qualiquantitativa, com fonte de dados secundárias de acesso público, entre 2012 e 2017.
+doc17	3	Elaborou-se banco de dados para caracterizar as CP de medicamentos e suas contribuições, o que permitiu identificar casos de reversões entre a recomendação preliminar e final da CONITEC.
+doc17	4	Analisou-se as contribuições nos casos de reversão para caracterização de eixos argumentativos e tipo de embasamento.
+doc17	5	Das 307 demandas de incorporação, 205 destes passaram por CP, com 23.894 contribuições.
+doc17	6	A reversão das recomendações ocorreu em 9% das CP abertas (15 medicamentos), todas no sentido da não incorporação para incorporação.
+doc17	7	Principais eixos argumentativos trataram de benefícios clínicos e menores eventos adversos, prevalecendo o envio de experiências clínicas e opiniões.
+doc17	8	Evidencia-se avanços nos processos de incorporação de tecnologias no SUS pela realização da CP e ficou claro o desafio que os tomadores de decisão enfrentam nos espaços institucionais para o aprimoramento
+doc17	9	da participação social no sentido de fortalecer o benefício público.
+doc21	1	O acidente vascular cerebral (AVC) é uma das principais causas de morte e incapacidade no mundo.
+doc21	2	Até 30% dos indivíduos evoluem a óbito nos primeiros 30 dias.
+doc21	3	Dos sobreviventes, mais da metade ficam com alguma sequela.
+doc21	4	Certas variáveis identificadas já na admissão podem sinalizar maior risco de desfecho desfavorável.
+doc21	5	Uma dessas ferramentas prognósticas é a Escala de Previsão de Riscos de AVC Isquêmico (Ischemic Stroke Predictive Risk Score, IScore, em inglês).
+doc21	6	Analisar e validar a aplicação do IScore em pacientes com AVC isquêmico submetidos a trombólise endovenosa e comparar os resultados obtidos com a aplicação da escala aos verdadeiros desfechos de morte e incapacidade funcional.
+doc21	7	MéTODOS:  Trata-se de um estudo retrospectivo, cujos dados foram obtidos do banco de dados da Unidade de AVC do Hospital de Clínicas da Universidade Federal do Paraná.
+doc21	8	A IScore foi aplicada conforme os dados de admissão de 239 pacientes.
+doc21	9	Os pacientes foram acompanhados ambulatorialmente, e os resultados da escala foram comparados aos desfechos reais de mortalidade e incapacidade.
+doc21	10	Os resultados foram demonstrados por meio da curva característica de operação do receptor (<i>receiver operating characteristic</i>, ROC, em inglês) para determinar sensibilidade e especificidade da escala.
+doc21	11	Em pacientes com AVC submetidos a trombólise, a IScore demonstrou moderada sensibilidade e alta especificidade para predizer desfechos tanto de óbito quanto de incapacidade, nos intervalos de 30 dias e 1 ano após o evento.
+doc21	12	CONCLUSõES:  A IScore pode ser aplicada em pacientes com AVC isquêmico, na população específica submetida a trombólise; portanto, pode ser usada como uma ferramenta prognóstica útil, que pode guiar decisões terapêuticas.
+doc21	13	Entender o prognóstico de paciente na fase aguda pode auxiliar os clínicos a fazer as melhores decisões terapêuticas e possibilitar melhores cuidados ao fim da vida.
+doc1	1	Avaliar o potencial da aplicação da tecnologia de impressão 3D na medição da área de defeito ósseo acetabular em pacientes adultos diagnosticados com displasia do desenvolvimento do quadril (DDH).
+doc1	2	23 casos de DDH que requereram cirurgia de substituição total do quadril foram incluídos neste estudo.
+doc1	3	O exame pré-operatório confirmou os filmes pélvicos padrão Crowe, incluindo 3 casos de Crowe I, 7 Crowe II, e 13 Crowe III.
+doc1	4	A tecnologia de impressão 3D foi utilizada para imprimir o modelo de quadril antes da operação.
+doc1	5	Com base no modelo pré-impresso, o planejamento pré-operatório e os procedimentos cirúrgicos foram estabelecidos.
+doc1	6	A área dos defeitos ósseos acetabulares foi medida, a prótese de tamanho selecionado foi registrada, e a cirurgia foi realizada (grupo A).
+doc1	7	A área do defeito ósseo acetabular real e o tamanho da prótese também foram registrados (grupo B).
+doc1	8	Os resultados comparativos indicaram que a área real do defeito acetabular medida intraoperativamente e a área medida usando a tecnologia de impressão 3D não diferiu significativamente para todos os participantes (todos P>0,05).
+doc1	9	O modelo pré-operatório pode medir com precisão a área de defeito ósseo acetabular para DDH.
+doc1	10	É relevante desenvolver implantes individualizados para pacientes com DDH tratados com a técnica de impressão 3D.
+doc1	11	<b><i>Nível de Evidência IV: Série de casos</i></b> .
+doc26	1	Dados sobre desfechos de recém-nascidos prematuros em países da América do Sul são escassos.
+doc26	2	Dado o grande efeito do baixo peso ao nascer (BPN) e/ou da prematuridade no neurodesenvolvimento das crianças, é extremamente necessária a realização de estudos que investiguem esses fenômenos com maior profundidade em populações mais heterogêneas.
+doc26	3	MéTODOS:  Realizou-se uma busca da literatura em bases de dados, incluindo PubMed, Cochrane Library e Web of Science, por artigos publicados em português e inglês até março de 2021 envolvendo crianças nascidas e avaliadas no Brasil.
+doc26	4	A análise de risco de viés foi adaptada da declaração de Fortalecimento do Relato de Estudos Observacionais em Epidemiologia (Strengthening the Reporting of Observational Studies in Epidemiology, STROBE), que foi utilizada para avaliar a metodologia dos estudos.
+doc26	5	Dos estudos elegíveis, 25 artigos foram selecionados para síntese qualitativa, e 5 desses 25, para síntese quantitativa (metanálise).
+doc26	6	As metanálises mostraram que crianças nascidas com BPN apresentaram pontuação menor em desenvolvimento motor quando comparadas aos controles (diferença média padronizada, −1,15; intervalo de confiança de 95% [IC95%]: −1,56–−0,73]; I<sup>2</sup>: 80%) e pontuação também menor em termos de desenvolvimento cognitivo (diferença média padronizada, −0,71; IC95%: −0,99<sup>2</sup>−0,44; I<sup>2</sup>: 67%).
+doc26	7	CONCLUSãO:
+doc26	8	Os resultados deste estudo reforçam que o comprometimento das funções motoras e cognitivas pode ser um desfecho significativo de longo prazo do BPN.
+doc26	9	Quanto menor a idade gestacional no momento do parto, maior o risco de prejuízo nesses domínios.
+doc26	10	O protocolo do estudo foi registrado no banco de dados International Prospective Register of Systematic Reviews (PROSPERO) sob o número CRD42019112403.
+doc13	1	O município de Guarapari, balneário conhecido por “Cidade Saúde”, possui como principal atrativo turístico as areias radioativas conhecidas como areias monazíticas.
+doc13	2	Há muitos estudos direcionados a quantificação da radiação, mas pouco se sabe sobre a influência dos níveis de radiação sobre o ciclo de vida dos parasitos com potencial zoonótico, uma vez que muitos proprietários levam seus animais as praias, facilitando a manutenção desses ciclos.
+doc13	3	O objetivo deste trabalho foi avaliar a associação da radiação da areia monazítica das praias do município de Guarapari e a presença de ovos e larvas de parasitos de potencial zoonótico.
+doc13	4	Para determinar a influência da radiação sobre os parasitos, coletou-se amostras da Praia do Morro, Areia Preta, Castanheiras, Setiba e Santa Mônica, a partir de areias e de fezes, para a análise utilizou a técnica de centrifugo-flutuação simples.
+doc13	5	As praias deste estudo foram classificadas em baixa, média e alta radioatividade de acordo com as doses limites que um ser humano pode receber.
+doc13	6	As amostras de areia e fezes foram agrupadas de acordo com a classificação das praias onde foram recolhidas as amostras.
+doc13	7	Após obtenção do resultado, foi feito teste estatístico Qui-quadrado a um nível de significância de 95% para avaliar a associação entre as classes de radiação e a presença dos parasitos.
+doc13	8	Em geral, as areias monazíticas têm influência na manutenção do ciclo de parasitas zoonóticos encontrados na areia da praia, sendo sua correlação inversamente proporcional.
+doc2	1	A cefaleia atribuída ao acidente vascular cerebral isquêmico (AVCi) tem uma frequência de 7,4% a 34% dos casos.
+doc2	2	Apesar de ser considerada frequente, esta cefaleia ainda é pouco estudada em termos de seus fatores de risco e características.
+doc2	3	Avaliar a frequência e as características clínicas da cefaleia atribuída ao AVCi e os fatores associados com a sua ocorrência.
+doc2	4	MéTODOS:  Este foi um estudo transversal que incluiu pacientes admitidos consecutivamente com até 72 horas do início do AVCi.
+doc2	5	Foi utilizado um questionário semiestruturado.
+doc2	6	Os pacientes realizaram ressonância magnética.
+doc2	7	Foram incluídos 221 pacientes, 68,2% dos quais eram do sexo masculino, e com idade média de 68,2 ±  13,8 anos.
+doc2	8	A frequência da cefaleia atribuída ao AVCi foi de 24,9% (intervalo de confiança de 95% [IC95%]: 19,6–31,1%).
+doc2	9	A duração mediana da cefaleia foi de 21 horas, e ela se iniciou com mais frequência ao mesmo tempo em que o déficit focal (45,3%), teve instalação gradual (83%), foi de moderada intensidade, pulsátil (45,3%), bilateral (54,6%) e teve um padrão semelhante ao da cefaleia de tipo tensional (53,6%).
+doc2	10	A cefaleia atribuída ao AVCi esteve significativamente associada à cefaleia de tipo tensional prévia, e à migrânea com e sem aura prévias (regressão logística).
+doc2	11	CONCLUSãO:  A cefaleia atribuída ao AVCi é frequente, tem padrão mais habitual semelhante ao da cefaleia de tipo tensional, e está associada aos antecedentes de cefaleia de tipo tensional e migrânea.
+doc28	1	A quimioembolização transarterial (TACE) é o tratamento de primeira linha para doentes com carcinoma hepatocelular (HCC) em estadio intermédio.
+doc28	2	Em doentes sem resposta adequada, a evidência atual sugere que o tratamento com agentes de alvo molecular, aprovado para estágio avançado, pode apresentar benefícios.
+doc28	3	Porém, isso requer função hepática preservada.
+doc28	4	O objetivo deste estudo é avaliar possíveis preditores de deterioração precoce da reserva hepática, antes da refratariedade ao TACE, em uma coorte de doentes tratados com TACE.
+doc28	5	Análise retrospectiva de noventa e nove doentes com Child-Pugh classe A e HCC em estadio intermédio que foram submetidos a TACE como tratamento de primeira linha.
+doc28	6	Todos os doentes foram submetidos a uma avaliação bioquímica e médica antes do TACE inicial e a cada mês após.
+doc28	7	A resposta ao TACE inicial foi avaliada em 1 mês.
+doc28	8	O tempo para a deterioração da classe Child-Pugh antes da refratariedade a TACE foi avaliado.
+doc28	9	Noventa e nove doentes foram incluídos.
+doc28	10	A resposta radiológica objetiva (ORR) ao TACE inicial foi avaliada como presente em 59 (63.4%) e ausente em 34 (36.6%) doentes.
+doc28	11	Descompensação hepática ocorreu, antes da refratariedade a TACE, em 51 (51.5%) doentes e o tempo médio para a descompensação hepática foi de 14 (IQR 8–20) meses, após o primeiro TACE.
+doc28	12	Na análise multivariada, além dos critérios <i>up-to-7</i> (HR 2,4, <i>p</i> = 0.031), albumina <35 mg/dL (HR 3,5, <i>p</i> < 0.001) e ausência de ORR (HR 2,4, <i>p</i> = 0.020) foram associados a diminuição da sobrevida livre de descompensação hepática.
+doc28	13	Além disso, a sobrevida de 6 meses livre de descompensação hepática apresentou associação, além dos critérios <i>up-to-7</i> <b><i>,</i></b> albumina <35 mg/dL e ausência de ORR.
+doc28	14	Foi criado um modelo com essas variáveis, capaz de prever a descompensação hepática com AUROC de 0,701 (<i>p</i> = 0.02).
+doc28	15	A ausência de ORR após TACE inicial, além dos critérios <i>up-to-7</i> e albumina <35 mg/dL foram fatores preditivos para descompensação hepática antes da refratariedade a TACE na nossa população.
+doc28	16	Esses doentes podem beneficiar do escalonamento do tratamento para a terapia sistêmica, em monoterapia ou em combinação com TACE.
+doc29	1	Mesmo nos estágios iniciais do comprometimento cognitivo, os idosos podem apresentar alterações motoras importantes.
+doc29	2	No entanto, não há estudos que tenham investigado o <i>timed up and go</i> (TUG) e suas subtarefas como preditores do comprometimento da capacidade funcional ao longo do tempo nessa população.
+doc29	3	O objetivo deste estudo foi verificar se o teste <i>timed up and go</i> (TUG) e suas subtarefas podem predizer o declínio funcional ao longo de 32 meses em idosos com comprometimento cognitivo leve (CCL) e doença de Alzheimer leve (DA).
+doc29	4	Este é um estudo prospectivo de acompanhamento de 32 meses, que incluiu no início do estudo 78 idosos (CCL: n=40; DA: n=38).
+doc29	5	O TUG e suas subtarefas (sentar para levantar, caminhar para frente, virar, caminhar para trás e girar para sentar) foram realizados na linha de base pelo sistema Qualisys Motion.
+doc29	6	A capacidade funcional foi avaliada no início e após 32 meses.
+doc29	7	Depois do seguimento, a amostra foi composta de 45 idosos (CCL: n=25; DA: n=20).
+doc29	8	Destes, 28 tiveram a capacidade funcional diminuída (CCL: n=13; DA: n=15).
+doc29	9	Nenhuma variável do TUG previu declínio funcional significativamente estatístico (p>0,05) em nenhum dos grupos, por meio da análise de regressão logística univariada com a covariável sexo.
+doc29	10	Embora os idosos com CCL e DA leve tenham tido sua capacidade funcional diminuída, o teste TUG e suas subtarefas não puderam prever esse declínio em 32 meses.
+doc33	1	Extratos alergênicos glicerinados contém 50% de glicerina, um conservante excelente.
+doc33	2	Enquanto a glicerina não é reconhecida como irritante em humanos, a utilidade dos extratos glicerinados para o teste intradérmico não foi validada em cães.
+doc33	3	HIPÓTESE/OBJETIVO: Determinar e comparar os efeitos da glicerina nas reações cutâneas imediatas a injeções de histamina e salina em cães saudáveis.
+doc33	4	Oito beagles de laboratório saudáveis.
+doc33	5	MATERIAIS E MÉTODOS: O estudo foi delineado como um estudo randomizado e cego.
+doc33	6	Injeções intradérmicas de histamina (controle positivo) e salina (controle negativo) nas formas aquosa e glicerinada (50%) foram realizadas na lateral direita do tórax.
+doc33	7	Avaliou-se por dois investigadores independentes cegos às intervenções os escores globais de pápula (GWS) após 20 minutos.
+doc33	8	Não foram observadas reações de pápula e eritema após a injeção intradérmica da salina fenolada.
+doc33	9	Em contraste, as injeções de glicerosalina 50% induziram eritema e endurecimento em todos os cães.
+doc33	10	Os escores globais de pápula foram significativamente maiores na histamina aquosa (Friedman test, p < 0,0001) e histamina glicerinada 50% (Friedman test, p = 0,0084) comparado com aos controles de salina fenolada.
+doc33	11	Interessante ressaltar que apenas a histamina aquosa (Friedman test, p = 0,01) apresentou GWS significativamente maior que as injeções de glicerosalina 50%, e não foram observadas diferenças significativas em GWS entre os grupos histamina glicerinada 50% e glicerosalina 50% (Friedman test, p = 0,59).
+doc33	12	CONCLUSÃO E RELEVÂNCIA CLÍNICA: Este estudo demonstra que injeção intradérmica de glicerosalina 50% induz reações de eritema e endurecimento em cães saudáveis que podem mimetizar reações positivas a extratos alergênicos.
+doc33	13	Mais diluições de soluções glicerinadas de controle positivo e negativo são necessárias precisam ser otimizadas para o teste intradérmico em cães.
+doc34	1	A doença de Creutzfeldt-Jakob (DCJ) é uma encefalopatia espongiforme que se manifesta como síndrome demencial rapidamente progressiva.
+doc34	2	Atualmente, a DCJ não possui cura e muitos pacientes morrem no primeiro ano de doença, mas alguns medicamentos vêm sendo estudados como opções no manejo desta condição.
+doc34	3	Avaliar a eficácia dos tratamentos farmacológicos oferecidos aos pacientes com DCJ no aumento de sobrevida e na redução da deterioração cognitiva.
+doc34	4	MéTODOS:  Foi realizada uma revisão sistemática da literatura utilizando 4 revisores independentes e 1 extra para resolver divergências eventuais na busca e na análise de trabalhos indexados nas bases de dados MedLINE (via PubMed), SciELO e Lilacs.
+doc34	5	Os termos Medical Subjects Heading (MeSH) utilizados foram: <i>prion diseases</i>, <i>creutzfeldt jakob disease</i>, <i>pharmacologic therapy</i>, <i>therapeutics, quinacrine, doxycycline, flupirtine</i> e <i>pentosan polysulfate</i>, com os operadores booleanos <i>AND</i> e <i>OR</i>. Essa pesquisa incluiu ensaios clínicos controlados, não controlados e séries de casos, publicados a partir do ano 2000 no idioma inglês.
+doc34	6	Ao todo, foram encontrados 85 trabalhos através dos descritores utilizados.
+doc34	7	Ao final das análises de seleção, restaram 9 artigos, que foram analisados na íntegra individualmente.
+doc34	8	CONCLUSõES:  Nenhuma das drogas avaliadas se mostrou significativamente eficaz no aumento da sobrevida dos pacientes com DCJ.
+doc34	9	A flupirtina parece ter um efeito benéfico na redução da deterioração cognitiva dos pacientes com DCJ.
+doc34	10	Entretanto, estudos adicionais são necessários para o estabelecimento de melhores evidências e opções terapêuticas para o manejo dos pacientes com DCJ.
+doc3	1	Acetaminofeno tem sido usado rotineiramente em cavalos com dor musculoesquelética, tanto como terapia solo quanto em associação com outros anti-inflamatórios não esteroides tradicionais.
+doc3	2	Determinar a farmacocinética e eficácia de duas doses de acetaminofeno em cavalos com claudicação mecanicamente induzida, e comparar com fenilbutazona e placebo.
+doc3	3	Estudo randomizado, cego e controlado utilizando quadrado latino.
+doc3	4	Nove éguas adultas com claudicação induzida mecanicamente pelo método de aplicação de pressão na sola através de ferradura foram tratadas com acetaminofeno (20 mg/kg VO; A20), acetaminofeno (30 mg/kg VO; A30), fenilbutazona (2.2 mg/kg, VO; PB)
+doc3	5	e placebo oral (C) em um estudo quadrado latino de forma randômica.
+doc3	6	Concentração plasmática dos grupos A20 e A30 foram analisadas pelo método LC-MS/MS e análise farmacocinética não compartimentar.
+doc3	7	Frequência cardíaca e variação da frequência cardíaca foram mensuradas usando telemetria portátil.
+doc3	8	O grau de claudicação foi avaliado usando a escala de 10 pontos da AAEP por três cirurgiões especialistas (board-certified) que estavam cegos ao tratamento.
+doc3	9	A média máxima da concentração plasmática (C<sub>max</sub> ) do grupo A20 foi 20.01 μg/ml dentro de 0.66 h (T<sub>max</sub> ) da administração.
+doc3	10	A média C<sub>max</sub> do grupo A30 foi 30.02 μg/ml dentro
+doc3	11	da T<sub>max</sub> de 0.43 h. A frequência cardíaca do grupo A30 foi significativamente mais baixa do que a do grupo A20 nos momentos 1 e 7 h; mais baixa do que o grupo PB nos momentos 2, 3, 4.5 e 7 h; e mais baixa do que as do grupo C nos momentos 2, 3.5, 4.5, 6, 7 e 8 h. O grau de claudicação diminuiu significativamente no grupo A30 quando comparado com o grupo C nos momentos 2 e 4 h pós tratamento, e no grupo PB quando comparado com o grupo C no momento 8 h pós tratamento.
+doc3	12	Não houve diferença significativa em grau de claudicação quando os grupos A20, A30 e PB foram comparados.
+doc3	13	PRINCIPAIS LIMITAÇÕES: Número pequeno de animais, ausência de mensuração de claudicação objetiva.
+doc3	14	CONCLUSÕES: A dose de 30 mg/kg de acetaminofeno proporcionou uma superior melhora na escala de claudicação e frequência cardíaca quando comparada com os outros tratamentos avaliados neste estudo.
+doc3	15	Mais informações sobre a farmacocinética e efeitos da repetida dosagem de 30 mg/kg de acetaminofeno precisam ser avaliadas para determinar a sua aplicabilidade clínica.
+doc24	1	Verificar a confiabilidade teste-reteste do Masking Level Difference em estudantes universitárias normo-ouvintes.
+doc24	2	Estudo prospectivo descritivo com 78 adultos jovens do gênero feminino sem queixas auditivas, submetidas à versão, em compact disc, do Masking Level Difference da Auditec of Saint Louis. O Masking Level Difference foi determinado por meio da diferença entre as relações sinal-ruído nos limiares auditivos encontrados nas condições antifásica e homofásica.
+doc24	3	O teste foi aplicado pelo mesmo examinador em dois momentos (teste e reteste) com intervalo de sete a 14 dias entre eles.
+doc24	4	A análise estatística inferencial incluiu comparação das situações teste e reteste por meio do teste t de Student para amostras pareadas, cálculo do coeficiente de correlação intraclasse e dos intervalos de confiança de 95% para as relações sinal/ruído nos limiares auditivos nas condições antifásica e homofásica e para o cálculo do Masking Level Difference.
+doc24	5	A média da relação sinal-ruído no limiar auditivo na condição homofásica foi -12,59 dB e -12,46 dB nas situações teste e reteste, respectivamente, e -21,54 dB e -21,08 dB na condição antifásica.
+doc24	6	A média do Masking Level Difference foi 8,95 dB no teste e 8,74 dB no reteste.
+doc24	7	Os coeficientes de correlação intraclasse obtidos foram 0,436, 0,625 e 0,577 para as condições homofásica, antifásica e Masking Level Difference, respectivamente.
+doc24	8	O teste Masking Level Difference mostrou grau moderado de confiabilidade teste-reteste em estudantes universitárias normo-ouvintes.
+doc38	1	Os limites da fração de ejeção do ventrículo esquerdo (FEVE) para a insuficiência cardíaca (IC) com FEVE levemente reduzida (ICFElr) têm sido questionados, já que evidências demonstram que alguns medicamentos utilizados para IC com FEVE <40% (ICFEr) demonstram eficácia também em populações com FEVE < 60%.
+doc38	2	Objetivo do estudo foi comparar a sobrevida total e cardiovascular de pacientes com IC com FEVE 40-59% com paciente com ICFEr e IC com FEVE ≥ 60%.
+doc38	3	Foram incluídos pacientes com IC descompensada que preencheram os critérios diagnósticos de Framingham na admissão hospitalar entre 2009 e 2011.
+doc38	4	Os pacientes foram divididos em ICFEr, IC com FEVE 40-59% e IC com FEVE ≥ 60%.
+doc38	5	O método de Kaplan-Meier foi usado para detectar a sobrevida geral e cardiovascular em 10 anos.
+doc38	6	A significância estatística foi estabelecida em p <0,05.
+doc38	7	Foram incluídos 400 pacientes, com idade média de 69 ± 14 anos.
+doc38	8	A sobrevida cardiovascular nos pacientes com IC e FEVE 40-59% não foi diferente em comparação aos pacientes com ICFEr [Hazard Ratio (HR) ajustado 0,86 – Intervalo de Confiança (IC) 95% 0,61-1,22; Ptrend = NS], mas foi estatisticamente diferente em comparação aos com FEVE ≥ 60% (HR ajustado = 0,64 - IC95% 0,44-0,94; Ptrend = 0,023).
+doc38	9	Não houve diferença na taxa de sobrevida de 10 anos entre diferentes grupos de FEVE.
+doc38	10	O grupo de pacientes com IC e FEVE ≥ 60% teve maior sobrevida cardiovascular que os outros grupos.
+doc39	1	A determinação de preditores que possam influenciar o desenvolvimento da progressão da aterosclerose no período pós-operatório é um problema urgente em cirurgia vascular.
+doc39	2	Realizar uma avaliação integral de marcadores de apoptose e proliferação celular nas lesões ateroscleróticas e sua progressão após cirurgia em pacientes com doenças arteriais periféricas.
+doc39	3	A investigação incluiu 30 pacientes com doenças arteriais periféricas de estágio IIB-III.
+doc39	4	Todos os pacientes foram submetidos a intervenções operatórias abertas nas artérias dos segmentos aorto-ilíaco e fêmoro-poplíteo.
+doc39	5	Durante a intervenção, foi obtido material intraoperatório da parede vascular com lesões ateroscleróticas.
+doc39	6	Foram avaliados os seguintes valores: VEGF A165, PDGF BB e sFas.
+doc39	7	Como grupo controle, amostras de parede vascular normal foram obtidas de doadores <i>post-mortem</i>. O nível de Bax e p53 (p < 0,001) em amostras de parede arterial com placa aterosclerótica estava elevado em meio a valores reduzidos de sFas (p < 0,001) em comparação ao grupo controle.
+doc39	8	Os valores de PDGF BB e VEGF A165 foram 1,9 e 1,7 vezes maiores, respectivamente, nas amostras com lesão aterosclerótica (p = 0,001) do que no grupo controle.
+doc39	9	O nível de Bax e p53 e Bax estava elevado no contexto de nível reduzido de sFas em amostras com progressão da aterosclerose em comparação com seus valores basais em amostras com placa aterosclerótica (p < 0,05).
+doc39	10	Níveis inicialmente elevados do marcador Bax no contexto de valores reduzidos de sFas na parede vascular em pacientes com doença arterial periférica estão associados a risco de progressão da aterosclerose no período pós-operatório.
+doc41	1	A consolidação de novos paradigmas educacionais exige a implantação de estratégias inovadoras com potencial de transformar estudantes em profissionais competentes.
+doc41	2	Analisar o conhecimento e a satisfação de estudantes antes e após a utilização de uma nova metodologia ativa de ensino médico de modelo digital humanizado chamada Virtual Case-Based Learning (VCBL).
+doc41	3	Estudo descritivo com análise documental sobre o processo de ensino-aprendizagem de estudantes de medicina.
+doc41	4	Dados obtidos da avaliação de conhecimento teórico e do instrumento de satisfação dos alunos nos anos de 2018 e 2019 foram analisados, e a nova metodologia proposta VCBL foi comparada com a metodologia ativa de ensino tradicional, o Problem-Based Learning (PBL).
+doc41	5	As análises descritivas e de associação foram realizadas utilizando o programa Statistical Package for the Social Sciences.
+doc41	6	Foram analisados 167 documentos aplicados a estudantes de medicina.
+doc41	7	Em relação à avaliação do conhecimento teórico, os alunos avaliados em 2018 obtiveram média 41,7%, comparados aos alunos de 2019 que alcançaram 73,3% (p<0,001).
+doc41	8	Entre os estudantes submetidos à avaliação da satisfação com a metodologia de aprendizagem proposta, 76,0% pontuaram o valor máximo para a questão um, e 83,0% para a questão número dois.
+doc41	9	Cerca de 70,0% dos estudantes classificaram positivamente o aprendizado adquirido após utilização da plataforma Paciente 360; 78,0% responderam que se sentem preparados para o atendimento ambulatorial; e 94,0% pontuaram de forma positiva a metodologia empregada.
+doc41	10	Neste estudo inicial, os resultados indicaram que a nova ferramenta em metodologia ativa de ensino médico digital humanizado, o VCBL, pode auxiliar no aprimoramento do processo de ensino-aprendizagem, proporcionando conhecimento e satisfação dos estudantes.
+doc42	1	verificar se existem diferenças nas medidas acústicas e da geometria orofaríngea entre indivíduos hígidos e pessoas com Doença de Parkinson, segundo a idade e sexo e investigar se há correlações entre as medidas geométricas orofaríngeas nessa população.
+doc42	2	participaram 40 indivíduos, sendo 20 com diagnóstico de Doença de Parkinson e 20 indivíduos hígidos, pareados por faixa etária, sexo e índice de massa corporal.
+doc42	3	As variáveis acústicas estudadas foram frequência fundamental, jitter, shimmer, glottal-to-noise excitation ratio, ruído e média da intensidade.
+doc42	4	As variáveis geométricas da orofaringe foram aferidas por faringometria acústica.
+doc42	5	as variáveis geométricas foram menores no grupo com Doença de Parkinson e os idosos com Doença de Parkinson apresentaram menor área da junção orofaríngea que os idosos hígidos.
+doc42	6	Com relação aos parâmetros acústicos vocais, o valor da frequência fundamental foi menor no sexo masculino, no grupo com Doença de Parkinson e os valores de jitter foram maiores no grupo não idoso dos sujeitos com Doença de Parkinson.
+doc42	7	Houve correlação positiva moderada entre o comprimento e volume da cavidade oral, comprimento da cavidade faríngea e o comprimento do trato vocal e do volume da cavidade faríngea e o volume do trato vocal.
+doc42	8	indivíduos com Doença de Parkinson apresentaram menores valores de área glótica e área da junção orofaríngea, comparativamente aos hígidos.
+doc42	9	Quando distribuídos por faixa etária e sexo, a frequência fundamental foi menor no grupo com doença de Parkinson, na população masculina.
+doc42	10	Houve correlação positiva moderada entre as medidas de comprimento e volume da orofaringe, na amostra estudada.
+doc40	1	Identificar relações entre a utilização sistemática do Microfone Remoto (MR) em sala de aula de estudantes com deficiência auditiva e características das escolas e dos professores.
+doc40	2	Foram analisados 120 sujeitos, entre cinco e 17 anos, com deficiência auditiva que foram adaptados MR em um Serviço de Saúde credenciada pelo Sistema Único de Saúde (SUS).
+doc40	3	Também foram sujeitos, professores de usuários de MR.
+doc40	4	Realizou-se uma análise de prontuários e no momento que os sujeitos compareceram para acompanhamento foi realizado entrevista com os pais/responsáveis para caracterizar rotina de utilização do MR na escola.
+doc40	5	Foram realizados contatos telefônicos e visitas presenciais em algumas escolas.
+doc40	6	Quanto ao uso, observa-se que a maioria dos sujeitos utilizava o dispositivo na escola.
+doc40	7	Aqueles que não utilizavam involuntariamente e voluntariamente consistiu na minoria dos sujeitos.
+doc40	8	Houve uma similaridade no padrão do Speech Intelligibility Index -SII dos sujeitos que ‘usam’ e ‘não usam involuntariamente’ o MR.
+doc40	9	Houve diferença significativa entre o tipo de escola e o nível de escolaridade, a maioria dos sujeitos que frequentavam escola regular e estavam matriculados no ensino fundamental I tendem a usar mais o dispositivo.
+doc40	10	A maioria dos sujeitos faz uso do MR na escola.
+doc40	11	O nível educacional do estudante também foi um fator que interferiu na adesão ao uso dos MR, com maior adesão em estudantes do Ensino Fundamental I. Os dados sugerem que a articulação entre serviço de saúde e escola favorece a utilização do MR, entretanto quando essa relação é intermediada pelos pais, outros fatores acabam interferindo no uso sistemático no cotidiano da escola.
+doc45	1	Otite externa (OE) crônica em cães frequentemente requer lavagem ótica sob anestesia.
+doc45	2	Avaliar o ácido hipocloroso como um limpador de orelhas e agente antimicrobiano em cães com OE crônica.
+doc45	3	Vinte cães com OE crônica causada pelos mesmos microrganismos bilateralmente.
+doc45	4	MATERIAIS E MÉTODOS: Uma orelha foi lavada sob anestesia com ácido hipocloroso e a outra com solução salina.
+doc45	5	Subsequentemente, a orelha lavada com ácido hipocloroso foi lavada com a mesma solução duas vezes ao dia por duas semanas, a outra orelha foi lavada com um limpador comercial.
+doc45	6	Uma fórmula otológica contendo miconazol, polimixina B e prednisolona foi utilizada uma vez ao dia em ambas as orelhas.
+doc45	7	Escores clínicos foram mensurados antes da lavagem.
+doc45	8	Citologias otológicas foram coletadas, teste de audição foi realizado antes e depois da lavagem, cultura e antibiograma foi coletada logo após a lavagem.
+doc45	9	As orelhas foram avaliadas após duas semanas de tratamento.
+doc45	10	Leveduras estavam presentes nas orelhas de 11, cocos em um e infecção mista em oito cães.
+doc45	11	Cinco cães foram negativos na cultura após a lavagem com ácido hipocloroso e um após a lavagem com salina.
+doc45	12	Os escores clínicos e citológicos reduziram bastante com ambas as soluções, após duas semanas de tratamento.
+doc45	13	Não houve diferença entre os tratamentos em nenhum escore e qualquer tempo entre tratamentos e nos resultados dos testes de audição antes e depois da lavagem.
+doc45	14	Não foram observados efeitos colaterais.
+doc45	15	CONCLUSÃO E IMPORTÂNCIA CLÍNICA: O ácido hipocloroso é uma solução de limpeza adequada para OE canina.
+doc44	1	Apesar da variação entre observadores na avaliação do escore de Apgar, ele permanece um indicador útil das condições gerais do recém-nascido.
+doc44	2	O presente trabalho é um estudo de corte transversal baseado na população de nascidos vivos no Brasil no ano de 1999 e no biênio 2018-2019.
+doc44	3	Foram avaliadas todas as declarações de nascidos vivos (DNV) obtidas a partir do banco de dados do Sistema de Informações sobre Nascidos Vivos.
+doc44	4	As frequências foram comparadas entre os grupos por meio do teste qui-quadrado de Pearson e foi realizada análise de regressão logística multivariada.
+doc44	5	Adotou-se nível de significância estatística de 0,05.
+doc44	6	Foram analisadas 9.050.521 DNVs em nossa pesquisa.
+doc44	7	Constatamos que 2,1% dos recém-nascidos tiveram Apgar de 5º minuto < 7 em 1999, em comparação com 0,9% em 2018-2019.
+doc44	8	A análise multivariada indicou que gemelidade e gravidez na adolescência deixaram de ser fatores de risco para Apgar de 5º minuto < 7.
+doc44	9	Entre os fatores de risco, nota-se aumento da prematuridade, baixo peso ao nascer e anomalias congênitas.
+doc44	10	Observou-se melhoria de marcadores maternos, em especial o aumento do número de consultas pré-natais e escolaridade.
+doc44	11	Tais achados mostram a importância de acesso e seguimento pré-natal adequado e investimento em melhores condições socioeconômicas como estratégia eficaz para redução de morbimortalidade neonatal.
+doc47	1	Comparar a eficácia do bloqueio do quadrado lombar (QL) e da morfina intratecal (M) na analgesia pós-cesariana.
+doc47	2	MéTODOS:  Trinta e uma gestantes com ≥ 37 semanas de gestação submetidas a cesariana eletiva foram incluídas no estudo.
+doc47	3	Eles foram alocados aleatoriamente no grupo QL (12,5 mg de bupivacaína a 0,5% para raquianestesia e 0,3 ml/kg de bupivacaína a 0,2% para bloqueio de QL) ou no grupo M (12,5 mg de bupivacaína a 0,5% e 100 mcg de morfina na raquianestesia).
+doc47	4	A escala visual analógica de dor, consumo de morfina e tramadol para alívio da dor em 48 horas e efeitos colaterais foram registrados.
+doc47	5	A mediana do escore de dor e/ou variação da dor foi maior no grupo morfina do que no grupo QL (<i>p</i> = 0,02).
+doc47	6	Não houve diferença significativa no consumo de morfina ou tramadol entre os grupos ao longo do tempo.
+doc47	7	Efeitos colaterais como prurido, náuseas e vômitos foram observados apenas no grupo morfina.
+doc47	8	CONCLUSãO:  O bloqueio QL e a morfina intratecal são eficazes para analgesia após cesariana.
+doc47	9	Os pacientes submetidos ao bloqueio do QL apresentaram menores escores de dor pós-operatória sem os efeitos colaterais indesejáveis dos opioides, como náuseas, vômitos e prurido.
+doc20	1	Estudo caso-controle com o objetivo de estimar os fatores de risco da mortalidade perinatal em um hospital de referência para gestações de alto risco em Curitiba-PR.
+doc20	2	Os dados de características sociodemográficas, maternas, da gestação e do concepto foram obtidos dos prontuários hospitalares de 316 casos e 316 controles do período de 2013 a 2017.
+doc20	3	Foi realizada análise de regressão logística múltipla hierarquizada, permanecendo no modelo final variáveis com p < 0,05.
+doc20	4	Os resultados mostram aumento do risco de óbito perinatal em mães com tipo sanguíneo B (OR = 2,82; IC95%: 1,07-7,43), que não realizaram pré-natal (OR = 30,78; IC95%: 4,23-224,29), conceptos com malformações congênitas (OR = 63,90; IC95%: 27,32-149,48), nascidos com menos de 28 (OR = 24,21; IC95%: 1,10-531,81) e entre 28-31 semanas de gestação (OR = 6,03; IC95%: 1,34-27,17) e peso ao nascer abaixo de 1.000g (OR = 51,94; IC95%: 4,31-626,46), entre 1.000-1.499g (OR = 11,17; IC95%: 2,29-54,41) e entre 1.500-2.499g (OR = 2,75; IC95%: 1,25-6,06).
+doc20	5	Conceptos de gestações com desfecho prematuro, baixo peso ao nascer e presença de malformações congênitas são os principais fatores de risco para o óbito perinatal.
+doc20	6	Em contrapartida, a assistência pré-natal adequada é importante fator de proteção.
+doc25	1	identificar o desempenho linguístico (vocabulário expressivo, fonologia e discurso) e cognitivo (memória de curto prazo verbal) de pré-escolares residentes de uma comunidade quilombola.
+doc25	2	Vinte e quatro pré-escolares quilombolas de 4 e 5 anos sem queixas no desenvolvimento da linguagem participaram do estudo.
+doc25	3	A maioria das famílias era da classe D-E e a escolaridade materna e paterna era inferior ao Ensino Médio.
+doc25	4	Seus responsáveis responderam a um questionário sobre seu desenvolvimento prévio, práticas familiares e aspectos socioeconômicos, enquanto a avaliação incluiu testes de vocabulário expressivo, fonologia, discurso e memória de curto prazo verbal.
+doc25	5	Os dados coletados foram submetidos à análise estatística descritiva para caracterizar as práticas familiares, os aspectos socioeconômicos e o desempenho linguístico e cognitivo.
+doc25	6	A análise inferencial utilizou o teste exato de Fisher para comparar o desempenho entre os sujeitos de 4 e 5 anos, além de comparar o desempenho de acordo com as práticas familiares.
+doc25	7	Maior parte dos pré-escolares apresentou desempenho adequado no vocabulário (78,3%) e na fonologia (79,2%); e 63,6% tiveram o discurso classificado como descritivo.
+doc25	8	82,6% apresentaram desempenho em tarefa de memória de curto prazo verbal abaixo do esperado para idade.
+doc25	9	Ainda que os pré-escolares deste estudo apresentem comunicação funcional, seu perfil de desenvolvimento da linguagem e de habilidades cognitivas demonstrou ser mais vulnerável, o que poderá repercutir em sua trajetória escolar.
+doc31	1	A dissecção endoscópica da submucosa (ESD) tem sido proposta para a exérese de tumores subepiteliais gastrointestinais (GI-SETs), embora a literatura seja escassa.
+doc31	2	Este estudo teve como objetivo reportar uma série de casos de um país ocidental.
+doc31	3	Coorte retrospectiva incluindo doentes com SETs do tubo digestivo superior submetidos a ESD em 4 centros (1 ano de follow-up).
+doc31	4	Antes do procedimento, a lesão foi caracterizada por ecoendoscopia, histologia e tomografia computadorizada.
+doc31	5	Foram avaliadas as taxas de ressecção em bloco e R0, bem como a incidência de complicações.
+doc31	6	Incluídos 84 doentes com GI-SETs esofágicos (<i>N</i> = 13), gástricos (<i>N</i> = 61) e duodenais (<i>N</i> = 10).
+doc31	7	O diâmetro médio das lesões foi de 26 mm (intervalo 12–110 mm) – 17 tumores do estroma gastrointestinal, 12 tumores neuroendócrinos, 35 leiomiomas, 18 lipomas e 2 hamartomas.
+doc31	8	A resseção foi em bloco e R0 em 83 (98.8%) e em 80 (95.2%) doentes, respectivamente.
+doc31	9	Globalmente, ocorreram complicações em 11 (13.1%) doentes, incluindo hemorragia (<i>N</i> = 7) e perfuração (<i>N</i> = 4).
+doc31	10	A terapêutica endoscópica foi eficaz em todas as hemorragias exceto em 1 doente que necessitou de embolização radiológica e em 2 perfurações (submetidas a cirurgia).
+doc31	11	No geral, a abordagem cirúrgica foi necessária em 5 (5.9%) – 3 doentes com resseção R1 e 2 com perfuração.
+doc31	12	A ESD pode ser uma alternativa eficaz e segura à intervenção cirúrgica para GI-SETs benignos e malignos localizados.
+doc48	1	O conhecimento do desenvolvimento embrionário de espécies como a codorna é importante para nosso entendimento de sua produção e reprodução.
+doc48	2	A codorna fornece uma solução prática para o problema de escassez de proteína animal nos países em desenvolvimento e é uma excelente alternativa ao frango (Shanaway, 1994).
+doc48	3	Este estudo avaliou a viabilidade embrionária de codornas comparando as principais alterações morfológicas que ocorrem ao longo do desenvolvimento em uma incubadora caseira com dados anteriores; a incubadora foi construída com materiais de fácil acesso e baixo custo, o que permite que pequenos produtores e comunidades desenvolvam criações de codornas como atividade para aumentar a renda ou mesmo produzir uma fonte de proteína animal para comunidades da Amazônia brasileira.
+doc48	4	A incubadora caseira media 40 cm × 42 cm × 32 cm e foi construída com tábuas de madeira, termostato digital e lâmpada incandescente.
+doc48	5	Um total de 24 ovos férteis foram incubados a uma temperatura de 37,5 °C e 60% de umidade relativa; idade “0” foi definida no início da incubação.
+doc48	6	Dois ovos foram abertos a cada dia de desenvolvimento, começando do dia 5 ao dia 16 de incubação.
+doc48	7	Após a abertura cuidadosa dos ovos, os embriões foram retirados, separados da placenta e do líquido amniótico, lavados em água corrente e pesados em balança digital (marca SHIMADZU AUY 220 e modelo UNI BLOC).
+doc48	8	O comprimento cabeça-cauda e demais medidas foram realizadas com paquímetro digital e as estruturas morfológicas foram observadas com auxílio de estereomicroscópio (marca NOVA e modelo NOVA ZTX-E).
+doc48	9	Todos os ovos abertos continham embriões vivos, indicando que a temperatura da incubadora caseira, a umidade relativa e a viragem manual foram adequadas para manter a viabilidade das codornas.
+doc48	10	Os dados morfométricos dos embriões em diferentes momentos do desenvolvimento foram semelhantes aos descritos na literatura.
+doc48	11	Os embriões pesaram 0,0069 g no dia 5 e 4,7863 g no dia 16, e as médias do comprimento cabeça-cauda (CRL) foram de 0,368 cm e 3,657 cm, respectivamente.
+doc48	12	Peso e CRL aumentaram 0,434 g e 2,593 cm por dia de incubação, respectivamente.
+doc48	13	Em conclusão, após 16 dias de incubação em incubadora caseira, os embriões apresentaram todas as fases do ciclo de desenvolvimento, com desenvolvimento adequado de peso e altura com base nos dias de incubação sem anomalia ou interferência externa.
+doc48	14	Esses achados demonstram que a incubadora caseira não altera o desenvolvimento embrionário de embriões de codorna na Amazônia brasileira.
+doc15	1	A parada cardiorrespiratória é um evento crítico cuja taxa de sobrevivência é relacionada à qualidade das manobras de reanimação, aliada à tecnologia.
+doc15	2	É importante compreender a percepção do cansaço durante esse procedimento visando a efetividade das compressões e o aumento das chances na sobrevida.
+doc15	3	Aplicar a Escala de Borg para analisar o esforço percebido por enfermeiros durante as manobras de reanimação cardiopulmonar com dispositivo de feedback.
+doc15	4	Estudo experimental com distribuição randomizada de enfermeiros em hospital de ensino, simulando parada cardiorrespiratória, para avaliação da percepção do esforço utilizando a escala de Borg durante a reanimação cardiopulmonar com/sem dispositivo de feedback.
+doc15	5	Foi adotado nível de significância estatística 5%.
+doc15	6	Foram incluídos 69 enfermeiros atuantes em unidades críticas e não críticas de atendimento ao adulto.
+doc15	7	A percepção de esforço e a frequência cardíaca foi menor no grupo intervenção (p<0,001), influenciadas pelo dispositivo de feedback, sem diferença significativa quanto às unidades de atuação.
+doc15	8	A escala de Borg mostrou-se adequada para os objetivos propostos.
+doc15	9	O dispositivo de feedback contribuiu no menor esforço e redução da frequência cardíaca durante as manobras de reanimação.
+doc15	10	O baixo custo e a facilidade de aplicação favorecem o uso em treinamentos e atendimentos em tempo real para avaliar o desempenho durante a reanimação, utilizando dispositivo de feedback por reduzir os esforços e a percepção do cansaço.
+doc15	11	Também permite a reflexão sobre os fatores intervenientes e recursos que podem influenciar na qualidade da assistência e nas chances de sobrevivência.
+doc30	1	Estabelecer o diagnóstico definitivo de uma condição neurogenética geralmente é uma tarefa complexa; entretanto, semelhante a qualquer raciocínio diagnóstico clínico, um processo organizado
+doc30	2	de formulação e ponderação de hipóteses diagnósticas pode ajudar neurologistas e médicos geneticistas a resolverem essa difícil tarefa.
+doc30	3	O objetivo desta revisão é propor um método geral de raciocínio diagnóstico em neurogenética, com a definição da síndrome neurológica principal e seu diagnóstico topográfico associado, seguidos da identificação das síndromes neurológicas principais e secundárias, dos achados extraneurológicos, e do padrão de herança.
+doc30	4	Também discutimos as regras gerais e os requisitos de conhecimento do médico solicitante para o pedido de teste genético e informações sobre como interpretar variantes genéticas quando recebemos um laudo.
+doc30	5	Ao orientar a solicitação de exames genéticos de acordo com um modelo organizado de raciocínio diagnóstico e com a disponibilidade de tratamentos específicos, o clínico poderá encontrar maior resolutividade e eficiência na investigação diagnóstica, o que encurtará a odisseia do paciente para um diagnóstico definitivo.
+doc49	1	Em pacientes com insuficiência cardíaca (IC), devido à relativa deficiência do volume sanguíneo, a ativação do sistema neuro-hormonal leva à vasoconstrição renal, que afeta o teor de nitrogênio ureico (NU) e creatinina (C) no organismo, sendo que NU e C são facilmente afetados por outros fatores.
+doc49	2	Portanto, a razão NU/C pode ser utilizada como mais um marcador para o prognóstico da IC.
+doc49	3	Explorar o prognóstico do desfecho adverso da IC no grupo NU/C alta em comparação com o grupo NU/C baixa em todo o espectro da fração de ejeção.
+doc49	4	De 2014 a 2016, pacientes sintomáticos hospitalizados com IC foram recrutados e acompanhados para observar desfechos cardiovasculares adversos.
+doc49	5	Foram realizadas análise logística e a análise COX para determinar a significância.
+doc49	6	Valores de p<0,05 foram considerados estatisticamente significativos.
+doc49	7	Na análise de regressão logística univariada, o grupo NU/C alta apresentou maior risco de desfecho adverso na insuficiência cardíaca com fração de ejeção reduzida (ICFEr) e insuficiência cardíaca com fração de ejeção preservada (ICFEp).
+doc49	8	A análise de regressão logística multivariada mostrou que o risco de morte cardíaca no grupo ICFEr foi maior do que no grupo NU/C baixa, enquanto o risco de morte por todas as causas foi significativo apenas em 3 meses (p<0,05) (Ilustração Central).
+doc49	9	O risco de morte por todas as causas no grupo NU/C alta no grupo ICFEP foi significativamente maior do que no grupo NU/C baixa em dois anos.
+doc49	10	O grupo NU/C alta está relacionado ao risco de mau prognóstico da ICFEP, não sendo inferior ao valor preditivo da fração de ejeção do ventrículo esquerdo (FEVE).
+doc7	1	Acidentes motociclísticos constituem um problema de saúde pública que atinge os serviços públicos e privados de saúde, em função dos gastos com o tratamento e com o processo de reabilitação da vítima.
+doc7	2	Avaliar o impacto dos custos dos acidentes motociclísticos em um hospital universitário em 2020.
+doc7	3	Análise comparativa dos custos dos pacientes vítimas de acidente motociclístico no ano de 2020 e 2017.
+doc7	4	Dentre 151 pacientes incluídos no estudo, o custo médio foi de U$3.083,54 e a média de dias de internação foi de 5,3 dias.
+doc7	5	O paciente que apresentou maior custo para o hospital, teve um gasto de U$22.504,05 e o que teve o menor custo, gastou U$356,72.
+doc7	6	O maior tempo de internação, entre estes pacientes, foi de 41 dias e o menor tempo foi de 1 dia.
+doc7	7	O custo médio por paciente por dia, em toda a amostra, foi de U$581,80.
+doc7	8	Faz-se necessário a formulação e aplicação de estratégias que promovam a redução dos acidentes motociclísticos na cidade de Campinas.
+doc7	9	<b><i>Nível de evidência II; Estudo retrospectivo.</i></b>
+doc22	1	A Faculdade de Ciências da Saúde da Universitat Oberta de Catalunya (Barcelona, Espanha) foi oficialmente designada, em 5 de abril de 2018, “Centro Colaborador da Organização Mundial da Saúde (OMS) em eSaúde”.
+doc22	2	O centro tem como objetivo prestar apoio aos países dispostos a desenvolver novos serviços de telemedicina; promover o uso da eSaúde, ou saúde digital; e estudar a adoção e o uso da saúde móvel em países da Região das Américas e da Europa.
+doc22	3	Em 11 de março de 2020, a OMS declarou a COVID-19 como pandemia global, dado o aumento significativo do número de casos no mundo inteiro.
+doc22	4	Desde então, o centro tem desempenhado um papel importante no enfrentamento da COVID-19, empreendendo atividades frutíferas de cooperação.
+doc22	5	Os <i>lockdowns</i> e o distanciamento social em resposta à alta taxa de contágio da COVID-19 foram os principais desencadeadores de uma transformação digital desafiadora em muitos setores, especialmente na área da saúde.
+doc22	6	Neste cenário de crise extrema, a rápida adoção de soluções digitais de saúde e ferramentas tecnológicas foi fundamental para responder à enorme pressão sobre os sistemas de saúde.
+doc22	7	A telemedicina se tornou um componente necessário da prática clínica, com o objetivo de oferecer um atendimento mais seguro aos pacientes, e tem sido usada para apoiar as necessidades de saúde tanto dos pacientes com COVID-19 como dos pacientes da atenção primária de rotina.
+doc22	8	Este artigo descreve a contribuição do centro para o trabalho da Organização Pan-Americana da Saúde (OPAS) e da OMS no apoio aos países latino-americanos e europeus para desenvolver novos serviços de telemedicina e orientação sobre como enfrentar a COVID-19 por meio de soluções de saúde digitais.
+doc22	9	Ações futuras também são destacadas.
+doc23	1	Verificar as estratégias de prevenção e tratamento da síndrome de abstinência em unidade de terapia intensiva pediátrica.
+doc23	2	Trata-se de revisão sistemática nas bases de dados PubMed®, Lilacs, Embase, Web of Science, Cochrane, Cinahl, Cochrane Database Systematic Review e CENTRAL.
+doc23	3	Uma estratégia de busca em três etapas foi utilizada para esta revisão.
+doc23	4	O protocolo da revisão foi aprovado no PROSPERO (CRD42021274670).
+doc23	5	Foram incluídos na análise 12 artigos.
+doc23	6	Observou-se grande heterogeneidade entre os estudos incluídos, principalmente em se tratando de esquemas terapêuticos utilizados na sedação e na analgesia.
+doc23	7	As doses de midazolam variaram de 0,05mg/kg/hora a 0,3mg/kg/hora.
+doc23	8	A morfina também variou consideravelmente, de 10mcg/kg/hora a 30mcg/kg/hora entre os estudos.
+doc23	9	A escala mais utilizada para identificação da síndrome de abstinência, entre os 12 estudos selecionados, foi a Sophia Observational Widrawal Symptoms Scale.
+doc23	10	Em três estudos, houve diferença estatística relevante na prevenção e no manejo da síndrome de abstinência com a implantação de protocolos (p < 0,01 e p < 0,001).
+doc23	11	Observou-se grande variação entre o regime de sedoanalgesia utilizado entre os estudos e o método de desmame e avaliação de síndrome de abstinência.
+doc23	12	São necessários mais estudos para fornecer evidências mais robustas acerca do tratamento mais indicado para prevenção e redução dos sinais e sintomas de abstinência em crianças criticamente doentes.
+doc23	13	Registro PROSPERO: CRD 42021274670.
+doc27	1	Para determinar o efeito do método de inclusão sobre a avaliação histomorfométrica da mucosa gastrointestinal de equinos foram coletadas amostras do jejuno por laparotomia pelo flanco.
+doc27	2	Foram utilizados 16 equinos adultos hígidos, sem raça definida, de ambos os sexos, quatro machos e 12 fêmeas, com idade variando entre quatro e 14 anos, e peso corporal médio de 248,40 <sup>+</sup> 2,28kg.
+doc27	3	Amostras do jejuno foram coletadas e processadas para biopsia em microscopia de luz sob dois métodos: grupo 1 - fixação em formalina neutra tamponada a 10% e inclusão em parafina, grupo 2 - fixação em glutaraldeído 2,5% em tampão fosfato 0,1M pH 7,2, seguido de inclusão em resina plástica à base de glicol metacrilato.
+doc27	4	Os seguintes parâmetros foram avaliados: altura das vilosidades intestinais, profundidade de cripta, espessura da mucosa glandular, espessura total da mucosa e relação vilo/cripta.
+doc27	5	Para todas as variáveis estudadas, exceto relação vilo/cripta, foi encontrada diferença significativa (p<0,05) entre os dois métodos.
+doc27	6	O processamento para inclusão em resina plástica foi rápido e de fácil execução quando comparado à inclusão em parafina.
+doc27	7	Além disso, o epitélio de revestimento apresentou melhor resolução das células para estudo histológico ao microscópio de luz.
+doc27	8	A diferença entre as variáveis pode ser atribuída a retração do tecido provocada pelo processamento convencional por inclusão em parafina.
+doc27	9	Portanto, o método de inclusão em GMA mostrou-se, no presente estudo, uma escolha mais fidedigna para as avaliações morfométricas da mucosa intestinal de equinos.
+doc18	1	O interesse por alternativas de tratamento não farmacológico para idosos com demência ou comprometimento cognitivo leve aumentou nos últimos anos.
+doc18	2	Entre elas, a dança destaca-se como uma eficaz ferramenta terapêutica na cognição de idosos.
+doc18	3	Dessa forma, o objetivo da presente revisão foi determinar se a dança é uma ferramenta capaz de promover benefícios em relação à cognição e ao humor de idosos comprometidos cognitivamente, por meio de uma revisão das publicações de estudos longitudinais dos últimos dez anos, que avaliaram os efeitos na cognição da terapia por intermédio da dança em idosos com alterações cognitivas, nas bases de dados PubMed, Scientific Electronic Library Online (SciELO) e Cochrane Library.
+doc18	4	A busca identificou 193 artigos; após a análise de títulos, resumos e duplicidade, 14 foram selecionados, dos quais dez foram revisados.
+doc18	5	De maneira geral, os estudos apresentaram resultados positivos quanto à melhora das funções cognitivas após a estimulação com dança, além de efeitos positivos também no humor de idosos comprometidos cognitivamente.
+doc43	1	descrever os anos potenciais de vida perdidos (APVPs) por aids na população do sexo feminino e analisar sua associação com raça/cor da pele e indicadores de vulnerabilidade social em Porto Alegre/RS, Brasil. estudo descritivo, considerando-se os óbitos do sexo feminino por aids em 2007-2017; os dados foram obtidos no banco do Sistema de Informações sobre Mortalidade; foram calculados valores brutos e taxas de APVPs por 1 mil óbitos, considerando-se os distritos sanitários e a raça/cor da pele.
+doc43	2	entre 1.539 óbitos, foram estimados cerca de 51 mil anos potenciais de vida, representando 86,5 anos perdidos/1 mil pessoas do sexo feminino; identificou-se maior proporção de óbitos naquelas de raça/cor da pele branca (53,4%); porém, maior taxa de APVPs ocorreu para as de raça/cor da pele preta/parda residentes em regiões de maior vulnerabilidade.
+doc43	3	os resultados sugerem o impacto de desigualdades raciais na diminuição dos anos potenciais de vida, em função do óbito por aids.
+doc12	1	A cefaleia persistente atribuída a acidente vascular cerebral (AVC) prévio é uma entidade controversa, recentemente incluída na terceira edição da Classificação Internacional de Transtornos da Cefaleia (International Classification of Headache Disorders, ICHD-3), apesar de descrita apenas em estudos restrospectivos.
+doc12	2	Determinar a frequência e as características do acidente vascular cerebral prèvio em doentes admitidos com AVC agudo.
+doc12	3	MéTODOS:  Selecionamos todos os doentes com cefaleia associada a AVC agudo de um registro unicêntrico e prospectivo de doentes admitidos no serviço de Neurologia entre novembro de 2018 e dezembro de 2019.
+doc12	4	Analisamos dados demográficos, clínicos e imagiológicos.
+doc12	5	Reavaliamos aos 6 a 12 meses por questionário telefónico.
+doc12	6	Entre os 121 doentes admitidos com AVC agudo, apenas 29 (24,0%) tinham cefaleia associada a AVC agudo.
+doc12	7	Destes, 6 (5,0%) perderam-se no seguimento.
+doc12	8	Ao todo, 23 (20,0%) responderam ao questionário e foram incluídos.
+doc12	9	A idade mediana foi de 53 anos (intervalo interquartílico [IIQ]: 38–78 anos), e não houve predominância de gênero.
+doc12	10	Dos 10 doentes (8,3%) que apresentam cefaleia persistente, 8 (6,6%) tinham histórico de cefaleia; no entanto todos mencionaram um tipo diferente de cefaleia, e 1 (0,8%) provavelmente tinha cefaleia secundária a medicação.
+doc12	11	CONCLUSõES:  Neste estudo, apenas 10 em 121 doentes (8,3%) mencionaram cefaleia persistente aos 6 a 12 meses de seguimento, mas a maioria sofria de cefaleia prévia, pelo que a real prevalência de acidente vascular cerebral prèvio pode ser inferior à descrita nos estudos realizados até a data.
+doc14	1	Os neutrófilos para linfócitos (NLR), monócitos para linfócitos (MLR), proporção de plaquetas para linfócitos (PLR) e largura de distribuição de glóbulos vermelhos (RDW) foram previamente estudados como preditores de sobrevivência em diferentes malignidades.
+doc14	2	O objetivo deste estudo foi avaliar o valor preditivo desses biomarcadores inflamatórios hematológicos para pacientes com metástases cerebrais (MB).
+doc14	3	MéTODOS:  Nós revisamos uma coorte consecutiva de pacientes no Instituto do Câncer do Estado de São Paulo (ICESP-FMUSP) de 2011 a 2016 com ≥ 1 MB tratados principalmente por ressecção cirúrgica.
+doc14	4	O desfecho primário foi a sobrevida em 1 ano.
+doc14	5	Otimizamos os valores de corte de NLR, MLR, PLR e RDW, preservando a robustez e evitando superestimação do tamanho do efeito.
+doc14	6	Um total de 200 pacientes (idade média de 56,1 anos; 55,0% mulheres) preencheram os critérios de inclusão.
+doc14	7	A ressecção grosseira total foi obtida em 89,0%.
+doc14	8	A mediana (quartis) dos escores KPS pré-operatório e pós-operatório foram 60 (50–80) e 80 (60–90), respectivamente.
+doc14	9	O NLR pré-operatório foi significativamente associado à sobrevida (HR 2,66, IC 95%: 1,17–6,01, <i>p</i> = 0,019).
+doc14	10	Um valor de corte de NLR de 3,83 exibiu a divisão da curva de sobrevivência mais significativa.
+doc14	11	CONCLUSõES:  O NLR pré-operatório é um preditor independente de sobrevida em MBs recém-diagnosticados.
+doc14	12	Propomos que um valor de corte de 3,83 para o teste de NLR pré-operatório pode ser clinicamente útil como preditor de baixa sobrevida nesta população.
+doc14	13	A ampla acessibilidade do NLR favorece sua inclusão nos processos de tomada de decisão clínica para o gerenciamento de BM.
+doc37	1	Apresentar Exame Clínico Miofuncional Orofacial pertencente ao Protocolo MMBGR - Lactentes e Pré-escolares, incluindo sua validação.
+doc37	2	Inicialmente foi realizada a validade do conteúdo do teste adaptado do Protocolo MBGR, para faixa etária entre 6 e 71 meses, fundamentada na bibliografia e experiência entre autores (originais e atuais).
+doc37	3	Para análise de conteúdo e aparência participaram 10 fonoaudiólogos especialistas em Motricidade Orofacial, que preencheram formulário eletrônico com questões dicóticas e escala de Likert, em dois momentos.
+doc37	4	Foi calculado Índice de Validade de Conteúdo e Teste Binomial Exato.
+doc37	5	Na sequência houve análise da validade baseada nos processos de resposta, seguida da análise da confiabilidade do Exame Clínico, com 155 participantes, por 7 fonoaudiólogos experientes e calibrados, sendo verificada a concordância entre e intra examinadores pelo Coeficiente de Correlação Intraclasse.
+doc37	6	Houve acréscimos, modificações e exclusão de itens conforme faixa etária, concluindo-se o Protocolo Exame Clínico Miofuncional Orofacial para lactentes e pré-escolares, que obteve 90,5% com concordância; e 100% dos escores adequados por pelo menos 90% dos especialistas.
+doc37	7	Quanto à confiabilidade, a maioria dos itens dos Exames Extraoral e Intraoral e Mastigação obtiveram concordância razoável a boa, ou, até mesmo, excelente.
+doc37	8	O “Exame Clínico Miofuncional Orofacial” teve validação baseada no conteúdo do teste, nos processos de resposta e confiabilidade concluída, e junto ao “Instrutivo” e à “História Clínica” integra o “Protocolo MMBGR - Lactentes e Pré-escolares”, para atuação fonoaudiológica na faixa etária entre 6 e 71 meses de idade.
+doc50	1	Avaliar a associação entre dois índices colposcópicos, o escore Swede e a Nomenclatura International Federation of Cervical Pathology and Colposcopy (IFCPC, na sigla em inglês) 2011, assim como determinar a eficácia do escore Swede com os pontos de corte 7 e 8.
+doc50	2	MéTODOS:  Trata-se de um estudo transversal, com 34 mulheres incluídas, que realizaram colposcopia com biópsia dirigida devido a uma citologia anormal.
+doc50	3	Os achados colposcópicos foram categorizados pelo escore Swede e pela Nomenclatura IFCPC 2011 e comparados um com o outro.
+doc50	4	Foram avaliados o coeficiente Kappa e o teste de McNemar e foram calculados a acurácia, a sensibilidade, a especificidade e valores preditivos negativos e positivos (VPN e VPP, respectivamente) de cada índice, assim como a eficácia com os pontos de corte 7 e 8 do escore Swede para determinar as lesões de neoplasia intraepitelial cervical (NIC) 2 + .
+doc50	5	A concordância entre os 2 índices foi de 79,41% e o coeficiente Kappa e o valor-p do teste de McNemar foram 0.55 e 0.37, respectivamente.
+doc50	6	Pela Nomenclatura IFCPC 2011, obtivemos como sensibilidade, especificidade, acurácia, VPP e VPN, respectivamente: 85,71, 55,00, 67,64, 57,14 e 84,61%.
+doc50	7	Pelo escore Swede obtivemos como sensibilidade, especificidade, acurácia, VPP e VPN, respectivamente: 100, 63,15, 79,41, 68,18 e 100%.
+doc50	8	O uso do escore Swede para detecção das lesões NIC 2+ obteve como especificidade 94,73% com o valor de corte de 7, enquanto o valor de corte 8 obteve 100%.
+doc50	9	A sensibilidade para ambos os cortes foi de 60%.
+doc50	10	O VPP e o VPN com os cortes 7 e 8 foram, respectivamente: 90,00 e 75,00 e 100,00 e 76,00%.
+doc50	11	CONCLUSãO:  Ambos os índices colposcópicos tiveram boa reprodutibilidade; no entanto, o escore Swede mostrou melhor acurácia, sensibilidade e especificidade em identificar as lesões NIC 2+ e o melhor ponto de corte para identificar as lesões NIC2+ foi com o valor 8.
+doc32	1	Compreende-se que a qualidade de vida no trabalho está diretamente ligada ao nível de satisfação do indivíduo em relação à execução de suas tarefas.
+doc32	2	A ginástica laboral é uma atividade física importante que tem como objetivos relaxar os grupos musculares mais requisitados durante a execução das tarefas ocupacionais, proporcionar o aumento no entusiasmo dos trabalhadores e reduzir o absenteísmo por motivos de saúde, contribuindo, assim, com a melhora da qualidade de vida.
+doc32	3	Este estudo objetivou analisar os efeitos da implantação de protocolos de ginástica laboral nas empresas.
+doc32	4	Foi realizado um levantamento bibliográfico nas bases de dados LILACS, SciELO e Google Acadêmico.
+doc32	5	Foram utilizadas as palavras-chaves “qualidade de vida”, “terapia por exercício” e “saúde do trabalhador”.
+doc32	6	Após a pesquisa, foram obtidos 73 artigos, dos quais 24 foram selecionados com base na leitura de títulos e resumos.
+doc32	7	Após a leitura integral e aplicação dos critérios de elegibilidade, foram excluídos 16 artigos, restando oito para a elaboração do estudo.
+doc32	8	Através da análise dos oito artigos, foi possível observar os benefícios advindos da prática da ginástica laboral na melhoria da qualidade de vida, redução da intensidade e frequência da dor e prevenção de doenças ocupacionais.
+doc32	9	Os programas de ginástica laboral, quando desempenhados numa periodicidade de no mínimo três sessões semanais, proporcionam diversos benefícios no que tange à saúde e ao bem-estar dos trabalhadores, especialmente na redução de quadros álgicos e desconfortos osteomusculares, o que influencia diretamente na melhora da qualidade de vida.
+doc35	1	Verificar a influência de um estímulo gustativo na pressão de sucção, durante a sucção não nutritiva (SNN), em recém-nascidos a termo, saudáveis e com peso adequado à idade gestacional.
+doc35	2	Estudo quase experimental do tipo ensaio clínico não randomizado com uma amostra de conveniência de 60 recém-nascidos (RN), 30 alocados no grupo estudo (GE) e 30 no grupo controle (GC).
+doc35	3	Os RN foram avaliados quanto à pressão de sucção, durante a SNN em chupeta.
+doc35	4	Para o GE foi adicionado estímulo gustativo à chupeta, umedecida com o colostro.
+doc35	5	O GC não recebeu nenhum estímulo, além da própria chupeta.
+doc35	6	As pressões média, mínima e máxima foram medidas com o equipamento S-Flex®.
+doc35	7	O GE apresentou pressão média e máxima de sucção significativamente maiores do que o GC.
+doc35	8	Ainda, houve diferença estatisticamente significativa, entre os grupos, para a 2ª medida da pressão média de sucção.
+doc35	9	Os resultados demostraram que os RN do GE apresentaram pressões de sucção, média e máxima, significativamente maiores, quando comparados ao GC.
+doc35	10	A utilização de um estímulo gustativo associado à SNN modificou a pressão de sucção e parece potencializar as habilidades orais.
+doc4	1	O relacionamento entre a movimentação toracolombar e a ativação muscular durante a locomoção normal e quando há claudicação é pouco compreendido.
+doc4	2	Comparar a cinemática toracolombar e pélvica e a atividade do músculo longissimus dorsi (longissimus) em cavalos ao trote entre o momento inicial (baseline) e claudicação induzida no membro torácico (iFL) e pélvico (iHL).
+doc4	3	Estudo experimental controlado cruzado.
+doc4	4	Dados cinemáticos tridimensionais das vertebras toracolombar e pelve, e eletromiografia de superfície (sEMG) bilateral do longissimus na T14 e L1 foram coletados de forma síncrona de cavalos clinicamente não claudicantes (n = 8) trotando no momento inicial (baseline), e durante iFL e iHL (2-3/5 AAEP), induzidos separadamente em dias distintos utilizando um modelo de claudicação (ferradura modificada).
+doc4	5	Parâmetros de movimentação assimétrica, flexão/extensão máxima da toracolombar e ângulos de virada lateral, e amplitude de movimento da pelve (ROM) foram calculados a partir dos dados de cinemática.
+doc4	6	O valor médio normalizado retificado (ARV) e início da ativação muscular, e término e duração da atividade foram calculados utilizando sinais de sEMG.
+doc4	7	Análise de modelo misto e mapeamento paramétrico estatístico compararam variáveis discretas e contínuas entre condições (α=0.05).
+doc4	8	Parâmetros de assimetria refletiram o nível de iFL e iHL.
+doc4	9	A flexão toracolombar máxima e a ROM da pelve aumentaram significativamente com iFL e iHL.
+doc4	10	Durante iHL, o pico de flexão lateral aumentou em direção ao lado não-claudicante (NSL) e diminuiu em direção ao lado claudicante (LS).
+doc4	11	Longissimus ARV aumentou significativamente para ambos os lados na T14 e L1 para iHL, mas apenas no LS para iFL.
+doc4	12	A ativação do longissimus foi significativamente retardado no NLS e precipitado no LS durante iHL, mas essa mudança de fase clara não foi observada no iFL.
+doc4	13	PRINCIPAIS LIMITAÇÕES: Esses achados precisam ser confirmados em casos clínicos.
+doc4	14	CONCLUSÕES: Adaptações significantes e distintas na movimentação toracolombar e pélvica e atividade do músculo longissimus ocorre durante iFL e iHL e são detectadas utilizando captura de movimento e sEMG.
+doc4	15	Para iFL, essas adaptações ocorrem primariamente na direção cranio-caudal, enquanto que em iHL, movimento lateral e rotação axial também estão envolvidos.
+doc36	1	O objetivo deste artigo é descrever a distribuição do câncer entre os benefícios concedidos pelo Registro Geral da Previdência Social (RGPS), de 2008 a 2014, no Brasil.
+doc36	2	Estudo ecológico com dados cedidos pelo Instituto Nacional do Seguro Social (INSS).
+doc36	3	Determinou-se a proporção de benefícios acidentários (relacionados ao trabalho) e previdenciários (gerais) concedidos por câncer no Brasil, entre os benefícios concedidos por todas as causas e realizou-se uma análise espacial para avaliar a distribuição geográfica dessas proporções, tendo os estados brasileiros como unidade de análise.
+doc36	4	O câncer foi motivo de concessão de 533.438 benefícios (2,9% do total de benefícios concedidos por todas as causas), com predomínio do sexo feminino nos benefícios previdenciários (53,7%) e do sexo masculino nos benefícios acidentários (71,6%).
+doc36	5	As maiores proporções de benefícios previdenciários por câncer ocorreram nas regiões Norte e Centro-Oeste.
+doc36	6	Em 19 dos 26 estados brasileiros e no Distrito Federal não houve concessão de benefício acidentário por câncer.
+doc36	7	A análise das ocorrências de câncer que geraram concessões de benefícios do RGPS sugere uma desproporcionalidade da concessão de benefícios previdenciários em relação aos acidentários, principalmente nas regiões Norte, Nordeste e Sul do Brasil.
+doc46	1	No início da carreira médica, o ortopedista em formação acadêmica necessita de metodologias válidas para o treinamento de cirurgias complexas em tecidos que simulem situações reais.
+doc46	2	Com o treinamento em tecido animal, adaptado para abordar o tecido humano, é possível simular procedimentos e decisões que serão necessários em situações reais.
+doc46	3	Este estudo consiste na apresentação de um modelo de simulação simples e reprodutível para reparo cirúrgico de tendões por meio do treinamento em tendões frescos fixados em estrutura de madeira.
+doc46	4	A construção do modelo consiste em uma peça plana de Fibra de Média Densidade (MDF) e foram utilizados dois ganchos roscados na prancha, aos quais são fixados fios de Nylon para amarrar o tendão, permitindo uma simulação satisfatória de um tendão humano.
+doc46	5	É um método simples, barato e eficaz para o treinamento de suturas tendíneas, por meio do qual o trainee poderá desenvolver técnicas de reparo e princípios cirúrgicos básicos, como manuseio de instrumentos, segurança e descarte de objetos cortantes.
+doc46	6	Este método visa melhorar as habilidades e destreza do trainee quando colocado em cirurgias ao vivo.
+doc46	7	As técnicas cirúrgicas desenvolvidas incluem as suturas Kessler e Bunnel modificadas.
+doc46	8	<i><b>Nível de Evidência IV, Estudo Descritivo</b></i> .

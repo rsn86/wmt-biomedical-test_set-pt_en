@@ -1,0 +1,589 @@
+doc2	1	EVALUATION OF KITE AND PONSETI METHODS IN THE TREATMENT OF IDIOPATHIC CONGENITAL CLUBFOOT.
+doc2	2	Objective
+doc2	3	Clubfoot is one of the most common congenital deformities affecting the musculoskeletal system.
+doc2	4	The main conservative treatment for clubfoot includes the Ponseti's and Kite's methods.
+doc2	5	This study aimed to perform a comparative evaluation of the effectiveness of the Ponseti and Kite approaches for the conservative treatment of clubfoot.
+doc2	6	Methods
+doc2	7	One hundred children with clubfoot abnormality, visiting the Martagão Gesteira Hospital, were divided in two groups.
+doc2	8	The first group received conservative treatment using the Kite method and the second group received conservative treatment using the Ponseti method.
+doc2	9	At the end of the treatment, both groups were evaluated based on the Pirani classification to verify whether there had been an adequate correction of the deformity.
+doc2	10	The variables studied included correction of deformity, age, sex, and laterality.
+doc2	11	Results
+doc2	12	The effectiveness of the Kite and Ponseti methods of conservative treatment showed significant statistical differences.
+doc2	13	Conclusion
+doc2	14	The present study shows that the efficacy of conservative treatment using the Ponseti method was 18% higher than that of the Kite method.
+doc4	1	[Multimorbidity in Portugal: Results from The First National Health Examination Survey].
+doc4	2	INTRODUCTION
+doc4	3	The simultaneous presence of multiple chronic diseases in the same individual is recognized as an important public health problem.
+doc4	4	Patients with multimorbidity have greater healthcare needs, which represents a higher burden on health services.
+doc4	5	Although there is no consensual definition of this concept, multimorbidity is usually defined as the presence of two or more chronic diseases in the same patient.
+doc4	6	The existence of evidence regarding multimorbidity will lead to more efficient management and treatment of these patients.
+doc4	7	MATERIAL AND METHODS
+doc4	8	In order to estimate the prevalence of multimorbidity and to identify the associated factors, a cross-sectional epidemiological study was developed based on data from the INSEF, a population-based survey conducted on a representative probability sample of the Portuguese population (n = 4911).
+doc4	9	The prevalence of multimorbidity was estimated for the total population and separately for men and women, stratified by age group, region, education and income.
+doc4	10	The magnitudes of the associations were measured by the adjusted prevalence ratios calculated by the Poisson regression model.
+doc4	11	RESULTS
+doc4	12	Prevalence of multimorbidity was 38.3% (95% CI: 35.4% to 41.3%), with higher frequency in women, older people, Lisbon and Tagus Valley; Northern Portugal; Algarve and Alentejo regions and in those with lower academic qualifications.
+doc4	13	No association was found between multimorbidity and income.
+doc4	14	DISCUSSION
+doc4	15	Multimorbidity affects more than one third of the Portuguese population.
+doc4	16	Epidemiological data about multimorbidity in Portugal allows the identification of population groups with higher multimorbidity prevalence.
+doc4	17	CONCLUSION
+doc4	18	Our results, which highlight the greater risk of multimorbidity among older and less instructed people, are in line with the literature.
+doc4	19	These results show the relevance of multimorbidity patients and are especially important in the way how healthcare is organized and provided.
+doc6	1	RADIATION EXPOSURE DURING SPINE SURGERY USING C-ARM FLUOROSCOPY.
+doc6	2	Objective
+doc6	3	To evaluate the radiation dose received by staff in spine surgeries, including those who are not considered occupationally exposed workers.
+doc6	4	Methods
+doc6	5	All spinal surgeries performed in the same department during a period of 12 months were evaluated with regard to the exposure of surgeons, scrub nurses, and auxiliary personnel working in the operating room to radiation from C-arm fluoroscopy.
+doc6	6	Radiation was measured by 15 film badge dosimeters placed on the professionals' lapels, gloves, and room standardized sites.
+doc6	7	The films were analyzed in the dosimetry laboratory by collections per period.
+doc6	8	Results
+doc6	9	During the 12 months, 81 spinal surgeries were performed by the same team, with surgical times ranging from 1 to 6 hours.
+doc6	10	The total radiation dose ranged from 0.16 mSv to 2.29 mSv depending on the dosimetry site.
+doc6	11	The most exposed site was the wrist of the main surgeon.
+doc6	12	Conclusion
+doc6	13	The results showed that in the spinal surgeries in our setting, the radiation doses are low and within legal limits.
+doc6	14	Nevertheless, constant training of professionals is essential for radiation protection of medical staff and patients.
+doc7	1	Does the Attention Deficit Hyperactivity Disorder interfere with bariatric surgery results?
+doc7	2	Objective
+doc7	3	to analyze possible negative effects of Attention Deficit Hyperactivity Disorder (ADHD) on the success of bariatric surgery.
+doc7	4	Methods
+doc7	5	we evaluated forty patients undergoing bariatric surgery and with regular post-operative follow-up of at least one year.
+doc7	6	To all, we applied the questionnaire advocated in the fourth edition of the Diagnostic and Statistical Manual (DSM-IV) of the American Psychiatric Association for ADHD, as well as analyzed their postoperative data.
+doc7	7	Results
+doc7	8	fifteen (38%) patients presented a positive questionnaire for ADHD.
+doc7	9	Patients with ADHD presented higher BMI than patients without the disorder (45.8 vs. 40.9 kg/m2, p=0.017), and the difference remained in all postoperative stages.
+doc7	10	There was no statistically significant difference in surgery success (33.3% x 66.7%, p=0.505) or in BMI reduction (30.71% x 31.88%, p=0.671) one year after the procedure.
+doc7	11	Conclusion
+doc7	12	ADHD patients have a higher BMI.
+doc7	13	However, the presence of ADHD does not influence the success of bariatric surgery and the reduction of BMI.
+doc8	1	Customized acrylic implants for reconstruction of extensive skull defects: an exception approach for selected patients.
+doc8	2	Objective
+doc8	3	to present our experience in the surgical treatment of extensive skullcap defects with customized acrylic implants.
+doc8	4	Methods
+doc8	5	we conducted a retrospective analysis of patients with extensive skull defects undergoing acrylic cranioplasties between 2004 and 2013. We carefully selected all patients and classified surgical results based on three scales (craniofacial esthetics, improvement of facial symmetry and need for additional surgery).
+doc8	6	Results
+doc8	7	fifteen patients underwent cranioplasty with intraoperative acrylic implants, whether manually customized (46.67%) or made with prototyped three-dimensional biomodels (53.33%).
+doc8	8	There were two (13.33%) complications (one infection with implant withdrawal and one seroma).
+doc8	9	We considered the craniofacial aesthetics excellent (50%), the degree of improvement of craniofacial symmetry satisfactory (57.14%), and the overall mean of surgical results according to the need for new surgeries was 1.5±0.52.
+doc8	10	Conclusion
+doc8	11	cranioplasties of patients with extensive skullcap defects should obey careful and predetermined criteria, both for selection and for the acrylic implant customization method.
+doc11	1	[Epstein-Barr Virus-Associated Hemophagocytic Lymphohistiocytosis: Rarity and Severity in an Immunocompetent Adult].
+doc11	2	Hemophagocytic lymphohistiocytosis is a rare, aggressive and life-threatening syndrome, characterized by an excessive immune activation.
+doc11	3	It is triggered by multiple stimuli, with infections having an important role.
+doc11	4	The most common infectious trigger is viral infection, particularly by Epstein-Barr virus.
+doc11	5	Coagulation disorders are common in hemophagocytic lymphohistiocytosis and disseminated intravascular coagulation can be present in severe cases.
+doc11	6	We report a clinical case of Epstein-Barr virus-associated hemophagocytic lymphohistiocytosis, complicated with disseminated intravascular coagulation which evolved favorably with only supportive therapy and without specific treatment.
+doc12	1	Invasive ductal carcinoma: relationship between pathological characteristics and the presence of axillary metastasis in 220 cases.
+doc12	2	Objective
+doc12	3	to analyze the relation of anatomopathological features and axillary involvement in cases of invasive ductal carcinoma.
+doc12	4	Methods
+doc12	5	this is a cross-sectional study of 220 breast cancer patients submitted to radical mastectomy or quadrantectomy with axilar emptying, from the Mastology Service of the Assis Chateaubriand Maternity School, Ceará, Brazil.
+doc12	6	We submitted the tumors to histological processing and determined the histological (HG), tubular (TG) and nuclear (NG) grades, and the mitotic index (MI) by the classification of Scarff-Bloom-Richadson, verified the presence of angiolymphatic invasion (AI) and measured the largest tumor diameter (TD).
+doc12	7	We then correlated these variables with the presence of axillary metastases.
+doc12	8	Results
+doc12	9	the mean patients'age was 56.81 years ± 13.28. Tumor size ranged from 0.13 to 22 cm, with an average of 2.23cm ± 2.79. HG3, TG3 and NG3 prevailed, respectively 107 (48.6%), 160 (72.7%) and 107 (48.6%).
+doc12	10	Mitotic indexes 1, 2 and 3 presented a homogeneous distribution, respectively 82 (37.2%), 68 (31%) and 70 (31.8%).
+doc12	11	We observed no relation between the HG, TG and NG with the occurrence of axillary metastases (p=0.07, p=0.22 and p=0.21, respectively).
+doc12	12	Mitotic indices 2 and 3 were related with the occurrence of axillary metastases (p=0.03).
+doc12	13	Tumors larger than 2cm and cases that presented angiolymphatic invasion had a higher index of axillary metastases (p=0.0003 and p<0.0001).
+doc12	14	Conclusion
+doc12	15	elevated mitotic indexes, tumors with a diameter greater than 2cm and the presence of angiolymphatic invasion were individually associated with the occurrence of axillary metastases.
+doc14	1	Ongoing training in the development of nursing teacher skills.
+doc14	2	OBJECTIVE
+doc14	3	To acknowledge the importance given to continuous training in the development of professor skills.
+doc14	4	METHOD
+doc14	5	A qualitative, descriptive and exploratory study involving fifteen (15) career professors, selected intentionally, from the scientific nursing area of two public higher education institutions in Portugal.
+doc14	6	Data were collected using the discussion groups technique and analyzed using the content analysis technique.
+doc14	7	This process was submitted to the evaluation of two experts, resulting in agreement coefficients, which offer guarantees regarding the inferences and the categorization process.
+doc14	8	RESULTS
+doc14	9	The professional development of the professor arose (category), involving two indicators: learning and the professional knowledge and skills development.
+doc14	10	CONCLUSIONS
+doc14	11	The data obtained shows that continuous training is determinant in the professional development of these professors, through learning and professional knowledge and in the development of skills.
+doc16	1	Protocol for hypertensive individuals assisted in Basic Health Care.
+doc16	2	Hypertension has low control rate in Brazil and around the World, resulting in social and medical costs; thus there is the need to apply control strategies.
+doc16	3	This study aimed to create and validate a protocol for consultation and monitoring of hypertensive patients attended in primary health care.
+doc16	4	It is constituted a methodological research which uses the Delphi method for content validation.
+doc16	5	The analysis of the protocol by experts was performed in three cycles, using a scale that was not important to extremely important, with a graduation from 1 to 5. The analysis was performed by the Likert scale, percentage of agreement, content validation index, Pearson correlation.
+doc16	6	The percentage of agreement was 96%.
+doc16	7	The CVI of 0.98. The Likert scale scored items, at least, as very important.
+doc16	8	The Pearson correlation was positive for all items ranging from moderate to strong.
+doc16	9	The protocol is composed of 53 items, divided into seven dimensions.
+doc16	10	It was concluded that the protocol enables more expressive and systematics monitoring of hypertensive patients and it identifies social and individual conditions that contribute to high blood pressure, so it may be used to guide the consultation, encouraging dialogue between the professional and patient and effective recording of care.
+doc17	1	[The struggle of indigenous peoples for health in environmental conflict contexts in Brazil (1999-2014)].
+doc17	2	The Brazilian development model, based on commodities and electro-intensive industries for trade in global markets, generates social and environmental inequalities that trigger various conflicts between indigenous peoples and communities and economic groups involving disputes over territory and common assets in contexts that influence the health situation of these communities.
+doc17	3	The objective of this paper is to present an overview of environmental conflicts involving the Brazilian indigenous peoples, their strategies to ensure the sustainability and demarcation of their territories and discuss the forms of pressure of the population on this Subsystem of Indigenous Healthcare (SASI) or alternatives they have proposed to tackle the problems generated.
+doc17	4	This analysis is based on a mapping of environmental conflicts based on the bibliographical revision of secondary sources (by indigenous movements or their partners) that supported the construction of reports on conflicts and analysis of the indigenous narratives about the territory where they live and their struggles.
+doc17	5	The conclusion drawn is that the health control strategies of Brazilian indigenous peoples are influenced by their socio-environmental disputes and are part of the mobilization of these peoples for the full recognition of their rights.
+doc19	1	[Fluorescence-Guided Sentinel Lymph Node Biopsy in Breast Cancer: Detection Rate and Diagnostic Accuracy].
+doc19	2	INTRODUCTION
+doc19	3	Sentinel lymph node biopsy is currently the standard surgical procedure for lymph node staging in patients with early stage breast cancer.
+doc19	4	It is performed using different techniques, such as the injection of vital dyes and / or radioisotopes and, more recently, guided by fluorescence using Indocyanine green.
+doc19	5	The aim of this study is to assess the detection rate of sentinel lymph node using Indocyanine green in breast cancer patients according to factors related to the patient and the tumor.
+doc19	6	MATERIAL AND METHODS
+doc19	7	Retrospective study of a random sample of patients with breast cancer, treated and followed at Centro Hospitalar São João, in Porto, between 2012 and 2016.
+doc19	8	RESULTS
+doc19	9	Indocyanine green detection rate was over 90% and its diagnostic accuracy was similar to other methods described in the presence of metastatic involvement of lymph nodes.
+doc19	10	DISCUSSION
+doc19	11	There was no statistically significant difference between the three methods in the detection rates in subgroups of older women, with normal weight and in those who underwent previous surgery in breast or axilla or neo-adjuvant chemotherapy.
+doc19	12	CONCLUSION
+doc19	13	Indocyanine green is a potential alternative method to other sentinel lymph node screening techniques, appearing as a future option for breast cancer centers with no nuclear medicine department.
+doc19	14	However, it is essential to carry out further research in order to define the ideal patients' profile that maximizes the method's effectiveness.
+doc20	1	[The absence of functional dentition is associated with the lack of commitment to oral functions among Brazilian adults].
+doc20	2	The scope of this study was to identify if the absence of functional dentition (FD) is associated with a lack of commitment to oral functions/daily activities among Brazilian adults.
+doc20	3	For this purpose, data from the National Survey of Oral Health (referred to as SB Brasil 2010) was used.
+doc20	4	FD was evaluated by the criterion proposed by the WHO (at least 20 teeth in the mouth).
+doc20	5	The Oral Impacts on Daily Performance (OIDP) questionnaire was used to evaluate daily activities/oral functions.
+doc20	6	Descriptive, bivariate (chi-squared) and multiple (logistic regression) analysis was conducted, and the odds ratio estimated with a 95% confidence interval (OR/CI95%).
+doc20	7	The research evaluated 9,564 adults, of which 2,200 adults (20.5%) were considered to have poor FD, and at least one of the daily activities/oral functions evaluated had an impact among 55% of adults.
+doc20	8	The lack of FD between adults was associated (p ≤ 0.05) with the impact on speech (1.88/1.33-2.64) and being ashamed to smile or talk (1.35/1.00-1.83).
+doc20	9	A considerable prevalence of lack of FD was identified, this absence being associated with the lack of commitment to the daily activities/oral functions.
+doc20	10	Dental rehabilitation of patients with a lack of FD should consider the restoration of these lost oral functions (speech and being ashamed to smile or talk).
+doc21	1	Jack Elinson (1917-2017) - The legacy of a pioneer.
+doc21	2	This study analyzes the education and professional career of Jack Elinson (1917-2017), pioneer in the field of sociomedical sciences in introducing its teaching and research in a school of public health at Columbia University, where he worked for thirty years (1956-1986).
+doc21	3	Elinson is acknowledged for his contributions to social psychology, statistics and medical sociology, especially on health care indicators and their relationship with quality of life.
+doc21	4	In 1985 he received the Leo G. Reeder Award from the American Sociological Association for his studies in the field of medical sociology.
+doc21	5	Jack Elinson, Renée Fox, Robert Straus, Eliot Freidson and many others were part of the group of the second generation of social scientists in the process of institutionalization of medical sociology/health care.
+doc22	1	Patient safety nucleus: the pathway in a general hospital.
+doc22	2	OBJECTIVE
+doc22	3	To describe the experience of implementing the patient safety nucleus and the strategies developed to ensure safer care.
+doc22	4	METHOD
+doc22	5	Experience report on the implementation of the nucleus and strategies for patient safety in a hospital in the south of Brazil, from 2009 to 2017.
+doc22	6	RESULTS
+doc22	7	The concern with patient safety was made official in 2009 with the creation of a specific service for risk management and in 2015 it was named the patient safety nucleus.
+doc22	8	Eight strategies were implemented in order to disseminate the patient safety policy.
+doc22	9	CONCLUSION
+doc22	10	An improvement was observed in the processes related to patient safety in the institution.
+doc22	11	Top management support and leadership engagement were key to this journey.
+doc25	1	Bolsa Família Programme and the reduction of child mortality in the municipalities of the Brazilian semiarid region.
+doc25	2	In 2003, the Brazilian federal government launched the Bolsa Família Programme (Programa Bolsa Família - PBF), a widespread conditional cash transfer to poor households when they comply with conditions related to health and education.
+doc25	3	A longitudinal ecological study using panel data from 1,133 municipalities of the Brazilian semiarid region was performed.
+doc25	4	The main goal was to assess the effect of the PBF on child mortality (CM) in the semiarid region of Brazil during the period of 2004-2010.
+doc25	5	Associations were estimated using a multivariate linear regression for the panel data with fixed effects.
+doc25	6	The child mortality rate (CMR) was considered the dependent variable, adjusted for relevant social and demographic covariates, and for the effect of the largest primary healthcare scheme in the country through the Family Health Strategy (FHS).
+doc25	7	The PBF and the FHS played significant roles in reducing CM, increasing prenatal consultations, reducing illiteracy rates, lowering fertility levels, and decreasing the number of individuals living in households with inadequate access to water supplies and sanitation.
+doc25	8	In conclusion, the PBF had a positive impact on reducing CM levels; its impact was boosted by the intervention of other social and demographic factors.
+doc26	1	Knowledge and practices for the prevention of the diabetic foot.
+doc26	2	OBJECTIVE
+doc26	3	Describe the knowledge and practices performed by people for diabetic foot prevention.
+doc26	4	METHODS
+doc26	5	This was a cross-sectional, descriptive study, with a random stratified sample, comprised of 304 people with type 2 diabetes mellitus.
+doc26	6	The information was collected through an instrument designed by the researchers that assessed sociodemographic aspects, and level of knowledge and practices of the participants in diabetic foot care prevention.
+doc26	7	RESULTS
+doc26	8	In the assessment of diabetic foot care prevention, there was a low and average level of knowledge, whereas practices were moderately adequate.
+doc26	9	CONCLUSIONS
+doc26	10	The results for diabetic foot prevention knowledge and practices are not very encouraging.
+doc26	11	In light of this situation, primary care programs are important, where nurses provide effective education, as a mechanism for modifying the behavior of people with diabetes mellitus.
+doc33	1	Factors associated with preterm birth: from logistic regression to structural equation modeling.
+doc33	2	This study proposed the application of structural equation modeling (SEM) to investigate variables associated with preterm birth based on a theoretical model analyzed previously by hierarchical logistic regression.
+doc33	3	The data came from a population-based case-control observational study of hospital births to mothers residing in Londrina, Paraná State, Brazil (June 2006 to March 2007).
+doc33	4	For the SEM, the study considered the association between socioeconomic characteristics and psychosocial aspects pertaining to reproductive history, work and physical activity, complications during the pregnancy, and fetal characteristics.
+doc33	5	It also considered the relationship between these associations and the outcome preterm birth mediated by adequacy of prenatal care.
+doc33	6	The weighted least square mean and variance adjusted estimator (WLSMV) was used for categorical data and robust maximum likelihood (MLR) for odds ratios.
+doc33	7	Three latent variables were created: socioeconomic vulnerability, family vulnerability, and unwanted pregnancy.
+doc33	8	The effect of socioeconomic and family vulnerability and unwanted pregnancy on prematurity occurred indirectly through inadequacy of prenatal care.
+doc33	9	The proposed methodology allowed using constructs, verifying the role of mediation by inadequacy of prenatal care, and identifying the variables' direct and indirect effects on the outcome preterm birth.
+doc34	1	Non-Japanese, Japanese and Japanese descendant older adults in the Health, Wellbeing and Aging Study: functional and health conditions.
+doc34	2	INTRODUCTION
+doc34	3	The city of São Paulo has the largest community of Japanese descendants outside of Japan.
+doc34	4	OBJECTIVES
+doc34	5	To compare the demographic, economic, functional, and health conditions of non-Japanese, Japanese, and their descendants; and to analyze comparatively the functional and health conditions of older adults born in Japan and their descendants born in Brazil.
+doc34	6	METHODS
+doc34	7	A cross-sectional study was carried out in the city of São Paulo, in 2010, with 1,345 older adults (≥ 60 years) participants in the SABE Study (Health, Welfare and Aging).
+doc34	8	The participants were classified as non-Japanese (not born in Japan), Japanese (born in Japan) or have reported being a direct descendant of Japanese.
+doc34	9	For the data analysis, χ2 test with Rao-Scott correction was used.
+doc34	10	RESULTS
+doc34	11	Of the 1,345 older adults, 3.3% were Japanese or descendants.
+doc34	12	These differed from non-Japanese in terms of higher education and reported income sufficiency.
+doc34	13	Among older adults born in Japan, there was a higher proportion of oldest old (38.8%), cardiovascular diseases (48.9%) and cognitive decline (26.7%).
+doc34	14	CONCLUSION
+doc34	15	It is noted that Japanese and descendants older adults presented better functionality when compared to non-Japanese.
+doc34	16	Among Japanese and descendants, differences in the profile of diseases were observed.
+doc34	17	It is believed that such results may be due to cultural influences.
+doc35	1	Spelling errors and phonological awareness skills in children with typical and atypical phonological development.
+doc35	2	PURPOSE
+doc35	3	To verify and correlate the spelling errors present in the written productions to the performance in phonological awareness skills of children in different school years, with typical and atypical phonological development.
+doc35	4	METHODS
+doc35	5	The sample consisted of 50 children divided into two groups: with typical phonological development (TPD) and with atypical phonological development (APD); students from the early years (1st to 5th grades) of schooling and ages between 6:0 and 10:0 years old.
+doc35	6	The children were submitted to speech-language and audiological evaluations.
+doc35	7	Data were tabulated and statistical analyzes were performed using the Spearman Correlation Coefficient.
+doc35	8	RESULTS
+doc35	9	In relation to the number of spelling errors in writing, these were similar in the TPD and APD groups, except for the contextual-arbitrary errors that were greater for the APD.
+doc35	10	Still, it was observed that the number of written spelling errors decreased with the increase in schooling.
+doc35	11	Concerning the average performance in phonological awareness, the TPD performed better than the APD in syllabic and phonemic awareness.
+doc35	12	The children of 4th and 5th grades presented better performance in phonological awareness than those in grades 1st to 3rd.
+doc35	13	CONCLUSION
+doc35	14	The correlation was inversely proportional between the phonological awareness performance and the number of spelling errors (those that alter the syllabic structure) for both groups, demonstrating that the more errors of this type, the lower the performance in syllabic, phonemic and total phonological awareness.
+doc37	1	Nutrition status of elderly smokers and former smokers of São Paulo City, Brazil.
+doc37	2	OBJECTIVES
+doc37	3	The concomitance of smoking and poor dietary habits represents a worsened prognosis of health and quality of life for elderly.
+doc37	4	The aim of this study was to characterize the nutritional status of elderly who were smokers and former smokers and residents of São Paulo city.
+doc37	5	METHODS
+doc37	6	A cross-sectional study was conducted in 2010 with a representative sample of 1,345 individuals aged 60 years and over, who were part of the elderly cohort monitored at the SABE Study.
+doc37	7	Sociodemographic, health, and nutritional aspects of the elderly were described, according to their tobacco use in life.
+doc37	8	RESULTS
+doc37	9	The proportion of smokers and former smokers was 12.9 and 54.7%, 11.0 and 25.2%, and 11.8 and 37.2% for male, female, and total population, respectively.
+doc37	10	For both genders, increasing age decreased the proportion of smokers.
+doc37	11	The proportion of proper fruit intake was smaller for female smokers.
+doc37	12	Poorer nutritional status was observed in smokers, who had fewer meals per day and greater frequency of underweight compared with elderly nonsmokers.
+doc37	13	CONCLUSION
+doc37	14	Considering the impact of inappropriate eating habits and smoking on health, elderly smokers deserve special attention on their nutritional status.
+doc44	1	Social inequalities in the self-rated health of the elderly people in the city of São Paulo, Brazil.
+doc44	2	OBJECTIVE
+doc44	3	To describe the prevalence of the self-rated poor and very poor health status among elderly people who were not in nursing homes and were living in São Paulo, Brazil, in 2010, and to identify whether the social inequalities previously reported for this condition persist.
+doc44	4	METHODS
+doc44	5	We carried out a cross-sectional study, with a representative sample of 1,344 people aged 60 years or more living in the city, who participated in the SABE Study (Health, Well-Being, and Aging).
+doc44	6	We applied a questionnaire about sociodemographic characteristics, which included three questions on self-rated health status: a direct question about the current condition, a comparison with the condition of the other people of the same age, and a comparison with oneself a year before.
+doc44	7	The comparative analysis used Poisson regression models, reporting the prevalence ratio as a measure of association between variables.
+doc44	8	RESULTS
+doc44	9	Only 7.8% of the elderly individuals reported a negative self-rated health status in 2010, similar proportion to those that consider themselves to be in worse health condition than the other people of the same age (8.7%).
+doc44	10	However, the prevalence of elderly people that reported worsening in comparison with the previous year was higher, of 29.2%.
+doc44	11	Regardless of the question used, the prevalence of negative self-rated health was directly associated with worse indicators of income, educational status, and consumer classes.
+doc44	12	Significant differences between genders, age groups, and skin color categories were also observed.
+doc44	13	CONCLUSION
+doc44	14	Differences in the prevalence of self-rated negative health status continue to affect the sociodemographic groups.
+doc44	15	The knowledge already available about social inequalities in health did not eliminate or attenuate social injustice in this outcome.
+doc46	1	The Use of Mobile Educational Tools to Improve Antimicrobial Prescription for the Treatment of Acute Pyelonephritis in Pregnancy: A Retrospective Cross-sectional Study.
+doc46	2	OBJECTIVE
+doc46	3	To analyze the prescription of antimicrobial agents for pregnant women admitted into the obstetrics service who presented with acute pyelonephritis.
+doc46	4	METHODS
+doc46	5	Three cross-sectional studies were performed comparing the prescription of antimicrobials for pyelonephritis in pregnant women in the time periods evaluated (2010-2011: 99 patients evaluated; 2013: 116 patients evaluated; 2015: 107 patients evaluated), at the Hospital Fêmina, Porto Alegre, in the state of Rio Grande do Sul, Brazil.
+doc46	6	The analysis was performed before and after the promotion of an institutional protocol for the treatment of pyelonephritis during pregnancy, and on a third occasion after the introduction of a smartphone-based mobile educational tool.
+doc46	7	RESULTS
+doc46	8	The evaluation of the prescribing physicians and the adequacy of the prescriptions between the different periods studied revealed a significant increase in appropriate conduct for the choice of antimicrobial (2010: 83.8%; 2013: 95.7%; and 2015: 100%), route of administration (2010: 97%; 2013: 100%; and 2015: 100%), and interval (2010: 91.9%; 2013: 95.7%; and 2015: 100%), following the introduction of the protocol, and again after the implementation of the software application with orientations on the antimicrobial treatment.
+doc46	9	CONCLUSION
+doc46	10	The use of specific mobile applications should be encouraged to attain a better quality and accuracy in prescriptions and to include strategies that not only reduce the risk of negative outcomes, but also improve the quality of care and treatment for maintaining the health both of the mother and of the baby.
+doc51	1	[The transnationalization of normal childbirth in Brazil: a study of the last five decades].
+doc51	2	In recent years, changes have taken place in Brazilian obstetrics in response to the distance between the national scenario and World Health Organization recommendations and the work of organized civil society.
+doc51	3	This indicates the need for the national and international contexts to be considered.
+doc51	4	As such, the aim here is to understand the influence of transnationalism on normal childbirth in Brazil.
+doc51	5	Documental research was conducted to trace out the development of obstetrics in the country.
+doc51	6	It was found that the historical trajectory of normal childbirth in Brazil has not necessarily been restricted to national borders, but has been influenced by transnational recommendations and standards, orienting the creation of new regulations.
+doc52	1	Performance pattern of activities of daily living for older adults in the city of São Paulo in 2000, 2006, and 2010.
+doc52	2	INTRODUCTION
+doc52	3	Functionality in aging is associated with the autonomy and independence of older people.
+doc52	4	OBJECTIVE
+doc52	5	To identify and hierarchize the difficulties reported by older adults in performing activities of daily living.
+doc52	6	METHOD
+doc52	7	This is a cross-sectional, descriptive, household-based study that used the Health, Well-being, and Aging Study (Saúde, Bem-Estar e Envelhecimento - SABE) database of 2000, 2006, and 2010. We evaluated the functionality using reports on the difficulty in performing basic and instrumental activities of daily living (ADL and IADL, respectively).
+doc52	8	The Guttman scaling assessed the hierarchy of functional impairment.
+doc52	9	RESULTS
+doc52	10	The prevalence of reported difficulty in performing one or more IADLs was 35.4, 45.8, and 41.0%; while for ADLs, it was 16.3, 13.3, and 17.5%, in 2000, 2006, and 2010, respectively.
+doc52	11	In ten years of follow-up, the variability in prevalence among women ranged from 42.3 to 54.6% for IADL impairment, and 17.0 to 20.4% for ADL.
+doc52	12	For men, it varied from 25.6 to 33.1% for IADL impairment, and 8.0 to 13.7% for ADL.
+doc52	13	In the three waves, the activities with the highest reported difficulty were using transportation, performing heavy tasks, and managing finances, while feeding was the least prevalent.
+doc52	14	CONCLUSION
+doc52	15	The prevalence of functional impairment increased in ten years, with higher variability among women and with advancing age.
+doc52	16	These results contribute to the planning of services and adequate distribution of existing resources as they reveal the needs and care required.
+doc55	1	Factors associated with need for dental treatment: a cross-sectional study at Fluminense Federal University, Rio de Janeiro, Brazil, 2013.
+doc55	2	OBJECTIVE
+doc55	3	to analyze factors associated with the need for dental treatment in adults due to dental caries and tooth loss.
+doc55	4	METHODS
+doc55	5	this was a cross-sectional study with a random sample of adults attending Fluminense Federal University School of Dentistry outpatient clinics, in Niterói, RJ, between July and December 2013; we used data collected from clinical records; a questionnaire was administered in interviews; logistic regression analysis was performed to obtain crude and adjusted odds ratios (OR).
+doc55	6	RESULTS
+doc55	7	212 individuals participated, 71.7% were women; the prevalence of need for dental treatment was 56.1% (95%CI 49.4;62.7); need for treatment was lower in individuals with higher family income (OR=0.53 - 95%CI 0.28;0.98), and higher in women (OR=2.28 - 95%CI 1.21;4.32).
+doc55	8	CONCLUSION
+doc55	9	prevalence of need for treatment in adults was high, especially in women and people with lower family income.
+doc56	1	CLINICAL EVALUATION OF PATIENTS WITH VANCOMYCIN SPACER RETAINED FOR MORE THAN 12 MONTHS.
+doc56	2	Objective
+doc56	3	There is no consensus in the literature regarding the time taken to remove antibiotic spacers in the treatment of bone infections.
+doc56	4	The aim of this study is to evaluate the clinical results of patients with prolonged retention of the same.
+doc56	5	Methods
+doc56	6	Patients selected were diagnosed with post-osteosynthesis infection and/or osteomyelitis and were submitted to treatment using an orthopedic cement spacer (polymethylmethacrylate) with vancomycin, retaining it for a period of more than 12 months.
+doc56	7	They were clinically evaluated to determine the presence of local or systemic infectious signs via hemogram, investigations of inflammatory markers, liver, renal and, with radiographic control.
+doc56	8	Results
+doc56	9	Eighteen patients were included in the study.
+doc56	10	The mean retention time of the spacer was 30.4 months (15 - 61 months).
+doc56	11	No patient had clinical signs of local or systemic infectious relapse at the time of evaluation.
+doc56	12	Seven patients (39%) presented non-disabling pain in the operated limb.
+doc56	13	Seventeen patients (94%) presented a reduction in C-reactive protein values compared to the preoperative period.
+doc56	14	Radiographically, no migration, no spacer failure, or bone sequestration occurred.
+doc56	15	Conclusion
+doc56	16	In this retrospective case series, cement spacer retention with vancomycin for more than 12 months was associated with good clinical results, without relapse of the infectious condition.  .
+doc57	1	Quantification of visceral adipose tissue by computed tomography and magnetic resonance imaging: reproducibility and accuracy.
+doc57	2	Objective
+doc57	3	To evaluate the feasibility of quantifying visceral adipose tissue (VAT) on computed tomography (CT) and magnetic resonance imaging (MRI) scans, using freeware, as well as calculating intraobserver and interobserver reproducibility.
+doc57	4	Materials and Methods
+doc57	5	We quantified VAT in patients who underwent abdominal CT and MRI at our institution between 2010 and 2015, with a maximum of three months between the two examinations.
+doc57	6	A slice acquired at the level of the umbilicus was selected.
+doc57	7	Segmentation was performed with the region growing algorithm of the freeware employed.
+doc57	8	Intraobserver and interobserver reproducibility were evaluated, as was the accuracy of MRI in relation to that of CT.
+doc57	9	Results
+doc57	10	Thirty-one patients (14 males and 17 females; mean age of 57 ± 15 years) underwent CT and MRI (mean interval between the examinations, 28 ± 12 days).
+doc57	11	The interobserver reproducibility was 82% for CT (bias = 1.52 cm2; p = 0.488), 86% for T1-weighted MRI (bias = -4.36 cm2; p = 0.006), and 88% for T2-weighted MRI (bias = -0.52 cm2; p = 0.735).
+doc57	12	The intraobserver reproducibility was 90% for CT (bias = 0.14 cm2; p = 0.912), 92% for T1-weighted MRI (bias = -3,4 cm2; p = 0.035), and 90% for T2-weighted MRI (bias = -0.30 cm2; p = 0.887).
+doc57	13	The reproducibility between T1-weighted MRI and T2-weighted MRI was 87% (bias = -0.11 cm2; p = 0.957).
+doc57	14	In comparison with the accuracy of CT, that of T1-weighted and T2-weighted MRI was 89% and 91%, respectively.
+doc57	15	Conclusion
+doc57	16	The program employed can be used in order to quantify VAT on CT, T1-weighted MRI, and T2-weighted MRI scans.
+doc57	17	Overall, the accuracy of MRI (in comparison with that of CT) appears to be high, as do intraobserver and interobserver reproducibility.
+doc57	18	However, the quantification of VAT seems to be less reproducible in T1-weighted sequences.
+doc60	1	EPIDEMIOLOGY OF TRAUMATIC INJURIES OF THE UPPER LIMBS IN A UNIVERSITY HOSPITAL.
+doc60	2	Objective
+doc60	3	To evaluate the epidemiology of traumatic injuries of the upper limbs treated at a university hospital and identify the causes, types of injuries, and risk factors.
+doc60	4	Methods
+doc60	5	A prospective study was performed with accidents resulting in trauma categorized into three groups: domestic, occupational, or transportation-related.
+doc60	6	A questionnaire containing information about the patient and the accident was administered.
+doc60	7	Lesion characteristics were evaluated according to the injured area, the type of injury, and the management strategy adopted for each case.
+doc60	8	Results
+doc60	9	A total of 613 patients were evaluated.
+doc60	10	The most frequent accidents were domestic (66.6%), predominantly involving men (67.9%) with a mean age of 31 years.
+doc60	11	Wrist lesions prevailed in transportation-related (31.1%) and domestic (29.6%) accidents, and in accidents involving fingers at work (54.2%).
+doc60	12	Closed fractures were more frequent and conservative treatment was indicated most often.
+doc60	13	Serious injuries were associated with finger accidents (39.4%).
+doc60	14	There was a correlation between the level of education and the type of accident.
+doc60	15	Conclusion
+doc60	16	Traumatic injuries of the upper limbs were more frequent in domestic accidents and in male patients.
+doc60	17	Closed fractures were the most common type of fracture and were usually treated conservatively.
+doc60	18	Serious injuries were more often related to finger trauma.
+doc60	19	Education level influenced domestic, transportation-related, and occupational accidents.
+doc60	20	Level of Evidence IV, Case Series.
+doc61	1	[Systematic review of studies on reports of violence against children and adolescents in Brazil].
+doc61	2	This systematic review investigates how violence against children and adolescents data have been accessed, analyzed and discussed in Health scientific literature in Brazil.
+doc61	3	A sample of 50 articles, based in violence cases registered in the period from 1990 to 2015, was selected throughout the bases SciELO, PePSIC, Lilacs, Web of Science e Scopus.
+doc61	4	The analysis of frequency distribution pointed out that the major document typology consulted was the violence notification to the Guardianship Council.
+doc61	5	Characteristics of victims and of the violence situation were the most frequently analyzed.
+doc61	6	The data set permitted infer about the evolution of the violence epidemiological vigilance in the period considered.
+doc61	7	The Thematic Analysis showed that data was discussed in relation to the different contextual levels in which violence is manifested.
+doc61	8	The high absence of the information registered and the inexistence of psychosocial variables precedents to the violent situations interfered in the appliance of recent theoretical models.
+doc64	1	Life habits of hypertensive elderly men.
+doc64	2	OBJECTIVES
+doc64	3	To identify the habits of life in elderly hypertensive men of the city of Currais Novos/RN; correlate life habits and presence of comorbidities.
+doc64	4	METHODS
+doc64	5	An exploratory and descriptive, quantitative study with a sample of 136 elderly hypertensive patients.
+doc64	6	Data collection took place from August to October 2016, through the structured interview technique.
+doc64	7	Descriptive and inferential analysis was performed using the Statistical Package for the Social Sciences 20.0.
+doc64	8	RESULTS
+doc64	9	Most of them reported practicing physical activity (52.9%), seeking health services (82.4%), having healthy eating (94.9%), denying smoking (91.2%) and alcoholism (77.9%).
+doc64	10	The most frequent comorbidity was diabetes (17.6%).
+doc64	11	CONCLUSIONS
+doc64	12	Most participants reported having healthy life habits, which they believe influence on disease control.
+doc64	13	Among the investigated parameters, only the habit of not smoking was associated with the absence of hypertensive peaks; the other habits did not present statistical association with the comorbidities.
+doc66	1	Evaluation of the implantation of the Notifiable Diseases Information System in Pernambuco state, Brazil, 2014.
+doc66	2	OBJECTIVE
+doc66	3	to evaluate the implantation of the Notifiable Diseases Information System (SINAN) in Pernambuco, Brasil, 2014.
+doc66	4	METHODS
+doc66	5	This was an evaluation study based on primary data (interviews) and secondary data (SINAN documents/data) provided by the State Health Department and its Regional Divisions in order to estimate the degree of SINAN implantation, comparing structure and process indicators with results achieved.
+doc66	6	RESULTS
+doc66	7	SINAN was found to be partially implemented at central level (77.2%); and at regional level (61.2%), ranging from 54.7 to 71.6%; the following components had been implemented: reporting/investigation (90.0%) and processing (84.1%); analysis/divulgation had been partially implemented (61.6%); while monitoring (53.4%) and management (56.8%) were incipient; there was a lack of planning and published information bulletins; 46.9% of municipalities closed compulsory reporting on time; 68.7% sent batches regularly, 3.0% of tuberculosis cases were duplicated.
+doc66	8	CONCLUSION
+doc66	9	SINAN was found to be partially implemented in Pernambuco due to shortcomings in monitoring and management, with negative influences on system results; its strengths related to reporting, investigation and data processing.
+doc67	1	Social vulnerability and breast cancer: differentials in the interval between diagnosis and treatment of women with different sociodemographic profiles.
+doc67	2	This study aimed to identify the sociodemographic profiles of women diagnosed as breast cancer in the city of Belo Horizonte and to investigate its association with interval between diagnosis and treatment.
+doc67	3	A cross-sectional study from hospital records of 715 patients undergoing treatment between 2010 and 2013. Cluster analysis was used to delineate the profiles from the variables: age, color of the skin, education and cost of treatment.
+doc67	4	The association between profiles and intervals was investigated using multinomial logistic regression.
+doc67	5	Five profiles were identified: A (white skin color, years of schooling >15 and treatment through private healthcare systems); B (white skin color, years of schooling = 11 and treatment through the Unified National Health System (SUS); C and D (brown skin color, years of schooling = 11 and < 8 respectively, and SUS); E (black skin color, years of schooling < 8, and SUS).
+doc67	6	Profiles B, C, D and E were associated with increased diagnosis-to-treatment intervals regardless of cancer staging upon diagnosis; and profile E had 37- fold higher chances of interval > 91 days (OR: 37.26; 95% CI:11.91-116.56).
+doc67	7	Breast cancer patients with social vulnerability profiles wait longer for treatment even after overcoming barriers to access oncology units.
+doc68	1	[Gender, history, and the medicalization of childbirth: the exhibition "Women and Health Practices"].
+doc68	2	With the institutionalization of medicine in childbirth there came about a shift in gender roles.
+doc68	3	In the late nineteenth century, at the same time as midwives' work was being marginalized and discredited, women were fighting to gain access to university-level medical education.
+doc68	4	In the first half of the twentieth century, there was a marked scarcity of women at medical faculties, and the work of midwives was important, especially in hospital settings.
+doc68	5	Part of this history is contained in the exhibition "Women and Health Practices" at the Museum of the History of Medicine of Rio Grande do Sul.
+doc68	6	We highlight the value given to this knowledge and these practices amongst the Brazilian population by means of informal education at museums.
+doc69	1	Epidemiology of Acute Liver Failure from a Regional Liver Transplant Center in Portugal.
+doc69	2	Background and Aims
+doc69	3	Acute liver failure (ALF) is a rare disease with potentially high mortality rates.
+doc69	4	We aimed to study the recent epidemiology of ALF in one of the Portuguese liver transplant (LT) regions.
+doc69	5	Methods
+doc69	6	We assessed a retrospective cohort including 34 consecutive patients with ALF admitted to the intensive care unit (ICU) of Curry Cabral Hospital (Lisbon, Portugal) between October 2013 and December 2016.
+doc69	7	Results
+doc69	8	The median age (IQR) was 49 (31-67) years, and 21 (62%) of the cohort were female.
+doc69	9	Non-paracetamol etiologies were found in 29 patients (85%).
+doc69	10	On ICU admission, grade 3-4 hepatic encephalopathy developed in 10 patients (29%); invasive mechanical ventilation, vasopressors, and renal replacement therapy were required for 8 (24%), 7 (21%), and 5 (15%) of the patients, respectively; the King's College criteria (KCC) were fulfilled by 16 patients (47%).
+doc69	11	Of the 15 (44%) nontransplanted patients, 11 (73%) died during their hospital stay.
+doc69	12	Of the 19 (56%) transplanted patients, 4 (21%) died during their hospital stay.
+doc69	13	KCC were not associated with hospital mortality (p = 0.97), but they were significantly associated with LT (p = 0.008).
+doc69	14	Conclusions
+doc69	15	In a Portuguese cohort of patients with ALF, non-paracetamol etiologies were predominant.
+doc69	16	Hospital mortality was much lower amongst transplanted patients.
+doc70	1	[Association between physical activity levels and adolescents' self-perception of self-esteem].
+doc70	2	Physical activity levels and the self-perception of self-esteem are kindred factors of the health status of the population.
+doc70	3	Therefore, the scope of this research was to analyze the association between physical activity levels and adolescents' self-perception of self-esteem.
+doc70	4	The sample consisted of 98 individuals with an average age of 16.7 ± 1.2. Two tools were used: The International Physical Activity Questionnaire - short version, and the Rosenberg Self-Esteem Scale.
+doc70	5	Binary logistic regression (Odds Ratio) with α of 5% was then applied.
+doc70	6	The theoretical evidence revolved around the contemporary approach to the definition of health; and the results were discussed in the light of the behavioral theory of the adolescent.
+doc70	7	There was a predominance of active adolescents (41.8%), as well as a smaller proportion of sedentary adolescents (4.1%).
+doc70	8	A total of 55.1% had high self-esteem, while 44.9% were found to have low self-esteem.
+doc70	9	The conclusion drawn is that there was no association (Wald F = 2.756; p = 0.600) between the level of physical activity and the self-perception of self-esteem.
+doc70	10	Lastly, the behavioral aspects of the adolescent that point to future potential areas of investigation related to the theme of this group were discussed.
+doc74	1	Factors associated with balance disorders of elderly living in the city of São Paulo in 2006: evidence of the Health, Well-being and Aging (SABE) Study.
+doc74	2	OBJECTIVE
+doc74	3	To analyze the influence of demographic, health condition, and lifestyle factors on body balance disorders among elderly subjects living in the city of São Paulo, Brazil, in 2006.
+doc74	4	METHODS
+doc74	5	Thestudy was developed based on information provided by the Health, Well-being, and Aging (SABE) Study.
+doc74	6	It included 60-year-old subjects, both men and women, or those over this age.
+doc74	7	The sample comprised 1,226 subjects that represented 930,639 elderly subjects.
+doc74	8	The dependent variable was the elderly's body balance disorder, which was measured using part of the Short Physical Performance Battery (SPPB).
+doc74	9	The independent variables were divided into three groups: demographic, health conditions, and lifestyle.
+doc74	10	The multiple binary logistic regression analysis was applied to estimate the association between balance disorders and demographic, health, and lifestyle variables in the elderly.
+doc74	11	RESULTS
+doc74	12	Age, difficulties in at least one mobility, and performance of regular physical activities showed a significant influence on the elderly's body balance (p < 0.05).
+doc74	13	Age was the strongest related determiner.
+doc74	14	Being aged 75-79 years and 80 years or more increased 3.77 and 5.31 times, respectively, the chances of the elderly subjects present balance disorders in comparison with the 60- to 64-years-old.
+doc74	15	CONCLUSION
+doc74	16	Preventive measures that aim at reversing a body instability condition should be preconized and incorporated in the elderly's health-care schedule.
+doc75	1	Medicalization of pregnancy and childbirth in the pages of Claudia, 1961-1990.
+doc75	2	The role of the women's magazine Claudia as a pedagogic device in the medicalization of pregnancy and childbirth in Brazil is discussed.
+doc75	3	The analysis of issues from the magazine's first three decades shows how information in this field was presented and taught, articulating elements of biomedicine, technology, and consumption.
+doc75	4	Under the aegis of the supremacy of scientific rationality and politics of risk, pregnancy and childbirth were resignified and incorporated into new medical and technological regimes, which included the need for women to internalize the desire and obligation to be healthy during pregnancy and produce healthy children.
+doc75	5	Claudia translated new scientific and medical knowledge for its readers, along with new norms of motherhood, reflecting the complexity and multiple agency of medicalization.
+doc79	1	[Level of knowledge on zoonoses in dog and cat owners].
+doc79	2	OBJECTIVES
+doc79	3	To assess knowledge about zoonoses in dog and cat owners.
+doc79	4	MATERIALS AND METHODS
+doc79	5	After applying a questionnaire to 100 owners, data was analyzed by calculating simple means and quantifiable percentage.
+doc79	6	RESULTS
+doc79	7	77% of the sample owned dogs and 37% cats.
+doc79	8	All of them claimed to know that animals transmit diseases, but 74% said they were unaware of zoonoses and 80% never received information on the subject.
+doc79	9	Over 90% of respondents said they know of diseases transmitted by dogs and cats, and 94% point dogs as transmitters of rabies, with 90% being associated with bites, and 88% recognizing vaccination as prevention.
+doc79	10	Regarding leishmaniasis, 45% associated transmission by mosquito bites and 22% knew about prevention with repellent collars.
+doc79	11	Mice were associated with the transmission of leptospirosis by 57%, and 22% mentioned feces as a source of infection and 19% controlling rodents as a prevention measure.
+doc79	12	59% of the sample reported that cats are transmitters of toxoplasmosis, that feces are the main source (26%) and that hygiene is as a prevention measure (25%).
+doc79	13	Only 9% knew about sporotrichosis, 6% recognized scratching as a form of transmission by cats and 3% indicated the treatment of diseased animals as a prevention measure.
+doc79	14	DISCUSSION
+doc79	15	This study demonstrates the lack of awareness among the target population of the aforementioned zoonoses.
+doc79	16	CONCLUSION
+doc79	17	The results are important to design preventive health education strategies focused on public health.
+doc84	1	ROTATION ASSESSMENT IN ADOLESCENT IDIOPATHIC SCOLIOSIS WITH ROD DEROTATION.
+doc84	2	Objective
+doc84	3	Adolescent idiopathic scoliosis (AIS) is characterized by rotational and lateral deformity of the spine.
+doc84	4	The measurement of vertebral rotation is important for prognosis and treatment.
+doc84	5	Our objective was to evaluate whether the Nash-Moe method can be used to measure axial deformity correction with surgical treatment using the rod derotation maneuver at both the apex and extremities of the deformity in patients with AIS.
+doc84	6	Methods
+doc84	7	Rotation was assessed using the Nash and Moe criteria, on preoperative and postoperative radiographs.
+doc84	8	We also evaluated the severity on the coronal plane using the Cobb method, ratio of correction achieved, screw density, and number of vertebrae involved in the instrumentation.
+doc84	9	Results
+doc84	10	The Cobb method correction average was 54.8%.
+doc84	11	When we disregarded vertebrae that presented preoperative Nash-Moe grade 0, the average measurable correction was 54.5% in the first non-instrumented vertebra above, 69.2% in the first instrumented vertebra, 32.2% in the apical vertebra, 36.8% in the last instrumented vertebra, and 30% in the first non-instrumented vertebra below.
+doc84	12	In our study, 32.14% of the patients presented a measurable correction in the apical vertebra.
+doc84	13	Conclusion
+doc84	14	On the axial plane, correction can be satisfactorily evaluated using the Nash-Moe method.
+doc86	1	Acute spontaneous unilateral adrenal hemorrhage: etiology and imaging findings in six cases.
+doc86	2	Objective
+doc86	3	To evaluate the computed tomography characteristics of patients admitted with clinical suspicion of acute adrenal hemorrhage at three centers over a 3-year period and in whom that diagnosis was ultimately confirmed.
+doc86	4	Materials and Methods
+doc86	5	This was a retrospective analysis of computed tomography findings in patients with suspected acute adrenal hemorrhage.
+doc86	6	We included only those cases in which the diagnosis was confirmed.
+doc86	7	Patients with aortic rupture and retroperitoneal hemorrhage were excluded.
+doc86	8	The images were analyzed by an experienced radiologist and by two radiology residents.
+doc86	9	Results
+doc86	10	Six cases of unilateral adrenal hemorrhage (three on the left and three on the right) were analyzed.
+doc86	11	On computed tomography, each appeared as a rounded, oval mass altering the usual anatomy of the adrenal gland.
+doc86	12	The maximum diameter was 12.2 cm, and attenuation ranged from 45 to 70 HU.
+doc86	13	There was no appreciable contrast enhancement.
+doc86	14	No calcifications were observed.
+doc86	15	Conclusion
+doc86	16	Adrenal hemorrhage, albeit rare, is potentially fatal.
+doc86	17	Early diagnosis is essential.
+doc86	18	Therefore, recognition of the possible presentations of these lesions by radiologists may help prevent hemorrhage from progressing to adrenal insufficiency and death.
+doc91	1	Representation of the black woman on the Brazilian Ministry of Heath advertising posters.
+doc91	2	OBJECTIVE
+doc91	3	To describe and analyze the forms of representation of black women in posters used by the Brazilian Ministry of Health for advertising campaigns on women's sexual and reproductive health.
+doc91	4	METHOD
+doc91	5	Descriptive, exploratory and documentary study with advertising posters addressing the promotion of women's sexual and reproductive health, available at the Virtual Health Library - Brazil.
+doc91	6	For the analysis of data, the thematic content analysis was used.
+doc91	7	RESULTS
+doc91	8	Out of the 498 identified posters, 161 addressed women's sexual and reproductive health.
+doc91	9	After applying the exclusion criteria, 41 posters remained, of which 31 (75.6%) represented a white woman, nine (21.9%) a black woman, and one an indigenous woman (2.4%).
+doc91	10	Data analysis converged to two analytical categories: the pseudo representation of black women; and women's sexual and reproductive health limited to pregnancy and postpartum.
+doc91	11	CONCLUSION
+doc91	12	The representation of the black woman in the advertising posters of the Brazilian Ministry of Health is low, and the themes addressed in the posters do not contemplate all the phenomena that make up the sexual and reproductive health of women during their life cycle.
+doc92	1	The capacity for resilience and social support in the urban elderly.
+doc92	2	Resilience is the human capacity to adapt to adverse life situations; it can be enhanced by the action of various protective factors and one of the most important of these is social support.
+doc92	3	The objective of this study was to identify associations between resilience and sociodemographic variables (gender, age, income, marital status, housing arrangements and religion), as well as correlations between resilience and social support in a sample of 86 urban elderly people.
+doc92	4	A sociodemographic questionnaire, the Resilience Scale and the Social Support Scale were used.
+doc92	5	The mean age was 75.7 years (SD = 5.35), with a predominance of women (72.1%, n = 62).
+doc92	6	A high level of resilience (M = 134.37, SD = 16.6) and a moderate level of social support (M = 17.36, SD = 2.77) were observed in the elderly people.
+doc92	7	There was only a significant association between resilience and religion (χ2 = 0.30; p = 0.027).
+doc92	8	Only a weak and positive correlation was observed between the factor of independence and determination on the Resilience Scale with social support (p = 0.005).
+doc92	9	Linear regression analysis revealed that social support was not a predictive variable for the capacity of resilience in the researched group.
+doc92	10	It is necessary to create new research instruments that permit a more precise study of the protective effects of social support regarding the capacity for resilience in the elderly.
+doc93	1	Comparison of nutritional status and dietary intake self-reported by elderly people of different birth cohorts (1936 to 1940 and 1946 to 1950): Health, Wellbeing and Aging (SABE) Study.
+doc93	2	INTRODUCTION
+doc93	3	The aging process is characterized by several changes in individuals' life, including his or her nutritional status and food intake.
+doc93	4	To understand the trends of these changes, studies with elderly people who were born at different times are necessary.
+doc93	5	OBJECTIVE
+doc93	6	To compare the nutritional status and food intake of elderly people who participated in the Health, Well-being, and Aging study (SABE study), conducted in São Paulo, in 2000 and 2010.
+doc93	7	METHODS
+doc93	8	The nutritional status was identified by means of the body mass index (BMI) and was classified as underweight (BMI < 23 kg/m²), adequate weight (23 ≤ BMI < 28 kg/m²), or overweight (BMI ≥ 28 kg/m).
+doc93	9	Food intake was self-reported and was classified as the number of meals (≥ 3/day), frequency of intake of dairy products (≥ 1 serving/day), eggs and beans (≥ 1 serving/week), fruits and vegetables (≥ 2 servings/day), meat (≥ 3 servings/week), and liquids (≥ 5 glasses/day).
+doc93	10	The prevalence ratio was calculated to compare the variables of the cohorts, using Poisson regression.
+doc93	11	RESULTS
+doc93	12	A total of 755 individuals of both the genders aged 60 to 64 years and who were born between 1936 and 1940 and between 1946 and 1950 participated in this study.
+doc93	13	Elderly people who were born between 1946 and 1950 presented higher prevalence ratio of overweight (PR = 1.19), number of meals (PR = 1.34), and liquids intake (PR = 1.18), but presented lower prevalence of intake of dairy products (PR = 0.87), meats (PR = 0.93), and fruits and vegetables (PR = 0.83).
+doc93	14	CONCLUSION
+doc93	15	These results showed concerning scenarios of nutritional status and food intake for the most recent cohort (1946 - 1950).
+doc94	1	Syphilis in Pregnancy: The Reality in a Public Hospital.
+doc94	2	OBJECTIVE
+doc94	3	The present study assessed epidemiological and obstetrical data from pregnant women with syphilis at the Hospital de Clínicas of the Universidade Federal do Triângulo Mineiro (UFTM, in the Portuguese acronym), describing this disease during pregnancy and its vertical transmission for future healthcare actions.
+doc94	4	METHODS
+doc94	5	Records from pregnant women who had been admitted to the Obstetrics Department of the Hospital de Clínicas of the UFTM and were diagnosed with syphilis between 2007 and 2016 were reviewed.
+doc94	6	A standardized form was used to collect epidemiological, obstetric data and outcomes of congenital infection.
+doc94	7	The present research has been authorized by the Ethics Committee of the institution.
+doc94	8	RESULTS
+doc94	9	There were 268 women diagnosed with syphilis, with an average age of 23.6 years old.
+doc94	10	The majority of the patients were from Uberaba.
+doc94	11	Inadequate prenatal care was observed in 37.9% of the pregnant women.
+doc94	12	Only 34.2% of the patients completed the treatment according to the guidelines issued by the Ministry of Health of Brazil, and 19.8% of the partners of the patients underwent adequate syphilis treatment; 37 (13.8%) couples (patients and partners) underwent correct treatment.
+doc94	13	Regarding the obstetric outcomes, 4 (1.5%) patients had a miscarriage and 8 (3.4%) had fetal losses (from the fetal loss group, 7 had no adequate treatment); 61 (25.9%) patients had premature births - this prematurity has been significantly correlated to inadequate or incomplete treatment in 49 (27.9%) patients, compared with 12 (13.0%) patients with premature births and adequate treatment (p = 0.006).
+doc94	14	The average live newborn weight was 2,840 g; 25.3% had a birth weight < 2,500 g; 74.2% had congenital syphilis, a data with heavy correlation to inadequate or incomplete prenatal care, prematurity, and low birth weight.
+doc94	15	CONCLUSION
+doc94	16	Public awareness policies on adequate prenatal care, intensification of serological screening, and early treatment of syphilis are needed, considering the rise of cases diagnosed during gestation and its potentially preventable deleterious consequences related to congenital transmission.
+doc95	1	Surgical safety checklist: benefits, facilitators, and barriers in the nurses' perspective.
+doc95	2	OBJECTIVE
+doc95	3	To identify the benefits, facilitators and barriers in the implementation of the surgical safety checklist, according to the reports of nurses working in the hospital surgical center.
+doc95	4	METHOD
+doc95	5	Cross-sectional study with 91 nurses in 25 hospitals in two municipalities of Paraná.
+doc95	6	Between the years 2015 and 2016, two structured instruments were used to collect data.
+doc95	7	For the analysis, Fisher's exact or Chi-Square test was used.
+doc95	8	RESULTS
+doc95	9	The implementation of the checklist brought benefits to the patient, surgical team and hospitals.
+doc95	10	Regarding the facilitators, the results presented a statistically significant difference between the groups in the items offering education (p=0.006) and acceptance by surgeons (p=0.029).
+doc95	11	In the barriers, the lack of administrative (p=0.006) and management (p=0.041) support, absence of the patient safety nucleus (p=0.005), abruptly introduced list (p=0.001) and absence of education (p<0.001).
+doc95	12	CONCLUSION
+doc95	13	The evidence generated allowed to identify the benefits, facilitators and barriers in the implementation of the checklist in the national context.
+doc96	1	Death and dying: contributions to a practice based on nursing theoretical frameworks.
+doc96	2	OBJECTIVE
+doc96	3	To identify nurses' agreement on nursing conceptions with the potential to support their practice in the death and dying process context.
+doc96	4	METHOD
+doc96	5	An exploratory and descriptive study with a quantitative approach was carried out with 3,451 nurses from 36 hospitals in Portugal, from July 2015 to March 2016. Data collection was carried out with the use of questionnaires and data analysis was carried out by means of descriptive and inferential statistics.
+doc96	6	RESULTS
+doc96	7	Among conceptions with the potential to support practice, nurses highlighted those from Virginia Henderson, Afaf Meleis, and Madeleine Leininger.
+doc96	8	The following variables influenced the degree of agreement: region, service, gender, professional training, and length of professional practice.
+doc96	9	CONCLUSION
+doc96	10	Considering current challenges of a practice that is mostly based on meeting needs, the relevance of nursing practices' purposes emerges in order to facilitate experiencing death and the dying process in culturally significant ways.
+doc97	1	Rare variation of the right internal jugular vein: a case study.
+doc97	2	This study reports on a rare variation of the right internal jugular vein (IJV) identified during routine anatomic dissection of a male cadaver.
+doc97	3	The right IJV had a tributary located parallel and medially to the IJV itself.
+doc97	4	This branch of the IJV emerged between the transverse processes of the 3rd and 4th cervical vertebrae and drained into the junction between the right internal jugular and brachiocephalic veins.
+doc97	5	The present study described a rare branch of the right IJV, which is important knowledge for surgeons, in order to prevent accidental injury and bleeding during surgical procedures.
+doc98	1	[Work ability and functional aging: a Systemic Analysis of the Literature using ProkNow-C (Knowledge Development Process - Constructivist)].
+doc98	2	Brazilian Institute of Geography and Statistics (IBGE) data indicate that the elderly population of Brazil numbering 11% in 2003, will attain 33.7% by 2060. This aging process can be diagnosed from the capability workers possess for their labor activities.
+doc98	3	ProKnow-C was used to conduct the review, carrying out bibliometric and systemic analysis of the literature on the subject.
+doc98	4	The results led to the compilation of a portfolio with 29 papers, highlighting the most relevant journals, authors and keywords.
+doc98	5	Systemic analysis provided important results: survey methodology was applied on 26 papers, 21 of which were cross-sectional studies; in all the papers the WAI was associated with sociodemographic data; in 10 studies it was found that the work ability decreased while age increased and the practice of physical exercises was positively associated with the WAI in 11 studies.
+doc98	6	The results led to the perception that the WAI is an instrument that makes it possible to diagnose the situation of the working life of employees, and, in the case of low rates, the presence of early functional aging is detected.
+doc98	7	The study highlighted the importance of assessing aspects of the worker's social life, since these factors influence the work ability positively or negatively.
+doc99	1	Chest tube simulator: development of low-cost model for training of physicians and medical students.
+doc99	2	OBJECTIVE
+doc99	3	by using a 3D printer, to create a low-cost human chest cavity simulator that allows the reproduction of the closed chest drainage technique (CCD), comparing its effectiveness with that of the animal model.
+doc99	4	METHODS
+doc99	5	it was made a 3D printing of the bony framework of a human thorax from a chest computerized tomography scan.
+doc99	6	After printing the ribs, we performed tests with several materials that contributed to form the simulation of the thoracic cavity and pleura.
+doc99	7	An experimental, randomized, and controlled study, comparing the efficacy of the simulator to the efficacy of the animal model, was then carried out in the teaching of CCD technique for medical students, who were divided into two groups: animal model group and simulator model group, that trained CCD technique in animals and in the simulator model, respectively.
+doc99	8	RESULTS
+doc99	9	the chest reconstruction required anatomical knowledge for tomography analysis and for faithful 3D surface editing.
+doc99	10	There was no significant difference in the safety of performing the procedure in both groups (7.61 vs. 7.73; p=0.398).
+doc99	11	A higher score was observed in the simulator model group for "use as didactic material" and "learning of the chest drainage technique", when compared to the animal model group (p<0.05).
+doc99	12	CONCLUSION
+doc99	13	the final cost for producing the model was lower than that of a commercial simulator, what demonstrates the feasibility of using 3D printing for this purpose.
+doc99	14	In addition, the developed simulator was shown to be equivalent to the animal model in relation to the simulation of the drainage technique for practical learning, and there was preference for the simulator model as didactic material.
+doc100	1	[Process of Accreditation of Health Promoting Schools worldwide: A Systematic Review].
+doc100	2	The scope of this article is to analyze the accreditation criteria of the studies that evaluated actions of health promotion and risk factor prevention of Health Promoting Schools (HPS).
+doc100	3	A systematic review was conducted based on the recommendations proposed in the "Preferred Reporting Items for Systematic Reviews and Meta-Analyses (Prisma)" protocol of articles that assessed HPS in the following databases: SciELO, Lilacs, Medline, PubMed and Portal Capes.
+doc100	4	From the analysis of the three pillars for accreditation of HPS, three of the studies analyzed did not include all the criteria for certification as HPS on the "Planning Process" and "Health Promotion Activities Developed" pillars.
+doc100	5	The schools cited in these studies perform health education, prevention and/or health promotion activities, however, it is misleading to refer to themselves as HPS. The main challenges for implementation, development and continuity of HPS were identified as being intersectionality and insufficient financial and qualified human resources.
+doc100	6	HPS need to be certified and submitted to an ongoing evaluation process.
+doc100	7	It is also suggested the topic of health promotion be included in the syllabuses of training courses of health education teachers and other health education professionals.

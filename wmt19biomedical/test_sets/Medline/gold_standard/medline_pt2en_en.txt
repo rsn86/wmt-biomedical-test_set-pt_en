@@ -1,0 +1,570 @@
+doc1	1	Isthmocele: From Risk Factors to Management.
+doc1	2	OBJECTIVE
+doc1	3	The aim of the present study was to perform a comprehensive review of the literature to provide a complete and clear picture of isthmocele-a hypoechoic area within the myometrium at the site of the uterine scar of a previous cesarean section-by exploring in depth every aspect of this condition.
+doc1	4	METHODS
+doc1	5	A comprehensive review of the literature was performed to identify the most relevant studies about this topic.
+doc1	6	RESULTS
+doc1	7	Every aspect of isthmocele has been studied and described: pathophysiology, clinical symptoms, classification, and diagnosis.
+doc1	8	Its treatment, both medical and surgical, has also been reported according to the actual literature data.
+doc1	9	CONCLUSION
+doc1	10	Cesarean section is the most common surgical procedure performed worldwide, and one of the consequences of this technique is isthmocele.
+doc1	11	A single and systematic classification of isthmocele is needed to improve its diagnosis and management.
+doc1	12	Further studies should be performed to better understand its pathogenesis.
+doc3	1	[David Capistrano Filho Birthing House through the lenses of a photographer].
+doc3	2	This article is the outcome of a project to photographically document the David Capistrano Filho Birthing House (Casa de Parto David Capistrano Filho) continuously for 12 years from 2005 to 2017. The photographs narrate daily life in the institution: its regular activities with families, celebrations, its domestic, therapeutic, and community activities, and activities involving the exercise of citizenship for the right to autonomy and quality in reproductive health care.
+doc3	3	The birthing house is a public health institution that serves women with low-risk pregnancies in Realengo, a district in the west zone of Rio de Janeiro.
+doc3	4	More broadly, it proposes to educate and inform by creating bonds and relationships of proximity and by fostering non-medical practices and transdisciplinary care.
+doc5	1	suPAR in the assessment of post intensive care unit prognosis: a pilot study.
+doc5	2	OBJECTIVE
+doc5	3	To determine the performance of soluble urokinase-type plasminogen activator receptor upon intensive care unit discharge to predict post intensive care unit mortality.
+doc5	4	METHODS
+doc5	5	A prospective observational cohort study was conducted during a 24-month period in an 8-bed polyvalent intensive care unit.
+doc5	6	APACHE II, SOFA, C-reactive protein, white cell count and soluble urokinase-type plasminogen activator receptor on the day of intensive care unit discharge were collected from patients who survived intensive care unit admission.
+doc5	7	RESULTS
+doc5	8	Two hundred and two patients were included in this study, 29 patients (18.6%) of whom died after intensive care unit discharge.
+doc5	9	Nonsurvivors were older and more seriously ill upon intensive care unit admission with higher severity scores, and nonsurvivors required extended use of vasopressors than did survivors.
+doc5	10	The area under the receiver operating characteristics curves of SOFA, APACHE II, C-reactive protein, white cell count, and soluble urokinase-type plasminogen activator receptor at intensive care unit discharge as prognostic markers of hospital death were 0.78 (95%CI 0.70 - 0.86); 0.70 (95%CI 0.61 - 0.79); 0.54 (95%CI 0.42 - 0.65); 0.48 (95%CI 0.36 - 0.58); and 0.68 (95%CI 0.58 - 0.78), respectively.
+doc5	11	SOFA was independently associated with a higher risk of in-hospital mortality (OR 1.673; 95%CI 1.252 - 2.234), 28-day mortality (OR 1.861; 95%CI 1.856 - 2.555) and 90-day mortality (OR 1.584; 95%CI 1.241 - 2.022).
+doc5	12	CONCLUSION
+doc5	13	At intensive care unit discharge, soluble urokinase-type plasminogen activator receptor is a poor predictor of post intensive care unit prognosis.
+doc9	1	Feminisms and men in the Brazilian context: provocations from the 13th AWID International Forum.
+doc9	2	This paper shows some reflections based on the authors' participation in the AWID (Association for Women's Rights in Development) Forum, which took place in Brazil, in September 2016. These reflections provide key issues about principles and controversies in the work of research and activism on/with men and feminisms, based on the long path of work on masculinities and gender equality of these authors.
+doc9	3	From the field studies and political interventions on men and masculinities that take feminism as a theoretical and ethical-political framework, we discuss the production of masculinities in the feminist social transformation in contexts that are increasingly conservative and marked by male chauvinism and patriarchy.
+doc9	4	We also discussed how gender hierarchy emerges vigorously in the contemporary Brazilian political context, from the impeachment process of former president Dilma Rousseff to the formulation ofcurrent education and health policies.
+doc10	1	Infrastructure for hand hygiene in a teaching hospital.
+doc10	2	OBJECTIVE
+doc10	3	To evaluate the hospital infrastructure and the knowledge of the coordinators about the unit structure for hand hygiene.
+doc10	4	METHODS
+doc10	5	Descriptive cross-sectional design study carried out in a teaching hospital in the South of Brazil, in the period between December 2016 and January 2017. Eighteen inpatient care units were evaluated, and 16 coordinators were interviewed.
+doc10	6	We used the questionnaire of the World Health Organization multimodal strategy on the structure of the units for hand hygiene.
+doc10	7	It was used descriptive statistics.
+doc10	8	RESULTS
+doc10	9	All the units had alcohol-based sanitizers, and 93.8% of the dispensers were substituted when they got empty.
+doc10	10	The difficulties observed were the lack of illustrating posters, the location of sinks and dispensers of alcohol-based hand sanitizers in some nursing infirmarys, and the fact that there were few dispensers at hand reach near the patient's bed.
+doc10	11	CONCLUSIONS
+doc10	12	We concluded that there were protocols for hand hygiene, and professionals were instructed about it.
+doc10	13	There were gaps in the inpatient units, such as the presence of inadequate sinks and taps.
+doc13	1	Relation between oral reading fluency and reading comprehension.
+doc13	2	PURPOSE
+doc13	3	Relate oral reading fluency performance to reading comprehension in students of the Elementary School.
+doc13	4	METHODS
+doc13	5	The study included 97 students, distributed in three groups: Group I (GI): composed by 32 students from 3rd grade level; Group II (GII): composed by 28 students from 4th grade level and Group III (GIII): composed by 37 students from 5th grade level.
+doc13	6	The oral reading of a text was recorded and analyzed observing the pauses made by the students, auditory perceived by judges, speed reading measured by the number of words correctly read and reading comprehension assessment.
+doc13	7	RESULTS
+doc13	8	Students of Group I and III presented relation between reading comprehension and number of words correctly read per minute, which did not occur with the students from Group II.
+doc13	9	The GII and GIII showed negative relation, not significant between the number of pauses and reading comprehension.
+doc13	10	CONCLUSION
+doc13	11	The data showed that oral reading rate is related to the reading comprehension, however, the number of pauses showed no significant differences between reading comprehension for most grade level analyzed.
+doc15	1	A longitudinal study of the association between social capital and mortality in community-dwelling elderly Brazilians.
+doc15	2	The aim of this study was to verify whether social capital is a predictor of all-cause mortality in community-dwelling elderly Brazilians.
+doc15	3	Participation included 935 surviving elderly from the elderly cohort of the Bambui Project in 2004, who were followed until 2011. The outcome was all-cause mortality and the exposure of interest was social capital, measured in its two components, cognitive (social cohesion and social support) and structural (social participation and neighborhood satisfaction).
+doc15	4	Sociodemographic variables, health conditions, and smoking were included in the analysis for adjustment purposes.
+doc15	5	Data analysis was based on the Cox proportional hazards model, providing hazard ratios (HR) and 95% confidence intervals (95%CI).
+doc15	6	The social participation dimension of social capital's structural component was the only dimension independently associated with mortality: elderly Brazilians that did not participate in social groups or associations showed a two-fold higher risk of death (HR = 2.28; 95%CI: 1.49-3.49) compared to their peers.
+doc15	7	The study's results reveal the need to extend interventions beyond the specific field of health in order to promote longevity, focusing on environmental and social characteristics.
+doc18	1	Characteristics of falls with damage to hospitalized patients.
+doc18	2	OBJECTIVE
+doc18	3	Describe the characteristics of falls in patients with damage, their risk factors and injuries.
+doc18	4	METHOD
+doc18	5	Retrospective and longitudinal study of 260 records of falls with damage of adult patients in clinical and surgical units of a general hospital, from September 2012 to June 2017. Data were collected in May 2018 from the electronic fall and electronic record research instrument, and the statistical analysis was described.
+doc18	6	RESULTS
+doc18	7	There were 260 falls with damage, mostly in the elderly (78%), female (55%), in clinical treatment (68%) and unaccompanied (59.4%).
+doc18	8	The falls occurred at the same height (63.4%) and in the patient's room (67.3%).
+doc18	9	The severity of the damage was mild in 80.8% of cases, severe in 11.9% and moderate in 7.3%.
+doc18	10	CONCLUSION
+doc18	11	Improving understanding of falls and their consequences can assist professionals in identifying and assessing risks and in establishing preventive measures.
+doc23	1	C1-C2 fractures in asymptomatic elderly patients with minor head trauma: evaluation with a dedicated head CT protocol.
+doc23	2	Objective
+doc23	3	To evaluate the frequency and types of upper cervical spine injuries in asymptomatic elderly patients undergoing computed tomography (CT) for the investigation of minor head trauma.
+doc23	4	Materials and Methods
+doc23	5	This was a prospective study of 2613 asymptomatic elderly patients with minor head trauma seen between January 2015 and December 2016. We adopted a dedicated head CT protocol that included the C1-C2 region.
+doc23	6	Results
+doc23	7	Of the 2613 patients analyzed, 33 (1.26%) had upper cervical spine injuries, corresponding to 8.37% of the 394 patients with trauma-related findings.
+doc23	8	Of those 33 patients, 6 had C1 fractures and 27 had C2 fractures.
+doc23	9	The use of 16- and 128-slice scanners increased the CT dose by 25.0% and 23.7%, respectively.
+doc23	10	Conclusion
+doc23	11	Inclusion of the C1-C2 region in head CT scans allowed us to identify upper cervical spine injuries in 1.26% of asymptomatic elderly patients with minor head trauma.
+doc23	12	The protocol evaluated helps detect potentially life-threatening injuries and could be adopted for routine use in elderly individuals with minor head trauma.
+doc24	1	Miliary Tuberculosis in a Crohn's Disease Patient: The Risk beyond the Screening.
+doc24	2	Tumor necrosis factor alpha (TNFα) antagonist is recognized as an effective treatment to achieve clinical remission and healing mucosal in patients with moderate to severe active Crohn's disease.
+doc24	3	Considering that it plays a central role in immune-mediated modulation, there are some obvious concerns about its long-term safety.
+doc24	4	There is evidence that it may increase the risk of opportunistic infections such as tuberculosis, particularly reactivation of previous latent infection.
+doc24	5	Due to the global high incidence of tuberculosis and its frequent severity in immunocompromised patients, the exclusion of latent infection is currently part of the screening prior to anti-TNFα therapy.
+doc24	6	Only a few cases of life-threatening disseminated tuberculosis have been reported in immunocompromised patients probably related to widespread use of higher-accuracy screening tests, such as interferon-γ release assays.
+doc24	7	However, despite negative screening, the risk of active tuberculosis infection remains during treatment.
+doc24	8	In that instance, tuberculosis infection becomes considerably more difficult to diagnose due to its altered pattern presentation (extrapulmonary and disseminated infection) and is harder to treat because of the high rate of resistance and its associated relevant morbidity and mortality.
+doc24	9	We report an enigmatic case of a miliary tuberculosis despite negative latent infection screening, using interferon-γ release assays, in a Crohn's disease patient undergoing treatment with infliximab and azathioprine, focusing on the screening and diagnostic and therapeutic challenge.
+doc24	10	This case enhances the awareness of anti-TNFα therapy management and the need for strategies to diagnose and treat tuberculosis in this context.
+doc27	1	ASSESSMENT OF THE REGENERATION CAPACITY OF SEMITENDINOSUS AND GRACILIS TENDONS.
+doc27	2	Objectives
+doc27	3	To evaluate the regenerative capacity of gracilis (G) and semitendinosus (ST) tendons, to examine the sensitivity and specificity of signs and symptoms in the assessment of hamstring tendons, and to assess the thickness and insertion site of regenerated tendons.
+doc27	4	Methods
+doc27	5	Thirty sequential knees were subjected to anterior cruciate ligament reconstruction with semitendinosus and gracilis tendons.
+doc27	6	After surgery, the patients were followed up clinically with physical examination and magnetic resonance imaging (MRI).
+doc27	7	Results
+doc27	8	Overall, 36.66% of the tendons were visible on MRI, whereas 83.33% were palpable.
+doc27	9	On MRI, the distal insertion site of the regenerated semitendinosus tendon was visible proximal to the landmark of the medial femoral condyle in 28%, at the same level in 16%, and distally in 56% of the cases.
+doc27	10	Gracilis tendon insertion was visible proximally in 36.66% of cases, at the same level in 10%, and distally in 53.33%.
+doc27	11	Eleven knees exhibited complete regeneration.
+doc27	12	Conclusion
+doc27	13	Partial or total regeneration of the ST and G tendons was apparent on MRI.
+doc27	14	Palpation is effective for evaluating regeneration of the ST and G tendons; however, MRI is still the gold standard.
+doc27	15	ST and G tendons regenerated completely in only a small percentage of patients, limiting reuse as a graft in cases with new ligament injuries of the knee.
+doc28	1	Occult Urinary Incontinence Treatment: Systematic Review and Meta-analysis-Brazilian Guidelines.
+doc28	2	OBJECTIVE
+doc28	3	To evaluate if performing anti-incontinence procedures during surgical anterior and/or apical prolapse correction in women with asymptomatic urinary incontinence (UI) may prevent stress urinary incontinence (SUI) postoperatively.
+doc28	4	METHODS
+doc28	5	We have performed a systematic review of articles published in the PubMed, Cochrane Library, and Lilacs databases until March 31, 2016. Two reviewers performed the data collection and analysis, independently.
+doc28	6	All of the selected studies were methodologically analyzed.
+doc28	7	The results are presented as relative risk (RR), with a 95% confidence interval (CI).
+doc28	8	RESULTS
+doc28	9	After performing the selection of the studies, only nine trials fulfilled the necessary prerequisites.
+doc28	10	In the present review, 1,146 patients were included.
+doc28	11	Altogether, the review included trials of three different types of anti-incontinence procedures.
+doc28	12	We found that performing any anti-incontinence procedure at the same time of prolapse repair reduced the incidence of SUI postoperatively (RR = 0.50; 95% CI: 0.28-0.91).
+doc28	13	However, when we performed the analysis separately by the type of anti-incontinence procedure, we found different results.
+doc28	14	In the subgroup analysis with midurethral slings, it is beneficial to perform it to reduce the incidence of SUI (RR = 0.08; 95% CI: 0.02-0.28).
+doc28	15	On the other hand, in the subgroup analysis with Burch colposuspension, there was no significant difference with the control group (RR = 1.47; 95% CI: 0.28-7.79]).
+doc28	16	CONCLUSION
+doc28	17	Performing any prophylactic anti-incontinence procedure at the same time as prolapse repair reduced the incidence of SUI postoperatively.
+doc28	18	The Burch colposuspension did not show any decrease in the incidence of SUI postoperatively.
+doc29	1	The experience of grandparents of children hospitalized in Pediatric Intensive Care Unit.
+doc29	2	OBJECTIVE
+doc29	3	To understand the experience of grandparents of children hospitalized in pediatric intensive care units.
+doc29	4	METHOD
+doc29	5	This was a qualitative study based on the symbolic interactionism theoretical framework and the grounded theory as methodological framework carried out with grandparents of children hospitalized in the pediatric intensive care unit of a teaching hospital in a city in the state of São Paulo.
+doc29	6	Data were collected by means of participatory observation and semi-structured interviews, and analyzed following the open and axial codification stages of grounded theory.
+doc29	7	RESULTS
+doc29	8	Nine grandparents were interviewed.
+doc29	9	Two phenomena were identified: "finding themselves inside a storm" and "fighting to be the anchor of the family", which explain the suffering experienced and support role developed by grandparents during the hospitalization period.
+doc29	10	CONCLUSION
+doc29	11	Grandparents develop an important family support role during the crisis.
+doc29	12	Therefore, family care strategies must be developed to include this generation of the family, who are increasingly present and participatory in several healthcare settings.
+doc30	1	PREOPERATIVE ANALYSIS OF RADIOGRAPHIC FINDINGS IN 516 PATIENTS WITH HALLUX VALGUS DEFORMITY.
+doc30	2	Objective
+doc30	3	This is a descriptive study to report our method of operative correction for patients with hallux valgus deformities.
+doc30	4	Methods
+doc30	5	From 2006 to 2012, 516 consecutive patients (601 feet) with hallux valgus deformities were treated surgically in our department after conservative treatments were exhausted.
+doc30	6	The hallux valgus angle, intermetatarsal angle, distal metatarsal articular angle, and degree of osteoarthritis in the first metatarsophalangeal joint were measured on preoperative plain radiographs of the weight-bearing forefoot.
+doc30	7	Results
+doc30	8	Young patients with severe intermetatarsal deviation received a combined proximal and distal osteotomy of the first metatarsal (n = 21).
+doc30	9	Patients with low intermetatarsal deviation received a distal metatarsal chevron osteotomy (n = 196), whereas patients with severe intermetatarsal deviation and less flexible deformities without osteoarthritis received a basal metatarsal osteotomy with a distal soft tissue procedure (n = 173).
+doc30	10	Elderly active patients with osteoarthritis in the first metatarsophalangeal joint received an arthrodesis (n = 100) or resection arthroplasty (n = 58).
+doc30	11	Conclusion
+doc30	12	Determining a few simple angles on plain radiographs of the weight-bearing forefoot in combination with the age and level of activity of patients can help simplify the operative correction method by using the schema we developed.
+doc30	13	Level of evidence IV, case series.
+doc31	1	Prevalence and associated factors of sarcopenia, dynapenia, and sarcodynapenia in community-dwelling elderly in São Paulo - SABE Study.
+doc31	2	OBJECTIVES
+doc31	3	To estimate the prevalence of sarcopenia, dynapenia, and sarcodynapenia and associated factors in older adults in the city of São Paulo, Brazil.
+doc31	4	METHODS
+doc31	5	A population-based, cross-sectional study was conducted with 1,168 older adults who participated in the third wave of the Health, Well-being, and Aging study in 2010 (SABE study).
+doc31	6	Men and women with skeletal muscle mass ≤ 8.90 and ≤ 6.37 kg/m2, respectively, were considered sarcopenic.
+doc31	7	Men and women with grip strength < 30 and < 20 kg, respectively, were considered dynapenic.
+doc31	8	Those with both conditions were considered sarcodynapenic.
+doc31	9	Sociodemographic, behavioral, clinical, nutritional, and biochemical characteristics were investigated as factors associated with each of the three conditions using multinomial logistic regression.
+doc31	10	RESULTS
+doc31	11	Theprevalence of sarcopenia, dynapenia, and sarcodynapenia was 4.8% (95%CI 3.6 - 6.3), 30.9% (95%CI 27.5 - 34.6) and 9.0% (95%CI 7.2-11.3), respectively.
+doc31	12	An increase in age and malnutrition was associated with all the three conditions.
+doc31	13	Cognitive impairment was associated with both dynapenia and sarcodynapenia.
+doc31	14	Schooling, current smoking habit, and not having a marital life were associated with sarcopenia.
+doc31	15	Osteoarthritis, schooling, being an ex-smoker, and low hemoglobin were associated with dynapenia.
+doc31	16	Smoking habit and the risk of malnutrition were associated with sarcodynapenia.
+doc31	17	CONCLUSION
+doc31	18	Dynapenia is more prevalent among older adults, followed by sarcodynapenia, and sarcopenia.
+doc31	19	With the exception of age, schooling, and malnutrition, the factors associated with sarcopenia and dynapenia are different.
+doc31	20	However, there are similarities in some associations regarding the presence of sarcodynapenia.
+doc32	1	[Medical Student Secrecy, its Link to the Duty of Confidentiality and the Right to Access and Reuse Health Information].
+doc32	2	The authors address the legal void that exists regarding medical student access to clinical records and health information that local healthcare organizations hold under legal and institutional custody.
+doc32	3	They develop a legal thesis that configures the creation of medical student professional secrecy and its connection with the duty of confidentiality as assumptions that underlie the medical student's right to access and reuse health information.
+doc32	4	Medical students have the legitimacy to access health information and clinical records, as they bear an unequivocal informational, legitimate, constitutionally protected and sufficiently relevant need.
+doc32	5	They conclude that the legislature must work together with universities and hospital institutions to legally establish the concept of Medical Student Professional Secrecy, its link to the duty of confidentiality and the right of the medical student to access and reuse health information.
+doc32	6	Furthermore, it must do so in a specific legal act and in the precise terms of the text approved unanimously by the Council of Portuguese Medical Schools, by the National Council of Medical Ethics and Deontology, by the National Council of the Portuguese Medical Association and by its President.
+doc36	1	["Modern motherhood" and the medicalization of childbirth in the pages of the Boletim da Legião Brasileira de Assistência, 1945-1964].
+doc36	2	Between 1945 and 1964, Brazil underwent an accelerated process of modernization.
+doc36	3	Increasingly urbanized and guided by the precepts of social hygiene, the country was keen to refute any practices or customs regarded as traditional or old-fashioned.
+doc36	4	As such, the traditional figure of the midwife was supplanted by medical knowledge, which came to exert influence on childbirth and motherhood.
+doc36	5	This text analyzes Boletim da LBA, investigating the medicalization and scientification of childbirth and motherhood and focusing on the scientific and moral clashes about motherhood and childbirth contained in this, the official publication of the country's largest welfare institution.
+doc38	1	[Peer violence, school environment and developmental contexts: its effects on well-being].
+doc38	2	The scope of this study is to analyze the implications of peer violence in the school context, the school environment and the perceived developmental contexts on the subjective well-being of children and adolescents.
+doc38	3	The sample is comprised of 910 students in Years 6 and 7 of primary school in 27 urban and rural public and private schools in Ceará.
+doc38	4	It is a quantitative cross-sectional study and the following tools were used: scales measuring victimization and aggression among peers and the school environment; three indices on perceptions of developmental contexts (home, school, neighborhood); and three well-being scales (Students' Life Satisfaction Scale, Personal Well-being Index and Single item on Overall Life Satisfaction).
+doc38	5	Data were analyzed using multivariate variance analysis, with a significance level below 0, 01. Results indicate that bullying, alone or in interaction with the variables analyzed, is the variable that has the greatest impact on the well-being of the population studied, whereby those involved in bullying have the lowest well-being averages.
+doc38	6	Low levels of perception regarding the contexts of home, school and neighborhood and the school environment, as well as attending a public school and/or living in rural areas, are all also associated with low subjective well-being.
+doc39	1	Incidence of colorectal cancer in young patients.
+doc39	2	Sporadic colorectal cancer (CRC) is traditionally diagnosed after de sixth decade of life, although a small percentage of cases are diagnosed in patients under 40 years of age, and incidence is increasing.
+doc39	3	There exists a great volume of controversy regarding clinical outcome of young patients diagnosed with colorectal cancer (CRC) when compared to elder counterparts.
+doc39	4	Our aims were to evaluate the rate of CRC in young patients, to review the pertaining literature and to discuss outcomes and clinical prognosis.
+doc39	5	A retrospective review involving patients with CRC was undertaken, focusing on age at diagnosis.
+doc39	6	The information extracted from this literature review showed a trend towards a decreased incidence in older people with an opposite effect among adolescents and young adults.
+doc39	7	Moreover, biological aggressiveness in young adults diagnosed with CRC has not been fully recognized, although it is usually diagnosed later and in association with adverse histological features.
+doc39	8	Besides that, these features donot affect outcome.
+doc39	9	These apparent increase in CRC incidence among young patients during the last decades raises the need for a greater suspicious when evaluating common symptoms in this group.
+doc39	10	Thus, educational programs should widespread information for both population and physicians to improve prevention and early diagnosis results.
+doc40	1	Agreement between diagnostic imaging methods for the evaluation of lymphadenopathies in HIV-infected/AIDS patients.
+doc40	2	Objective
+doc40	3	To assess the percent agreement between diagnostic imaging modalities for the evaluation of lymphadenopathies in HIV-infected/AIDS patients.
+doc40	4	Materials and Methods
+doc40	5	This was an open, comparative, prospective study of diagnostic imaging methods for lymphadenopathy evaluation.
+doc40	6	We evaluated 30 patients (19 men and 11 women).
+doc40	7	All underwent ultrasound and computed tomography (CT).
+doc40	8	Twenty of the patients also underwent magnetic resonance imaging (MRI).
+doc40	9	We determined the percent agreement between two examiners using the various imaging methods to evaluate lymphadenopathies.
+doc40	10	Results
+doc40	11	CT had the highest percent agreement, at 93.3%, with a kappa coefficient of 0.85, corresponding to 28 of the 30 examinations.
+doc40	12	When we compared the percent agreement between the two examiners and between CT and ultrasound, examiner 1 had an observed rate of 80.0%, with a kappa of 0.49, corresponding to 24 of the 30 examinations, whereas examiner 2 had a rate of 70.0%, with a kappa of 0.31, corresponding to 21 of the 30 examinations.
+doc40	13	Between MRI and CT, the percent agreement for examiner 1 was 50.0%, with a kappa of -0.18, corresponding to 10 of the 20 examinations, whereas that for examiner 2 was 85.0%, with a kappa of 0.69, corresponding to 17 of the 20 examinations.
+doc40	14	For MRI and ultrasound, examiner 1 had a percent agreement of 70.0%, with a kappa of 0.20, corresponding to 14 of the 20 examinations, and examiner 2 had a percent agreement of 75.0%, with a kappa of 0.38, corresponding to 15 of the 20 examinations.
+doc40	15	Conclusion
+doc40	16	This study indicates that intermethod agreement is highly dependent on the way in which the research is conducted, rather than on the level of experience of the examiner.
+doc41	1	Acoustic Voice Quality Index - AVQI for brazilian portuguese speakers: analysis of different speech material.
+doc41	2	PURPOSE
+doc41	3	This study aimed to verify the best speech material for the AVQI for Brazilian Portuguese language and identify the best validity results between the auditory perceptual judgment (APJ) and the AVQI score on different speech materials.
+doc41	4	METHODS
+doc41	5	We recorded voice samples of 50 individuals (dysphonic and vocally healthy) of several continuous speech (cs) variants (i.e., months of the year, numbers 1 to 20, and CAPE-V sentences) and attached the vowel /a/ in each case.
+doc41	6	The recorded samples were edited to three different durations of cs variants plus vowel: D1-total speech material; D2-customized speech material without voiceless parts; D3-pre-defined cut-off point speech material.
+doc41	7	These samples were submitted to three voice experts who judged the overall voice quality; and the AVQI analysis.
+doc41	8	AVQI's precision and concurrent validity were evaluated considering a Gmean threshold of G<0.5 and G<0.68.
+doc41	9	RESULTS
+doc41	10	The concurrent validity of AVQI and APJ ranged from r = 0.482 to r = 0.634. Numbers presented higher values for all durations.
+doc41	11	For G<0.5, the best sensitivity and area under the ROC curve was for CAPE-V sentences at D3 (57.8%; 72%).
+doc41	12	For G<0.68, numbers 1 to 10 had the best diagnostic accuracy and numbers 1 to 20 had the best sensitivity.
+doc41	13	CONCLUSION
+doc41	14	Numbers from 1 to 10 had the best correlation results between APJ and AVQI.
+doc41	15	For G<0.5, sentences had the best diagnostic accuracy; while for G<0.68, numbers had the best diagnostic accuracy.
+doc41	16	Numbers are commonly used in the Brazilian clinic routine.
+doc41	17	According to the validity results and daily clinical practice in Brazil, we suggest the use of numbers as cs for concatenated voice samples of voice quality assessments.
+doc42	1	ACETABULAR RECONSTRUCTION IN PAPROSKY TYPE III DEFECTS.
+doc42	2	Objectives
+doc42	3	Severe pelvic deficiency presents a difficult problem in hip arthroplasty.
+doc42	4	Specifically, the goals are to restore the pelvic bone stock, place the acetabular component in the correct anatomical position, and optimize joint stability.
+doc42	5	Currently, many surgical techniques have been developed for prosthetic revision surgery for acetabular complex defects, but no consensus has been reached on the best treatment.
+doc42	6	The objective of this study was to review mid-term cases of severe bone defect (Paprosky type III) treated with a bone allograft and ring Bursch-Schneider anti-protrusion cage (BSAC).
+doc42	7	Methods
+doc42	8	A retrospective consecutive series review of the first 23 complex acetabular reconstructions performed between 2006 and 2011 was conducted.
+doc42	9	The series included the learning curve of the procedure and a minimum 5-year follow-up.
+doc42	10	Conclusion
+doc42	11	Our study confirmed the efficacy of using a frozen morselized allograft combined with a metal ring-type BSAC for acetabular reconstruction.
+doc42	12	The anatomical location of the center of rotation of the hip must be recovered for long-term success.
+doc42	13	In massive loosening cases, the anatomical center of rotation can only be restored by bone density reconstruction using a graft protected by a ring to improve the centering of the head.
+doc42	14	Level of Evidence IV, Case Series.
+doc43	1	[Incipient tobacco use and associated factors among adolescents from the rural area of Vitória da Conquista in the Brazilian state of Bahia].
+doc43	2	The aim of this study is to describe incipient tobacco use and associated factors among adolescents from the rural zone of southwestern Bahia.
+doc43	3	It was based on data from the cross-sectional Adolescer research project among 390 adolescents conducted in 2015. Data were analyzed using frequency and chi-square measurements and Poisson regression with robust variance to estimate the prevalence ratios (PR) for incipient tobacco use in relation to the explanatory variables.
+doc43	4	Among the adolescents, 5.1% had smoked at some stage and 0.3% smoked regularly.
+doc43	5	The following variables were associated with incipient smoking: male gender (PR = 6.46); having had sexual intercourse at some stage in life (PR = 20.55); having parents who rarely or never understood their problems (PR=7.89); having 3 or more friends (PR = 0.10).
+doc43	6	Despite low incipient smoking or the prevalence of regular smoking, which indicate the adoption of a healthier lifestyle or greater autonomy and decision-making ability for non-smoking, it is acknowledged that there is no safe level of exposure to tobacco.
+doc43	7	The recommendation is that an intersectoral partnership between education and health be created to foster health promotion and disease prevention, with an emphasis on curtailing smoking habits.
+doc45	1	RADIOACTIVE CEMENT OF PMMA AND HAP-Sm-153, Ho-166, OR RE-188 FOR BONE METASTASIS TREATMENT.
+doc45	2	Polymethylmetacrylte (PMMA) is used in the fields of dentistry and biomedicine as a constituent of bone cements.
+doc45	3	Hydroxyapatite (HAp) is a bioceramic produced naturally in the bones.
+doc45	4	PMMA and HAp are fundamental constituents in the preparation of bone cements.
+doc45	5	Bisphosphonates have also been used as radiopharmaceutical in dental implants and nuclear medicine, or as palliative systemic treatment for pain reduction in bone metastasis.
+doc45	6	Vertebroplasty and kyphoplasty are bone cement-based techniques used in orthopedics, being minimally invasive procedures with low risks of infections, applied in osteoporosis and high-impact fractures.
+doc45	7	Recently, Núcleo de Radiações Ionizantes da Universidade Federal de Minas Gerais proposed a synthetic composite of M-HAp with a metallic nuclide M. After irradiation, M-HAp was added to PMMA, compounding a radioactive bone cement that can recover bone body stabilization, pasting microfractures and recomposing the anatomy and functionality of the affected parts by the compression of bone metastases, with possible pain reduction through quick radiation-induced decompression.
+doc45	8	Computational dosimetric models, and the synthesis and characterization of bioceramics that incorporate Re-188, Ho-166, or Sm-153 have demonstrated the benefits of these biometrics as promising alternative therapies, mainly from their ability to maintain the ionization in the bone structure, thereby sparing the spinal cord.
+doc45	9	This article presents a review on this topic.
+doc47	1	Survival of elderly outpatients: effects of frailty, multimorbidity and disability.
+doc47	2	This study aims to analyze the impact of frailty, multimorbidity and disability on the survival of elderly people attended in a geriatric outpatient facility, and identify the clinical risk factors associated with death.
+doc47	3	It is a longitudinal study, with 133 elderly people initially evaluated in relation to frailty, multimorbidity (simultaneous presence of three or more chronic diseases) and disability in Daily Life Activities.
+doc47	4	The Kaplan Meier method was used to analyze survival time, and the Cox regression was used for association of the clinical factors with death.
+doc47	5	In follow-up over six years, 21.2% of the participants died, survival being lowest among those who were fragile (p < 0.05).
+doc47	6	The variables frailty (HR = 2.26; CI95%: 1.03-4.93) and Chronic Renal Insufficiency (HR = 3.00; CI95%: 1.20-7.47) were the factors of highest risk for death in the multivariate analysis.
+doc47	7	Frailty had a negative effect on the survival of these patients, but no statistically significant association was found in relation to multimorbidity or disability.
+doc47	8	Tracking of vulnerabilities in the outpatient geriatric service is important, due to the significant number of elderly people with geriatric syndromes that use this type of service, and the taking of decisions on directions for care of these individuals.
+doc48	1	Cardiometabolic diseases.
+doc48	2	INTRODUCTION
+doc48	3	Cardiometabolic diseases are prevalent in populations and are among the leading causes of death.
+doc48	4	Objective: This sub-study of the Health, Well-being and Aging (SABE) study describes the self-reported prevalence of diabetes mellitus (DM), hypertension, and atherosclerotic cardiovascular disease (CVD) for its three waves (2000, 2006, and 2010).
+doc48	5	It also analyses the associations with selected risk factors.
+doc48	6	METHODS
+doc48	7	Logistic regression models were performed.
+doc48	8	RESULTS
+doc48	9	Predominance of women and average age (68 years) were maintained in all the waves.
+doc48	10	During the period, there was a general tendency of increasing prevalence of hypertension (53.1 to 66.7%), DM (16.7 to 25.0%), and CVD (23.0 to 27.2%); and stabilization of the CVD prevalence rate occurred only from 2006 to 2010. Women, with body mass index (BMI) > 27 kg/m2, and ex-smokers had consistently higher risk of self-reported hypertension across the three waves.
+doc48	11	BMI >27kg/m2 was also associated with a higher probability of DM in the three waves, whereas with ex-smokers this occurred only in 2010. Ex-smokers presented higher risk of CVD in all the waves, but not excess weight.
+doc48	12	Wave pairs were analyzed to test changes in prevalence, and it was found a significant increase in diseases rates across the years.
+doc48	13	CONCLUSION
+doc48	14	In summary, self-reported DM, hypertension, and CVD had high prevalence rates for participants of SABE Study, in São Paulo.
+doc48	15	The association of elevated BMI with cardiometabolic diseases suggests that body adiposity might favor their occurrence, although the study design does not guarantee a cause and effect relationship.
+doc48	16	Increased rates of affected individuals from the first to the third wave may reflect improvement in diagnostic conditions and/or control of these diseases' mortality during that period.
+doc49	1	DOES COGNITIVE CAPACITY INTERFERE WITH THE OUTCOME OF OBERLIN TRANSFER?
+doc49	2	Objective
+doc49	3	To determine the relationship between the functional outcome achieved following Oberlin transfer, the cognitive level of the patient, and the time elapsed between the trauma event and surgery.
+doc49	4	Methods
+doc49	5	Eighteen patients with a traumatic injury to the brachial plexus (C5-C6 and C5-C7) were evaluated.
+doc49	6	Seventeen (94.4%) patients were males and one (5.6%) was female, with a mean age of 29.5 years (range 17-46 years).
+doc49	7	We evaluated the active range of motion, elbow flexion strength, and Disabilities of the Arm, Shoulder and Hand (DASH) and determined the correlation between the procedural outcome and the patient's cognitive level, as assessed by the Mini-Mental State Exam (MMSE).
+doc49	8	Results
+doc49	9	We found statistically significant correlations between the MMSE scale and strength recovery (84.4%, p<0.001), which was classified as excellent, and between the MMSE and British Medical Research Council (BMRC) scales (78.4%, p>0.001), which classified cognitive level as good.
+doc49	10	Conclusions
+doc49	11	We found a positive correlation between cognitive capacity and functional outcome of patients submitted to Oberlin surgery.
+doc49	12	The time elapsed between trauma and the surgical procedure showed an inversely proportional correlation with the strength of recovery.
+doc50	1	LIFE QUALITY EVALUATION USING "TIME TRADE OFF" METHOD FOR RHEUMATOID HANDS.
+doc50	2	Objective
+doc50	3	Rheumatoid arthritis is a prevalent disease in the population (range 0.5% to 1%) and involves both orthopedic and rheumatologic treatment.
+doc50	4	The Time Trade-Off (TTO) technique, which determines the number of years the patient or the professional would be allowed before a successful procedure in terms of life expectancy and value of the procedure, has been gaining ground in clinical protocols.
+doc50	5	From this standpoint, we sought to compare evaluations provided by the patients, orthopedists, and rheumatologists in determining the TTO and to correlate their responses with the clinical repercussions using previously established scores such as the Brief Michigan Hand Questionnaire and the Disease Activity Score-28 (DAS-28).
+doc50	6	Methods
+doc50	7	A prospective study was conducted that involved 37 patients with rheumatoid arthritis, orthopedists, and rheumatologists.
+doc50	8	The TTO questionnaire was administered by an independent evaluator for evaluation using the DAS-28 and the Brief Michigan Hand Questionnaire.
+doc50	9	Results
+doc50	10	The descriptive analysis revealed similar medians between the orthopedists, rheumatologists, and patients for single assessments.
+doc50	11	However, there was a weak correlation between the results from the patient and rheumatologist, the patient and Brief Michigan Questionnaire, and those of the orthopedic surgeon and the DAS-28.
+doc50	12	Conclusion
+doc50	13	Similar median values demonstrated equivalent TTO among the orthopedist, rheumatologist, and patient.
+doc50	14	However, given the weak correlations between the scores, it was not possible to substitute results using a single evaluation scale.
+doc53	1	Role of interleukin-3 as a prognostic marker in septic patients.
+doc53	2	OBJECTIVE
+doc53	3	To evaluate the accuracy of IL-3 to predict the outcome of septic patients.
+doc53	4	METHODS
+doc53	5	Prospective cohort study with adult patients in an intensive care unit with sepsis or septic shock diagnosed within the previous 48 hours.
+doc53	6	Circulating IL-3 levels were measured upon inclusion (day 1) and on days 3 and 7. The primary outcome was hospital mortality.
+doc53	7	RESULTS
+doc53	8	One hundred and twenty patients were included.
+doc53	9	Serum levels of IL-3 on day 1 were significantly higher among patients who died than among patients who survived the hospital stay (91.2pg/mL versus 36pg/mL, p = 0.024).
+doc53	10	In a Cox survival model considering the IL-3 levels at inclusion, age and sequential SOFA, IL-3 values remained independently associated with mortality (HR 1.032; 95%CI 1.010 - 1.055; p = 0.005).
+doc53	11	An receiver operating characteristic curve was built to further investigate the accuracy of IL-3, with an area under the curve of 0.62 (95%CI 0.51 - 0.73; p = 0.024) for hospital mortality.
+doc53	12	A cutoff initial IL-3 value above 127.5pg/mL was associated with hospital mortality (OR 2.97; 95%CI: 1.27 - 6.97; p = 0.0019) but with a low performance (82% for specificity, 39% for sensibility, 53% for the positive predictive value, 72% for the negative predictive value, 0.73 for the negative likelihood and 2.16 for the positive likelihood ratio).
+doc53	13	CONCLUSION
+doc53	14	Higher levels of IL-3 are shown to be independently associated with hospital mortality in septic patients but with poor clinical performance.
+doc54	1	An electronic warning system helps reduce the time to diagnosis of sepsis.
+doc54	2	OBJECTIVE
+doc54	3	To describe the improvements of an early warning system for the identification of septic patients on the time to diagnosis, antibiotic delivery, and mortality.
+doc54	4	METHODS
+doc54	5	This was an observational cohort study that describes the successive improvements made over a period of 10 years using an early warning system to detect sepsis, including systematic active manual surveillance, electronic alerts via a telephonist, and alerts sent directly to the mobile devices of nurses.
+doc54	6	For all periods, after an alert was triggered, early treatment was instituted according to the institutional sepsis guidelines.
+doc54	7	RESULTS
+doc54	8	In total, 637 patients with sepsis were detected over the study period.
+doc54	9	The median triage-to-diagnosis time was reduced from 19:20 (9:10 - 38:15) hours to 12:40 (2:50 - 23:45) hours when the manual surveillance method was used (p = 0.14), to 2:10 (1:25 - 2:20) hours when the alert was sent automatically to the hospital telephone service (p = 0.014), and to 1:00 (0:30 - 1:10) hour when the alert was sent directly to the nurse's mobile phone (p = 0.016).
+doc54	10	The diagnosis-to-antibiotic time was reduced to 1:00 (0:55 - 1:30) hours when the alert was sent to the telephonist and to 0:45 (0:30 - 1:00) minutes when the alert was sent directly to the nurse's mobile phone (p = 0.02), with the maintenance of similar values over the following years.
+doc54	11	There was no difference in the time of treatment between survivors and non-survivors.
+doc54	12	CONCLUSION
+doc54	13	Electronic systems help reduce the triage-to-diagnosis time and diagnosis-to-antibiotic time in patients with sepsis.
+doc58	1	Family dyslipidemia and associated factors with changes in lipid profile in children.
+doc58	2	This article aimed to assess the prevalence of dyslipidemia and associated factors in children aged from 4 to 7 years old.
+doc58	3	It is a cross-sectional study conducted with 402 children aged from 4 to 7 years old, accompanied by a Lactation Support Program in the first six months of life.
+doc58	4	We measured total cholesterol, triglycerides and high-density lipoprotein (HDL) and low-density lipoprotein (LDL).
+doc58	5	We selected the variables that could be associated with the lipid profile, such as the family history of dyslipidemia, nutritional status and food consumption of children.
+doc58	6	We performed Poisson regression analysis with robust variance.
+doc58	7	The level of significance adopted was p<0.05. We observed increased LDL values in 46.8% (188), total cholesterol in 37.6% (151), triglycerides in 10.4% (42) and below-desirable HDL in 33.8% (136) of the children.
+doc58	8	There was a statistically significant association between the family history of dyslipidemia with total cholesterol, LDL and triglycerides (p<0.05 and p < 0.001, respectively); Early weaning with LDL (p < 0.05); Sedentarism with LDL and triglycerides (p < 0.05 and p < 0.001, respectively); as well as HDL with candy consumption (p < 0.05).
+doc58	9	There was a significant prevalence of changes in the lipid profile of the children.
+doc58	10	Nutrition education activities and programs aimed at this group are needed.
+doc59	1	Quality of Reporting in Upper Gastrointestinal Endoscopy: Effect of a Simple Audit Intervention.
+doc59	2	Background and Aim
+doc59	3	In contrast to colonoscopy, there are few studies regarding upper gastrointestinal (UGI) endoscopy reporting its quality and ways of improving it.
+doc59	4	Quality audits are recommended, but their influence on the abovementioned quality is not well studied.
+doc59	5	Our aim was to evaluate the quality of UGI endoscopy reports and assess the effect of a simple audit intervention on UGI endoscopy reporting quality.
+doc59	6	Methods
+doc59	7	This was a prospective study in a tertiary referral center, including the evaluation of 1,000 consecutive reports of UGI endoscopies before an audit intervention and 250 after.
+doc59	8	The reports were analyzed according to performance measures defined by three experienced gastroenterologists.
+doc59	9	Results
+doc59	10	Before the intervention, 51.8% of the incomplete endoscopies did not present any justification for its incompleteness and 88.1% of lesions were correctly described.
+doc59	11	Overall, 64.1% of the reports were considered as being of high quality.
+doc59	12	After the audit intervention, follow-up recommendation (53.4 vs. 80.8%, p = 0.001), correct lesion description (88.1 vs. 95.8%, p = 0.001), and correct segment description (92.2 vs. 96.4%, p = 0.020) improved significantly.
+doc59	13	The rate of unjustified incomplete endoscopies decreased significantly (51.8 vs. 28.9%, p = 0.010).
+doc59	14	The high-quality endoscopy rate improved 13.9% after the intervention (p < 0.001).
+doc59	15	Both specialists and residents improved with the audit intervention with a similar percentage of improvement in the high-quality endoscopy rate (13.9 vs. 13.4%).
+doc59	16	Conclusions
+doc59	17	A simple audit intervention is a good way to improve the quality of reporting of UGI endoscopy, independently of degree and experience.
+doc59	18	Some of the performance measure accomplishments may depend on the software used by the endoscopy centers and it should be a priority to optimize it.
+doc62	1	[Survival difference due to types of health coverage in breast cancer patients treated at a specialized cancer center in Medellín, Colombia].
+doc62	2	The study aimed to estimate the effect of health insurance on overall survival and disease-free survival in breast cancer patients undergoing surgery at the Las Américas Oncology Institute in Medellín, Colombia, with data from the institutional registry.
+doc62	3	The variables were compared between subsidized coverage and contributive coverage with chi-squared test (χ2) or Student t test, Kaplan-Meier, and log-rank test.
+doc62	4	The target variable was adjusted with Cox regression.
+doc62	5	There were 2,732 patients with a median follow-up of 36 months.
+doc62	6	Ten percent of the women with contributive coverage died, compared to 23% of the subsidized coverage group.
+doc62	7	There were differences in time-to-treatment (contributive group with 52 days versus subsidized group with 112 days, p < 0.05).
+doc62	8	Disease-free survival and overall survival were better in women with contributive coverage compared to those with subsidized coverage (p < 0.05), and overall survival varied according to tumor and treatment variables.
+doc62	9	Overall survival and disease-free survival and early time-to-diagnosis and treatment were better in patients with contributive coverage compared to those with subsidized coverage.
+doc63	1	[Factors associated with excess weight and stunting in schoolchildren born with low birth weight].
+doc63	2	The scope of this study is to assess the nutritional status of low birth weight (LBW) children and the possible associations with independent maternal variables, gender and neonatal history.
+doc63	3	It involved a cross-sectional study with 544 LBW schoolchildren (five to ten years of age) in the metropolitan area of São Paulo.
+doc63	4	Variables: the neonatal data of liveborn infant declarations and the current weight and height of the mothers were collected.
+doc63	5	The weight and stature used to calculate the height/age z (HAZ) score and the body mass index (BMI) of children were evaluated.
+doc63	6	Among the LBW children 6.2% were of short stature, 12.3% overweight and 8.6% obese.
+doc63	7	There was an association between short stature in LBW schoolchildren and short maternal stature < 150 cm (OR = 6.94; 95 % CI 2.34-20.6).
+doc63	8	Excess weight/obesity in LBW children was independently associated with overweight/obesity of the mother (OR = 2.40; 95% CI 1.44-4.01), and the male gender (OR = 1.77; 95% CI 1.06-2.95).
+doc63	9	A fifth of schoolchildren with low birth weight were overweight, which was associated with current maternal nutritional status and the male gender and stunting was associated with maternal stature.
+doc65	1	Trend of hospitalizations and mortality from surgical causes in Brazil, 2008 to 2016.
+doc65	2	OBJECTIVE
+doc65	3	to evaluate the trend of hospitalazions for surgical procedures and surgical mortality in Brazil, from 2008 to 2016.
+doc65	4	METHODS
+doc65	5	we conducted an ecological, time-series study.
+doc65	6	We obtained the data on surgical hospitalizations and mortality between 2008 and 2016 from the Department of Informatics of the Unified Health System (SUS).
+doc65	7	We performed the trend analysis using polynomial regression models.
+doc65	8	RESULTS
+doc65	9	in the period of the study, 37,565,785 surgical procedures were performed in the SUS, an average of 4,151,050 surgeries/year.
+doc65	10	The mean coefficient of the surgical procedures was 2.12 surgeries per 100 inhabitants/year, with a variation of 1.92 to 2.56 inhabitants/year among the country regions.
+doc65	11	The surgical mortality rate was 1.63%, ranging from 1.07% to 2.02% between the regions.
+doc65	12	CONCLUSION
+doc65	13	there was a significant trend towards increasing number of surgical procedures carried out and of surgical mortality; however, the coefficient of surgical procedures is lower than recommended by international standards, with regional disparities in access to surgical care and mortality, which undermines the guarantee of universal health coverage expect from the Unified Health System.
+doc71	1	18F-FDG PET/CT performed immediately after percutaneous ablation to evaluate outcomes of the procedure: preliminary results.
+doc71	2	Objective
+doc71	3	To determine whether 18F-fluorodeoxyglucose positron emission tomography/computed tomography performed immediately after percutaneous ablation (iPA 18F-FDG PET/CT) is useful in evaluating the outcomes of the procedure.
+doc71	4	Materials and Methods
+doc71	5	This was a retrospective study of 20 patients (13 males, 7 females; mean age, 65.8 ± 12.1 years) submitted to percutaneous ablation of metastases.
+doc71	6	All of the lesions treated had shown focal uptake on a 18F-FDG PET/CT scan obtained at baseline.
+doc71	7	The primary tumors were mainly colorectal cancer (in 45%) or lung cancer (in 40%). iPA 18F-FDG PET/CT was performed to identify any residual viable tumor cells.
+doc71	8	The treatment was considered a success (no viable tumor cells present) if no uptake of 18F-FDG was noted on the iPA 18F-FDG PET/CT scan.
+doc71	9	Results
+doc71	10	Twenty-six lesions were submitted to percutaneous ablation with either cryoablation (n = 7) or radiofrequency ablation (n = 19).
+doc71	11	The mean lesion diameter was 2.52 ± 1.49 cm. For the detection of viable tumor cells, iPA 18F-FDG PET/CT had a sensitivity, specificity, accuracy, positive predictive value, and negative predictive value of 66.7%, 95%, 88.5%, 80%, and 90.5%, respectively.
+doc71	12	There was a significant correlation between the iPA 18F-FDG PET/CT findings and the results of the follow-up studies (kappa = 0.66; p < 0.01).
+doc71	13	Conclusion
+doc71	14	iPA 18F-FDG PET/CT studies appear to constitute a useful means of evaluating the outcomes of percutaneous ablation.
+doc71	15	By detecting residual viable tumor cells, this strategy might allow early re-intervention, thus reducing morbidity.
+doc71	16	Studies involving larger numbers of patients are needed in order to confirm our findings.
+doc72	1	Quality of life after intensive care unit: a multicenter cohort study protocol for assessment of long-term outcomes among intensive care survivors in Brazil.
+doc72	2	OBJECTIVE
+doc72	3	To establish the prevalence of physical, cognitive and psychiatric disabilities, associated factors and their relationship with the qualities of life of intensive care survivors in Brazil.
+doc72	4	METHODS
+doc72	5	A prospective multicenter cohort study is currently being conducted at 10 adult medical-surgical intensive care units representative of the 5 Brazilian geopolitical regions.
+doc72	6	Patients aged ≥ 18 years who are discharged from the participating intensive care units and stay 72 hours or more in the intensive care unit for medical or emergency surgery admissions or 120 hours or more for elective surgery admissions are consecutively included.
+doc72	7	Patients are followed up for a period of one year by means of structured telephone interviews conducted at 3, 6 and 12 months after discharge from the intensive care unit.
+doc72	8	The outcomes are functional dependence, cognitive dysfunction, anxiety and depression symptoms, posttraumatic stress symptoms, health-related quality of life, rehospitalization and long-term mortality.
+doc72	9	DISCUSSION
+doc72	10	The present study has the potential to contribute to current knowledge of the prevalence and factors associated with postintensive care syndrome among adult intensive care survivors in Brazil.
+doc72	11	In addition, an association might be established between postintensive care syndrome and health-related quality of life.
+doc73	1	Knowledge and attitude about diabetes self-care of older adults in primary health care.
+doc73	2	This study aimed to assess the knowledge about diabetes, the attitude for self-care and associated factors through a cross-sectional study, the baseline of a randomized clinical trial with elderly diabetic in primary health care in Recife, Northeastern Brazil.
+doc73	3	We used the Diabetes Knowledge Scale (DKN-A) and Diabetes Attitudes Questionnaire (ATT-19).
+doc73	4	Of the 202 elderly, 77.7% had insufficient knowledge of the disease, especially for ketonuria, food replacement and were unaware of the causes and care of hypoglycemia.
+doc73	5	As for attitude, 85.6% had a negative psychological adjustment for diabetes.
+doc73	6	The logistic regression model showed that living alone was a protective factor (OR = 0.24; 95% CI 0.09-0.65; OR = 0.22; 95% CI 0.07 to 0.71), and low education, a risk factor (OR = 7.78; 95% CI 3.36-18.01; OR = 13.05; 95% CI 4.63-36.82) for the insufficient knowledge and the negative attitude for self-care, respectively.
+doc73	7	The findings reinforce the need for interdisciplinary educational actions that include socioeconomic, psycho-emotional and educational aspects in diabetes management to maintain elderly autonomy and functionality.
+doc76	1	Comparative analysis of glutathione transferase genetic polymorphism, Helicobacter pylori and Epstein-Barr virus between the tumor area and the proximal and distal resection margins of gastric cancer.
+doc76	2	OBJECTIVE
+doc76	3	to compare the polymorphism of the Glutathione S-transferase theta 1 (GSTT1) and Glutathione S-transferase mu 1 (GSTM1) genes from the tumor area with the proximal and distal margins of stomach specimens resected from patients with gastric cancer, and to investigate the presence of Epstein-Barr virus (EBV) DNA and Helicobacter pylori.
+doc76	4	METHODS
+doc76	5	we prospectively collected tissue specimens from the tumor area and from the proximal and distal resection margins of the stomachs of ten patients with gastric adenocarcinoma who underwent gastrectomy with D2 lymphadenectomy, and submitted these specimens to DNA extraction.
+doc76	6	We compared the tumor area with the proximal and distal margins of the resected stomachs for polymorphism of GSTT1 and GSTM1 genes and investigated the presence of EBV-DNA and H. pylori.
+doc76	7	We used the p53 exon 5 gene as an internal control of the multiplex PCR reaction.
+doc76	8	RESULTS
+doc76	9	in one patient, we detected null GSTT1 and GSTM1 genotypes in the tumor area, in contrast to the presence of both genes in the proximal and distal margins.
+doc76	10	We found EBV-DNA and H. pylori in the tumor area and also in the proximal and distal margins.
+doc76	11	In another patient, the proximal margin was negative for GSTT1, and EBV-DNA was negative in the distal margin.
+doc76	12	In three patients, EBV-DNA was negative only in the distal margin.
+doc76	13	CONCLUSION
+doc76	14	this is the first report where different genotypes, EBV-DNA and H. pylori infection were observed in the same patient, indicating a probable deletion of these genes in response to tumor progression and intratumoral heterogeneity.
+doc77	1	[Predictors of the fear of falling among community-dwelling elderly Portuguese people: an exploratory study].
+doc77	2	The fear of falling constitutes a real risk factor for falls.
+doc77	3	It has also been associated with functional decline, decreased quality of life and increased social isolation among the elderly population.
+doc77	4	This study analyzed predictors of the fear of falling in elderly Portuguese people that live in the community.
+doc77	5	A cross-sectional study with a convenience sample of 98 participants (57.1% women; mean age 74.07 ± 8.74 years) was conducted.
+doc77	6	Data were collected with a protocol which includes a questionnaire for sociodemographic and health information, the Activity Specific Balance Confidence Scale, the Hospital Anxiety and Depression Scale, the Lubben Social Network Scale-6, the Timed Up and Go, and Five Times Sit to Stand Test.
+doc77	7	Data were analyzed using descriptive and inferential statistics.
+doc77	8	The results showed that female gender (p = 0.01), the perception of good (p = 0.01) and moderate (p = 0.02) physical health and the symptoms of depression (p ≈ 0.00) are predictors of fear of falling.
+doc77	9	Controlling these predictors is a fundamental aspect for promoting the independence of elderly people minimizing the consequences that are associated with the fear of falling.
+doc78	1	Calcaneal lateral column lengthening osteotomy for symptomatic flexible flatfoot in children and adolescents: a systematic review.
+doc78	2	Flexible flatfoot is a common condition in small children, which shows a strong tendency to spontaneously correct with their growth or to become moderate or mild in adults, which will not cause future problems.
+doc78	3	However, in a small number of cases, this condition is more severe, does not improve spontaneously, which may cause mechanical impairment, deformity, and, eventually, pain.
+doc78	4	In such cases, surgical treatment should be considered.
+doc78	5	The aim of this systematic review was to evaluate the literature results on the treatment of the symptomatic flexible flatfoot in children or adolescents through a very frequent procedure: calcaneal lateral column lengthening osteotomy, A systematic electronic search in PubMed, Web of Science, Cochrane, CINAHL, SciELO, SCOPUS and LILACS databases was performed.
+doc78	6	We searched articles published between March 1975 and September 2016. After applying the eligibility criteria, the selected publications were evaluated in relation to their clinical and radiographic results and complications.
+doc78	7	We found 341 articles in the mentioned databases, but selected only eight studies, according to the inclusion and exclusion criteria.
+doc78	8	These studies included a total of 105 patients and 167 treated feet.
+doc78	9	Only three authors performed prospective studies, but without case-control or randomization.
+doc78	10	The majority of publications were descriptive studies or case series (level of evidence III or IV), with great methodological variations, but with a high satisfaction rate on the part of both patients and surgeons in relation to the results.
+doc78	11	However, more prospective and randomized studies are required, with adequate control groups and validated evaluation criteria.
+doc80	1	[The prevalence of strategies for cessation of tobacco use in primary health care: an integrative review].
+doc80	2	The habit of tobacco use/smoking, which is a major concern of Primary Health Care (PHC), is a serious public health problem and the main avoidable cause of death in the world.
+doc80	3	The relevance of actions, whose focus is to facilitate the cessation of this habit, motivates the discussion of studies that have different approaches to tackle this issue by seeking to train PHC professionals accordingly.
+doc80	4	A search was conducted in the Lilacs, MEDLINE and Web of Science databases for recent scientific publications (2010-2015).
+doc80	5	The key words were combined with Boolean operators and, after analysis of the articles found, 75 are discussed in this article since they have strategies with a higher prevalence in PHC. The conclusion drawn is that the brief or intense individual approach using the 5A method (Transtheoretical Model) is the most widely adopted, as well as bupropion and nicotine replacement patches.
+doc80	6	The increasing use of hard technology requires new studies that examine their impact on the treatment of smokers.
+doc80	7	It was clearly revealed that there is a need for health professionals to be better prepared to address the issue with the users, in addition to a lack of stimulus and proper conditions to work in the PHC team directly reflecting scientific advances in clinical practice.
+doc81	1	[Factors associated with food consumption in schools and overweight/obesity in 7 to 10-year-old schoolchildren in the state of Santa Catarina, Brazil].
+doc81	2	The scope of this article is to investigate the association between the source of snacks consumed in schools, their nutritional value and overweight/obesity.
+doc81	3	It involved a cross-sectional study with 3,930 schoolchildren aged between 7 and 10 in the state of Santa Catarina.
+doc81	4	Food consumption in the school was assessed with an illustrated 24-hour dietary recall and the source of snacks was investigated by structured interview.
+doc81	5	Soft drinks and artificial fruit juices, fried and processed snacks, ready-to-eat or sweetened snacks, delicacies and stuffed biscuits were classified as "low nutritional value foods," while fruit, natural fruit juices, vegetables, and vegetable soup were the "high nutritional value foods."
+doc81	6	Univariate and multiple logistic regression was conducted.
+doc81	7	Overweight/obesity was significantly associated with higher food consumption from the school canteen (OR = 1.34; CI = 1.07-1.68) in private schools.
+doc81	8	Bringing food from home was significantly associated with increased consumption of low nutritional foods, both in public (OR = 1.56; CI = 1.32-1.83) and private (OR = 2.64; CI = 1.76-3.97) schools.
+doc81	9	The results highlight the need for tightening of norms to reduce the availability of low nutritional value food in canteens, and actions to promote nutritional education involving the school community.
+doc82	1	PROTOCOL FOR TREATING ACUTE INFECTIONS IN CASES OF TOTAL KNEE ARTHROPLASTY.
+doc82	2	Objective
+doc82	3	To retrospectively evaluate the results after applying a protocol for treating acute infections in cases of total knee arthroplasty and to establish factors predictive of success or failure.
+doc82	4	Methods
+doc82	5	Thirty-two patients who were diagnosed with acute infection of the knee following total arthroplasty between 2004 and 2009 were retrospectively evaluated.
+doc82	6	Infections following arthroplasty were treated in accordance with the protocol for acute infections following arthroscopy recommended at our institution.
+doc82	7	Results
+doc82	8	With application of a treatment protocol for acute infections following total knee arthroplasty, 26 patients (81.2%) had good results and 6 (18.8%) had unsatisfactory results.
+doc82	9	Statistical analysis showed that the variables correlated with a worse prognosis were age (p = 0.038) and number of surgical debridement procedures performed (p = 0.038).
+doc82	10	Conclusion
+doc82	11	Our treatment routine was effective for infection.
+doc82	12	Prosthesis revision was performed in 2 cases when the initial surgical debridement failed to control the infection.
+doc83	1	[Dissatisfaction with dental services among dentate and edentulous elderly Brazilians: a multilevel analysis].
+doc83	2	The scope of this study was to evaluate dissatisfaction with dental services among dentate and edentulous elderly Brazilians and its association with contextual and individual variables.
+doc83	3	The data from the National Oral Health Survey conducted in 2010 and contextual variables related to cities were used.
+doc83	4	Descriptive, bivariate and multilevel analysis was conducted among 1,989 elderly individuals.
+doc83	5	Of these, 11.2% of dentate and 22.1% of edentulous elderly people were dissatisfied.
+doc83	6	Among the dentate individuals, dissatisfaction was associated with contextual variables (location of municipality, human development index, GINI Index, the presence of Dental Specialty Centers and the coverage of oral health in public service) and persons related to health care and oral health conditions.
+doc83	7	For the edentulous individuals, no associated contextual variables were identified.
+doc83	8	Only the motive for the use of the service and satisfaction with teeth and mouth were associated with dissatisfaction with dental services.
+doc83	9	A considerable prevalence of dissatisfaction with the services was identified, being higher among edentulous elderly Brazilians.
+doc83	10	Among dentate elderly Brazilians, an association with contextual variables was detected.
+doc85	1	[Eating behavior of quilombola and non-quilombola adolescents from the rural area of the semiarid region of the state of Bahia, Brazil].
+doc85	2	The scope of this article is to describe the food consumption and eating behavior of quilombola and non-quilombola adolescents from the rural area of Southwest Bahia.
+doc85	3	A cross-sectional study with 390 adolescents aged 10 to 19 years was conducted in 2015, using an adapted PeNSE and PNS questionnaire.
+doc85	4	Food consumption was assessed by the frequency of healthy and unhealthy food markers in the previous 7 days.
+doc85	5	Eating breakfast was used as a marker of healthy eating behavior and having meals while watching TV as being unhealthy.
+doc85	6	Frequency distribution was carried out and the differences between quilombola and non-quilombola groups were assessed using the chi-square test.
+doc85	7	The prevalence ratio (PR) estimated the association of food consumption and eating behavior and the variables of interest.
+doc85	8	Low fruit consumption (30.8%), vegetables (44.3%) and milk (24.4%) was observed.
+doc85	9	Comparison between the groups revealed lower consumption of vegetables (PR = 0.73), fruit (PR = 0.67) and milk (PR = 0.68) among quilombola than among non-quilombola adolescents.
+doc85	10	Public policies targeted at nutritional assistance specific to rural adolescents are recommended, since bad eating habits can prevail throughout life and lead to poor health conditions.
+doc87	1	Pain and Swelling after Percutaneous Endoscopic Gastrostomy Removal: An Unexpected Evolution.
+doc87	2	Gastrostomy site metastization is considered an uncommon complication of percutaneous endoscopic gastrostomy (PEG) placement in patients with head and neck tumours, but it is important to consider this possibility when evaluating gastrostomy-related symptoms.
+doc87	3	The authors present the case of a 40-year-old male with excessive alcohol consumption and active smoking, diagnosed with a stage IV oropharyngeal squamous cell carcinoma.
+doc87	4	The patient developed a paraneoplastic demyelinating motor polyneuropathy that, associated with tumour mass effect, caused dysphagia with need for nasogastric tube feeding.
+doc87	5	Treatment with radiotherapy and then chemoradiotherapy was administered and a PEG was placed with the pull method.
+doc87	6	Cancer remission and resolution of polyneuropathy was achieved, so PEG was removed.
+doc87	7	Two weeks later, the patient presented with pain and swelling at the gastrostomy site suggesting a local abscess, with improvement after drainage and antibiotic therapy.
+doc87	8	After 1 month, there was a tumour mass at the gastrostomy site and an oropharyngeal cancer metastasis was diagnosed.
+doc87	9	The patient underwent surgical excision of abdominal wall metastasis and abdominal disease was controlled.
+doc87	10	Nevertheless, there was subsequent oropharyngeal neoplasia recurrence and the patient died 6 months later.
+doc87	11	This case raises the discussion about gastrostomy placement methods that could avoid gastrostomy site metastization, the possible differential diagnosis, and diagnostic workout.
+doc87	12	Surgical resection may allow metastatic disease control, but by primary disease evolution greatly affects prognosis.
+doc88	1	Association between col1a2 Polymorphism and the Occurrence of Pelvic Organ Prolapse in Brazilian Women.
+doc88	2	OBJECTIVE
+doc88	3	To evaluate the rs42524 polymorphism of the procollagen type I alpha (α) 2 (COL1A2) gene as a factor related to the development of pelvic organ prolapse (POP) in Brazilian women.
+doc88	4	METHODS
+doc88	5	The present study involved 112 women with POP stages III and IV (case group) and 180 women with POP stages zero and I (control group).
+doc88	6	Other clinical data were obtained by interviewing the patients about their medical history, and blood was also collected from the volunteers for the extraction of genomic DNA.
+doc88	7	The promoter region of the COL1A2 gene containing the rs42524 polymorphism was amplified, and the discrimination between the G and C variants was performed by digestion of the polymerase chain reaction (PCR) products with the MspA1I enzyme followed by agarose gel electrophoresis analysis.
+doc88	8	RESULTS
+doc88	9	A total of 292 women were analyzed.
+doc88	10	In the case group, 71 had the G/G genotype, 33 had the G/C genotype, and 7 had the C/C genotype.
+doc88	11	In turn, the ratio in the control group was 117 G/G, 51 G/C, and 11 C/C.
+doc88	12	There were no significant differences between the groups.
+doc88	13	CONCLUSION
+doc88	14	Our data did not show an association between the COL1A2 polymorphism and the occurrence of POP.
+doc89	1	A Rare Case of Spontaneous Remission and Relapse of a Primary Central Nervous System Lymphoma.
+doc89	2	Primary central nervous system lymphoma remission after steroid treatment is a well-known phenomenon, but remission without any type of treatment is extremely rare.
+doc89	3	We present a rare case of spontaneous remission of a diffuse large B-cell lymphoma of the central nervous system as well as its subsequent reappearance in another location.
+doc89	4	The atypical presentation misled the neurosurgeons and neurologists, delaying diagnosis and treatment.
+doc89	5	The patient underwent brain biopsy after the relapse and started radiotherapy and chemotherapy with cytarabine + methotrexate + rituximab.
+doc89	6	As of 32 months after the diagnosis, the patient remained asymptomatic, with no focal neurological deficits and the disease in complete remission.
+doc89	7	A PubMed search of the literature up to June 2017 regarding spontaneous remission central nervous system lymphoma was also carried out.
+doc90	1	Early life conditions and current health status as per the study "Health, Well-being and Aging" (SABE).
+doc90	2	INTRODUCTION
+doc90	3	Childhood conditions can influence some aspects of development of an individual and thus affect health in adult life.
+doc90	4	OBJECTIVE
+doc90	5	To evaluateassociations between early life conditions and health, as reported by the survey SABE in 2000, 2006, and 2010.
+doc90	6	METHODS
+doc90	7	Early or previous conditions refer to the situations before 15 years of age of the interviewees, such as economic condition, famine, health assessment, medical conditions, and having lived in the countryside for over 5 years.
+doc90	8	The control variables were gender, education, andincome.
+doc90	9	The outcome was self-reported health as "good" or "bad."
+doc90	10	This study focused on ages between 60 and 65years.
+doc90	11	RESULTS
+doc90	12	Bivariate analysis showed significant associations of the individual's origin in all the three cohorts.
+doc90	13	Economic and famine conditions were also significant for cohort B (2006).
+doc90	14	Multivariate Poisson regression was used with prevalence ratio as an element of comparison.
+doc90	15	Rural origin was the only significant early condition in the initial model.
+doc90	16	Thecontrol variables - gender, cohort, and education - were also significant.
+doc90	17	In the final model, the significant variables in the initial model were included, plus relation between rural origin and the number of diseases.
+doc90	18	Cohorts, gender, education, and the number of diseases were still significant factors when individuals had rural origin, but were not associated with the outcome if their origin was urban.
+doc90	19	CONCLUSION
+doc90	20	There were connections between early conditions of life and the health of the elderly, and this might be an important tool for health care for both the individual and the community.

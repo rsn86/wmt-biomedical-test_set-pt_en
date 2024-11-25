@@ -1,0 +1,427 @@
+doc1	1	to characterize the performance in oral narrative discourse of adolescents from 6 to 9 years of age from an elementary school, as well as to verify the influence of gender, school year, age, performance in oral language tests, memory, and appointment of figures.
+doc1	2	100 adolescents of both genders from the sixth to the ninth years of elementary school who did not have any language or learning disorders were evaluated for oral narrative discourse (MAC Battery), visual figure nomination (Boston Naming Test), oral language and memory (NEUPSILIN).
+doc1	3	Performance was considered as a response variable in narrative discourse (partial and complete retelling and the ability to answer questions).
+doc1	4	After univariate analysis, Multiple Linear Regression models were constructed.
+doc1	5	Only general performance in the naming task was considered as a predictor of performance in oral narrative discourse.
+doc1	6	A direct association between the variables of narrative discourse and the naming of figures was present.
+doc1	7	We show the characteristics of adolescents' performance in the partial and complete retelling and in the answers to the questions by age, school year and sex.
+doc1	8	in the studied sample the participants (aged from two to seven years old) were able to understand and detail an oral narrative discourse similar to adults with a low educational level, consequently the MAC Battery narrative discourse test can be used to assess adolescents without any requirements for adaptation.
+doc2	1	To compare health care indicators for adults with medical diagnosis of diabetes mellitus (DM) in Brazil, in 2013 and 2019, and analyze the indicators for 2019 according to sociodemographic characteristics.
+doc2	2	Cross-sectional study using data from the 2013 and 2019 National Health Survey.
+doc2	3	Care indicators were evaluated in people with medical diagnosis of DM.
+doc2	4	DM prevalence increased from 6.2% (2013) to 7.7% (2019).
+doc2	5	Between 2013 and 2019, there was an increase in the use of medications (from 80.2% to 88.8%) and of medical care (from 73.2% to 79.1%), a reduction in the use of Popular Pharmacy Program medications (from 57.4% to 51.5%) and in follow-up with the same physician (from 65.2% to 59.4%).
+doc2	6	In 2019, poorer indicators were observed for individuals who were male, younger, Black and Brown, and with lower education and income.
+doc2	7	Most indicators remained similar in the last five years, with differences according to sociodemographic characteristics in 2019.
+doc3	1	This work aimed to analyze graduates' profiles, education's effects, and the professional trajectory of those who completed lato sensu courses at Fiocruz.
+doc3	2	A total of 1,620 graduates participated in 79 courses completed in the 2013-2020 period.
+doc3	3	A questionnaire was applied before the course and after its completion.
+doc3	4	A description of the absolute and relative frequency of the variables was realized.
+doc3	5	A binary logistic regression model was developed to identify variables associated with the positive impact of the course.
+doc3	6	The odds ratio and its 95% confidence interval were the measures used.
+doc3	7	Among graduates with a positive impact from the course, those with black/brown skin color are 40% more likely to have a positive impact from the course than those with white skin color; those who have other academic education before the course are 1.5 times more likely than those who have no previous education; those who changed their professional activity as a result of the course are 3.3 more likely than those who were not working; those who reported that the course was closely related to their professional activity were 5.7 more likely than those who reported that the course had poor or no relationship.
+doc3	8	Every one-year increase since graduation increased the likelihood of the course's positive impact by 14%.
+doc4	1	The diagnosis of tuberculosis in children is a challenge namely because extrapulmonary tuberculosis and severe disease are more frequent in this age group.
+doc4	2	The aim of this study was to evaluate and reflect about severe tuberculosis in pediatric age, in a metropolitan area of Lisbon.
+doc4	3	Descriptive study about patients under 18 years of age admitted with tuberculosis disease in a tertiary pediatric hospital, from 2008 to 2019 (12 years).
+doc4	4	We report 145 patients, average of 12 cases/year, with an increase in the last three years.
+doc4	5	Median age of 12.9 years, 42.8% born in Portuguese-speaking African countries and 20% had a chronic disease.
+doc4	6	The diagnosis was pulmonary tuberculosis in 52.4% (n = 76) and extrapulmonary tuberculosis in 47.6%: lymphatic (n = 26), skeletal (n = 15), miliary (n = 8), meningeal (n = 7), peritoneal/ intestinal (n = 6), pleural (n = 4), renal (n = 1), cutaneous (n = 1), thoracic wall (n = 1) and salivary glands (n = 1).
+doc4	7	The tuberculin test was positive in 78/99 (78.8%) and Interferon Gamma Release Assay in 61/90 (67.8%).
+doc4	8	In 20.7% (n = 30) acid-fast bacilli were identified in gastric aspirate/sputum and the agent was identified in 59.3% (n = 86).
+doc4	9	Tuberculosis was resistant in 11% (n = 16).
+doc4	10	Patients with extrapulmonary tuberculosis were younger (p = 0.006) and had more prolonged therapy (p < 0.001).
+doc4	11	Therapy-related complications occurred in 11% (n = 16).
+doc4	12	One patient died (with terminal cancer).
+doc4	13	This study highlights the need for screening of tuberculosis in children from endemic countries, patients with immunosuppression and chronic disease.
+doc7	1	To describe the proportion of adults with hypertension and diabetes who obtained medication through the Brazilian Popular Pharmacy Program (Programa Farmácia Popular).
+doc7	2	Population-based descriptive study, using data from the 2019 Brazilian National Health Survey.
+doc7	3	The proportion of individuals who obtained at least one type of medication for hypertension and diabetes in the Program was analysed according to socioeconomic and demographic characteristics, by regions and federative units.
+doc7	4	The proportion of individuals who obtained medication for hypertension was 45.1% (95%CI 43.7;46.5), and, for diabetes, 51.5% (95%CI 49.5;53.6).
+doc7	5	Respectively for both conditions, medication obtainment was higher in the South region (54.3%; 95%CI 51.3;57.2 and 59.1%; 95%CI 54.6;63.7) and lower in the higher strata level of education (30.9%; 95%CI 27.7;34.2 and 40.7%; 95%CI 35.1;46.3) and income (24.0%; 95%CI 19.7;28.2 and 28.9%; 95%CI 22.1;35.7).
+doc7	6	Regional and socioeconomic inequalities were identified in obtaining medication for hypertension and diabetes through the Program.
+doc8	1	Body image is a construct of the multifaceted representation of body identity that involves self-perception, beliefs, attitudes about the body itself, which can be influenced by several factors.
+doc8	2	This study evaluated the association of body image with anthropometric and lifestyle indicators among adolescents.
+doc8	3	The sample comprised 465 adolescents aged 10 to 17 years from public schools in the city of Salvador-Bahia.
+doc8	4	The Silhouettes Scale assessed the body image.
+doc8	5	The anthropometric data (body mass index and waist circumference), the lifestyle (Physical Activity Questionnaire for Adolescents and television time), economic and demographic data were evaluated.
+doc8	6	Polytomous logistic regression assessed associations of interest by STATA, version 16.0.
+doc8	7	Overweight (OR:9,7; CI95%:5,4-17,5) and abdominal obesity (OR:14,0; CI95%: 5,0-39,3) were positively associated with body dissatisfaction.
+doc8	8	However, there was no association with lifestyle variables (physical activity: OR: 1,7, CI: 0,9-2,9, and TV time: OR:1,2; CI:0,8-1,9).
+doc8	9	The conclusion reached is that anthropometric status is an essential indicator of adverse body image outcomes in adolescents.
+doc12	1	This article, in an essay format, seeks to establish a dialogue between the ethics of care and pediatric palliative care, taking into consideration the fact that moral perceptions are based on a network of relationships, while care is built on intersubjectivity.
+doc12	2	Four pillars that are referred to as movements are discussed: the ethics of care, as a feminist ethic, in a dialogue with pediatric palliative care, and communication and autonomy as tools of care based on their relational aspects.
+doc12	3	The conclusion drawn is that considering these aspects from a palliative standpoint can be a way to implement a moral commitment of care.
+doc14	1	The objective of this work was to review published scientific works on leprosy as a public health problem in Brazil, and the marker of vulnerability for people with the disease.
+doc14	2	A scoping review was carried out with the descriptor 'leprosy AND vulnerability', on the Virtual Health Library (BVS) database.
+doc14	3	A total of 29 articles published between January 2016 and December 2020 that met the inclusion criteria were selected.
+doc14	4	The results pointed to scientific papers published in indexed journals and with different impact factors, with emphasis on the fact that most of the selected publications appear in journals with impact metrics that are not very significant in the eyes of the international community, even though they have national impact.
+doc14	5	The majority of the studies had municipal coverage, with emphasis on cities in the North and Northeast of Brazil.
+doc14	6	The works addressed vulnerability in leprosy using different typologies.
+doc13	1	Spatial analysis can help measure the spatial accessibility of health services with a view to improving the allocation of health care resources.
+doc13	2	The objective of this study was to analyze the spatial distribution of COVID-19 detection rates and health care resources in Brazil's Amazon region.
+doc13	3	We conducted an ecological study using data on COVID-19 cases and the availability of health care resources in 772 municipalities during two waves of the pandemic.
+doc13	4	Local and global Bayesian estimation were used to construct choropleth maps.
+doc13	5	Moran's I was calculated to detect the presence of spatial dependence and Moran maps were used to identify disease clusters.
+doc13	6	In both periods, Moran's I values indicate the presence of positive spatial autocorrelation in distributions and spatial dependence between municipalities, with only a slight difference between the two estimators.
+doc13	7	The findings also reveal that case rates were highest in the states of Amapá, Amazonas, and Roraima.
+doc13	8	The data suggest that health care resources were inefficiently allocated, with higher concentrations of ventilators and ICU beds being found in state capitals.
+doc18	1	To identify spatial variability of mortality from breast and cervical cancer and to assess factors associated in the city of São Paulo. Between 2009 and 2016, 10,124 deaths from breast cancer and 2,116 deaths from cervical cancer were recorded in the Mortality Information System among women aged 20 years and over.
+doc18	2	The records were geocoded by address of residence and grouped according to Primary Health Care coverage areas.
+doc18	3	A spatial regression modeling was put together using the Bayesian approach with a Besag-York-Mollié structure to verify the association of deaths with selected indicators.
+doc18	4	Mortality rates from these types of cancer showed inverse spatial patterns.
+doc18	5	These variables were associated with breast cancer mortality: travel time between one and two hours to work (RR - relative risk: 0.97; 95%CI - credible interval: 0.93-1.00); women being the head of the household (RR 0.97; 95%CI 0.94-0.99) and deaths from breast cancer in private health institutions (RR 1.04; 95%CI 1.00-1.07).
+doc18	6	The following variables were associated with mortality from cervical cancer: travel time to work between half an hour and one hour (RR 0.92; 95%CI 0.87-0.98); per capita household income of up to 3 minimum wages (RR 1.27; 95%CI 1.18-1.37) and ratio of children under one year of age related to the female population aged 15 to 49 years (RR 1.09; 95%CI 1.01-1.18).
+doc18	7	The predicted RR for mortality from these cancers were calculated and associated with the socioeconomic conditions of the areas covered.
+doc20	1	to verify if the performance of pre-school children born prematurely and at term in the Bayley-III language subtest differs and to identify whether variables gestational age, birth weight, socioeconomic level, and maternal education are determinant in the outcome of language development.
+doc20	2	Descriptive cross-sectional case-control study in which 36 pre-school children born prematurely and 27 born at term were evaluated concerning language development by the Bayley III subtest.
+doc20	3	Preschoolers between 18 and 36 months of chronological age were considered; with no syndromes or genetic, sensory, neurological, auditory, or visual impairments; and had not previously undergone speech therapy.
+doc20	4	Mann-Whitney, Fisher's Exact, and binary logistic regression tests were used for statistical analysis.
+doc20	5	the groups' performance did not differ either by the composite score (p = .701) or by the classification based on the percentile (p = .225).
+doc20	6	Gestational age, birth weight, and socioeconomic status did not influence the outcome of language development.
+doc20	7	However, maternal education was significant (p = .014) in the binary logistic regression model, suggesting that the mother having studied until basic education increases the chance of having a child underperforming in the Bayley III language subtest 6.31 times. there was no difference between the groups in the Bayley-III language subtest and only maternal education influenced the outcome of language development.
+doc21	1	To analyze association between participation in integrative practices and regular use of dental services in Brazilian older adults.
+doc21	2	This was a cross-sectional study based on secondary data from the 2019 National Health Survey.
+doc21	3	All older adults aged 60 years and over were included.
+doc21	4	The study outcome was regular dental service use.
+doc21	5	Poisson regression models were used to estimate crude and adjusted prevalence ratios (PRs) and their respective at confidence intervals 95% (95%CI).
+doc21	6	A total of 22,728 older adults were analyzed.
+doc21	7	Most were female (55.5%), reported that they were White (51.3%), had incomplete primary education (47.0%); 7.0% (95%CI 6.8;7.5) had used some form of integrative practice and 34.3% (95%CI 33.2;35.4) had used their dental service regularly.
+doc21	8	Individuals who used integrative practices had higher prevalence of dental service use even after adjusting the model (PR = 1.15; 95%CI 1.07;1.23).
+doc21	9	Among Brazilian older adults use of integrative practices was associated with regular use of dental services.
+doc23	1	to analyze the characteristics and temporal trend of mortality rates in the population aged 5 to 14 years in Mato Grosso state and in Brazil, from 2009 to 2020. this was an ecological time-series study, based on data taken from the Mortality Information System.
+doc23	2	Descriptive and trend analyses were performed, using the joinpoint regression model and calculating the average annual percentage change (AAPC).
+doc23	3	in Brazil and in Mato Grosso state, deaths were predominantly male, preventable and due to external causes.
+doc23	4	A falling trend was identified for Brazil (5-9 years AAPC: -2.9; 95%CI -4.3;-1.6 and 10-14 years AAPC: -2.5; 95%CI -3.3;-1.8), while a stationary trend was found in Mato Grosso (5-9 years AAPC: -2.0; 95%CI -5.6;1.7 and 10-14 years AAPC: -0.1; 95%CI -5.9;6.1).
+doc23	5	the stable trend of mortality at high levels demands urgent interventions to reduce it.
+doc28	1	The consolidation of practices aimed at enhancing resilience corroborates the current paradigm shift within the scope of adolescent health promotion, in which the individual's singularity is considered, as well as his/her relationship with the environment.
+doc28	2	The scope of the undertaking was to identify protective factors involved in the process of resilience among adolescents.
+doc28	3	This paper reviews indexed publications describing adolescent care models and interventions.
+doc28	4	The analysis of the texts consisted of: 1) comparing the similarities and differences between the concepts used; and 2) identifying, grouping and compiling the most cited protection factors.
+doc28	5	A total of 17 articles that strive to enhance resilience in six different practical contexts were analyzed.
+doc28	6	Based on the protection factors found, 17 actions were generated to guide the development of educational works in health.
+doc28	7	Protective factors related to 'Problem solving', 'Valorization of the individual' and 'Ability in communication' were identified in several contexts of study on adolescence.
+doc28	8	These factors represent transversal aspects necessary to enhance resilience and should be stimulated together in order to foster the healthy development of adolescents.
+doc29	1	This cross-sectional study aimed to analyze the sociodemographic and lifestyle characteristics associated with the consumption of in natura or minimally processed and ultra-processed foods (UPFs) by adolescents in the Metropolitan Region of Greater Vitória, in Espírito Santo, Brazil.
+doc29	2	The data were obtained between 2016 and 2017.
+doc29	3	Logistic regression was adopted for the multivariate analysis.
+doc29	4	A total of 2,285 adolescents aged between 15 and 19 participated in the study.
+doc29	5	Greater consumption of minimally processed foods was associated with the adolescent doing paid work (OR=1.27; 95%CI=1.04-1.56), a high family income (OR=1.5; 95%CI=1.10-2.17), and engagement in physical activity (OR=1.9; 95%CI=1.45-2.63).
+doc29	6	Having brown/black skin (OR=1.3; 95%CI=1.02-1.61) and the habit of eating while surfing the web (OR=1.4; 95%CI=1.02-1.88) increased the chances of consuming UPFs.
+doc29	7	Being enrolled in a private school and being in the third/fourth year of high school reduced UPF consumption by 41.7% and 37.2%, respectively.
+doc29	8	It is concluded that greater purchasing power and engagement in physical activity influenced the consumption of minimally processed foods.
+doc29	9	On the other hand, self-reporting as brown/black and internet use increased the chances of greater UPF consumption.
+doc30	1	Adequate nutrition has a profound impact on older adults' health.
+doc30	2	Therefore, special attention should be given to the dietetic intake of added sugars, which in excess is associated with poorer control of chronic diseases in this phase.
+doc30	3	The aim of the study was to evaluate the prevalence of consumption of added sugars in older adults in the Campinas-SP region, its associated factors, and its main dietary sources.
+doc30	4	A cross-sectional study was conducted in the region of Campinas-SP, with a convenience sample of 586 older individuals.
+doc30	5	Intake was obtained using two 24-hour food recalls, and values >5% of total energy consumption were considered inadequate.
+doc30	6	The contribution of the groups and foods in relation to the total content of sugars was also calculated.
+doc30	7	A critical level of p<0.05 was considered.
+doc30	8	The average intake of added sugars was higher than recommended (7.0%), and this inadequacy was observed in more than half of the sample, being table sugar and honey the main dietary sources.
+doc30	9	The prevalence of inadequate consumption was higher among women (69.8%; p=0.004) and individuals with low weight (83.7%; p=0.014), and lower in those with diabetes (47.8%; p<0.001).
+doc30	10	Results indicate that health and nutrition actions should be developed to ensure adequate sugar intake at this stage.
+doc31	1	The scope of this study is to identify determining factors of disparities in social conditions in the health of non-institutionalized elderly people in the city of São Paulo, from the standpoint of self-declaration of skin color.
+doc31	2	It is a cross-sectional study with a representative sample of 1,017 elderly participants in the '2015 Health Survey of the Municipality of São Paulo'.
+doc31	3	The analysis used crude and adjusted Poisson regression models, reporting the prevalence ratio and 95% confidence intervals as a measure of association between the variables.
+doc31	4	In the adjusted analysis, brown and black skin color was positively associated with worse schooling, negative self-assessment of health status, health insurance and access to public health services.
+doc31	5	On the one hand, black skin color was no longer associated with the lowest income, however, it was associated with arterial hypertension.
+doc31	6	On the other hand, brown skin color was associated with low income, but not with arterial hypertension.
+doc31	7	Elderly black and brown people had worse health conditions, less access to private health services and socioeconomic resources.
+doc31	8	These results are compatible with the hypothesis of structural racism in São Paulo's society and may inform social health policies aimed at promoting health and social justice.
+doc32	1	In the atherosclerotic plaque microenvironment, oxidized phospholipids expressed in the oxidized low-density lipoprotein (oxLDL) surface bind to scavenger receptors of macrophages eliciting foam cell formation and plaque progression.
+doc32	2	Auto-antibodies against oxLDL (oxLDL-Ab) interact with oxidative epitopes leading to the formation of immune complexes that are unable to interact with macrophage receptors, thus abrogating atherogenesis.
+doc32	3	Release of oxLDL-Ab by B cells involves interleukin 5 and Th2 response, which in turn are potentiated by HDL.
+doc32	4	Thereby, we hypothesized that individuals with higher levels of HDL-C may plausibly display elevated titers of oxLDL-Ab.
+doc32	5	To evaluate the relationship between HDL-C and oxLDL-Ab levels.
+doc32	6	Asymptomatic individuals (n = 193) were grouped according to their HDL-C concentration to one of three categories: low (< 68 mg/dL), intermediate (68 to 80 mg/dL) or high (> 80 mg/dL).
+doc32	7	P values < 0.05 were considered statistically significant.
+doc32	8	Our analysis included 193 individuals (mean age: 47 years; male: 26.3%).
+doc32	9	Compared to individuals in the lowest HDL-C tertile, those in the highest tertile were older (36 versus 53 years; p = 0.001) and less frequently male (42.6% versus 20.9%; p = 0.001).
+doc32	10	Mean values of oxLDL-Ab increased as the HDL-C group escalated (0.31, 0.33 and 0.43 units, respectively; p = 0.001 for trend).
+doc32	11	Simple linear regression found a significant, positive relationship between the independent variable, HDL-C, and the dependent variable, oxLDL-Ab (R = 0.293; p = 0.009).
+doc32	12	This relation remained significant (R = 0.30; p = 0.044), after adjustment by covariates.
+doc32	13	Apolipoprotein AI levels were also related to oxLDL-Ab in both simple and adjusted linear regression models.
+doc32	14	HDL-C and oxLDL-Ab are independently related.
+doc9	1	The scope of this study was to investigate the prevalence of food insecurity in the context of COVID-19 and its association with the emergency aid income-transfer program and the collecting of food donations by the population in a situation of social vulnerability.
+doc9	2	A cross-sectional study was carried out with socially vulnerable families eight months after confirming the first case of COVID-19 in Brazil.
+doc9	3	A total of 903 families, living in 22 underprivileged communities of Maceió, in the state of Alagoas, were included.
+doc9	4	Sociodemographic characteristics were evaluated, and the Brazilian Food Insecurity Scale was applied.
+doc9	5	The association of food insecurity with the variables studied was performed using Poisson regression with robust variance estimation, considering α = 5%.
+doc9	6	Of the total sample, 71.1% were food insecure, a situation associated with receiving food donations (PR = 1.14; 95%CI: 1.02; 1.27) and being a beneficiary of emergency aid (PR =1.23; 95%CI: 1.01; 1.49).
+doc9	7	The results show that the population in a situation of social vulnerability was strongly affected by food insecurity.
+doc9	8	On the other hand, the population group in question benefited from actions implemented at the outset of the pandemic.
+doc33	1	Sedentary behavior has been associated with several cardiometabolic risk factors during childhood.
+doc33	2	However, little is known about the impact of sedentary behavior on the health and eating habits of physically active children and adolescents.
+doc33	3	To evaluate the association between sedentary behavior and cardiometabolic risk factors and eating habits in physically active children and adolescents.
+doc33	4	This cross-sectional study was conducted, including 516 physically active children and adolescents (10 to 18 years old; both sexes) enrolled in the social project 'Estação Conhecimento-Vale' were evaluated.
+doc33	5	Biochemical and lifestyle variables (questionnaire) were collected.
+doc33	6	Sedentary behavior was determined indirectly (questionnaire), by using sitting time ≥ 3 hours per day as a cutoff point.
+doc33	7	A p-value < 0.05 was considered statistically significant for all tests.
+doc33	8	Sedentary behavior was not associated with overweight/obesity (odds ratio = 0.72 [95% confidence interval (CI): 0.325-1.389]), hypertriglyceridemia (odds ratio = 0.63 [95% CI: 0.306-1.297]), low HDL cholesterol (odds ratio = 0.57 [95% CI: 0.323-1.019]), or high non-HDL cholesterol (odds ratio = 0.63 [95% CI: 0.283-1.389]).
+doc33	9	However, children and adolescents with sedentary behavior were more likely to regularly consume food in front of the television (odds ratio = 1.96 [95% CI: 1.114-3.456]) and to consume at least one ultra-processed food per day (odds ratio = 2.42 [95% CI: 1.381-4.241]).
+doc33	10	In addition, they were less likely to consume fruit regularly (odds ratio = 0.52 [95% CI: 0.278-0.967]).
+doc33	11	There was no association between sedentary behavior and cardiometabolic risk factors in physically active children and adolescents.
+doc33	12	However, sedentary behavior was associated with inadequate eating habits.
+doc33	13	Thus, we may suggest that the regular engagement in physical activity may attenuate the deleterious effects of sedentary behavior on the cardiometabolic parameters of children and adolescents.
+doc6	1	to analyze the relationship between the concern and fear of COVID-19 with fatalism in the daily work of nurses.
+doc6	2	analytical cross-sectional study carried out with a total of 449 nurses.
+doc6	3	Data collection was performed using instruments validated in Peru.
+doc6	4	In the analysis, the Shapiro-Wilk test and the Spearman correlation coefficient were used, and two multiple regression models were estimated, with variable selection in stages.
+doc6	5	nurses had a moderate level of fatalism and a low level of fear and concern about COVID-19.
+doc6	6	The first statistical model, which included sociodemographic variables, explains only 3% of the fatalism variance.
+doc6	7	However, a second model that includes fear and perception explains 33% of it.
+doc6	8	Worry, fear and having been diagnosed with COVID-19 were predictors of fatalism.
+doc6	9	It is suggested the implementation of psycho-emotional interventions in daily work - aimed at Nursing professionals who present high levels of fear or concern - to reduce fatalism and prevent fatal consequences of the pandemic and promote health.
+doc34	1	to investigate the test-retest reliability of the AudBility program in typically developing children aged six-seven years.
+doc34	2	29 children, male and female, right-handed, native Portuguese speakers and adequate school performance for the age group studied, underwent previous meatoscopy, immittance measurements and the AudBility program was applied, composed of a self-perception questionnaire and auditory tasks, being analyzed the abilities of sound localization, auditory closure, figure-ground, dichotic digits test, temporal resolution, and temporal ordering of frequency and duration.
+doc34	3	The program was designed and reapplied with an interval of one week under the same conditions.
+doc34	4	The performance in each task was presented from central tendency and dispersion data and was conducted using the Intraclass Correlation Coefficient (ICC), based on the 95% confidence interval (CI).
+doc34	5	The analyses showed a positive and significant ICC (p<0.01) for the questionnaire and auditory tasks, except for auditory closure, in the right and left ears and figure-ground in the left ear.
+doc34	6	The questionnaire mean ICC was 0.742 and ranged from -0.012 to 0.698 for the auditory tasks.
+doc34	7	Based on mean results and upper limit of the CI, the findings showed agreement between moments, classified as good for the questionnaire and moderate to good for five of the seven auditory analyzed tasks (ICC>0.05 and <0.9).
+doc34	8	The results of the reliability study represent an important parameter for validating the program for the studied age group.
+doc11	1	To compare the efficiency of different vocal self-assessment instruments for dysphonia screening.
+doc11	2	262 dysphonic and non-dysphonic individuals participated in the research.
+doc11	3	The mean age was 41.3 (±14.5) years.
+doc11	4	The diagnosis of dysphonia was based on the auditory-perceptual analysis of the sustained vowel 'é' and on laryngological diagnosis.
+doc11	5	The responses of the instruments were collected: Voice-Related Quality of Life (V-RQOL), Voice Handicap Index (VHI), VHI-10, Voice Symptoms Scale (VoiSS), and the Brazilian Dysphonia Screening Tool, (Br-DST) called in Brazilian Portuguese Instrumento de Rastreio da Disfonia (IRDBR).
+doc11	6	To analyze assertiveness in relation to the presence of dysphonia, the cutoff points of each instrument and the decision rule recommended by the IRDBR were used.
+doc11	7	An exploratory analysis was performed to compare mean scores of instruments and verify associations between variables.
+doc11	8	The instruments evaluated were sensitive to capture the impact of dysphonia in a similar way regardless of professional voice use and type of dysphonia.
+doc11	9	There was a difference only in VoiSS scores for the variable gender, with a higher score for females.
+doc11	10	Regarding global assertiveness, the instruments showed high rates of success in classification, with emphasis on the VoiSS, which had the highest rate (86.3%), followed by the IRDBR (84.0%), VQL (80.9%), VHI (78.2%), and VHI-10 (75.2%).
+doc11	11	The VoiSS has the highest assertiveness index in the identification of dysphonia, followed by the IRDBR.
+doc11	12	The IRDBR is a short, simple, and easy-to-apply tool for screening procedures.
+doc35	1	The aging of the population has led to an increased prevalence of chronic diseases such as chronic kidney disease.
+doc35	2	Anemia is one of the most frequent complications of chronic kidney disease, with an impact not only on the quality of life but also on the patient's prognosis and associated costs.
+doc35	3	Knowledge in this therapeutic area has increased significantly: from the appearance of recombinant erythropoietin in 1989, through the use of increasing doses of parenteral iron and, more recently, to new molecules such as hypoxia-inducible factor inhibitors.
+doc35	4	The aim of this article is to present a pragmatic review of the state of the art in the epidemiology, pathophysiology, diagnosis and treatment of anemia associated with chronic kidney disease.
+doc36	1	This study aimed to theorize, by means of social actors' conception, about the reasons for the non-inclusion of oral health in the Family Health Strategy (FHS) in the city of Juiz de Fora, Minas Gerais, Brazil.
+doc36	2	This is a qualitative, exploratory, descriptive, and analytical study based on the grounded theory methodology and the National Oral Health Policy.
+doc36	3	Eleven interviews were performed with public managers, delegates who participate in the municipal health council, and dental surgeons who belong to the public health service.
+doc36	4	The theorization of the study was created through the data analysis process, which resulted in 'a consequence of the dominant disease-centered oral health care model' as the main category.
+doc36	5	Data were categorized according to a methodological framework.
+doc36	6	The health concept set forth by local social actors contributed to the non-inclusion of oral healthcare teams (OHTs) in the FHS.
+doc36	7	This theorization identified the origins of the studied phenomenon and can aid in future policy decision-making carried out by local social actors.
+doc37	1	To verify the relationship between the rectus femoris cross-sectional area and diaphragmatic excursion with successful weaning from mechanical ventilation in chronic critically tracheostomized patients.
+doc37	2	This was a prospective observational cohort study.
+doc37	3	We included chronic critically ill patients (those who underwent tracheostomy placement after 10 days under mechanical ventilation).
+doc37	4	The rectus femoris cross-sectional area and diaphragmatic excursion were obtained by ultrasonography performed within the first 48 hours after tracheostomy.
+doc37	5	We measured rectus femoris cross-sectional area and diaphragmatic excursion to assess their association with weaning from mechanical ventilation, including their potential to predict successful weaning and survival throughout the intensive care unit stay.
+doc37	6	Eighty-one patients were included.
+doc37	7	Forty-five patients (55%) were weaned from mechanical ventilation.
+doc37	8	The mortality rates were 42% and 61.7% in the intensive care unit and hospital, respectively.
+doc37	9	The fail group in relation to the success group at weaning presented a lower rectus femoris cross-sectional area (1.4 [0.8] versus 1.84 [0.76]cm2, p = 0.014) and lower diaphragmatic excursion (1.29 ± 0.62 versus 1.62 ± 0.51cm, p = 0.019).
+doc37	10	When rectus femoris cross-sectional area ≥ 1.80cm2 and diaphragmatic excursion ≥ 1.25cm was a combined condition, it had a strong association with successful weaning (adjusted OR = 20.81, 95%CI 2.38 - 182.28; p = 0.006) but not with intensive care unit survival (adjusted OR = 0.19, 95%CI 0.03 - 1.08; p = 0.061).
+doc37	11	Successful weaning from mechanical ventilation in chronic critically ill patients was associated with higher measurements of rectus femoris cross-sectional area and diaphragmatic excursion.
+doc38	1	Participation in health has generated a large number of publications around the world.
+doc38	2	In order to know the specificities of this production in the Americas, a bibliometric analysis of articles in English, Spanish and Portuguese was carried out.
+doc38	3	Searches were carried out in the VHL, PubMed, SCOPUS, WOS and SciELO, consolidating a database with 641 references.
+doc38	4	With the help of the VOSviewer software, we analyzed citation patterns, co-authorship and the chronological distribution by countries and languages.
+doc38	5	It was possible to verify the growth of production, the quantitative relevance and the impact of the different countries.
+doc38	6	The analysis indicated that the USA concentrates the largest number of citations and Brazil, despite being the first in number of publications, is the third in number of citations.
+doc38	7	The same occurs with Brazilian journals that, with the largest number of articles, fall in the ranking of the most cited.
+doc38	8	The co-authorship analysis indicated that the University of Toronto, Fiocruz and Harvard University have the most formal collaborations with other organizations.
+doc38	9	We conclude that there are inequalities of impact, visibility and internationalization in this field, indicating obstacles to scientific development and health policies.
+doc40	1	To investigate the association between self-reported hearing difficulties and occupational exposure to industrial dust in workers in southern Brazil.
+doc40	2	This is a cross-sectional analytical study conducted with data from the National Health Survey (Pesquisa Nacional de Saúde, 2013).
+doc40	3	The dependent variable was self-reported hearing impairment, and the primary independent variable was occupational exposure to industrial dust.
+doc40	4	The covariables were: sex, skin color, age in complete years, exposure to noise, and exposure to chemical substances.
+doc40	5	The variables of occupational exposure to noise and chemical substances were used as adjustment variables (confounding variables), and the analyses were stratified per state (Santa Catarina, Paraná, and Rio Grande do Sul) to verify the difference in magnitude results per region.
+doc40	6	For the crude and adjusted analysis, the odds ratio (OR) was used as a measure of association, estimated through the logistic regression analysis.
+doc40	7	The data were analyzed through the software Stata, version 14.
+doc40	8	Regarding the main exposure, 10.1% of the sample (n = 490) reported being exposed to industrial dust in an occupational environment, while 7.0% reported hearing impairment.
+doc40	9	In the final analysis, workers exposed to industrial dust were 1.77 times more likely to report hearing impairment when compared to individuals not exposed to this agent.
+doc40	10	There was an association between hearing impairment and exposure to industrial dust in workers in the southern region of Brazil.
+doc39	1	To investigate the perceived barriers and coping strategies for the practice of walking identified among patients with diabetes mellitus (DM) in the scope of the Unified Health System (SUS).
+doc39	2	A sample of 83 individuals with DM, SUS users, was asked to reflect on the obstacles that prevented them from walking, as well as to formulate coping plans to overcome them.
+doc39	3	The obstacles raised and plans developed were categorized for similarity and subjected to frequency analysis.
+doc39	4	The main obstacle reported was the feeling of 'dismay' (36.1%).
+doc39	5	The most frequent coping plan to overcome the barriers found was 'social support from family members', 'neighbors' and 'friends'.
+doc39	6	The results made it possible to know the difficulties and potential of the subjects related to self-care for DM regarding the practice of walking, knowledge that can help the multidisciplinary teams of the SUS.
+doc24	1	The scope of this study was to analyze the factors associated with the use of dental services in Brazil.
+doc24	2	The review strategy included PubMed, SciELO, LILACS, BBO, EMBASE, Scopus, WOS and Google Scholar databases, in addition to repositories and databases of dissertations and theses.
+doc24	3	Studies were selected using the PEO (Population/Exposure/Outcomes) strategy.
+doc24	4	The outcome of this study was the use of dental services in the last year by the Brazilian population, treated as dichotomous variables for the following analyses: ≤ 1 year and > 1 year.
+doc24	5	Mantel-Haenszel random effect meta-analysis was performed, estimating Prevalence Ratios (PR) and 95% confidence intervals (95%CI).
+doc24	6	A total of 94 studies were selected.
+doc24	7	The majority (98%) had a cross-sectional design, with 63% derived from primary data.
+doc24	8	For the meta-analysis, 25 studies were included.
+doc24	9	The use of oral health services in the last year was associated with higher education (≥ 8 years of schooling) (PR = 0.49, (95%CI: 0.39-0.60)); higher family income (≥ 2 minimum wages) (RP = 0.79, (95%CI: 0.74-0.84)); and living in urban areas (RP = 0.79, (95%CI: 0.64-0.97)).
+doc24	10	The availability of dental services in the Unified Health System needs to be made readily accessible to people with lower income, less education and those living in rural areas.
+doc42	1	A new clinical manifestation called post or long coronavirus disease (p/l COVID) has walked into our lives after the acute COVID-19 phase.
+doc42	2	P/l COVID may lead to myocardial injury with subsequent cardiac problems.
+doc42	3	Diagnosing these patients quickly and simply has become more important due to the increasing number of patients with p/l COVID.
+doc42	4	We compared strain echocardiography (SE) parameters of patients who suffered from atypical chest pain and had sequel myocarditis findings on cardiac magnetic resonance (CMR).
+doc42	5	We aimed to investigate the value of SE for detection of myocardial involvement in patients with p/l COVID.
+doc42	6	A total of 42 patients were enrolled.
+doc42	7	Our population was separated into two groups.
+doc42	8	The CMR(-) group (n = 21) had no myocardial sequelae on CMR, whereas the CMR(+) group had myocardial sequelae on CMR (n = 21).
+doc42	9	The predictive value of SE for myocarditis was also evaluated by age-adjusted multivariate analysis.
+doc42	10	P values < 0.05 were considered statistically significant.
+doc42	11	When compared with left ventricular ejection fraction (LVEF), global longitudinal strain (GLS) and global circumferential strain (GCS) had a stronger relationship (LVEF, p = 0.05; GLS, p < 0.001; GCS, p < 0.001) with p/l COVID associated myocardial involvement.
+doc42	12	GLS < 20.35 had 85.7% sensitivity and 81% specificity; GCS < 21.35 had 81% sensitivity and 81% specificity as diagnostic values for myocardial sequelae detected with CMR.
+doc42	13	While there was no difference between the groups in terms of inflammatory markers (C-reactive protein, p = 0.31), a difference was observed between biochemical markers, which are indicators of cardiac involvement (brain natriuretic peptide, p < 0.001).
+doc42	14	SE is more useful than traditional echocardiography for making diagnosis quickly and accurately in order not to delay treatment in the presence of myocardial involvement.
+doc10	1	This study seeks to culturally and ethically reflect on the current and future challenges of incorporating new biotechnologies to diagnose and treat cancer in Brazil and assess their impact on cancer control.
+doc10	2	To this end, this study begins by problematizing the literature on the subject and the results of a study that conducted a web survey with medical specialists from the Brazilian public and private sectors; the latter associated with the ten most representative cancer societies in the country, working in clinical practice, surgery, radiotherapy, pathology, and diagnosis.
+doc10	3	We discussed this study around three thematic axes: knowledge and expectations on the advent of new technologies to diagnose and treat cancer; structural and ethical considerations in the current and future use of new technologies; and possible scenarios associated with the use and application of new technologies to diagnose and treat cancer.
+doc10	4	We have raised some questions: will new technological paradigms benefit all Brazilian Unified National Health System (SUS) users, or will they be the privileges of the few? Will they reduce discrepancies regarding the distribution of technological services and resources and cancer diagnosis and treatment? How can different segments of society participate and influence this process? What scenarios can still compose this picture? Aiming to contribute to planning the future of cancer care in Brazil, this study proposes the development of future actions from five strategic dimensions: economy; science, innovation and technology; structure; culture; and regulation.
+doc17	1	PRKAG2 syndrome is a rare autosomal dominant disease, a phenocopy of hypertrophic cardiomyopathy characterized by intracellular glycogen accumulation.
+doc17	2	Clinical manifestations include ventricular preexcitation, cardiac conduction disorder, ventricular hypertrophy, and atrial arrhythmias.
+doc17	3	To compare the clinical and electrophysiological characteristics observed in patients with atrial flutter, with and without PRKAG2 syndrome.
+doc17	4	An observational study comparing patients with atrial flutter: group A consisted of five patients with PRKAG2 syndrome from a family, and group B consisted of 25 patients without phenotype of PRKAG2 syndrome.
+doc17	5	The level of significance was 5%.
+doc17	6	All patients in group A had ventricular preexcitation and right branch block, and four had pacemakers (80%).
+doc17	7	Patients in group A were younger (39±5.4 vs 58.6±17.6 years, p=0.021), had greater interventricular septum (median=18 vs 10 mm; p<0.001) and posterior wall thickness (median=14 vs 10 mm; p=0.001).
+doc17	8	In group A, four patients were submitted to an electrophysiological study, showing a fasciculoventricular pathway, and atrial flutter ablation was performed in tree.
+doc17	9	All patients in group B were submitted to ablation of atrial flutter, with no evidence of accessory pathway.
+doc17	10	Group B had a higher prevalence of hypertension, diabetes mellitus, coronary artery disease and sleep apnea, with no statistically significant difference.
+doc17	11	Patients with PRKAG2 syndrome presented atrial flutter at an earlier age and had fewer comorbidities when compared to patients with atrial flutter without mutation phenotype.
+doc17	12	The occurrence of atrial flutter in young individuals, especially in the presence of ventricular preexcitation and familial ventricular hypertrophy, should raise the suspicion of PRKAG2 syndrome.
+doc27	1	The COVID-19 pandemic required the restructuring of educational models, including the rapid transition from face-to-face to remote education.
+doc27	2	The aim of this qualitative research was to understand the effect of the COVID-19 pandemic on undergraduate professors' work and health at a public university in the state of São Paulo. Semi-structured interviews were conducted with 17 undergraduate faculty of humanities, biological and exact sciences form August to September 2020.
+doc27	3	The interviews were recorded and transcribed.
+doc27	4	From the content analysis, four thematic categories emerged: (1) changes in the work routine and their impacts, including adjustment to remote work and the difficulties in establishing boundaries between work and their personal life; (2) changes in the dynamics between faculty and students and the possibility of rethinking teaching practice; (3) the relationship between faculty and the university with emphasis on the decision-making process, support for the transition to remote teaching, and concerns about the quality of teaching; and (4) anguish and fears related to the pandemic that added to the set of work-related stressors.
+doc27	5	Our findings showed that actions towards the communicational dynamics, as well as actions towards faculties' mental health should be implemented.
+doc15	1	To analyze the profile and temporal trends of female homicides in Maranhão, Brazil, between 2000 and 2019.
+doc15	2	This was an ecological study using data from the Mortality Information System.
+doc15	3	The profile of the deaths, mortality rate trends (joinpoint method) and correlation with socioeconomic and health indicators (Pearson correlation) were evaluated.
+doc15	4	1,915 female homicides were reported, with predominance among those between 20-29 years old (29.9%), single (62.0%), with 4-7 years schooling (29.7%), mixed race (71.3%), homicides at home (31.9%) and by firearms (41.1%).
+doc15	5	The mortality rate showed a rising trend (APC = +8.21; 95%CI 5.18;10.28).
+doc15	6	There was negative correlation between homicides and per capita income (p-value = 0.031) and positive correlation with the proportion of families headed by women (p-value = 0.001) and with the rate of male mortality due to assault (p-value = 0.001).
+doc15	7	There was an increase in female homicides, related to structural violence in society, poverty and women with greater family authority.
+doc47	1	To evaluate the association between self-reported sleep problems and the presence of non-communicable diseases (NCDs) and multimorbidity, and whether these associations differ by sex.
+doc47	2	This is a cross sectional study performed with data from the Brazilian National Health Survey, 2019.
+doc47	3	Prevalence ratios between morbidities, the number of NCDs, and the self-report of sleep problems were estimated by Poisson regression with robust variance, according to sex.
+doc47	4	This study analysed data from 85,531 Brazilians age ≥ 18 years.
+doc47	5	The self-reported sleep problems were associated with all the herein studied morbidities and multimorbidities.
+doc47	6	The prevalence of sleep problems was higher in those who stated one or two (PR = 2.37; 95%CI 2.22;2.54) and three or more NCDs (PR = 4.73; 95%CI 4.37;5.11).
+doc47	7	Prevalence ratios of the association with diabetes, lung disease, mental disease, renal disease and multimorbidities were higher among males.
+doc47	8	NCDs significantly impacted sleep quality, with a particularly stronger association in both, males and females.
+doc5	1	To analyze the completeness of notifications of severe acute respiratory syndrome cases on the Influenza Epidemiological Surveillance Information System (SIVEP-Gripe) during the COVID-19 pandemic, on the national database and on the Regional Health Center database of the state of Minas Gerais, Brazil, in 2020.
+doc5	2	This was a descriptive study of the completeness of sociodemographic variables and those related to etiology, clinical condition, evolution and diagnostic criteria of SIVEP-Gripe.
+doc5	3	The level of completeness was classified as excellent (> 95%), good (90% to 95%), regular (80% to 90%), poor (50% to 80%) or very poor (< 50%).
+doc5	4	The percentage of variables with excellent completeness was only 18.1% on the national database, and 27.8% on the regional database.
+doc5	5	Both SIVEP-Gripe databases presented low completeness, making it necessary to improve the work process and routine training of professionals aimed at the correct filling.
+doc41	1	In this study, we investigated the costs of transportation for each outpatient consultation in patients referred to specialized surgical evaluation in a tertiary hospital in Rio de Janeiro, Brazil.
+doc41	2	Descriptive study with guardians of pediatric patients scheduled for pediatric surgery, questioning transportation cost, and opportunity costs (loss of remuneration, food, payment of caregivers for other children, expenses for other companions).
+doc41	3	About half patients were aged up to five years; about two thirds had diseases of simple and definitive surgical resolution; and 181 families (89.17%) presented monthly family income up to BRL 1,999.00.
+doc41	4	The proportion of families that benefited from free transportation ranged from 4.26% to 15.56% for patients living up to 100 km away from the hospital (45.83% for patients living more than 100 km away from the institution).
+doc41	5	A total of 176 (87.13%) guardians reported expenses buying food, 12 (5.94%) paid caregivers to the other children on the day of the consultation, and 80 (39.6%) reported loss of remuneration for the working day.
+doc41	6	Among the high complexity cases, 9.33% of the mothers have given up their regular paid employment.
+doc41	7	Transportation expenses for a pediatric surgery consultation at a reference hospital in Rio de Janeiro cost about 4.42% of the current minimum wage, spending around 217.32 minutes of displacement/consultation.
+doc41	8	Expenses with food and loss of remuneration due to absence at work also entail significant financial charges or loss of remuneration for the patient at each consultation.
+doc49	1	This paper analyzes the current evidence on discrimination perceived by elderly adults (> 50 years) in the use of health services and identifies factors associated with this discriminatory experience.
+doc49	2	It involved an integrative literature review, carried out on the Biblioteca Virtual de Saúde, CINAHL, Medline, Scopus, and Web of Science search websites, in June/2021.
+doc49	3	The key words used were social discrimination or ageism; middle-aged, or aged 80 and over or elderly; health services or health services for the elderly, including synonyms, in Portuguese, English, and Spanish.
+doc49	4	The search strategy identified 1,165 articles; 19 met the eligibility and inclusion criteria and were included in this integrative review.
+doc49	5	They comprise quantitative and qualitative studies published between 2002 and 2021; about 60% carried out in the United States and Australia.
+doc49	6	The prevalence of discrimination in the use of health services ranged from 2% to 42%.
+doc49	7	The report of discriminatory practices was associated with ethnic-racial characteristics, sex, age, sexual orientation, physical appearance, and social class.
+doc49	8	By giving visibility to the theme, this work aims to stimulate the definition of concrete ways to tackle discrimination, in an attempt to interrupt the perpetration of inequities in the health care area.
+doc19	1	To characterize phonological processing of adolescents and to identify language skills and cognitive functions that influence their age group.
+doc19	2	83 typical adolescents aged from 11 to 16 years of age participated in the research.
+doc19	3	Phonological awareness tests, rapid automatic naming, neuropsychological assessment and reading were used.
+doc19	4	Descriptive analysis and linear regression were carried out with a 5% significance level.
+doc19	5	Regarding phonological processing, a lower performance was found in the phonemic segmentation task, longer times for object naming and performance as were expected for working memory of the age range.
+doc19	6	There was a reciprocal association between rapid naming of objects, letters and working memory, between rapid naming of letters and phonological awareness.
+doc19	7	Executive functions and attention influence working memory and phonological awareness.
+doc19	8	Semantic episodic verbal memory influenced working memory and reading, phonological awareness.
+doc19	9	The performance in phonological processing was influenced by linguistic and cognitive skills which suggests they are still improving in adolescents.
+doc46	1	To develop the Videokymographic Index of Glottic Function (VIGF), a composite indicator from digital videokymography parameters, captured by high-speed videolaryngoscopy exams of women with and without laryngeal alterations of behavioral etiology.
+doc46	2	The sample consisted of 92 women aged between 18 and 45 years.
+doc46	3	Fifty-five (55) women with behavioral dysphonia, presenting with laryngeal and voice alterations, and thirty-seven (37) women without any laryngeal and voice alterations.
+doc46	4	Voice evaluation was performed by consensus via an auditory-perceptual analysis of the sustained vowel /a/ at a habitual pitch and loudness.
+doc46	5	Voice classification was obtained by means of a general degree of dysphonia, where G0 indicated neutral voice quality and G1 to G3 indicated altered voice quality.
+doc46	6	Laryngeal images were captured via digital videokymography analysis of a sustained vowel /i/ at a habitual pitch and loudness.
+doc46	7	The VIGF was based on the midpoint of the glottal region for analysis.
+doc46	8	Logistic regression was performed using the MINITAB 19 program.
+doc46	9	Logistic regression was composed of two stages: Stage 1 consisted of the analysis of all variables, where the maximum opening and closed quotient variables showed statistical significance (p-value <0.05) and the model was well adjusted according to the Hosmer-Lemeshow test (p-value=0.794).
+doc46	10	Stage 2 consisted of the re-analysis of the selected variables, also showing a well-adjusted model (p-value=0.198).
+doc46	11	The VIGF was defined as follows: VIGF=e^(8.1318-0.2941AbMax-0.0703FechGlo)/1+e^(8.1318-0.2941AbMax-0.0703FechGlo).
+doc46	12	The VIGF demonstrated a cut-off value equal to 0.71.
+doc46	13	The probability of success was 81.5%, sensitivity 76.4%, and specificity 89.2%.
+doc45	1	Obstructive Sleep Apnea is characterized by recurrent episodes of partial or complete collapse of the pharynx, followed by decreased oxyhemoglobin saturation and frequent arousals.
+doc45	2	It is regarded as a public health issue with important night and day symptoms that impact life quality.
+doc45	3	Its effects are associated with the areas of competence of Speech and Language Pathologists.
+doc45	4	To establish efficient diagnosis and treatment methods, professionals must know the pathogenesis of upper airway obstruction during sleep.
+doc45	5	This study seeks to enlarge the understanding of obstructive sleep apnea pathophysiology, eligibility of individualized therapeutic procedures and guidance for orofacial myofunctional therapy by describing and illustrating the locations and types of upper airway collapse during sleep.
+doc45	6	We analyzed original records of Drug Induced Sleep Endoscopy exams of a series of cases with polysomnographic diagnosis of obstructive sleep apnea following the proper ethical processes.
+doc45	7	The images of the exam recordings were analyzed by five professionals with expertise in the sleep area.
+doc45	8	Obstructive sites and types of collapse were presented according to the current classification.
+doc45	9	The videos were divided into screenshots, originating figures from each anatomical site: without collapse and collapsed.
+doc45	10	The results are visualized in the images of the cases showing a predominance of velopharyngeal collapse: anteroposterior, lateral, or concentric; oropharyngeal lateral collapse; tongue anteroposterior collapse and anteroposterior collapse of the epiglottis.
+doc45	11	Understanding the obstruction sites and types of collapse illustrated in this study may help to predict therapeutic responses and learn the limitations or direct individual proposals patient.
+doc22	1	To present Myofunctional Orofacial Clinical History Instructive and Protocol belonging to the MMBGR Protocol - Infants and Preschoolers, including the adaptation and validation of content and appearance.
+doc22	2	Validation, descriptive and cross-sectional study.
+doc22	3	Adaptation based on the MBGR Protocol, based on theoretical studies and the authors' experience.
+doc22	4	Infants between 6 and 23 months of age and preschoolers between 24 and 71 months were considered.
+doc22	5	Consent and consensus of the version adapted by the authors (original and current) was obtained.
+doc22	6	The appearance and content of the new instrument were analyzed by 10 speech therapists specialized in Orofacial Motricity.
+doc22	7	We performed two analysis rounds.
+doc22	8	First: an electronic form containing dichotic questions (yes / no), with justification for negative answers; Content Validity Index and Exact Binomial Test; Second: 5 points-Likert scale.
+doc22	9	We produced an unprecedented instructional and adapted Clinical History protocol maintaining 23 age group related items.
+doc22	10	We excluded information from 7 items and included information in 8.
+doc22	11	Initially, we achieved agreement in 70% instructional specialist items by at least 70% of the specialists; and 64% of Clinical History items, by at least 90% of specialists.
+doc22	12	In the second round, there were 100% of 'I totally agree' responses from the experts. 'Instructive' and 'Myofunctional Clinical History, Orofacial' had validity of content and appearance concluded, and together with the 'Clinical Examination' they integrate the 'Protocol MMBGR - Infants and Preschoolers', being able to contribute to clinical practice and research in Motricity Orofacial area in the age group between 6 months and 5 years and 11 months of age.
+doc44	1	To evaluate the effectiveness of the Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ solution in activating the rapid response team in a timely manner compared to manual activation.
+doc44	2	The Hillrom study is a single-center, open-label, superiority, cluster-randomized, parallel-group (1:1 allocation ratio) clinical trial that will be conducted in a tertiary hospital.
+doc44	3	Two sets of three wards with 28 beds will be included (one as the intervention cluster and the other as the control).
+doc44	4	The wards will be randomly assigned to use the Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ automated solution (intervention cluster) or to maintain the usual routine (control cluster) regarding rapid response team activation.
+doc44	5	The primary outcome will be the absolute number of episodes of rapid response team triggering in an appropriate time; as secondary outcomes, clinical features (mortality, cardiac arrest, need for intensive care unit admission and duration of hospitalization) will be assessed according to clusters in an exploratory way.
+doc44	6	A sample size of 216 rapid response team activations was estimated to identify a possible difference between the groups.
+doc44	7	The protocol has been approved by the institutional Research Ethics Committee.
+doc44	8	The Welch Allyn Connex® Spot Monitor/Hillrom Connecta™ automated solution is expected to be more effective in triggering the nurse call system to activate the rapid response team in a timely and adequate manner compared to manual triggering (usual practice).
+doc44	9	NCT04648579.
+doc26	1	Thirty years ago, a distinctly new clinical-electrocardiographic syndrome was described, today known as Brugada Syndrome (BrS).
+doc26	2	Typical treatment for this type of syndrome is electrocardiography with ST-segment elevation in the direct precordial derivations.
+doc26	3	The clinical presentation of the disease is highly variable: the patients can remain completely asymptomatic, but they can also develop episodes of syncope, atrial fibrillation (AF), sinus node dysfunction (SNF), conduction disorders, asystole, and ventricular fibrillation (VF).
+doc26	4	This disease is caused by mutations in the genes responsible for the potential action of cardiac cells.
+doc26	5	The most commonly involved gene is SCN5A, which controls the structure and function of the heart's sodium channel.
+doc26	6	The description of this new syndrome has shown highly positive implications in all fields of medicine.
+doc16	1	To estimate the prevalence and the factors associated with the presence of multimorbidity in the elderly population of the municipality of Ibicuí - BA.
+doc16	2	This study was carried out with 310 elderly individuals, aged > 60 years old, of both sexes, living in the municipality of Ibicuí - BA.
+doc16	3	Sociodemographic information and personal information, living conditions, life habits, body mass, stature and presence of multimorbidity were collected.
+doc16	4	The descriptive analysis was used and multimorbidity prevalence ratios were estimated according to variables of interest.
+doc16	5	As a measure of statistical significance, the qui-quadrado de Pearson test was used, adopting p≤0.05.
+doc16	6	The multivariate analysis hierarchized by Poisson regression was employed after bivariate analysis to select the independent variables (p<0.20).
+doc16	7	The general prevalence of multimorbidity was 80.3%.
+doc16	8	The hierarchical multi-varied analysis showed the variables of gender and monthly income (p<1.5) were significantly related to the problem.
+doc16	9	The results reveal also a high prevalence of multimorbidity in the studied population.
+doc16	10	Mainly women and the poorest suffer from it.
+doc16	11	It is necessary to redirect the planning of health actions in the municipality, with changes in the health care policy of the elderly, and especially in the social support networks that support these individuals, considering that in this locality the presence of multimorbidity was related to socio-economic grounds.
+doc48	1	Cardiovascular complications of COVID-19 are important aspects of the disease's pathogenesis and prognosis.
+doc48	2	Evidence on the prognostic role of troponin and myocardial injury in Latin American hospitalized COVID-19 patients is still scarce.
+doc48	3	To evaluate myocardial injury as independent predictor of in-hospital mortality and invasive mechanical ventilation support in hospitalized patients, from the Brazilian COVID-19 Registry.
+doc48	4	This cohort study is a substudy of the Brazilian COVID-19 Registry, conducted in 31 Brazilian hospitals of 17 cities, March-September 2020.
+doc48	5	Primary outcomes included in-hospital mortality and invasive mechanical ventilation support.
+doc48	6	Models for the primary outcomes were estimated by Poisson regression with robust variance, with statistical significance of p<0.05.
+doc48	7	Of 2,925 patients (median age of 60 years [48-71], 57.1% men), 27.3% presented myocardial injury.
+doc48	8	The proportion of patients with comorbidities was higher among patients with cardiac injury (median 2 [1-2] vs. 1 [0-2]).
+doc48	9	Patients with myocardial injury had higher median levels of brain natriuretic peptide, lactate dehydrogenase, creatine phosphokinase, N-terminal pro-brain natriuretic peptide, and C-reactive protein than patients without myocardial injury.
+doc48	10	As independent predictors, C-reactive protein and platelet counts were related to the risk of death, and neutrophils and platelet counts were related to the risk of invasive mechanical ventilation support.
+doc48	11	Patients with high troponin levels presented a higher risk of death (RR 2.03, 95% CI 1.60-2.58) and invasive mechanical ventilation support (RR 1.87, 95% CI 1.57-2.23), when compared to those with normal troponin levels.
+doc48	12	Cardiac injury was an independent predictor of in-hospital mortality and the need for invasive mechanical ventilation support in hospitalized COVID-19 patients.
+doc50	1	In the last years, several diagnostic and prognostic biomarkers have been studied in cardiovascular disease.
+doc50	2	Growth differentiation factor-15 (GDF-15), a cytokine belonging to the transforming growth factor- (TGF-) family, is highly up-regulated in stress and inflammatory conditions and has been correlated to myocardial injury and pressure cardiac overload in animal models.
+doc50	3	This new biomarker has been positively correlated with increased risk of cardiovascular events in population studies and shown an independent predictor of mortality in patients with coronary artery disease and heart failure.
+doc50	4	This review aimed to summarize the current evidence on the diagnostic and prognostic value of GDF-15 in different settings in cardiology.
+doc43	1	to analyze the cost-effectiveness and calculate the incremental cost-effectiveness ratio of multilayer compressive treatment in relation to inelastic (Unna boot and short stretch) therapy according to the current literature.
+doc43	2	quantitative study about cost-effectiveness through modeling with the aid of TreeAge® software for construction of the decision tree.
+doc43	3	The anticipated assumptions were obtained by using secondary literature data to estimate the cost and effectiveness of the assumed parameters.
+doc43	4	A systematic literature review with meta-analysis was performed for this end.
+doc43	5	the decision tree after Roll Back showed that the multilayer therapy dominated the alternatives in the base case, representing an intermediate cost per application, although with the highest effectiveness.
+doc43	6	The cost-effectiveness analysis graph also showed extended dominance of the Unna boot in relation to the short stretch bandage.
+doc43	7	The sensitivity analysis showed that multilayer bandage remains a more cost-effective alternative, within the threshold of willingness to pay.
+doc43	8	the most cost-effective alternative was multilayer bandage, considered the gold standard in the literature.
+doc43	9	The second most cost-effective alternative was the Unna boot, the most used therapy in Brazil.
+doc25	1	Considering demographic data related to the cardiologist's fields of work in Brazil, the administrative board of the InCor medical residency program decided for an update of its curriculum content, to adapt the educational process to the cardiologist's work reality.
+doc25	2	This article aimed to describe the recent updates applied to the InCor medical residency program.
+doc25	3	In the article, we described the recent updates on the InCor residency program, and compared the current curriculum track with the previous one.
+doc25	4	We also presented the rationale for these changes, based on the literature on the participation of cardiologists in the labor market.
+doc25	5	There was a reduction in the working hours of residents in training in the intensive care unit, and an increase in the outpatient activities of primary and secondary prevention.
+doc25	6	Also, the didactic content was reformulated and became organized by the corresponding division.
+doc25	7	The update of the curriculum track of the InCor medical residency program was required in order to adapt it to the Brazilian labor market.
+doc25	8	The commission in charge of this update is aware that this is a dynamic process that may need changes over time.

@@ -1,0 +1,544 @@
+doc10	1	[Use of the health services according to social determinants, health behaviors and quality of life among diabetics].
+doc10	2	The aim of this study was to investigate the use of health services according to social determinants, health behaviors and quality of life among diabetics (n = 416) attended by the Family Health Strategy in a northeastern city in Brazil.
+doc10	3	Data analysis included descriptive, bivariate and multivariate statistics.
+doc10	4	Decision Tree modeling was applied using the Chi-squared Automatic Interaction Detector (CHAID) algorithm.
+doc10	5	Results showed that public health services were used by 80.7% of the sample.
+doc10	6	The regular use of public health services involved individuals with low or medium schooling (p < 0.001), employed or retired and/or pensioners (p = 0.019), with a high impact of diabetes on quality of life (p = 0.032), and who performed the number of fasting blood glucose tests per year recommended by the Ministry of Health (p < 0.001).
+doc10	7	The use of health services could be explained by differences related to social determinants, health behaviors and the impact of diabetes on quality of life.
+doc12	1	Job satisfaction and work overload among mental health nurses in the south of Brazil.
+doc12	2	This study assessed job satisfaction and work overload among doctors, nurses, psychologists, and nursing technicians working in community mental health services and conducted a comparison between nurses and other healthcare professionals.
+doc12	3	Using convenience sampling, a cross-sectional study was conducted with 61 healthcare professionals working in psychosocial care centers in a municipality located in the South Region of Brazil.
+doc12	4	Data was collected using a sociodemographic questionnaire, work impact assessment scale (Impacto - Br), and mental health professional satisfaction scale (Satis - Br).
+doc12	5	Data analysis was performed using the statistical software package SPSS 21.0.
+doc12	6	The average overall work overload score of nurses was 2.92 ± 0.42 and the average overall job satisfaction score was 3.38 ± 0.51.
+doc12	7	The level of satisfaction of nurses with the quality of services provided was lower than that of other professionals (3.36 ± 0.77 compared to 3.78 ± 0.56, respectively; p = 0.04).
+doc12	8	The factor that had the greatest negative influence on work overload among nurses was feeling physically tired (2.99 ± 0.92), while the factor that had the greatest positive influence on job satisfaction was good working relationships (4.06 ± 0.65).
+doc13	1	Challenges in high-sensitive troponin assay interpretation for intensive therapy.
+doc13	2	Cardiac troponins T and I are considered highly sensitive and specific markers for the diagnosis of acute myocardial infarction.
+doc13	3	Currently, a series of nonprimary cardiac abnormalities may manifest as an elevation in high-sensitive assays.
+doc13	4	The reduction in their detection limits has allowed earlier diagnosis and the use of evidence-based therapeutic measures; however, this characteristic has increased the spectrum of detectable noncoronary heart diseases, which poses challenges for characterizing acute coronary syndromes and creates a new role for these tests in known disorders in intensive care units, especially sepsis.
+doc13	5	Management of patients through a greater understanding of how these markers behave should be re-evaluated to ensure their correct interpretation.
+doc15	1	Cutaneous Manifestations of Diabetes Mellitus and Prediabetes.
+doc15	2	Diabetes is a serious, chronic disease with a rising prevalence worldwide.
+doc15	3	Its complications are a major cause of morbidity and mortality and contribute substantially to health care costs.
+doc15	4	In this article the authors review the most common and sensitive skin manifestations that can be present on patients with diabetes and prediabetes.
+doc15	5	The prompt recognition of these frequently underestimated entities is extremely important as it may trigger not only an adequate metabolic evaluation but also a timely referral and appropriate treatment, minimizing the secondary effects of long-term diabetes and improving the prognosis of diabetic patients.
+doc2	1	Nursing workers: achievement of formalization, hard work and collective action dilemas.
+doc2	2	The singularity of the collective action of nursing categories in sociopolitical participation is the subject of our analysis.
+doc2	3	This paper attaches the compelling factors of social origin and aspects of the labor market to the political action of professionals.
+doc2	4	Based on the analytical association of the extended case method, we articulated the interpretation of the database of the Brazilian Nursing Profile Survey, specifically, in the light of socioeconomic identification, labor market, and working conditions, with an ethnographic study and semi-structured interviews in three hospital units.
+doc2	5	The bibliographic review shows the incorporation of these individuals without underestimating their particularity: the historical process of proletarianization in the Brazilian social formation, the inclusion of women in the labor market, and the relationship with unions.
+doc2	6	The history of workers based on inexperience in actions of resistance or union representation associated with the valorization of employment as a social ascent results in asymmetrical work regimes, a hindering element to coordinated actions, a fundamental aspect for the improvement of working conditions.
+doc20	1	[Conflicts, welfare, and power networks in the founding of Santa Casa de Misericórdia of Campos dos Goytacazes, 1786-1795].
+doc20	2	A discussion is proposed concerning the founding of Santa Casa de Misericórdia of Campos dos Goytacazes and its ramifications in local society, as well as a brief study of its first two directors and their networks (1792-1795).
+doc20	3	The institution was opened in 1792 at the height of upheavals in Europe.
+doc20	4	In Portugal, the chief of police under Maria I, Diogo Inácio de Pina Manique, planned reforms for the public health administration.
+doc20	5	An analysis is proposed of the issues that motivated the founding of said institution and how it related to the social and political dynamics typical of the ancien régime, which were still deep-rooted in colonial society, and which remained intact into the nineteenth century.
+doc21	1	Storage and disposal of pharmaceuticals at home: a systematic review.
+doc21	2	This study's objective was to analyze Brazilian and international scientific evidence on the reasons people store medication at home and the disposal methods used.
+doc21	3	This systematic literature review includes studies published from 2001 to 2016 and indexed in PubMed, Lilacs and Elsevier's Scopus Database, using the following key words: Disposal of medicines in household, Disposal of drugs expired, Residential expired drugs, Management of expired medications in household.
+doc21	4	Thirty-three studies were selected after applying inclusion and exclusion criteria.
+doc21	5	The studies reveal that the main reasons people keep a stock of medicines at home include the possibility of future use, leftovers from previous treatments, and self-medication.
+doc21	6	Inappropriate disposal methods prevail, such as throwing medicines in the household trash or flushing them into the sewer.
+doc21	7	Some countries have adopted programs to educate on proper storage and disposal of medicines, though only one study describes a national program guiding these practices that is free of charge.
+doc21	8	Evidence shows there is a need to implement public policies intended to provide guidance on the proper storage and disposal of medicines at home.
+doc23	1	A pharmacokinetic study of oclacitinib maleate in six cats.
+doc23	2	BACKGROUND
+doc23	3	Oclacitinib is a Janus kinase (JK)1 inhibitor that has been shown to be effective and safe for the treatment of allergic dermatitis in dogs.
+doc23	4	Its use in cats has been limited by the absence of pharmacokinetic data.
+doc23	5	OBJECTIVE
+doc23	6	To determine the pharmacokinetic parameters of oclacitinib in cats after oral and intravenous administration.
+doc23	7	ANIMALS
+doc23	8	Six adult domestic short hair cats.
+doc23	9	METHODS AND MATERIALS
+doc23	10	A two period, two treatment design was used in which cats received oclacitinib maleate i.v. and p.o., at a dose of 0.5 mg/kg and 1 mg/kg, respectively.
+doc23	11	There was a one-week interval of washout between the two treatments.
+doc23	12	Cats received each treatment only once.
+doc23	13	The plasma concentration of oclacitinib was determined by high-performance liquid chromatography at 0 min, 5 min, 15 min, 30 min, 1 h, 4 h, 6 h, 10 h and 24 h after intravenous.v administration, at 0 min, 15 min, 30 min, 1 h, 2 h, 4 h, 6 h, 10 h and 24 h after p.o. administration.
+doc23	14	RESULTS
+doc23	15	After p.o. administration, oclacitinib was absorbed rapidly and almost completely, as shown by an absolute bioavailability of 87% and a Tmax of 35 min.
+doc23	16	The elimination of the drug also was very rapid as shown by a half-life of 2.3 h and a clearance calculated as 4.45 mL/min/kg (after i.v. administration).
+doc23	17	CONCLUSIONS AND CLINICAL IMPORTANCE
+doc23	18	The pharmacokinetic parameters of oclacitinib in the cat are similar to those described for the dog, although absorption and elimination are somewhat faster and variability between individuals is somewhat greater.
+doc23	19	Larger doses and/or shorter dosing intervals would be recommended in cats to achieve similar blood concentrations to those in dogs.
+doc25	1	Sepsis and AMI: knowledge of the population visiting parks and patient companions.
+doc25	2	OBJECTIVE
+doc25	3	To identify the population's knowledge of the terms "sepsis" and "acute myocardial infarction" (AMI).
+doc25	4	METHOD
+doc25	5	Cross-sectional quantitative study.
+doc25	6	Data was collected through the application of a questionnaire to two groups of participants, as follows: individuals who visit parks in Porto Alegre, State of Rio Grande do Sul and companions of patients of a university hospital in Porto Alegre.
+doc25	7	Analysis of the results was performed by descriptive and inferential statistics.
+doc25	8	RESULTSThe sample consisted of 1,986 respondents: 1,455 parkgoers and 531 companions of patients admitted to the hospital.
+doc25	9	Regarding the knowledge of sepsis, only 19.1% of the respondents had already heard about the subject.
+doc25	10	However, compared to knowledge about AMI, it was found that 98.7% knew the term.
+doc25	11	CONCLUSIONS
+doc25	12	The study found that the scarce knowledge of the population about the term "sepsis" is related to the social level of the respondents, demonstrating poor access to information about health care.
+doc27	1	Sterile or nonantibiotic-responsive pustular dermatitis and canine leishmaniosis: a 14 case series description and a statistical association study on 2420 cases.
+doc27	2	Background - No striking clinical and histopathological features of pustular dermatitis (PustD) in dogs suffering from canine leishmaniosis (CanL) have been identified; an association between CanL and PustD has not been demonstrated.
+doc27	3	Objectives - To characterize a series of dogs affected by CanL and pruritic PustD, and to evaluate a possible association between the two conditions.
+doc27	4	Conclusions - An association exists between PustD and CanL. At least in Leishmania-endemic areas, CanL should be ruled out before attempting an immunosuppressive treatment in dogs with PustD with the aforementioned characteristics.
+doc27	5	Staging of CanL through diagnostic procedures besides immunohistochemistry and PCR is recommended.
+doc27	6	Anti-leishmania treatment and short-to-medium courses of low-dose anti-inflammatory or immunomodulatory drugs are effective in controlling the clinical signs of PustD.
+doc29	1	Outcomes in adults with cerebral palsy: systematic review using the International Classification of Functioning, Disability and Health.
+doc29	2	AIM
+doc29	3	In the context of the development of an International Classification of Functioning, Disability and Health (ICF) Core Set for adults with cerebral palsy (CP), this systematic review sought to identify the outcome measures used in studies on adults with CP, to examine their content using the ICF as a reference, and to demonstrate the most studied areas in this population.
+doc29	4	METHOD
+doc29	5	Embase, MEDLINE, Web of Science, PsycINFO, CINAHL, Cochrane, and Google Scholar were searched for studies on adults with CP published between 2000 and 2017.
+doc29	6	Meaningful concepts of commonly used outcome measures were linked to the ICF, and frequencies of resultant ICF categories were explored.
+doc29	7	RESULTS
+doc29	8	In 274 included articles, 332 outcome measures were identified of which 155 were commonly used.
+doc29	9	In total, 4409 meaningful concepts were linked to the ICF.
+doc29	10	The component 'Activities and participation' included the most frequent categories, followed by 'Body functions'.
+doc29	11	The most frequent categories were b280 'Sensation of pain' (37.6%), d450 'Walking' (33.3%), and d850 'Remunerative employment' (27.5%).
+doc29	12	INTERPRETATION
+doc29	13	The broad range of ICF categories identified in this systematic review emphasizes the heterogeneity of functioning and disability in adults with CP.
+doc29	14	The current results specifically reflect the researchers' perspective and will serve as candidate categories to consider in the development of an ICF Core Set for adults with CP.
+doc29	15	WHAT THIS PAPER ADDS
+doc29	16	Outcomes studied in adults with cerebral palsy are captured in varying International Classification of Functioning, Disability and Health (ICF) categories.
+doc29	17	Activities and participation were studied more frequently than body functions and structures.
+doc29	18	Mobility, employment, and self-care were most frequent within ICF's 'Activities and participation' component.
+doc29	19	Pain and neuromusculoskeletal and movement-related functions were most frequent within 'Body functions'.
+doc31	1	Omega-3 Fatty Acids and Fecundation, Pregnancy and Breastfeeding.
+doc31	2	Long-chain omega-3 (n-3) polyunsaturated fatty acids (PUFAs), such as the eicosapentaenoic and docosahexaenoic acids, have been linked to human health in all stages of life, from fetal development to aging.
+doc31	3	These PUFAs act as precursors for various metabolites involved in the prevention of certain diseases.
+doc31	4	The recognizable effects of these supplements prior to pregnancy (oocyte maturation), during pregnancy (improvement in the risk of premature delivery, among others) and in the offspring (in terms of cognitive function and the approach to neurodevelopmental disorders) are described in the present narrative review.
+doc31	5	We concluded that the diffusion of these supplements may improve the prognosis of these patients in a simple, effective way, and with high safety rates.
+doc32	1	Organization of health services for tuberculosis case diagnosis and treatment in Manaus, Amazonas, Brazil, 2014.
+doc32	2	OBJECTIVE
+doc32	3	to describe the organization of health services for tuberculosis case diagnosis and treatment in the city of Manaus, Amazonas, Brazil.
+doc32	4	METHODS
+doc32	5	this was a descriptive study of 156 new tuberculosis cases diagnosed and residing in Manaus in 2014, characterized according to socioeconomic, demographic, health-disease process aspects, relationship with health services and treatment outcome, by administering individual questionnaires in the 1st and 6st months of treatment.
+doc32	6	RESULTS
+doc32	7	some 70% of cases were diagnosed at the tuberculosis reference center; most of the cases were unaware that there was a community health agent in their neighborhood; regarding treatment follow-up, 55.3% had to join an appointment waiting list; only 67.3% of cases were monitored by the same professional throughout entire treatment.
+doc32	8	CONCLUSION
+doc32	9	the findings indicate presence of barriers to case diagnosis and treatment, both in the referral center and also in primary healthcare units.
+doc33	1	[The transcultural adaptation of the Body-Related Self-Conscious Emotions Fitness Instrument (BSE-FIT) to Brazilian Portuguese].
+doc33	2	The scope of this study was to conduct a transcultural adaptation of the Body-Related Self-Conscious Emotions Fitness Instrument (BSE-FIT) to Brazilian Portuguese.
+doc33	3	The adaptation process involved the following steps: translation of the BSE-FIT to Brazilian Portuguese; evaluation by the Committee of Judges; back-translation; semantic analysis; and pre-test.
+doc33	4	The members of the Committee highlighted the difficulties in translating the word "fitness" and suggested that the meaning in Brazilian Portuguese is more than "physical form," also relating it to what the body is capable of doing.
+doc33	5	In the semantic analysis, difficulty was observed in understanding item 4 (proud of my superior physical preparation) and the item was changed to "proud of my enhanced physical preparedness" to facilitate understanding.
+doc33	6	In the pre-test stage, there were no difficulties in completing or understanding the items and the process of cross-cultural adaptation was finalized.
+doc33	7	In the final analysis, the semantic, idiomatic, conceptual and cultural equivalence of the adapted instrument was achieved, and basic and content validity parameters were met.
+doc33	8	However, in order for BSE-FIT to be used in Brazil, it is necessary to validate the metric properties of the BSE-FIT, which is currently under study and being developed.
+doc35	1	Filial responsibility: what are the attitudes of adult child caregivers on the institutionalization of aged parents?
+doc35	2	OBJECTIVE
+doc35	3	To analyze attitudes of filial responsibility about the institutionalization of aged parents.
+doc35	4	METHODS
+doc35	5	A qualitative descriptive study with intentional sample of 100 caregivers of aged people from two Primary Health Care Units of Porto Alegre/Brazil.
+doc35	6	The information was collected in 2014, through a semi-structured interview.
+doc35	7	Thematic analysis was carried out.
+doc35	8	The NVIVO® software version 10 was used.
+doc35	9	RESULTS
+doc35	10	Two categories were elaborated according to the protocol questions: the possibility of institutionalization of the aged parents and expectation of care.
+doc35	11	FINAL CONSIDERATIONS
+doc35	12	Most adult child caregivers did not consider the institutionalization of aged parents in the reason of a duty they felt to take care of their parents, and the institutionalization was considered as abandonment.
+doc35	13	Most of the adult child caregivers had an expectation to be cared by their children and perceived the institutionalization as an alternative of receiving this care.
+doc35	14	The results of the study contribute to the strengthening of the formal and informal network for the aged and their adult child caregiver.
+doc36	1	Isolated intestinal transit bipartition: a new strategy for staged surgery in superobesity.
+doc36	2	OBJECTIVE
+doc36	3	biliopancreatic diversion with duodenal switch is a complex, malabsorptive procedure, associated with improved weight loss and metabolic control.
+doc36	4	Staged surgery with sleeve gastrectomy as the first stage is an option for reducing complications in superobese patients.
+doc36	5	However, some problems persist: large livers can hamper the surgical approach and complications such as leaks can be severe.
+doc36	6	Intestinal transit bipartition is a modified and simplified model of biliopancreatic diversion that complements sleeve gastrectomy.
+doc36	7	It is similar to the duodenal switch, but with less complexity and fewer nutritional consequences.
+doc36	8	This study assessed the feasibility and safety of isolated transit bipartition as the initial procedure in a two-step surgery to treat superobesity.
+doc36	9	METHODS
+doc36	10	this prospective study included 41 superobese patients, with mean BMI 54.5±3.5kg/m2. We performed a laparoscopic isolated transit bipartition as the first procedure in a new staged approach.
+doc36	11	We analyzed weight loss and complications during one year of follow-up.
+doc36	12	RESULTS
+doc36	13	we completed all the procedures by laparoscopy.
+doc36	14	After six months, the mean percent excess weight loss was 28%, remaining stable until the end of the study.
+doc36	15	There were no intraoperative difficulties.
+doc36	16	Half of the patients experienced early diarrhea, and three had marginal ulcers.
+doc36	17	There were no major surgical complications or deaths.
+doc36	18	CONCLUSION
+doc36	19	isolated laparoscopic transit bipartition is a new option for a staged approach in superobesity, which can provide a safer second procedure after effective weight loss over six months.
+doc36	20	It may be useful particularly in the management of patients with severe obesity.
+doc37	1	Attitudes of nurses from a public teaching hospital regarding the nursing process.
+doc37	2	OBJECTIVE
+doc37	3	To measure the attitudes of nurses on nursing process at a public teaching hospital.
+doc37	4	METHOD
+doc37	5	A cross-sectional and analytical study conducted with nurses at a tertiary hospital.
+doc37	6	It was applied an instrument to characterize sample, as well as the Positions on the Nursing Process instrument, which measures nurses' attitudes in relation to the nursing process.
+doc37	7	There are 20 items to be considered, in which the minimum possible value is 20 and the maximum of 140.
+doc37	8	The data were submitted to descriptive statistics and the variables of interest were analyzed by the Mann-Whitney, Student's t-test, Chi-square test, Kruskal-Wallis, Spearman's correlation coefficient and hierarchical multiple regression models, as appropriate.
+doc37	9	RESULTS
+doc37	10	In a sample of 226 nurses, 80.5% (182) stated that they performed pdaily.
+doc37	11	The mean score of the instrument was 102.50 (SD = 21.76).
+doc37	12	The item "routine/creative" had a lower score (3.54), while "unimportant/important" had a higher score (5.81).
+doc37	13	CONCLUSION
+doc37	14	The nurses reported being in favor and presented positive attitudes about nursing process, in addition to considering it important, but routine, as well as affirming little or no contact with research, classes or events on the subject.
+doc38	1	Prehabilitation: how to prepare our patients for elective major abdominal surgeries?
+doc38	2	Surgical approach is the main form of treatment for several diseases of the abdominal cavity.
+doc38	3	However, surgical procedure itself is a stressor that may lead to adverse effects unrelated to the treatment goal.
+doc38	4	Prehabilitation has emerged as a multifactorial preoperative health conditioning program, which promotes improvement in functional capacity and postoperative evolution.
+doc38	5	The present study reviews literature using MEDLINE, Ovid, Google Scholar, and Cochrane databases in order to determine the concept of prehabilitation program and the indications and means of patient selection for it, as well as to suggest ways to implement this program in cases of major abdominal surgeries.
+doc41	1	Atelectasis and lung changes in preterm neonates in the neonatal period: a blind radiological report and clinical findings.
+doc41	2	OBJECTIVE
+doc41	3	To determine the occurrence and characteristics of atelectasis, opacities, hypolucency and pulmonary infiltrates observed on chest X-rays of preterm infants in a neonatal intensive care unit.
+doc41	4	METHODS
+doc41	5	This was a cross-sectional observational study.
+doc41	6	From August to December 2017, all chest radiographs of newborn infants were analyzed.
+doc41	7	The study included the chest radiographs of preterm neonates with gestational ages up to 36 weeks in the neonatal period that showed clear changes or suspected changes, which were confirmed after a radiologist's report.
+doc41	8	Radiological changes were associated with possible predisposing factors.
+doc41	9	RESULTS
+doc41	10	During the study period, 450 radiographs were performed on preterm neonates, and 37 lung changes were identified and classified into 4 types: 12 (2.66%) changes were described as opacities, 11 (2.44%) were described as atelectasis, 10 (2.22%) were described as pulmonary infiltrate, and 4 (0.88%) were described as hypolucency.
+doc41	11	A higher occurrence of atelectasis was noted in the right lung (81.8%).
+doc41	12	Among the abnormal radiographs, 25 (67.6%) newborn infants were receiving invasive mechanical ventilation.
+doc41	13	CONCLUSION
+doc41	14	Considering the radiological report, no significance was found for the observed changes.
+doc41	15	Atelectasis was not the most frequently observed change.
+doc41	16	The predisposing factors for these changes were extreme prematurity, low weight, male sex, a poorly positioned endotracheal tube and the use of invasive mechanical ventilation.
+doc42	1	Traumatic tricuspid valve papillary muscle case with concomitant acquired patent foramen ovale and covert right atrial rupture.
+doc42	2	Cardiac trauma often occurs in motor vehicle accidents.
+doc42	3	A 50-year-old female driver was transported to our hospital with multiple trauma after a high-speed car accident.
+doc42	4	After admission to the intensive care unit, cardiac ultrasound examination revealed traumatic tricuspid valve papillary muscle rupture and patent foramen ovale, while Lancisi's sign was noted on physical examination.
+doc42	5	Surgical treatment was performed with valve annuloplasty and closure of the patent foramen ovale and a covert right atrial defect that was detected intraoperatively.
+doc43	1	Effective communication strategies for managing disruptive behaviors and promoting patient safety.
+doc43	2	OBJECTIVE
+doc43	3	To describe and analyze strategies for professionals to communicate effectively when managing disruptive behaviors at the hospital and to promote patient safety.
+doc43	4	METHODS
+doc43	5	This is a descriptive and qualitative study conducted with 29 health professionals at a public hospital in Ceará, Brazil.
+doc43	6	Data were collected in 2014 by means of an in-depth interview, analyzed using the content analysis technique with MAXQDA® software, and discussed according to patient safety references.
+doc43	7	RESULTS
+doc43	8	The interview transcripts resulted in 27 contextual units of analysis that address effective communication strategies for managing disruptive behaviors, such as team meetings with open dialogue; performance evaluation and feedback; and exercising leadership with emphasis on individual support, training, recognition, and mutual respect.
+doc43	9	CONCLUSIONS
+doc43	10	Individual and group strategies that focus on communication skills and establishing mutual respect at work act as barriers for disruptive behavior and, if properly adopted, have a positive impact on patient safety.
+doc47	1	Itineraries of solitude: clandestine abortion among adolescents in a favela in Rio de Janeiro's South Zone, Brazil.
+doc47	2	This article presents the results of a qualitative study based on semi-structured in-depth interviews with ten adolescents, aged between 15 and 17 years, who live in a favela in the South Zone of Rio de Janeiro, Brazil, and who had experienced an illegal abortion between the ages of 12 and 17.
+doc47	3	We sought to examine more effectively the issue of abortion in adolescence and the strategies employed by adolescents in order to have an abortion within an illegal context.
+doc47	4	We unveiled the methods that were used, the locations where abortions took place and the manner in which the process of having an abortion happened.
+doc47	5	The abortions took place at clandestine clinics; at the apartment of a partner's friend; and using the medication "Cytotec" (misoprostol).
+doc47	6	The values paid for the abortion ranged between BRL 500.00 and BRL 2,500.00 and all took place without the knowledge or participation of the adolescents' legal guardians.
+doc47	7	One adolescent had to seek out a health service due to complications from the abortion.
+doc47	8	Informants relied on friends and/or partners and almost all were alone when they had their abortions, which should motivate a reflection regarding the risks taken and the solitude experienced by these adolescents in order to undergo an unsafe and illegal act.
+doc47	9	We conclude that the study of abortion at this life stage makes an important contribution to understanding sexuality and reproduction in adolescence.
+doc48	1	[Analysis of the Cochrane Review: Exercise-Based Cardiac Rehabilitation for Coronary Heart Disease.
+doc48	2	Cochrane Database Syst Rev.
+doc48	3	2016;1:CD001800].
+doc48	4	Coronary heart disease is the single most common cause of death globally, accounting for one-third of all deaths.
+doc48	5	However, with falling coronary heart disease mortality rates, an increasing number of people live with the disease and may need support to manage their symptoms and prognosis.
+doc48	6	A complex intervention that may involve a variety of therapies, cardiac rehabilitation includes exercise, risk factor education, behavioral change, psychological support, and strategies that are aimed at targeting traditional risk factors for cardiovascular disease.
+doc48	7	Cardiac rehabilitation is an essential part of contemporary heart disease care and is considered a priority in countries with a high prevalence of coronary heart disease.
+doc48	8	This Cochrane systematic review constitutes an update of a Cochrane review published in 2011, having identified 16 new trials (3872 participants), predominantly post-myocardial infarction and post-revascularization patients.
+doc48	9	Therefore, it included 63 randomized trials looking at the effectiveness and cost-effectiveness of exercise-based cardiac rehabilitation in patients with coronary heart disease.
+doc48	10	The quality of the evidence ranged from low to moderate.
+doc48	11	The main results highlight the effect of cardiac rehabilitation, in comparison with absence of physical exercise, in the reduction in cardiovascular mortality, with no reduction, however, in total mortality.
+doc48	12	The overall risk of hospital admissions was reduced with cardiac rehabilitation but there was no significant impact on the risk of myocardial infarction, coronary artery bypass graft or percutaneous coronary intervention.
+doc48	13	This paper aims to summarize and discuss the main results and conclusions of this systematic review, as well as its implications for the daily clinical practice.
+doc49	1	Representations and care practices of health professionals for people with HIV.
+doc49	2	OBJECTIVE
+doc49	3	To analyze the social representations of health professionals regarding the care of people living with HIV.
+doc49	4	METHOD
+doc49	5	A descriptive and exploratory study with a qualitative approach in light of the Theory of Social Representations, carried out with health professionals.
+doc49	6	The semi-structured interview technique was used, which was analyzed using the lexical content analysis technique.
+doc49	7	RESULTS
+doc49	8	Forty-six (46) professionals participated.
+doc49	9	The analyzed results reveal that the representations and care practices referred to by health professionals are technical, relational and organizational, ensuring the confidentiality of the diagnosis and taking care to develop embracement actions, provide guidance, clarification and emotional and psychological support, as well as being based on confidentiality, multi-professional care practice and addressing structural difficulties.
+doc49	10	CONCLUSION
+doc49	11	It is important to encourage multiprofessional care for people living with HIV, so that professionals engage, develop critical thinking and are able to act in improving healthcare services.
+doc5	1	[Social stigma and internalized stigma: the voice of persons with mental disorders and the confrontations required].
+doc5	2	Internalized stigma occurs when individuals become aware of the stigma assigned to them, agree, and apply these negative stereotypes about their illness to themselves.
+doc5	3	The internalization of stigma aggravates the symptoms of mental disorders, leading to isolation, feelings of low self-esteem, guilt, and self-condemnation.
+doc5	4	Our goal was to produce more knowledge on this topic from the point of view of people with mental disorders who participate in activities aimed at collectively building mental health care solutions.
+doc5	5	With the objective of analyzing the process of stigma and internalized stigma, we carried out qualitative research using semi-structured interviews.
+doc5	6	The results showed that internalized stigma has negative effects on individuals, and that the family has a strong influence on this process.
+doc50	1	Reliability of the Motor Learning Strategies Rating Instrument in physiotherapy intervention for children with cerebral palsy.
+doc50	2	AIM
+doc50	3	To evaluate the reliability of the Motor Learning Strategies Rating Instrument (MLSRI-20) in gait-based, video-recorded physiotherapy interventions for children with cerebral palsy (CP).
+doc50	4	METHOD
+doc50	5	Thirty videos of 18 children with CP, aged 6 to 17 years, participating in either traditional or Lokomat-based physiotherapy interventions were rated using the MLSRI-20.
+doc50	6	Physiotherapist raters provided general and item-specific feedback after rating each video, which was used when interpreting reliability results.
+doc50	7	RESULTS
+doc50	8	Both interrater and intrarater reliability of the MLSRI-20 total score was good.
+doc50	9	The interrater reliability intraclass correlation coefficient (ICC) was 0.78 with a 95% confidence interval (CI) of 0.53-0.89 and a coefficient of variation (CV) of 11.8%.
+doc50	10	The intrarater reliability ICC was 0.89 with a 95% CI of 0.76-0.95 and CV of 7.8%.
+doc50	11	Rater feedback identified task delineation and interpretation of therapist verbalizations as sources of interrater reliability-related scoring challenges.
+doc50	12	INTERPRETATION
+doc50	13	The MLSRI-20 is a reliable tool for measuring the extent to which a physiotherapist uses motor learning strategies during a video-recorded intervention.
+doc50	14	These results have clinical and research implications for documenting and analyzing the motor learning content of physiotherapy interventions for children with CP.
+doc50	15	WHAT THIS PAPER ADDS
+doc50	16	The Motor Learning Strategies Rating Instrument (MLSRI-20) is reliable for use by trained physiotherapist raters.
+doc50	17	Measuring motor learning strategies can identify active 'ingredients' in physiotherapy interventions for children with cerebral palsy.
+doc50	18	The MLSRI-20 promotes a common language in motor learning.
+doc51	1	Chronic kidney disease of non-traditional origin in Mesoamerica: a disease primarily driven by occupational heat stress.
+doc51	2	The death toll of the epidemic of chronic kidney disease of nontraditional origin (CKDnt) in Mesoamerica runs into the tens of thousands, affecting mostly young men.
+doc51	3	There is no consensus on the etiology.
+doc51	4	Anecdotal evidence from the 1990s pointed to work in sugarcane; pesticides and heat stress were suspected.
+doc51	5	Subsequent population-based surveys supported an occupational origin with overall high male-female ratios in high-risk lowlands, but small sex differences within occupational categories, and low prevalence in non-workers.
+doc51	6	CKDnt was reported in sugarcane and other high-intensity agriculture, and in non-agricultural occupations with heavy manual labor in hot environments, but not among subsistence farmers.
+doc51	7	Recent studies with stronger designs have shown cross-shift changes in kidney function and hydration biomarkers and cross-harvest kidney function declines related to heat and workload.
+doc51	8	The implementation of a water-rest-shade intervention midharvest in El Salvador appeared to halt declining kidney function among cane cutters.
+doc51	9	In Nicaragua a water-rest-shade program appeared sufficient to prevent kidney damage among cane workers with low-moderate workload but not among cutters with heaviest workload.
+doc51	10	Studies on pesticides and infectious risk factors have been largely negative.
+doc51	11	Non-occupational risk factors do not explain the observed epidemiologic patterns.
+doc51	12	In conclusion, work is the main driver of the CKDnt epidemic in Mesoamerica, with occupational heat stress being the single uniting factor shown to lead to kidney dysfunction in affected populations.
+doc51	13	Sugarcane cutters with extreme heat stress could be viewed as a sentinel occupational population.
+doc51	14	Occupational heat stress prevention is critical, even more so in view of climate change.
+doc53	1	Oral transit time in children with neurological impairment indicated for gastrostomy.
+doc53	2	PURPOSE
+doc53	3	The objective of the present study was to describe the total oral transit time (TOTT) of children with neurological impairment (CNI) and with an indication of gastrostomy.
+doc53	4	METHOD
+doc53	5	A cross-sectional clinical study was conducted on 15 children (10 male and 5 female ranging in age from 1 to 14 years; mean 5.7 years) with CNI and gastrostomy indication.
+doc53	6	The patients were monitored by a Multidisciplinary Group of Pediatric Gastroenterology of Universidade de Marília - UNIMAR, which 13 of them with previous exclusive oral feeding and 2 fed by a nasogastric tube.
+doc53	7	Swallowing was analyzed by videofluoroscopy swallowing study and 19 images of TOTT were obtained using specific software, with analysis of pureed food (13 images) and liquid (six images).
+doc53	8	TTOT was categorized as short or long based on definitions already evidenced in the literature.
+doc53	9	RESULTS
+doc53	10	The mean and standard deviation of TOTT values was 10.75 s and 11.76 s for pureed food and 4.22 s and 1.54 s for liquid food.
+doc53	11	CONCLUSION
+doc53	12	The total oral transit time of pureed or liquid consistency was long in children with neurological involvement and with an indication of gastrostomy.
+doc54	1	Improving body functions through participation in community activities among young people with physical disabilities.
+doc54	2	AIM
+doc54	3	To examine the impact of engagement in a self-chosen community-based activity on three relevant body functions (motor, cognitive, and affective) as well as on the performance of the selected activity.
+doc54	4	METHOD
+doc54	5	An individual-based interrupted time series design with multiple baselines was used.
+doc54	6	Seven young people (four males, three females) aged 15 to 25 years (median 18y; interquartile range 17-20y) with physical disabilities participated in an 8-week community activity of choice (e.g. swimming, playing piano).
+doc54	7	Change in three relevant body functions, underpinning the specific chosen activity, including motor (e.g. Functional Reach Test, Trunk Impairment Scale, dynamometers), cognitive and affective (Behavior Assessment System for Children), as well as activity performance (Canadian Occupational Performance Measure) were measured repeatedly, providing individual outcome trajectories.
+doc54	8	Linear and mixed-effects models were used.
+doc54	9	RESULTS
+doc54	10	Significant improvements in at least one aspect of motor function (6 out of 6), cognition (3 out of 3), affect (5 out of 7), and performance (7 out of 7) were observed.
+doc54	11	Specifically, the intervention had a moderate to large effect on hyperactivity (1.45, 95% confidence interval [CI] 1.0-1.9) with a smaller effect on anxiety (0.21, 95% CI 0.10-0.32) and inadequacy (0.21, 95% CI 0.02-0.39).
+doc54	12	Concurrently, a notable effect size for activity performance (4.61, 95% CI 0.76-8.46) was observed.
+doc54	13	Average change across motor outcomes was substantial (3.7 SDs from baseline), yet non-significant.
+doc54	14	INTERPERTATION
+doc54	15	Findings provide initial evidence of the benefits resulting from participation-based interventions, emphasizing the merit of meaningful 'real-life' young people-engaging therapy.
+doc54	16	WHAT THIS PAPER ADDS
+doc54	17	Participation-based interventions can impact body-function level outcomes.
+doc54	18	Significant improvements in the performance of chosen activities were observed.
+doc54	19	Significant improvements were also seen in cognitive and affective body functions.
+doc54	20	Improvements in motor-related outcomes were substantial but not statistically significant.
+doc55	1	Knowledge, attitudes and practices of community health agents regarding pulmonary tuberculosis in a capital city in northeastern Brazil.
+doc55	2	This article analyses the knowledge, attitudes and practices of community health agents (CHAs) regarding tuberculosis in Recife, a municipality with a high incidence of tuberculosis and high treatment dropout rates in Brazil.
+doc55	3	The cross-sectional study was conducted with a representative sample of CHAs and a standardized questionnaire.
+doc55	4	The frequencies of the variables related to knowledge, attitudes and practices were described, and the association between satisfactory knowledge and appropriate practices of CHAs was analysed.
+doc55	5	Of the 401 eligible CHAs, 385 (96.0%) were interviewed.
+doc55	6	The majority were women (87.5%) aged ≥ 40 years (66.0%) and had been on the job for more than nine years (74.5%).
+doc55	7	A large percentage (61.7%) had satisfactory knowledge about tuberculosis, and this knowledge (75.8%) was associated with appropriate practices (p = 0.008).
+doc55	8	Regarding attitudes, 97.1% of CHAs were believed to be at risk of contracting tuberculosis, and 53.2% attributed this risk to their job.
+doc55	9	The results suggest the need for investment in training actions that may help improve tuberculosis indicators in the municipality.
+doc56	1	Repercussions on the family from the birth and care of children with multiple disabilities: a qualitative meta-synthesis.
+doc56	2	Multiple disabilities in children, present in various syndromes, involve physical, economic, and social problems and affect the parents of these children and their families.
+doc56	3	The attempt to learn more about this problem from a qualitative perspective gave rise to the current study's objective, namely to identify and summarize the scientific literature on the repercussions on the family from the birth and care of a child with multiple disabilities.
+doc56	4	This is a qualitative meta-synthesis of data from Scopus, PsycInfo, and SciELO, using the following descriptors: qualitative; children with disabilities; parent-child relations; family relations; and caregivers.
+doc56	5	The data were analyzed in three stages according to the method proposed by Noblit & Hare: extraction of first-order concepts; production of second-order concepts; and interpretative synthesis.
+doc56	6	After the search and eligibility process, eight studies were included, from which emerged six second-order concepts: social restriction; strain on family relations; feelings of affliction; financial instability; changes in the family dynamics; and stress to health and wellbeing.
+doc56	7	Three syntheses were developed, based on these concepts: disability and ideal parenthood; burden of care; and family redefinitions and adaptations.
+doc56	8	The studies showed that parents and families experience difficulties resulting from social representations of multiple disabilities and the burden of care (health problems, limitations to other activities, increased financial costs, and changes in the family's routine).
+doc56	9	They also indicate that these elements invade and can interfere in family and social relations.
+doc57	1	Validity of the factorial structure of the Brazilian version scale of the Food Choice Questionnaire.
+doc57	2	This study examines the dimensional structure and reliability of the 36-item Food Choice Questionnaire (FCQ) in a Brazilian Portuguese version, an instrument used to measure the importance of motives behind food choices.
+doc57	3	The sample includes 502 adults.
+doc57	4	Confirmatory factorial analysis (CFA) were used to evaluate the configural (dimensionality) and metric (magnitude of factorial loadings, residual correlations and factorial discriminatory validity) structures of the instrument.
+doc57	5	Internal consistency evaluation used the Omega coefficient (Ω); temporal reproducibility used the Kappa coefficient with quadratic weighting (κ) in a separate sample of 41 subjects.
+doc57	6	The final CFA corroborates the 9-factor original structure and shows high factorial loadings (λi > 0.80 in 34 items); two residual correlations (r(i2-i3) = 0.773 and r(i16 i17) = 0.853); and factorial correlations indicating factor discriminant validity (φ < 0.80).
+doc57	7	Regarding reliability, there is adequate internal consistency (Ω = 0.877 to 0.968), and good test-retest reproducibility indicating temporal stability (κ = 0.768 to 0.917).
+doc57	8	It can be concluded that the FCQ version has good configural and metric properties, and may be recommended for use in Brazil in its present form.
+doc58	1	Admission of dentist in Brazilian Universal Health System (SUS): a priority agenda for the strengthening of Smiling Brazil.
+doc58	2	This article aims at: i) describing and analyzing the expansion of dental care in the Unified Health System (SUS); ii) Identifying and analyzing the characteristics of hiring dentists' in the public service; iii) characterizing public vacancies, their duties and remuneration.
+doc58	3	In this descriptive case study, databases of the Ministry of Health were consulted and public tender notices.
+doc58	4	The findings indicate that 48% of the dentists enrolled in the National Registry of Health Establishments (CNES) perform care in the SUS, in 13 years there was an increase of 118% of the municipalities with oral health teams (eSB) implanted.
+doc58	5	The population coverage estimated by eSB increased by 10.46% between the years 2007 and 2015.
+doc58	6	The main mechanism for joining the Dental Specialties Centers (CEO) was the public tender.
+doc58	7	Primary care salaries ranged from 1.05 to 12.67 Brazilian minimum wages, to 40-hour weekly jobs, and to CEOs from 3.35 to 7.05.
+doc58	8	It is concluded that, among other measures, the planning of HRH strategies is necessary.
+doc58	9	The continuity of successes regulatory measures of labor contracts and support to local managers enter the agenda of priority actions of oral health policy.
+doc59	1	Ketogenic Diet for Refractory Childhood Epilepsy: Beyond Seizures Control, the Experience of a Portuguese Pediatric Centre.
+doc59	2	INTRODUCTION
+doc59	3	Ketogenic diet is a low carbohydrate diet, which can be used as a treatment for refractory childhood epilepsy.
+doc59	4	The first aim of this study was to evaluate its efficacy, in patients receiving ketogenic diet for at least three months, on epilepsy control, behaviour and awareness.
+doc59	5	The secondary aims were to evaluate the variation in the number of antiepileptic drugs, reasons for discontinuing the diet and adverse effects.
+doc59	6	MATERIAL AND METHODS
+doc59	7	Retrospective analysis of clinical records of patients who underwent ketogenic diet for refractory epilepsy, from October 2007 to January 2018, in a tertiary pediatric hospital.
+doc59	8	RESULTS
+doc59	9	In the twenty-nine eligible patients, the mean age of initiation was 7.9 years-old (+/- 5.6).
+doc59	10	Of those, 18 had a ≥ 50% reduction of seizure activity, 19 a marked behaviour improvement and 18 improved awareness.
+doc59	11	The median number of antiepileptic drugs remained equal for the 15 patients who completed 18 months of treatment (three drugs).
+doc59	12	The main reason for discontinuing ketogenic diet was a familiar decision.
+doc59	13	The main adverse effects were hypercholesterolemia (n = 23) and hypertriglyceridemia (n = 21).
+doc59	14	DISCUSSION
+doc59	15	Results were comparable to those of other cohorts, namely age of initiation, proportion of patients completing ketogenic diet, most frequent reasons for stopping and significant improvement of alertness and behavior.
+doc59	16	CONCLUSION
+doc59	17	Beyond seizure control, patients experienced a marked improvement in behavior and awareness.
+doc59	18	It is necessary to develop strategies to increase the adherence of families to the diet.
+doc60	1	Reliability and responsiveness of the Jebsen-Taylor Test of Hand Function and the Box and Block Test for children with cerebral palsy.
+doc60	2	AIM
+doc60	3	To assess the reliability and to evaluate the responsiveness of both the Jebsen-Taylor Test of Hand Function (JTTHF) and the Box and Block Test (BBT) in children with cerebral palsy (CP).
+doc60	4	METHOD
+doc60	5	In this retrospective study, the reliability analyses were conducted with paired t-tests considering a short (mean 14d) and a long (mean 120d) time in between two assessment periods.
+doc60	6	In addition, an intraclass correlation coefficient (ICC) was used to assess the level of congruency.
+doc60	7	The responsiveness to therapy was conducted with a paired t-test in the whole sample regarding the age, the manual ability level as classified with the Manual Ability Classification System (MACS), and the topography.
+doc60	8	RESULTS
+doc60	9	Our main results confirmed the tests' reliability in a short time period for the JTTHF in both hands and for the BBT on the less affected hand.
+doc60	10	These results were consistent with the ICC.
+doc60	11	The responsiveness was confirmed, except on the less affected hand for the JTTHF, with similar results for age, MACS, and topography approach.
+doc60	12	INTERPRETATION
+doc60	13	This study supports the use of the JTTHF and the BBT to examine changes after short-term interventions for children with CP.
+doc60	14	These results should be interpreted with association to normative values or with a control group when used over long assessment periods.
+doc60	15	WHAT THIS PAPER ADDS
+doc60	16	The Box and Block Test (BBT) is reliable in a brief period of assessment in children with cerebral palsy (CP).
+doc60	17	The Jebsen-Taylor Test of Hand Function (JTTHF) is reliable in a brief period of assessment in children with CP.
+doc60	18	The JTTHF and BBT are responsive to changes in a brief period of intensive therapy in children with CP.
+doc60	19	The reliability and responsiveness of the JTTHF and BBT are weak over long assessment periods.
+doc62	1	Effects of preoperative fasting abbreviation with carbohydrate and protein solution on postoperative symptoms of gynecological surgeries: double-blind randomized controlled clinical trial.
+doc62	2	OBJECTIVE
+doc62	3	to investigate the effects of preoperative fasting abbreviation, a recommendation of Postoperative Accelerated Total Recovery protocol (ACERTO protocol), on postoperative symptoms of patients undergoing gynecological surgeries.
+doc62	4	METHODS
+doc62	5	a double-blind randomized controlled study of 80 gynecological surgeries performed from January to June 2016.
+doc62	6	The patients were randomly allocated into two groups: Controle Group, with 42 patients, and Juice Group, with 38 patients, who received 200ml inert solution or 200ml carbohydrate- and protein-enriched liquid, respectively, four hours before surgery.
+doc62	7	The postoperative symptoms studied were thirst, hunger, pain, agitation, satisfaction, and well-being in both groups.
+doc62	8	To measure the intensity of symptoms, we used the Visual Analog Scale (VAS), associated with the Facial Scale (FS) for pain, applied ten hours after surgery.
+doc62	9	RESULTS
+doc62	10	patients in the Juice Group had less pain (3.51x1.59), thirst (3.63x0.85), hunger (3.86x2.09), and agitation (2.54x0,82) in relation to the Controle Group (P<0.05).
+doc62	11	Satisfaction (6.89x8.68) and well-being (5.51x7.12) variables were higher (P<0.05) when the carbohydrate- and protein-containing liquid (Juice Group) was ingested in relation to the inert solution (Controle Group).
+doc62	12	CONCLUSION
+doc62	13	the abbreviation of preoperative fasting with carbohydrate- and protein-containing liquid before gynecological surgeries reduces thirst, hunger, pain, agitation, and favors greater satisfaction and well-being than inert solution ingestion.
+doc66	1	Factors associated with the work capacity of motorcycle taxi drivers.
+doc66	2	This study evaluated the work capacity of motorcycle taxi drivers and its association with sociodemographic and work and quality of life factors.
+doc66	3	This is a cross-sectional study realized with 392 motorcycle taxi drivers that used a form containing demographic and labor data, Work Capacity Index, the WHOQOL-bref.
+doc66	4	We employed a descriptive and inferential analysis.
+doc66	5	The moderate/good prevalence work capacity was 51%.
+doc66	6	Motorcycle taxi drivers aged 40 years and over recorded a 31% increase in low work capacity (PR: 1.31; 95% CI: 1.07; 1.61) compared to younger workers.
+doc66	7	Motorcycle taxi drivers aged 21-29 and 30-39 years evidenced a higher median for absenteeism (p = 0.023) and self-prognosis regarding future work capacity (p < 0.001).
+doc66	8	A greater proportion of diseases diagnosed among those with five or more years of service (p = 0.003) and of self-prognosis in those with five years or less of service (p < 0.001) was observed.
+doc66	9	Motorcycle taxi drivers with moderate/good capacity showed better perception of quality of life in the physical realm (p < 0.001).
+doc66	10	Work capacity of motorcycle taxi drivers was associated with higher exposure to noxious factors that affect their quality of life and work force.
+doc66	11	Priority public policies and educational actions are required to minimize this exposure.
+doc71	1	Communication for patient safety in pediatric hospitalizations.
+doc71	2	OBJECTIVE
+doc71	3	To analyze the perception of health professionals and companions/family about the development of communication for patient safety in pediatric hospitalizations.
+doc71	4	METHOD
+doc71	5	It is an exploratory-descriptive study with a qualitative approach, performed in pediatric clinical-surgical hospitalization units of three hospitals in Porto Alegre, RS, Brazil.
+doc71	6	44 health professionals and 94 companions of hospitalized children participated in the study, to a total of 138 participants.
+doc71	7	Data collection took place between 2016 and 2017, through semi-structured interviews.
+doc71	8	A thematic content analysis was used.
+doc71	9	RESULTS
+doc71	10	Two categories emerged: "Barriers to an effective communication", addressing the failures and difficulties in the communication process and "Tools to improve communication", that present recommendations for improvements, especially instrumentalization of the companion/family member.
+doc71	11	CONCLUSIONS
+doc71	12	The barriers to an effective communication involve several factors, and effective communication strategies can assist in the development of improvements for pediatric patient safety.
+doc72	1	Auricular acupuncture for chronic back pain in adults: a systematic review and metanalysis.
+doc72	2	OBJECTIVE
+doc72	3	To investigate randomized clinical trials on the action of auricular acupuncture for chronic back pain in adults, and to identify the most commonly used outcomes for assessing this condition, the protocol used for applying the intervention, and the efficacy of the therapy on pain intensity.
+doc72	4	METHOD
+doc72	5	A systematic review and a metanalysis were carried out between June 2017 and May 2018, based on the PubMed, CINAHL, PEDro, Embase, Scopus, and the Virtual Health Library databases.
+doc72	6	Reference lists of systematic reviews were also explored.
+doc72	7	RESULTS
+doc72	8	427 studies were located, 15 included in the qualitative analysis, and seven in the quantitative analysis.
+doc72	9	Auricular acupuncture led to positive results in 80% of the studies.
+doc72	10	The most commonly used outcomes were pain intensity and quality, medication consumption, physical disability, and quality of life.
+doc72	11	There is a lack of protocol standardization for auricular acupuncture for chronic back pain.
+doc72	12	The metanalysis results showed that auricular acupuncture was effective in reducing pain intensity scores (p=0.038).
+doc72	13	CONCLUSION
+doc72	14	Auricular acupuncture is a promising practice for the treatment of chronic back pain in adults.
+doc76	1	The barren side of Brazil: science, water resources, and the debate on the (in)fertile soils of the Brazilian cerrado, 1892-1942.
+doc76	2	This article discusses the relationship between science and the cerrado during the period spanning the publication of a text by Eugenius Warming (1892) and an article by Rawitscher, Ferri, and Rachid (1943), botanists at the University of São Paulo.
+doc76	3	Warming stated that scarce water resources affected the formation of the characteristic vegetation and low soil fertility in these regions.
+doc76	4	Arrojado Lisboa, Alberto Sampaio, Philipe Vasconcelos, and Barbosa de Oliveira proposed a variety of plans for economic exploitation of the cerrado.
+doc76	5	The article from 1943 indicated the rich water resources in the region, which helped to boost agricultural experiments.
+doc76	6	This article especially emphasizes studies on the diversity of vegetation in the regions containing cerrado-type vegetation formations and debates on the (in)fertility of these soils for large-scale farming.
+doc80	1	Children in outpatient follow-up: perspectives of care identified in interviews with puppet.
+doc80	2	OBJECTIVE
+doc80	3	To analyze the perspective of children on their health condition and experiences related to outpatient hospital care and the use of the puppets as a playful strategy to collect data.
+doc80	4	METHOD
+doc80	5	A qualitative study with 16 children diagnosed with chronic diseases recruited in a pediatric outpatient clinic in countryside of Sao Paulo.
+doc80	6	Data were collected in October 2016 using a semi-structured interview and a puppet to facilitate communication.
+doc80	7	The interview transcripts were subjected to inductive thematic analysis.
+doc80	8	RESULTS
+doc80	9	We constructed four themes: "Children in ambulatory follow-up: what do they know?"; "Emotions manifested in outpatient follow-up"; "The outpatient clinic of my dreams" and; "The use of puppets and the playful universe of interviews".
+doc80	10	FINAL CONSIDERATIONS
+doc80	11	We identified the reasons and main feelings experienced during outpatient care, as well as the children's preferences regarding the physical and structural aspects of the outpatient clinic.
+doc82	1	Azithromycin administered for acute bronchiolitis may have a protective effect on subsequent wheezing.
+doc82	2	OBJECTIVE
+doc82	3	A significant proportion of the infants developed recurrent wheezing after an acute bronchiolitis (AB) event.
+doc82	4	Recent studies have demonstrated protection for recurrent wheeze and lower respiratory morbidity in infants treated with azithromycin during an acute respiratory wheezing.
+doc82	5	The aim of the present study was to test the hypothesis that administration of azithromycin during an AB event reduces subsequent wheezing and hospital re-admissions.
+doc82	6	METHODS
+doc82	7	This is a secondary analysis of a randomized, double-blinded, placebo-controlled trial, including unpublished data of wheezing and hospitalizations during the initial 6 months following admission for acute viral bronchiolitis.
+doc82	8	The study was performed in a tertiary University hospital.
+doc82	9	Infants (<12 months of age) hospitalized with AB were randomized to receive either azithromycin or placebo, administered orally, for 7 days.
+doc82	10	Families were contacted by telephone at 3 and 6 months after the initial acute event and answered to a standardized questionnaire in order to identify recurrent wheezing and hospital readmissions.
+doc82	11	RESULTS
+doc82	12	One hundred and four patients were included (Azithromycin group, n= 50; placebo group, n=54).
+doc82	13	Considering the total of patients contacted 3 months after hospitalization (n=70), the recurrence rate of wheezing in the azithromycin group was significantly lower than in the placebo group (RR = 0.48; CI = 0.24-0.98; p = 0.038).
+doc82	14	CONCLUSION
+doc82	15	Azithromycin significantly reduces the risk of subsequent wheezing between 0 and 3 months after hospital admission due to acute bronchiolitis irrespective of the presence of respiratory syncytial virus.
+doc84	1	Repercussions of using the birth plan in the parturition process.
+doc84	2	OBJECTIVE
+doc84	3	To analyze the repercussions of using the Birth Plan in the parturition process from the national and international scientific production.
+doc84	4	METHODS
+doc84	5	Integrative literature review performed in the LILACS, PUBMED, CINAHL and SciELO, comprising 13 articles published in English, Spanish and Portuguese, in the period from 2008 through 2018.
+doc84	6	RESULTS
+doc84	7	The construction of the Birth Plan during prenatal influences positively the process of parturition and maternal-fetal outcomes.
+doc84	8	Unrealistic expectations can cause dissatisfaction with the experience of childbirth.
+doc84	9	Care providers play a central role in supporting its planning and fulfillment.
+doc84	10	CONCLUSIONS
+doc84	11	The analyzed publications justify the clinical implementation of the Birth Plan, once it represents an intensifying technology of humanized care and maternal satisfaction.
+doc84	12	There are still some challenges related to the use of this instrument concerning women's adherence and professional support to improve the fulfillment of the Birth Plans.
+doc88	1	[The approach to gender violence from the perspective of communities in northern Córdoba Province, Argentina].
+doc88	2	Gender violence is a human rights violation and a serious public health problem that should be addressed with an inter-sector and interdisciplinary focus.
+doc88	3	Collaboration and coordination between sectors, including the health sector, is essential for guaranteeing such approach.
+doc88	4	The study aimed to learn which actors address gender violence in the communities and to study the communities' opinions concerning the public health system's role in (and approach to) this problem.
+doc88	5	A qualitative action-research project was conducted with local community self-diagnosis workshops, using various qualitative techniques and thematic analysis.
+doc88	6	The results pointed to various local actors that address the problem and showed that primary healthcare plays a relevant role, due mainly to its proximity to the population and interdisciplinary approach.
+doc88	7	The obstacles identified by the communities for the health system approach mainly involved the biomedical model of care, decentralization, and lack of resources, training, and integrated policies.
+doc88	8	In conclusion, the workshops facilitated the development of collective knowledge on the local reality, underlining the role of primary healthcare and the need to link action and approaches between sectors and communities.
+doc89	1	Archival data review of intimate partner homicide-suicide in Jamaica, 2007 - 2017: focus on mental health and community response.
+doc89	2	Objective
+doc89	3	To identify social and behavioral patterns and mental health concerns associated with intimate partner homicide-suicide (IPHS) in Jamaica through an analysis of media and police reports.
+doc89	4	Methods
+doc89	5	This was an archival data review of police records and print, radio, and television reports of IPHS incidents from January 2007 - June 2017 in Jamaica.
+doc89	6	The 27 cases found were qualitatively analyzed using pre-identified codes and open coding to generate themes and patterns.
+doc89	7	Results
+doc89	8	A prevalence rate of 0.1 per 100 000 was determined.
+doc89	9	In all cases, males were the homicide-offender.
+doc89	10	Sociodemographic patterns associated with IPHS incidents-age, personality traits, choice of weapon, and time of occurrence-were consistent with previous findings.
+doc89	11	Common triggers were offender obsession, sexual jealousy, and fear of separation.
+doc89	12	Despite reports of mental health concerns in both male and female partners, neither the couples nor community members sought help prior to the homicide-suicide.
+doc89	13	Conclusion
+doc89	14	These findings demand a change in cultural attitudes toward domestic disputes and mental health concerns, and a redefining of the community's responsibility in IPHS.
+doc89	15	The warning signs associated with IPHS should be part of existing violence and suicide prevention programs.
+doc9	1	ORTHOPEDIC ASSESSMENT OF THE HIPS IN NEWBORNS AFTER INITIAL PEDIATRIC SURVEY.
+doc9	2	Objective
+doc9	3	To analyze and follow-up patients previously selected by pediatricians at the time of birth who presented altered initial physical examination results to identify the pathological changes in their hips.
+doc9	4	Methods
+doc9	5	A prospective cohort study was conducted involving 34 newborns (68 hips) out of a total of 1273 live births; these infants were assessed within the first days of life as altered findings were noted in the initial examination by the pediatrician.
+doc9	6	The results of clinical and ultrasonographic examination performed using the GRAF method and of specific treatments were analyzed.
+doc9	7	Results
+doc9	8	Of the 68 hips in 34 patients, 2 hips in 2 patients required intervention using the Pavlik harness for 8 weeks; a satisfactory treatment outcome was obtained in both cases.
+doc9	9	Conclusions
+doc9	10	Despite the low orthopedic workload in medical courses, it was possible to identify data consistent with the literature, both in the presentation of clinical findings and in those that required treatment, indicating that an initial evaluation of all newborns is mandatory, especially those with risk factors.
+doc93	1	Structure for the work and composition of Family Health Support Unit teams: national survey - Program for Improving Primary Health Care Access and Quality (PMAQ), 2013.
+doc93	2	OBJECTIVE
+doc93	3	to describe the structure of Family Health Support Unit (FHSU) teams with regard to physical space, training received, continuing education and professionals that support Primary Health Care (PHC) teams in Brazil, in 2013.
+doc93	4	METHODS
+doc93	5	this is a descriptive study using data from the external evaluation stage of the Program for Improving Primary Health Care Access and Quality (PMAQ).
+doc93	6	RESULTS
+doc93	7	the 1,773 FHSU teams mainly used shared clinics at primary health care centers (85.7%); 63.4% of professionals were offered specific training when they started work at their FHSU, while 67.4% were offered continuing education; the teams received support mainly from physiotherapists (87.4%) and Physical Education professionals (87,0%).
+doc93	8	CONCLUSION
+doc93	9	the structure available for FHSU teams is in accordance with the guidelines; some FHSU professionals have not received any specific training for the job.
+doc94	1	[Distal Renal Tubular Acidosis: Clinical Variability in the Same Family].
+doc94	2	Primary distal renal tubular acidosis is a genetic disorder characterized by the inability in acidification of urine.
+doc94	3	Symptoms are usually non-specific and highly variable.
+doc94	4	We described six cases in a family with four generations affected.
+doc94	5	The first case was diagnosed in a 3-year-old child presenting with hematuria and urolithiasis.
+doc94	6	Later, his sister, sons and two nephews were studied.
+doc94	7	Although asymptomatic, they all had nephrocalcinosis and hyperchloremic metabolic acidosis with normal anionic gap, except one case with normal arterial blood gas test but with nephrocalcinosis and inability of urinary acidification.
+doc94	8	At follow-up, they all maintained nephrocalcinosis, the index case had acute renal damage and developed hypertension, but none developed chronic renal disease.
+doc94	9	The diagnosis of autosomal dominant distal renal tubular acidosis is generally made later and patients tend to present with milder disease.
+doc94	10	But the condition may manifest early and have a variable phenotypic severity spectrum.
+doc94	11	Carrying out screening through assessment of family history enables an earlier diagnosis while also allowing treatment to start sooner.
+doc95	1	[Trend and distribution of the homicide mortality rate in accordance with the size of the population of Brazilian municipalities - 2000 and 2015].
+doc95	2	The scope of this study is to analyze the trends and distribution of homicide mortality rates (HMR) according to the population size of Brazilian municipalities between 2000 and 2015.
+doc95	3	It is an ecological study of deaths recorded in the Mortality Information System, with HMR standardized by the direct method and 95% confidence interval.
+doc95	4	HMR in Brazil grew 6% (to 29.1/100,000) in the period, with an increase in small municipalities (83%; 12.7 to 23.2/100,000) and mediumsized cities (52%; 19.7% to 30.1/100,000); which is true for both sexes, different ages, regions and firearm-related events.
+doc95	5	HMR decreased in major cities (19%; 40.6% to 32.9/100,000) and the Southeast region (55%; 45.6% to 20.6/100,000).
+doc95	6	The relative risk (RR) of small and medium-sized cities in relation to large cities is already greater than or close to 1 among women (RR 0.99; 1.03), people aged 60 years or older (RR 1.43; 1.36) and homicides by other means (RR 1.16; 1.18).
+doc95	7	The cities of São Paulo and Rio de Janeiro contributed the most to the reduction of HMR, especially in large cities (-37.6 and -22.3 homicides/100,000 inhabitants).
+doc95	8	Small and medium-sized municipalities have consistent trends of an increase in HMR even considering population subgroups.
+doc96	1	Early Referral to Palliative Care: The Rationing of Timely Health Care for Cancer Patients.
+doc96	2	Palliative care in oncology is an interdisciplinary approach, centered on patients and their families, carried out along the course of neoplastic diseases, based on symptom control, assertive communication and shared decision-making.
+doc96	3	Although clinical guidelines recommend a holistic intervention, early integration of palliative care into traditional oncological treatment, research shows a great delay in referral of patients, restricting palliative care to end-of-life care.
+doc96	4	Why does there seem to be a rationing of the early referral, sometimes in violation of human dignity?
+doc96	5	To a large extent it has to do with lack of knowledge, training and education of health professionals about palliative care and the techniques to deal with the process of death and dying.
+doc96	6	Several studies have demonstrated the benefit of integrating palliative actions into the routine of active cancer treatments, not only in terms of effective control of physical and psychological symptoms, but also in terms of overall quality of life, patient and family satisfaction, health care costs and survival in some cases.
+doc96	7	It is necessary to take measures that encourage oncologists to obtain further training in palliative care, as a formal, compulsory internship, integrated in their specific training program.
+doc96	8	This way, a new generation of physicians will surely change the lives of cancer patients, and their families, integrating - without disproportionate rationing - oncology and palliative medicine.

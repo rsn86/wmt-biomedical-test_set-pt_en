@@ -1,0 +1,675 @@
+doc1	1	To understand the factors that most influence decision-making in the treatment of infantile spinal muscular atrophy (SMA).
+doc1	2	A discrete choice experiment was conducted among parents of people with SMA (parents), healthcare professionals (HCPs), and members of the Australian general population (GenPop).
+doc1	3	Respondents were asked to accept/reject treatment for an infant newly diagnosed with SMA in eight hypothetical scenarios, characterized by different combinations of the attributes of the treatment offered.
+doc1	4	The results were analyzed using probability analysis.
+doc1	5	Completed responses were provided from 1113 individuals (1024 GenPop, 21 parents, 68 HCPs).
+doc1	6	Respondents were more likely to accept treatments that improved functioning and mobility.
+doc1	7	Treatments with higher costs, invasive delivery, and risks of adverse events were accepted less often.
+doc1	8	Cost most affected treatment choices by HCPs and GenPop, while change in mobility and mode of administration were most influential for parents.
+doc1	9	These results highlight the importance of understanding value for money and clinical impact in affecting treatment choice, which are crucial for effective planning of healthcare and the successful implementation of treatment programmes for SMA.
+doc1	10	What this paper adds Spinal muscular atrophy (SMA) treatments with a higher chance of improving functioning and mobility are preferred by the general population, parents, and healthcare professionals.
+doc1	11	Treatments with higher costs, invasive delivery, and risk of adverse events are less preferred.
+doc1	12	Willingness to pay for SMA treatments increases with impact on functioning.
+doc2	1	Hypertrophic cardiomyopathy (HCM) can cause obstruction in the left ventricular outflow tract (LVOT), and be responsible for the onset of limiting symptoms, such as tiredness.
+doc2	2	When such symptoms are refractory to pharmacological treatment, interventionist alternative therapies can be useful, such as septal ablation through the infusion of alcohol in the coronary artery or through myectomy.
+doc2	3	Recently, the use of a radiofrequency (RF) catheter for endocardial septal ablation guided by electroanatomic mapping has proven to be efficient, despite the high incidence of complete atrioventricular block.
+doc2	4	An alternative would be the application of RF at the beginning point of the septal gradient guided by the transesophageal echocardiography (TEE).
+doc2	5	The echocardiography is an imaging method with high accuracy to determine septal anatomy.
+doc2	6	To assess the long term effect of septal ablation for the relief of ventricular-arterial gradient, using TEE to help place the catheter in the area of larger septal obstruction.
+doc2	7	Besides, to assess the effects of ablation on the functional class and echocardiographic parameters.
+doc2	8	Twelve asymptomatic patients, with LVOT obstruction, refractory to pharmacological therapy, underwent endocardial septal ablation with 8mm-tip catheters, whose placement was oriented in the region of larger obstruction, assisted by the TEE.
+doc2	9	Temperature-controlled and staggered RF applications were performed.
+doc2	10	After each application, the gradient was reassessed and a new application was performed according to the clinical criterion.
+doc2	11	The effects of RF applications were assessed both for the gradient at rest and for that provoked by the Valsalva maneuver, and considering the gradient.
+doc2	12	The differences were significant when p-value was lower than or equal to 0.05.
+doc2	13	It was possible to observe that the mean reduction of the maximum gradients was from 96.8±34.7 mmHg to 62.7±25.4 mmHg three months after the procedure (p=0.0036).
+doc2	14	After one year, the mean of maximum gradient was 36.1±23.8 mmHg (p=0.0001).
+doc2	15	The procedure was well tolerated, without records of complete atrioventricular block nor severe complications.
+doc2	16	The TEE-guided septal ablation was efficient and safe, and the results were maintained during the clinical follow-up period.
+doc2	17	It is a reasonable option for the interventionist treatment of LVOT obstruction in HCM.
+doc3	1	Ultra-processed foods are markers of unhealthy eating patterns, and their consumption is high among adolescents.
+doc3	2	Characteristics of the school eating environment associate with student eating practices.
+doc3	3	This study aims to investigate the association between the presence of school canteens and the availability of ultra-processed foods in school canteens with the consumption of these foods, inside the school, among adolescents of the 9th grade (14 years) of the public and private schools of the city of São Paulo, Brazil.
+doc3	4	We conducted a cross-sectional study with SP-Proso data, in a sample of 2,680 adolescents.
+doc3	5	We elaborated multilevel linear regression models to evaluate associations between the exposures: presence of school canteens and availability of ultra-processed foods with outcomes of consumption frequency of ultra-processed foods in the school.
+doc3	6	We found an association between the presence of school canteens and the higher frequency of consumption of sausages (0.46; 95%CI: 0.24; 0.68), package snacks (0.50; 95%CI: 0.19; 0.80), goodies (0.82; 95%CI: 0.55; 1.09), and sugary drinks (0.34; 95%CI: 0.06; 0.62), as well as a score of consumption frequency of ultra-processed foods (2.37; 95%CI: 1.25; 3.48).
+doc3	7	The availability of package snacks, goodies, and sugary drinks in school canteens increased the frequency of consumption of these foods.
+doc3	8	We observed a dose-response effect between the diversity of ultra-processed foods in canteens and the frequency of consumption of these foods.
+doc3	9	A school food environment with greater availability of ultra-processed products is associated with their higher consumption in school, indicating the need to regulate the sale of food within these institutions.
+doc4	1	Complete heart block ensuing from a metastatic small cell carcinoma: a case report
+doc4	2	Introduction: Notwithstanding the diagnostic and therapeutic advancements, the incidence of cardiac metastases has increased in recent decades.
+doc4	3	Lung cancers are the most common primary malignant neoplasms with cardiac metastasis potential.
+doc4	4	The clinical presentation of cardiac metastases is either silent or vague, and largely depends on the infiltrated location and tumor burden.
+doc4	5	Although arrhythmias are not uncommon in metastatic cardiac tumors, complete heart block is relatively a rare manifestation.
+doc4	6	We present a case of complete heart block due to a metastatic small cell carcinoma in a 67-year-old male of African origin.
+doc4	7	Case presentation: A 67-year-old male of African origin from rural Tanzania was referred to us for expert management.
+doc4	8	He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.
+doc4	9	His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake and chronic cigarette smoking.
+doc4	10	He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks coupled with a significant weight loss.
+doc4	11	He had normal echocardiographic findings, however, the electrocardiogram showed features of complete heart block.
+doc4	12	Chest X-ray showed a homogeneous opacification on the right side and computed tomography scan revealed a solid right lung mass with metastases to the liver, heart, bowels, and bone.
+doc4	13	He underwent bronchoscopy, which revealed an endobronchial mass obstructing the bronchus intermedius.
+doc4	14	Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of a small cell carcinoma.
+doc4	15	The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.
+doc4	16	He made an informed refusal of chemotherapy and inevitably died 18 months post pacing.
+doc4	17	Conclusions: Despite the advancements in medical diagnostics and management, lung cancers are often diagnosed in advanced stages, with an inevitable grave prognosis.
+doc4	18	Small cell carcinoma has the potential to metastasize to the heart, resulting in complete heart block.
+doc4	19	A 67-year-old male of African origin from the Kilimanjaro region north of Tanzania was referred to us for expert management.
+doc4	20	He is a retired agromechanic with over 30 years exposure to asbestos-containing brake linings.
+doc4	21	His past medical history was unremarkable, but the family-social history was evident for a heavy alcohol intake (5 units/day) and chronic cigarette smoking (20 pack years).
+doc4	22	He presented with a 24-week history of progressive shortness of breath and an 8-week history of recurrent syncopal attacks.
+doc4	23	Such complaints were associated with awareness of heart beat, easy fatigability, light headedness, dry cough, and weight loss (∼15 kg in 6 months).
+doc4	24	There was a negative history of fever, night sweats, chest pain, visual disturbances, recurrent headaches, bone pain, vomiting, or diarrhea.
+doc4	25	General examination revealed a wasted (BMI 17.6 kg/m2) man.
+doc4	26	He had a sinus bradycardia of 32 beats/minute and blood pressure of 117/66 mmHg on cardiovascular examination.
+doc4	27	Respiratory examination revealed features suggestive of right lung consolidation.
+doc4	28	Other systems were essentially normal.
+doc4	29	He underwent a number of hematological, biochemical, and serological tests, which revealed a normocytic normochromic anemia [hemoglobin (Hb) 11.1 g/dL] but otherwise normal.
+doc4	30	His echocardiography (ECHO) was essentially normal, however the electrocardiogram (ECG) showed features in keeping with the diagnosis of CHB, Fig. 1.
+doc4	31	Chest X-ray (CXR) showed a homogeneous opacification on the right side, and CT scan revealed a solid right lung mass with metastases to the heart, liver, bowels, and bone; Figs. 2, 3, 4, 5 and 6.
+doc4	32	Furthermore, he underwent bronchoscopy, which revealed an endobronchial mass occluding the bronchus intermedius.
+doc4	33	Histological examination of a section of lung biopsy taken during bronchoscopy confirmed the diagnosis of small cell carcinoma, Fig. 7.
+doc4	34	Correspondingly, a histological section of heart muscle tissue revealed similar findings to lung biopsy.
+doc4	35	The patient underwent dual chamber pacemaker implantation with successful sinus rhythm restoration.
+doc4	36	He made an informed refusal of chemotherapy and inevitably died in his home village 18 months post pacing.
+doc4	37	We received the death information from his son via a phone call, and an autopsy was not practical.
+doc5	1	It has been shown that interleukin-35 (IL-35) subunits are strongly expressed in atherosclerotic plaques in humans.
+doc5	2	Therefore, it is considered to play a role in atherosclerosis.
+doc5	3	In this study, IL-35 levels were compared with the control group in patients with stable coronary artery disease (CAD), and the association between IL-35 levels and the lesion type, lesion severity and extension was investigated with the Gensini score (GS) and the Syntax score (SS) in the patient group.
+doc5	4	Sixty patients (18 female and 42 male) with CAD diagnosed by coronary angiography, who presented with typical chest pain and positive noninvasive cardiac stress test, and 46 patients (18 female and 28 male) with normal coronary lumenogram, were included in this study.
+doc5	5	Gensini and Syntax scores were calculated in the patient group, and these values were compared with IL-35 levels.
+doc5	6	Non-normally distributed variables were analyzed by the Mann-Whitney U test, whereas normally distributed parameters were assessed by Student's t-test.
+doc5	7	The difference between categorical variables were evaluated by the Chi-square or Fisher test.
+doc5	8	P-values<0.05 were considered as statistically significant.
+doc5	9	No significant differences were observed between patients and the control group in terms of demographic characteristics and laboratory findings.
+doc5	10	Compared to the control group, IL-35 levels of the CAD group were considerably lower (36.9±63.9 ng/ml vs. 33.2±13.2 ng/ml, p<0.008).
+doc5	11	Although not statistically significant, IL-35 levels were higher in patients with low SS than among those with high SS (33.2±13.7 vs. 31.8±8.9, p=0.51).
+doc5	12	The IL-35 values of the patients with high GS were significantly lower than in patients with low GS (35±17.4 vs. 30.7±8.6, p=0.043).
+doc5	13	It has been shown that IL-35 levels can be a new biomarker for stable CAD, and IL-35 is associated with the extension of CAD.
+doc6	1	Sickle cell disease (SCD) is the most common monogenic disease worldwide, with a variable prevalence in each continent.
+doc6	2	A single nucleotide substitution leads to an amino-acid change in the β-globin chain, altering the normal structure ofhemoglobin, which is then called hemoglobin S inherited in homozygosity (HbSS) or double heterozygosity (HbSC, HbSβ), and leads to chronic hemolysis, vaso-occlusion, inflammation, and endothelium activation.
+doc6	3	Pregnant women with SCD are at a higher risk of developing maternal and perinatal complications.
+doc6	4	We performed a narrative review of the literature considering SCD and pregnancy, the main clinical and obstetrical complications, the specific antenatal care, and the follow-up for maternal and fetal surveillance.
+doc6	5	Pregnant women with SCD are at a higher risk of developing clinical and obstetric complications such as pain episodes, pulmonary complications, infections, thromboembolic events, preeclampsia, and maternal death.
+doc6	6	Their newborns are also at an increased risk of developing neonatal complications: fetal growth restriction, preterm birth, stillbirth.
+doc6	7	Severe complications can occur in patients of any genotype.
+doc6	8	We concluded that SCD is a high-risk condition that increases maternal and perinatal morbidity and mortality.
+doc6	9	A multidisciplinary approach during pregnancy and the postpartum period is key to adequately diagnose and treat complications.
+doc7	1	Even though the risk of COVID-19 in pregnancy may be increased, large-scale studies are needed to better understand the impact of the infection in this population.
+doc7	2	The aim of this study is to describe obstetric complications and the rate of vertical transmission in pregnant women with SARS-CoV-2 infection.
+doc7	3	Detected cases of SARS-CoV-2 infection in pregnancy were registered in Portuguese hospitals by obstetricians.
+doc7	4	Epidemiological, pregnancy and childbirth data were collected.
+doc7	5	There were 630 positive cases in 23 Portuguese maternity hospitals, most at term (87.9%) and asymptomatic (62.9%).
+doc7	6	The most frequent maternal comorbidity was obesity.
+doc7	7	The rates of preterm birth and small-to-gestational-age were 12.1% and 9.9%, respectively.
+doc7	8	In the third trimester, 2.9% of pregnant women required respiratory support.
+doc7	9	There were eight cases (1.5%) of fetal death, including two cases of vertical transmission.
+doc7	10	There were five cases of postpartum respiratory degradation, but no maternal deaths were recorded.
+doc7	11	The caesarean section rate was higher in the first than in the second wave (68.5% vs 31.5%).
+doc7	12	RT-PCR SARS-CoV-2 positivity among newborns was 1.3%.
+doc7	13	SARS-Cov-2 infection in pregnancy may carry increased risks for both pregnant women and the fetuses.
+doc7	14	Individualized surveillance and the prophylaxis of this population with vaccination.
+doc7	15	is recommended in these cases.
+doc8	1	This systematic review was designed to assess the usefulness of cough peak flow to predict the extubation outcome in subjects who passed a spontaneous breathing trial.
+doc8	2	The search covered the scientific databases MEDLINE, Lilacs, Ibecs, Cinahl, SciELO, Cochrane, Scopus, Web of Science and gray literature.
+doc8	3	The Quality Assessment of Diagnostic Accuracy Studies was used to assess the methodological quality and risk of study bias.
+doc8	4	The statistical heterogeneity of the likelihood (LR) and diagnostic odds ratios were evaluated using forest plots and Cochran's Q statistic, and a crosshair summary Receiver Operating Characteristic plot using the multiple cutoffs model was calculated.
+doc8	5	We initially retrieved 3,522 references from the databases; among these, 12 studies including 1,757 subjects were selected for the qualitative analysis.
+doc8	6	Many studies presented an unclear risk of bias in the 'patient selection' and 'flow and time' criteria.
+doc8	7	Among the 12 included studies, seven presented 'high risk' and five 'unclear risk' for the item 'reference standard.' The diagnostic performance of the cough peak flow for the extubation outcome was low to moderate when we considered the results from all included studies, with a +LR of 1.360 (95%CI 1.240 - 1.530), -LR of 0.218 (95%CI 0.159 - 0.293) and a diagnostic odds ratio of 6.450 (95%CI 4.490 - 9.090).
+doc8	8	A subgroup analysis including only the studies with a cutoff between 55 and 65 L/minute showed a slightly better, although still moderate, performance.
+doc8	9	A cough peak flow assessment considering a cutoff between 55 and 65L/minute may be useful as a complementary measurement prior to extubation.
+doc8	10	Additional well-designed studies are necessary to identify the best method and equipment to record the cough peak flow as well as the best cutoff.
+doc9	1	To translate the My Experience Book toll into Portuguese, evaluate the translation content, readability, quality, and visual identity of the material, and make it available online.
+doc9	2	Descriptive, cross-sectional, quantitative, and qualitative study.
+doc9	3	The procedures consisted of five stages: translation of the material; evaluation and response to questionnaire one regarding translation; determining the validity of the content; readability assessment; availability of material online and evaluation of content aimed at quality and visual identity (questionnaire two).
+doc9	4	Twenty-five professionals (audiologists and physicians) participated in the study.
+doc9	5	The translation of the notebook showed validity agreement rates greater than 90%.
+doc9	6	Readability rated the material easy to read.
+doc9	7	Among the 184 invited professionals, only 25 agreed to participate, demonstrating low adherence to the study.
+doc9	8	Most respondents agreed positively about the content and consistency of the translated material, videos, illustrative images, and captions.
+doc9	9	The material was also considered necessary by the majority of the evaluators.
+doc9	10	All audiologists reported using the instrument in clinical practice.
+doc9	11	The translated toll is of great relevance.
+doc9	12	It gathers practical information to create a notebook of experiences and guidance on using the material as an additional resource to stimulate the auditory skills of children with hearing impairment.
+doc10	1	This research highlights housing as one of the dimensions of the lives of individuals who experience severe psychological suffering, which reverberates in their care and unique therapeutic plan.
+doc10	2	This paper aims to grasp the Psychosocial Care Centers (CAPS) users' meanings of their experiences of living in Santos (SP), Brazil.
+doc10	3	This qualitative research was conducted with users of different services through semi-structured interviews submitted to the thematic content analysis.
+doc10	4	This study identified how the conception of housing relates to protection, individuality, and affective memories that corroborate the construction of an expanded concrete life regarding living in freedom in the city, presenting plural housing located in different territories.
+doc10	5	Taking ownership of spaces reveals the possibilities and challenges inherent to social exchanges and daily experiences.
+doc10	6	Being and living in a house means having access to material and subjective goods, besides assuring care in freedom.
+doc10	7	However, there are still limitations in the effective exercise of social participation.
+doc11	1	The SARS-CoV-2 infection has been associated with the acute onset of mental and behavioural symptoms and psychiatric disorders.
+doc11	2	The aim of this study was to assess the prevalence of the different neuropsychiatric diagnoses in hospitalized patients with SARS-CoV-2 infection assessed by Liaison Psychiatry.
+doc11	3	We performed a cross-sectional study in a hospital near Lisbon, Portugal.
+doc11	4	We reviewed the electronic health records from all inpatients with a positive SARS-CoV-2 RT-PCR test that were assessed by the Liaison Psychiatry Unit (LPU) between February and December 2020.
+doc11	5	We reviewed relevant sociodemographic and clinical data, including 15 neuropsychiatric symptoms.
+doc11	6	The prevalence of psychiatric disorders was our main outcome.
+doc11	7	We also explored differences between two groups: patients with delirium (delirium group) and patients without delirium (no delirium group).
+doc11	8	We included 46 cases [Age: median = 67 years; interquartile range (IQR) = 24)], with 60.9% male individuals.
+doc11	9	Delirium was the most frequent diagnosis in our sample (43.5%), followed by major depressive disorder (21.7%).
+doc11	10	Patients with delirium were more likely to suffer from COVID-19 symptoms (delirium: 19/20, 95%; no delirium: 14/26, 53.8%; p = 0.02), and to have a longer time interval between a positive SARS-CoV-2 RT-PCR test and an evaluation by the LPU (delirium: median = 16.5 days, IQR = 16; no delirium: median = 8 days, IQR = 16.3; p = 0.045).
+doc11	11	Agitation (52.2%) and cognitive symptoms (47.8%) were the most reported neuropsychiatric symptoms.
+doc11	12	We found a high prevalence of delirium in our sample.
+doc11	13	This finding is in line with recent literature concerning hospitalized COVID-19 patients The higher frequency of COVID-19 symptoms found in the delirium group suggests a possible association between symptomatic SARS-CoV-2 infection and delirium onset.
+doc12	1	To assess the influence of oxidative stress on the gene expression of nitric oxide synthases (NOS 3 and NOS 2) and, hence, the cardiovascular responses in preeclampsia.
+doc12	2	This was a case control study in which patients with preeclampsia (PE group) and normal pregnancy controls (NP group) were included according to the guidelines of the American College of Obstetricians and Gynecologists (ACOG).
+doc12	3	The serum levels of malondialdehyde (MDA), total antioxidant capacity, and nitric oxide (NO) were estimated, and the heart rate and mean arterial pressure were recorded.
+doc12	4	The gene profiling of NOS3 and NOS2 was performed through real-time polymerase chain reaction (RT-PCR).
+doc12	5	The statistical analysis was performed using the Student <i>t</i>-test, and values of <i>p</i> < 0.05 were considered statistically significant.
+doc12	6	The serum levels of malondialdehyde were increased (<i>p</i> < 0.0001), and the total antioxidant capacity was reduced in the PE group (<i>p</i> = 0.034), indicating oxidative stress.
+doc12	7	In the PE group, the mean arterial pressure was significantly higher (<i>p</i> < 0.0001), but the serum levels of NO did not show a statistically significant reduction (<i>p </i>= 0.20).
+doc12	8	The gene expression profiling of NOS3 and NOS2 revealed a down regulation in the PE group by 8.49 and 51.05 times respectively.
+doc12	9	Oxidative stress may lead to endothelial dysfunction, which could result in increased mean arterial pressure.
+doc12	10	Nitric oxide may play a role in this mechanism, but interactions with other vasoactive /biological substances cannot be overlooked, as the gene expression of NOS3 and NOS2 has been reduced.
+doc13	1	Brain injury caused by extracorporeal circulation during cardiovascular surgical procedures has been a recurring complication since the implementation of extracorporeal circulation five decades ago.
+doc13	2	There is no unique cause of brain injury due to the use of extracorporeal circulation, but it is known that brain injury affects about 70% of patients who undergo this procedure.
+doc13	3	Intracranial pressure assessment is one method that can guide the management of patients undergoing procedures associated with neurological disturbances.
+doc13	4	This study describes two cases of patients who underwent cardiovascular surgery with extracorporeal circulation in whom clinical protocols for neuroprotection in the postoperative phase were guided by intracranial pressure waveform findings obtained with a novel noninvasive intracranial pressure monitoring method.
+doc14	1	Eradicating modern slavery is a relevant scientific, social, and institutional challenge issue.
+doc14	2	Indeed, efforts are being made globally to understand, map, and eradicate contemporary slavery as a target of the United Nations Sustainable Development Goals by 2030.
+doc14	3	However, little attention has been given to the Occupational Health Surveillance (VISAT) in the strategies and struggle against exploiting relationships.
+doc14	4	In order to fill this gap, the paper discusses contemporary slave labor (CSL) and its specificities in Brazil from an occupational health surveillance perspective.
+doc14	5	We initially highlight the link between CSL, occupational health, and occupational health surveillance (VISAT).
+doc14	6	We then present three VISAT challenges to addressing CSL: the challenging task of characterizing economic sectors and populations most affected; identifying determinants, risks, and effects on health; and strengthening occupational health practices and services to trigger specific actions regarding formation, information, and intervention in regions of high CSL prevalence.
+doc14	7	We conclude that Occupational Health Surveillance can play an essential role in the emancipation of workers engaged in slavery relationships.
+doc15	1	To describe current clinical practices related to the use of high-flow nasal cannula therapy by Brazilian pediatric intensivists and compare them with those in other countries.
+doc15	2	A questionnaire was administered to pediatric intensivists in North and South America, Asia, Europe, and Australia/New Zealand for the main study.
+doc15	3	We compared the Brazilian cohort with cohorts in the United States of America, Canada, the United Kingdom, and India.
+doc15	4	Overall, 501 physicians responded, 127 of which were in Brazil.
+doc15	5	Only 63.8% of respondents in Brazil had a high-flow nasal cannula available, in contrast to 100% of respondents in the United Kingdom, Canada, and the United States.
+doc15	6	The attending physician was responsible for the decision to start a high-flow nasal cannula according to 61.2% respondents in Brazil, 95.5% in the United Kingdom, 96.6% in the United States, 96.8% in Canada, and 84.7% in India.
+doc15	7	A total of 62% of respondents in Brazil, 96.3% in the United Kingdom, 96.6% in the United States, 96.8% in Canada, and 84.7% in India reported that the attending physician was responsible for the decision to wean or modify the high-flow nasal cannula settings.
+doc15	8	When high-flow nasal cannula therapy failed due to respiratory distress/failure, 82% of respondents in Brazil would consider a trial of noninvasive ventilation before endotracheal intubation, compared to 93% in the United Kingdom, 88% in the United States, 91.5% in Canada, and 76.8% in India.
+doc15	9	More Brazilian intensivists (6.5%) than intensivists in the United Kingdom, United States, and India (1.6% for all) affirmed using sedatives frequently with high-flow nasal cannulas.
+doc15	10	The availability of high-flow nasal cannulas in Brazil is still not widespread.
+doc15	11	There are some divergences in clinical practices between Brazilian intensivists and their colleagues abroad, mainly in processes and decision-making about starting and weaning high-flow nasal cannula therapy.
+doc16	1	To assess the levels of physical activity and exercise practice, and examine the associated maternal characteristics; as well as the anxiety levels of high-risk pregnant women.
+doc16	2	A cross-sectional study conducted with pregnant women at a High-risk Prenatal Clinic (HRPC) in a tertiary maternity.
+doc16	3	Pregnant women of 18 to 40-years-old, with a single fetus, and with gestational age up to 38 weeks were included.
+doc16	4	The level of physical activity and exercise practice of the study's participants were investigated using the Pregnancy Physical Activity Questionnaire (PPAQ).
+doc16	5	Maternal sociodemographic, anthropometric, and medical data were investigated using a specific form.
+doc16	6	For anxiety levels, the short version of the State-Trait Anxiety Inventory (STAI) was applied.
+doc16	7	We used the Student <i>t</i>-test, chi-square test, odds ratio (OR) with 95% confidence interval (95% CI) and multiple logistic regression.
+doc16	8	The significance level was 5%.
+doc16	9	Among the 109 pregnant women included, 82 (75.2%) were classified as sedentary/little active.
+doc16	10	The higher energy expenditure were for domestic activities (133.81 ± 81.84 METs), followed by work-related activities (40.77 ± 84.71 METs).
+doc16	11	Only 19.3% women exercised during pregnancy (4.76 ± 12.47 METs), with slow walking being the most reported exercise.
+doc16	12	A higher level of education was the most important factor associated with women being moderately or vigorously active (OR = 29.8; 95% CI 4.9-117.8).
+doc16	13	Nulliparity (OR = 3.1; 95% CI 1.0-9.1), low levels of anxiety (OR = 3.6; 95% CI 1.2-10.7), and unemployment (OR = 4.8; 95% CI 1.1-19.6) were associated with the practice of exercise during pregnancy.
+doc16	14	Most women with high-risk pregnancies exhibited a sedentary pattern, with low prevalence of physical exercise practice.
+doc16	15	Recognizing factors that hinder the adoption of a more physically active lifestyle is essential for an individualized guidance regarding exercise during pregnancy.
+doc17	1	This qualitative research aimed to investigate workers' theoretical conceptions regarding group work and analyze the driving and restrictive factors of group therapeutic practice in Psychosocial Care Centers (CAPS).
+doc17	2	Sixty-six workers from CAPS and outpatient clinics from the Psychosocial Care Network from twenty-three municipalities in the State of Goiás participated in the study.
+doc17	3	Data were collected through a structured questionnaire and a group interview audio-recorded and documented with photographs.
+doc17	4	The concept of what the group is and is not emerged from the thematic analysis of the data.
+doc17	5	The categories were organized into three analysis blocks concerning driving and restrictive forces: service-related, professional-related, and user-related.
+doc17	6	Relational, structural, and therapeutic aspects and professional competence for group coordination are integrated in an antagonistic, complementary, and inseparable way to apprehend the studied reality.
+doc17	7	We conclude that highlighting the restrictive aspects that must be recognized and improved and the drivers that must be maintained and enhanced can actively contribute to expanding the therapeutic capacity related to the use of group technology in mental health.
+doc18	1	To assess the extent of the scientific literature on avoidant/restrictive food intake disorder (ARFID) in children and young people with autism in order to evaluate and synthesize the evidence on (a) the nature of feeding and eating difficulties in children and young people with autism; (b) the consequences of a severely restricted diet; and (c) what is known about effective treatment approaches.
+doc18	2	PubMed and PsycInfo databases were searched, identifying 56 studies and a narrative synthesis was effected.
+doc18	3	The literature suggested that ARFID-like presentations are common in children and young people with autism, with severe consequences for physical and mental health.
+doc18	4	The three drivers mentioned in the DSM-5 criteria, namely a sensory-based avoidance, fear- or phobia-based restriction, and a lack of interest in eating, are present in this population, although sensory sensitivities are currently the most commonly described.
+doc18	5	Research suggests that ARFID symptoms in children and young people with autism can be amenable to treatment, with evidence that behavioural interventions are feasible and potentially effective in this population.
+doc18	6	ARFID is a common and impactful problem among young people with autism but is currently under researched.
+doc18	7	Work is required to (a) identify the prevalence of ARFID in children and young people with autism; (b) uncover the key drivers of ARFID in this population; (c) adapt currently available interventions for use with children and young people with autism; and (d) rigorously test these interventions in clinical trials.
+doc18	8	Significant food restriction is common in children and young people with autism.
+doc18	9	Sensory sensitivities are frequently cited as a reason for food restriction.
+doc18	10	The prevalence and causes of avoidant/restrictive food disorders in children and young people with autism need further research.
+doc19	1	The purpose of this study was to compare the frequency of the occurrence of high-risk human papillomavirus (HPV) and abnormal anal cytology in immunocompetent women with and without HPV-induced genital lesions.
+doc19	2	This analytical cross-sectional, observational study was conducted between July 2017 and December 2018 in a specialized outpatient clinic of a tertiary hospital in Fortaleza, CE.
+doc19	3	Fifty-seven immunocompetent women with and without genital intraepithelial lesions were assessed; they were divided into two groups: group 1 was comprised of women with HPV-associated genital lesions (<i>n</i> = 26), and group 2 was comprised of those without HPV-associated genital lesions (<i>n</i> = 31).
+doc19	4	Samples for liquid-based cytology and high-risk DNA-HPV polymerase chain reaction real-time tests were collected from the cervix and anus.
+doc19	5	All cases were evaluated using high-resolution anoscopy; biopsies were performed when required.
+doc19	6	The Fisher exact and chi-squared tests were applied for consolidated data in the contingency table, and the Student <i>t</i>-test and Mann-Whitney U-test for independent variables.
+doc19	7	Anal high-risk HPV infections were more frequent in group 1 (odds ratio [OR], 4.95; 95% confidence interval [CI], 1.34-18.3; <i>p</i> = 0.012), along with concomitant high-risk HPV infections in the uterine cervix and the anus (OR 18.8; 95% CI, 2.20-160; <i>p</i> < 0.001).
+doc19	8	The incidence of high-risk cervical HPV infection was associated with high-risk anal HPV infection (OR, 4.95; 95% CI, 1.34-18.3; <i>p</i> = 0.012).
+doc19	9	There was no statistical difference concerning abnormal anal cytology or anoscopy between the groups, and no anal intraepithelial lesion was found in either group.
+doc19	10	Immunocompetent women with HPV-associated genital lesions and high-risk cervical HPV were more likely to have high-risk anal HPV.
+doc20	1	Genetic testing aims to identify patients at risk for inherited cancer susceptibility.
+doc20	2	In the last decade, there was a significant increase in the request of broader panels of genes as multi-gene panel testing became widely available.
+doc20	3	However, physicians may be faced with genetic findings for which there is lack of management evidence, despite some progress in understanding their clinical relevance.
+doc20	4	In this short review, we discuss the advantages and the drawbacks related to multi-gene panel testing in the setting of a Gastrointestinal Familial Cancer Risk clinic.
+doc20	5	We also summarize the available recommendations on management of pathogenic variant carriers.
+doc21	1	To describe the quality of life (QoL) of Brazilian speech therapists and relate it to sociodemographic and professiographic aspects, and to their role in the COVID-19 pandemic.
+doc21	2	Population-based, cross-sectional epidemiological study.
+doc21	3	The research involved speech therapists from Brazil, who were invited to answer, online, the WHOQOL-bref form about their health and QoL, in addition to sociodemographic and professional questions.
+doc21	4	609 speech therapists aged between 21 and 65 years, average age of 34 years, participated in the study.
+doc21	5	Lower scores in the physical domain of QoL were given by female speech therapists, providing outpatient care, who did not work in private clinics, acted indirectly in the pandemic, were absent from work due to psycho-emotional aspects; in the psychological domain, they were female, without a partner, working in a private clinic or elsewhere and acted directly or indirectly in the pandemic; in the social relations domain, they had no partner, worked in outpatient care, but not in private clinics; and in the environment domain, lower scores were in black and brown race/color, without a partner, attending home care, but not in a private clinic or management/administrative or other.
+doc21	6	Brazilian speech therapists had the lowest QoL scores in the psychological and environmental domains; their QoL is related to factors such as sex, color/race, presence of a partner, council region, service environments, direct action with COVID-19 patients and COVID-19 diagnosis.
+doc22	1	The Western Ontario Shoulder Instability Index (WOSI) is a self-administered questionnaire specifically used to determine the impact of shoulder instability on quality of life.
+doc22	2	The aim of this study was to translate the WOSI into European Portuguese and analyze its validity and reliability in a population with shoulder instability.
+doc22	3	The WOSI was translated and culturally adapted from its original version into European Portuguese (WOSIPT).
+doc22	4	Internal consistency and test-retest analyses were conducted to determine the level of reliability of the scale.
+doc22	5	WOSI-PT, Quick-DASH, and SF-12 questionnaires were applied to 81 patients with symptomatic shoulder instability to assess validity, and reliability was tested by randomly selecting 50 patients within 72 hours using a test-retest design.
+doc22	6	The reliability of the WOSI-PT was very high, with Cronbach´s alpha equal to 0.97 and an intraclass correlation coefficient of 0.98.
+doc22	7	Regarding the construct validity, the correlation between the WOSI-PT and QuickDASH was high and negative (-0.79).
+doc22	8	The correlations between WOSI-PT and SF-12 were positive, respectively, moderate with physical (0.66) and low with mental (0.34) health.
+doc22	9	WOSI-PT is a reliable and valid instrument for assessing the functional impact of shoulder joint instability on quality of life.
+doc23	1	Treatment of severe neutropenia with high-dose pyridoxine in a patient with chronic graft versus host disease and squamous cell carcinoma: a case report
+doc23	2	Introduction: The differential diagnosis of neutropenia includes medications, infections, autoimmune diseases, and deficiencies of Vitamin B12 and folate.
+doc23	3	The association of Vitamin B6 deficiency with severe neutropenia is a rare finding.
+doc23	4	Case presentation: A 51-year-old Caucasian woman presented with fever and profound neutropenia (48 neutrophils/uL).
+doc23	5	Her clinical history included non-Hodgkin lymphoma, in remission following treatment with allogeneic bone marrow transplantation, quiescent chronic graft-versus-host disease, and squamous cell carcinoma of the skin metastatic to cervical lymph nodes.
+doc23	6	Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.
+doc23	7	The bone marrow was hypocellular without metastatic cancer or myelodysplasia.
+doc23	8	Neutropenia did not respond to stopping medications that have been associated with neutropenia (valganciclovir, voriconazole and Soriatane) or treatment with antibiotics or granulocyte colony stimulating factor.
+doc23	9	Blood tests revealed absence of antineutrophil antibodies, normal folate and B12 levels, moderate zinc deficiency and severe Vitamin B6 deficiency.
+doc23	10	Replacement therapy with oral Vitamin B6 restored blood vitamin levels to the normal range and corrected the neutropenia.
+doc23	11	Her cervical adenopathy regressed clinically and became negative on scintography following Vitamin B6 therapy and normalization of the blood neutrophil count.
+doc23	12	Conclusion: Severe pyridoxine deficiency can lead to neutropenia.
+doc23	13	Screening for Vitamin B6 deficiency, along with folate and Vitamin B12 levels, is recommended in patients with refractory neutropenia, especially those with possible malabsorption syndromes, or a history of chronic-graft-versus host disease.
+doc23	14	Severe neutropenia may facilitate progression of squamous cell carcinoma.
+doc23	15	The patient was a 51-year-old Caucasian woman with relapsed non-Hodgkin lymphoma treated four years earlier with an allogeneic stem cell transplant.
+doc23	16	Her lymphoma was in remission.
+doc23	17	Complications of her allogeneic transplant included a history of chronic extensive graft-versus-host disease (GvHD) involving the skin and dermal squamous cell carcinoma.
+doc23	18	Immunosuppression with cyclosporine had been discontinued two months earlier due to the development of squamous cell carcinoma and the absence of active GvHD.
+doc23	19	She had no history of smoking, alcohol, or drug abuse.
+doc23	20	She presented with fever and profound neutropenia; serial blood counts showed that the neutropenia had been present for more than a month (Figure 1).
+doc23	21	Her examination showed moderate cachexia, long-standing sclerodermatous changes and hyper-pigmentation of the skin consistent with quiescent GvHD, palpable 2.5 cm left cervical and submandibular adenopathy that was flurodeoxy glucose (FDG) avid on positron emission tomography/computerized tomography (PET/CT) scan.
+doc23	22	She had a non-focal neurological examination.
+doc23	23	A complete blood count showed a normal total leukocyte count (4,600/uL) with 2% granulocytes (48 neutrophils/uL) together with 84% lymphocytes and 14% monocytes.
+doc23	24	Red blood cells were 4.24 × 10E12/L, hemoglobin was 12.4 g/dL, hematocrit was 0.37, and the platelet count was 113 × 10E9/L.
+doc23	25	Medications included atenolol, topical clobetasol, Ditropan (oxybutynin), prophylactic voriconazole, prophylactic valganciclovir, Soriatane (acitretin), and Carac (fluorouracil) cream.
+doc23	26	Blood cultures showed a micrococcus species.
+doc23	27	Her iron level was 330 mcg/L with 20% saturation.
+doc23	28	Folate, vitamin B1, vitamin B12, copper, vitamin D levels, thyroid function tests, creatinine, bilirubin, liver enzymes and lactate dehydrogenase (LDH) were normal.
+doc23	29	Her blood zinc level was borderline low at 49 mcg/dL.
+doc23	30	Antineutrophil antibodies were absent (<1:10 titer).
+doc23	31	PCR tests for cytomegalovirus (CMV) and Epstein Barr virus (EBV) in the blood were negative, and had remained negative on prophylactic doses of valganciclovir following CMV reactivation five months earlier.
+doc23	32	Her vitamin B6 level was very low at 0.5 ng/mL (reference range 5 to 30 ng/mL).
+doc23	33	Serum IgG was polyclonally elevated at 3720 mg/dL as were blood T-cells (4580 cells/uL) and CD8+ T-cells (2836 cells/uL) with normal numbers of CD4+ T-cells, B-cells and natural killer (NK) cells.
+doc23	34	Her fever resolved with a course of vancomycin, without identifying a site of infection.
+doc23	35	Histological examination of the marrow demonstrated marked hypocellularity without specific megaloblastic or myelodysplastic findings, metastatic cancer, or features to suggest immune-mediated thrombocytopenia.
+doc23	36	Cytogenetic analysis showed 100% donor (male) cells without any clonotypic abnormalities.
+doc23	37	Biopsy of a cervical lymph node showed poorly differentiated carcinoma, consistent with metastatic squamous cell carcinoma.
+doc23	38	Valganciclovir, voriconazole, and Soriatane (acitretin) were discontinued (as potential causes of neutropenia) and prophylactic fluconazole and acyclovir were started.
+doc23	39	Granulocyte colony stimulating factor (G-CSF; 300 ug subcutaneously every other day) was administered for four doses in mid February 2010 without any improvement in her neutropenia.
+doc23	40	Following daily supplementation with 150 mg Vitamin B6, blood B6 levels normalized concomitant with resolution of the neutropenia (Figure 1).
+doc23	41	Following correction of the B6 deficiency and neutropenia, the cervical adenopathy completely regressed by clinical examination and became scintographically negative by PET/CT.
+doc24	1	Cardiac, ventilatory and kidney management in the critical care setting has been optimized over the past decades.
+doc24	2	Cognition and sedation represent one of the last remaning challenges.
+doc24	3	As conventional sedation is suboptimal and as the sedation evoked by alpha-2 adrenergic agonists ('cooperative' sedation with dexmedetomidine, clonidine or guanfacine) represents a valuable alternative, this manuscript covers three practical topics for which evidence-based medicine is lacking: a) Switching from conventional to cooperative sedation ('switching'): the short answer is the abrupt withdrawal of conventional sedation, immediate implementation of alpha-2 agonist infusion and the use of 'rescue sedation' (midazolam bolus[es]) or 'breakthrough sedation' (haloperidol bolus[es]) to stabilize cooperative sedation.
+doc24	4	b) Switching from conventional to cooperative sedation in unstable patients (e.g., refractory delirium tremens, septic shock, acute respiratory distress syndrome, etc.
+doc24	5	): to avoid hypotension and bradycardia evoked by sympathetic deactivation, the short answer is to maintain the stroke volume through volume loading, vasopressors and inotropes.
+doc24	6	c) To avoid these switches and associated difficulties, alpha-2 agonists may be considered first-line sedatives.
+doc24	7	The short answer is to administer alpha-2 agonists slowly from admission or endotracheal intubation up to stabilized cooperative sedation.
+doc24	8	The 'take home' message is as follows: a) alpha-2 agonists are jointly sympathetic deactivators and sedative agents; b) sympathetic deactivation implies maintaining the stroke volume and iterative assessment of volemia.
+doc24	9	Evidence-based medicine should document our propositions.
+doc25	1	Oxaliplatin-induced thrombotic microangiopathy: a case report
+doc25	2	Background: Oxaliplatin-based chemotherapy represents a standard of care in the treatment of metastatic colorectal cancer.
+doc25	3	We report a rare case of fulminant oxaliplatin-induced thrombotic microangiopathy, clinically suggestive of hemolytic-uremic syndrome, occurring in a female patient with a prolonged history of exposure to oxaliplatin for the treatment of metastatic colon cancer.
+doc25	4	Case presentation: A 73-year-old Caucasian female with a treatment history including several lines of chemotherapy for the management of metastatic colon cancer was reinitiated on chemotherapy with oxaliplatin, fluorouracil, and leucovorin with bevacizumab for disease progression.
+doc25	5	She presented to the emergency department with malaise, headache, vomiting, and decreased urine output appearing a few hours after chemotherapy administration.
+doc25	6	Clinical symptoms and laboratory findings were suggestive of thrombotic microangiopathy, with a triad of microangiopathic hemolytic anemia, pronounced thrombocytopenia, and acute renal failure.
+doc25	7	The predominance of the severe renal failure was evocative of hemolytic-uremic syndrome.
+doc25	8	The rapid development of the thrombotic microangiopathy was linked to exposure to oxaliplatin.
+doc25	9	The patient was promptly managed with daily plasma exchange and high-dose corticosteroids, platelet, and red blood cell transfusions in conjunction with intermittent hemodialysis, and she recovered progressively.
+doc25	10	Conclusion: Our case confirms the risk of hemolytic-uremic syndrome as a rare and life-threatening complication of oxaliplatin-based chemotherapy.
+doc25	11	A dose-dependent, drug-induced toxicity mechanism is suggested.
+doc25	12	Physicians need to maintain a high level of clinical suspicion to diagnose and treat this acute life-threatening disorder.
+doc25	13	A 73-year-old Caucasian female, never smoker, with a past medical history of hypertension was diagnosed with stage IV colon adenocarcinoma with liver metastasis in October 2008.
+doc25	14	She received chemotherapy with capecitabine, leucovorin, and oxaliplatin (XELOX) and bevacizumab for five cycles, then underwent a right hemicolectomy and a partial hepatectomy followed by maintenance therapy with bevacizumab.
+doc25	15	In February 2011, she was initiated on fluorouracil, leucovorin, and irinotecan (FOLFIRI) and cetuximab for disease progression in the liver.
+doc25	16	In May 2011, she underwent a resection of the new hepatic lesion followed by intra-arterial chemoembolization sessions for 3 months.
+doc25	17	Three years later, in August 2014, a positron emission tomography–computed tomography (PET–CT) scan showed evidence of metastatic retroperitoneal lymphadenopathy, consistent with disease recurrence.
+doc25	18	She was then initiated on mFOLFOX-6 with bevacizumab with a good imaging response, followed by a year of maintenance therapy with fluorouracil, leucovorin, and bevacizumab.
+doc25	19	In December 2016, her treatment plan was switched to fluorouracil, leucovorin, and irinotecan (FOLFIRI) for disease progression to the lungs, followed by maintenance therapy with fluorouracil, leucovorin, and bevacizumab.
+doc25	20	A few months later, in August 2017, a PET–CT scan showed a new lung nodule.
+doc25	21	She was then shifted to mFOLFOX6 with panitumumab followed by maintenance therapy with fluorouracil and leucovorin.
+doc25	22	In May 2018, the treatment protocol was changed to FOLFIRI with cetuximab, until a new disease progression in the lymph nodes, and then around the hepatic artery stent, occurred in January 2019.
+doc25	23	The patient was then reinitiated on mFOLFOX6 with bevacizumab.
+doc25	24	She received her first cycle on 21 February and later experienced an episode of neutropenia for which the second cycle was delayed.
+doc25	25	On 11 March, she received her second cycle of chemotherapy with a 25% dose reduction.
+doc25	26	On 13 March, she presented to the emergency department with fatigue, malaise, orbital headache, nausea and vomiting, mild abdominal pain, and chills.
+doc25	27	She stated that her symptoms started hours after the chemotherapy infusion and reported a decrease in urine output and a darkening of urine.
+doc25	28	On physical examination, the patient had jaundice with icteric sclera since a day ago.
+doc25	29	Her vitals showed a temperature of 37.1 °C, a heart rate of 88 beats per minute, a respiratory rate of 18 breaths per minute, a blood pressure of 16.7/7.2 mmHg, and oxygen saturation of 100%.
+doc25	30	A cardiac workup ruled out acute myocardial infarction.
+doc25	31	The initial blood workup was significant for thrombocytopenia (platelet count 30.103 cells/mm3) and anemia (hemoglobin 8.1 mg/dL).
+doc25	32	The anemia was defined as hemolytic by markedly increased bilirubin (total bilirubin 6.4 mg/dL, indirect bilirubin 3.3 mg/dL), high aspartate aminotransferase (AST) (1725 IU/L), high lactate dehydrogenase (LDH) (4866 IU/L), and low haptoglobin (< 0.1 g/L).
+doc25	33	The patient also showed signs of acute renal failure (serum creatinine had markedly increased from 0.9 to 5.5 mg/dL within a week, blood urea nitrogen (BUN) 78 mg/dL, and uric acid 10.6 mg/dL).
+doc25	34	The blood film inspection showed signs of hemolysis with a slight anisopoikilocytosis, slight hypochromia, some ovalocytes and echinocytes, few schistocytes and helmet cells, rare teardrop red blood cells, and rare stomatocytes.
+doc25	35	There were also occasional polychromatophilic red blood cells (reticulocytosis).
+doc25	36	Antibody screening was negative, confirming the MAHA diagnosis.
+doc25	37	The coagulation panel was normal.
+doc25	38	Relevant laboratory parameters are documented in Table 1.
+doc25	39	Her chronic medications included irbesartan/amlodipine and atenolol.
+doc25	40	The clinical laboratory findings were consistent with thrombotic microangiopathy (TMA).
+doc25	41	An ADAMTS13 activity test was performed to investigate a potential TTP, whereas the significant picture of the predominance of renal failure was more suggestive of HUS.
+doc25	42	The occurrence of TMA after the chemotherapy session was suggestive of drug-induced thrombotic microangiopathy (DITMA), notably related to the administration of a chemotherapy agent.
+doc25	43	Treatment was started promptly with daily plasma exchange and immunosuppression with methylprednisolone (1 mg/kg/day) until a diagnosis of TTP was ruled out, then tapered later on.
+doc25	44	She also received packed red blood cell transfusions and platelet transfusions, and underwent daily intermittent hemodialysis.
+doc25	45	Electrolyte imbalances were also managed.
+doc25	46	Seven days later, the patient’s laboratory studies (Table 1) showed a stable hemoglobin level, a much-improved platelet count, and no clinical evidence of hemolysis.
+doc25	47	Her platelet count normalized on day 12.
+doc25	48	Daily plasma exchange was continued for eight consecutive days, and dialysis for eight consecutive days.
+doc25	49	The patient was transferred to another medical center in the Kingdom of Saudi Arabia (KSA) for continuity of care and possible treatment of the DITMA with eculizumab.
+doc26	1	It is essential to maintain the alveolar bone ridge to ensure the success of implant therapy.
+doc26	2	Platelet-rich fibrin (PRF) may benefit bone repair, but its quantitative microscopic results are still inconclusive.
+doc26	3	The aim of this study was to histomorphometrically analyze human dental alveoli after extraction treated with autologous fibrin, biphasic calcium phosphate or sticky bone.
+doc26	4	The sample consisted of healthy adult volunteer patients, with clinical and tomographic indication for single post-extraction graft of upper premolars for maintenance of the alveolar ridge and subsequent implantation.
+doc26	5	The 10 remaining patients in the study were divided into three groups according to the type of filling used in the dental socket: autologous PRF plug covered by a PRF membrane (G1), PRF associated with an alloplastic graft based on hydroxyapatite with beta tricalcium phosphate covered by a collagen membrane (G2) or alloplastic graft based on beta tricalcium phosphate covered by collagen membrane (control).
+doc26	6	After 8 months, bone biopsies were performed at the grafted sites and the patients underwent implant-prosthetic rehabilitation.
+doc26	7	Paraffin-embedded tissue blocks were routinely processed and sectionsfrom different depths were mounted in 3 slides and stained with HE.
+doc26	8	The histomorphometric evaluation analyzed 30 photomicrographs per block, quantifying the percentage presence of newly formed bone, connective tissue and remaining biomaterial using the ImageJ software.
+doc26	9	Parametric data enabled intergroup comparisons using ANOVA and Tukey's post-hoc test for multiple comparison with statistical significance of 5% (p<0.05), with normality of the 3 groups by the Jarque-Bera test (p>0.05).
+doc26	10	There was a higher mean of newly formed bone in G1 (68.83%) compared to G2 (35.69%) and control (16.28%).
+doc26	11	There was greater presence of connective tissue in the control (61.56%).
+doc26	12	Remaining biomaterial was higher in G2 (15.75%), but did not differ statistically from the control.
+doc26	13	Bone regeneration obtained with PRF alone or sticky bone suggests the efficacy of these therapies, encouraging the clinical use of this blood concentrate in dental procedures.
+doc27	1	Increased risk for thromboembolic events from combination of a gynecologic malignancy with severe acute respiratory syndrome coronavirus 2 infection: a case report
+doc27	2	Purpose: During the severe acute respiratory syndrome coronavirus 2 pandemic, several patient groups are at particular risk.
+doc27	3	Mortality is higher among cancer patients and may be increased further by thromboembolic events, which are more common in coronavirus 2019 patients according to recent publications.
+doc27	4	We discuss the association of gynecologic malignancies, Severe acute respiratory syndrome coronavirus 2, and thromboembolism by reporting a case study and summarizing available literature.
+doc27	5	Case report: A 71-year-old Caucasian patient with ovarian cancer receiving first-line chemotherapy was diagnosed with deep vein thrombosis and pulmonary embolism.
+doc27	6	Routine screening revealed infection with severe acute respiratory syndrome coronavirus 2 in absence of specific symptoms.
+doc27	7	After uneventful recovery, oncologic treatment could be continued a few weeks later.
+doc27	8	Methods: We performed a systematic review of the literature on PubMed following Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines.
+doc27	9	The search included articles ahead of print, published between 1 December 2019 and 1 June 2020.
+doc27	10	Cross-searches were conducted on all relevant articles.
+doc27	11	Results: We identified five articles meeting the defined criteria, including two retrospective studies, a review, a position paper, as well as a letter to the editor.
+doc27	12	Conclusion: Cancer patients infected with severe acute respiratory syndrome coronavirus 2 have a relatively poor outcome, which may partially be due to a higher rate of thromboembolic events.
+doc27	13	Thromboprophylaxis is recommended, and scoring systems are helpful in early detection.
+doc27	14	In cancer patients with severe acute respiratory syndrome coronavirus 2, individual risk for thromboembolic events should be taken into account when considering interruption versus continuation of antitumoral therapy.
+doc27	15	However, further data and studies are required.
+doc27	16	A 71-year-old Caucasian woman, gravida 2/para 2, presented with pain in her lower left leg accompanied by progressive dyspnea in April 2020.
+doc27	17	She had already received dabigatran prescribed by her general practitioner for suspected deep vein thrombosis (DVT) one day prior to her admittance.
+doc27	18	The patient was undergoing multimodal treatment at our clinic for HGSOC FIGO IIIC.
+doc27	19	Up to that point, she had received debulking surgery with macroscopic complete tumor resection in February 2020, including bilateral adnexectomy, hysterectomy, peritonectomy, infragastric omentectomy, pelvic and paraaortic lymphadenectomy, partial liver resection, and rectosigmoid resection.
+doc27	20	Secondary wound closure could be achieved after treatment of wound dehiscence in March 2020.
+doc27	21	First-line chemotherapy was initiated with carboplatin AUC 5 and paclitaxel 175 mg/m2 every 3 weeks.
+doc27	22	After completion of the first course, we switched to weekly application of carboplatin AUC 2 and paclitaxel 80 mg/m2 to improve tolerability.
+doc27	23	Three weekly courses of chemotherapy were administered without complications.
+doc27	24	Initiation of bevacizumab was postponed due to delayed wound healing.
+doc27	25	The patient reported a general feeling of weakness since surgery but was otherwise in a good state of health.
+doc27	26	Her medical history included papillary thyroid cancer, successfully treated in 2008 by total thyroidectomy, and catheter ablation of the AV node because of atrioventricular nodal reentry tachycardia in 2015.
+doc27	27	No other relevant cardiovascular or pulmonal diseases were known.
+doc27	28	She had an uneventful gynecological and obstetrical history.
+doc27	29	BRCA testing was negative, and there was no family history of gynecologic malignancies.
+doc27	30	The patient did not smoke or drink alcohol regularly.
+doc27	31	She was taking L-thyroxin, pantoprazole, and vitamin D as regular medication.
+doc27	32	At current presentation, she was routinely asked for symptoms and risk factors for COVID-19 and negated symptoms such as fever, cough, headaches, loss of taste or smell, or recent international travel.
+doc27	33	Her only contacts were close relatives as well as her general practitioner.
+doc27	34	Clinical examination showed normal clinical conditions as well as normal vital functions (blood pressure 123/75 mmHg, temperature 36.9 °C, heart rate 87 /minute, oxygen saturation 98 %) but a slightly elevated respiratory rate (22 /minute).
+doc27	35	Besides chronic anemia (hemoglobin 9.0 g/dl) and elevated infection parameters (C-reactive protein 8.1 mg/dl, ferritin 470 ng/ml), blood testing showed no relevant changes; especially, renal and hepatic function were normal.
+doc27	36	Sonography revealed a mild urinary stasis on the left side.
+doc27	37	For further diagnosis, we referred the patient to the angiology department of our clinic, where DVT of the left lower leg as well as a thrombophlebitis of the right great saphenous vein and venous thrombosis of the right gastrocnemius muscle vein were confirmed via color Duplex sonography.
+doc27	38	We ordered chest computed tomography due to complaints of progressive dyspnea, revealing segmental PE in one central lung artery as well as in several subsegmental arteries (Fig. 1a).
+doc27	39	No infiltrates, especially no changes typical for COVID-19, were seen (Fig. 1b).
+doc27	40	We performed a nasopharyngeal swab as a routine screening test for SARS-CoV-2 upon hospitalization.
+doc27	41	Surprisingly, it revealed infection with SARS-CoV-2 via reverse-transcription polymerase chain reaction (PCR) testing on the following day.
+doc27	42	The woman was therefore isolated and transferred to the infectiology department of our clinic, where she was treated for ten more days.
+doc27	43	As the patient was in a stable cardiopulmonal condition with no signs of right heart overload in echocardiography, conservative treatment with low-molecular-weight heparins (LMWH) at a therapeutic dosage and compression stockings was continued.
+doc27	44	Respiratory parameters were sufficient with no need for oxygen therapy or further medication at any time.
+doc27	45	An incidental urinary tract infection with Klebsiella pneumonia was sufficiently treated with cefpodoxim 400 mg per day for 10 days.
+doc27	46	A repeat PCR test before discharge was negative.
+doc27	47	The patient was quarantined at home for 14 more days.
+doc27	48	Anticoagulant treatment was continued with apixaban for 6 months.
+doc27	49	No further thromboembolic events occurred meanwhile.
+doc27	50	With a therapeutic gap of 5 weeks, we continued chemotherapy with the weekly regimen.
+doc27	51	For the next 2 courses, dose reduction to 75% was performed; full doses of carboplatin AUC 2 and paclitaxel 80 mg/m2 were resumed thereafter and well tolerated.
+doc27	52	A lymphocele of the left lower abdomen which had caused progressive urinary stasis was drained complication-free 5 months later.
+doc27	53	As bevacizumab was contraindicated because of prior VTE, oncologic maintenance therapy with niraparib 200 mg per day followed afterwards.
+doc28	1	Women have metabolic, immunological, and genetic variables that ensure more protection from coronavirus infection.
+doc28	2	However, the indication of treatment for several pathologies and contraception is determined by hormones that have adverse effects and raise doubts about their use during the COVID-19 pandemic.
+doc28	3	Therefore, the present study searches women specificities and the relation between female sexual hormones and COVID-19, and reports the main recommendations in this background.
+doc28	4	To this end, a review of the literature was conducted in the main databases, auxiliary data sources, and official websites.
+doc28	5	Therefore, considering the hypercoagulability status of COVID-19, the debate about the use of contraceptives due to the relative risk of thromboembolic effects that they impose arises.
+doc28	6	However, the current available evidence, as well as the recommendations of main health organs around the world, demonstrate that the use of hormonal contraceptives must be maintained during the pandemic.
+doc29	1	Endoscopic treatment for esophageal variceal has been used as the main intervention in patients with portal hypertension secondary to schistosomiasis, but with significant rates of recurrence of esophageal variceal and rebleeding.
+doc29	2	The long-term results of exclusive endoscopic treatment are poorly studied as the relationship of the splenic dimensions in this context.
+doc29	3	The aim of this study was to identify, through ultrasonography, whether the splenic index and the longitudinal (craniocaudal) dimension of the spleen are the predictors of rebleeding and variceal recurrence in late follow-up of patients with nonoperated schistosomiasis, after endoscopic eradication of esophageal variceal.
+doc29	4	This is a retrospective and observational study analyzing the medical records of patients diagnosed with hepatosplenic schistosomiasis.
+doc29	5	The receiver operating characteristic curve was used to determine the best cutoff point for the mean splenic index as a predictor of recurrence and bleeding.
+doc29	6	A follow-up of 54 patients were analyzed during the period from 2002 to 2018.
+doc29	7	The mean follow-up time was 8 years.
+doc29	8	The splenic index with value >144 was proved to be a sensitive test for rebleeding.
+doc29	9	In the analysis of the longitudinal dimension, the spleen length of >20 cm showed a statistically significant test for recurrence of variceal and a length >19 cm presented as a very sensitive and statistically significant test for rebleeding.
+doc29	10	Splenic index and craniocaudal dimension analysis, obtained by ultrasonography, can predict recurrence of varicose veins and rebleeding after exclusive endoscopic treatment.
+doc30	1	Nonalcoholic fatty liver disease (NAFLD) is considered a public health problem, mainly in severely obese patients.
+doc30	2	The aim of the present study was to investigate different biochemical-based scores available and determine which one could best serve as an NAFLD predicting tool in a severely obese population.
+doc30	3	This was a cross-sectional study involving severely obese patients.
+doc30	4	All patients were evaluated with serum laboratory parameters for 1 week before biopsy, and all patients were treated with intraoperative liver biopsy, during bariatric surgery.
+doc30	5	A total of 143 severely obese patients were included.
+doc30	6	The median body mass index (BMI) was 48 kg/m2 (35-65).
+doc30	7	Diabetes mellitus was present in 36%, and steatosis was present in 93% (severe steatosis in 20%).
+doc30	8	Only aspartate transaminase (AST) to platelet ratio index (APRI=0.65 (95% CI: 0.55-0.8) and homeostatic model assessment for insulin resistance (HOMA-IR=0.7 (95% CI: 0.58-0.82) showed significant capacity for the prediction of severe steatosis.
+doc30	9	Hepatic steatosis index (HSI), NAFLD fibrosis score (NAFLDS), alanine aminotransferase (ALT)/AST, and fibrosis-4 (FIB-4) were not able to correctly predict severe steatosis on liver biopsy.
+doc30	10	APRI showed high specificity of 82% and low sensitivity of 54%.
+doc30	11	In contrast, HOMA-IR showed high sensitivity of 84% and low specificity of 48%.
+doc30	12	NAFLDS, FIB-4, AST/ALT, and HSI have no utility for the evaluation of severe steatosis in severely obese patients.
+doc30	13	Diabetes and insulin-resistance-related biochemical assessments, such as HOMA-IR, can be used as good screening tools for severe steatosis in these patients.
+doc30	14	APRI score is the most specific biochemical diagnostic tool for steatosis in severely obese patients and can help clinicians to decide the need for bariatric or metabolic surgery.
+doc31	1	Center-based cardiac rehabilitation (CR) programs have been forced to close due to COVID-19.
+doc31	2	Alternative delivery models to maintain access to CR programs and to avoid physical inactivity should be considered.
+doc31	3	The aim of this study was to assess physical activity (PA) levels after completing a home-based digital CR program.
+doc31	4	A total of 116 cardiovascular disease (CVD) patients (62.6±8.9 years, 95 male) who had been attending a face-to-face CR program were recruited and assessed (baseline and at three months) on the following parameters: PA, sedentary behavior, adherence, cardiovascular and non-cardiovascular symptoms, feelings toward the pandemic, dietary habits, risk factor control, safety and adverse events.
+doc31	5	The intervention consisted of a multidisciplinary digital CR program, including regular patient assessment, and exercise, educational and psychological group sessions.
+doc31	6	Ninety-eight CVD patients successfully completed all the online assessments (15.5% drop-out rate).
+doc31	7	A favorable main effect of time was an increase in moderate to vigorous PA and a decrease in sedentary time at three months.
+doc31	8	Almost half of the participants completed at least one online exercise training session per week and attended at least one of the online educational sessions.
+doc31	9	No major adverse events were reported and only one minor event occurred.
+doc31	10	During the pandemic, levels of moderate to vigorous PA improved after three months of home-based CR in CVD patients with previous experience in a face-to-face CR model.
+doc31	11	Diversified CR programs with a greater variety of content tailored to individual preferences are needed to meet the motivational and clinical requirements of CVD patients.
+doc32	1	Spontaneous hemoperitoneum in pregnancy is a rare complication resulting in high maternal and fetal morbidity and mortality.
+doc32	2	The authors describe the case of a pregnant woman presenting at 32 weeks of gestation with abdominal pain and free abdominal fluid on ultrasound.
+doc32	3	Laparotomy revealed a hemoperitoneum resulting from a suspected ruptured varices on the uterine posterior surface.
+doc32	4	A live newborn was delivered by cesarean-section, and hemorrhage was controlled with sutures and compression.
+doc32	5	Clinicians should be aware of this diagnosis when a pregnant woman presents with abdominal pain, anemia or hypovolemic shock.
+doc32	6	Early intervention will avoid poor outcomes for both the mother and the fetus.
+doc33	1	This study aims to know the current scenario of speech audiology therapy activities at NHS in Brazil, identifying its obstacles and perspectives, as well as verifying the adequacy of national NHS Programs to the pre-established quality indicators.
+doc33	2	Analytical observational study, carried out with speech therapists in the exercise of NHS in Brazil, between August 2018 and August 2019, through a structured online questionnaire.
+doc33	3	Descriptive and correlational analyzes of the data were performed using the SPSS version 22.0 program.
+doc33	4	The effective practice of NHS was not entirely consistent with official protocols.
+doc33	5	48.5% of speech therapists stated that NHS interruption at some point in the workplace, especially due to the need to repair the equipment (64.7%).
+doc33	6	As for the flow records and care-related data, which include quality indicators there was greater control over the total number of neonates who underwent NHS (87.9%) and less control over false-positive results (21.2%).
+doc33	7	81.8% of speech-language-hearing therapists said they were available to use a system for recording and controlling NHS data.
+doc33	8	Although professionals' practices are generally consistent with official protocols, the non-linearity of the process and the lack of data control are important obstacles to the quality of NHS services.
+doc33	9	Most of the national NHS programs presented do not meet the pre-established quality indicators.
+doc33	10	It is considered that the computerization of records can benefit professionals and enhance the implementation of NHS provided for in Brazilian laws and public policies.
+doc34	1	This study described changes in meal frequency over a 5-year period among adolescents living in the Rio de Janeiro metropolitan region.
+doc34	2	The data used were from two cross-sectional, population-based studies conducted by home visits.
+doc34	3	In 2005 the final sample was 1089 households with 511 adolescents (aged 12 to 18 years) and in 2010, 1121 households with 314 adolescents.
+doc34	4	Meal frequency was obtained through self-administered questionnaire and the adolescents were assessed for appropriate weight by BMI cut-off points, by sex and age group.
+doc34	5	Increasingly, traditional daily lunch was replaced by snacks (from 3.7% to 13.7%) and traditional dinner was eaten (62.9% to 72.0%).
+doc34	6	Overweight adolescents ate breakfast less often than those not overweight (in 2005, 68.3% and 79.3%, p=0.02 and, in 2010, 59.5% and 77.4%, p=0.03).
+doc34	7	Traditional daily lunch was increasingly replaced by snacks and consumption of traditional dinner increased over the 5-year period.
+doc34	8	Also, eating breakfast every day was associated with BMI classification at both study times: those who were overweight consumed breakfast less frequently.
+doc35	1	Intracystic papillary carcinoma in a male as a rare presentation of breast cancer: a case report and literature review
+doc35	2	Introduction: The term "intracystic papillary ductal carcinoma in situ" has recently changed and is now more appropriately referred to "intracystic papillary carcinoma".
+doc35	3	Intracystic papillary carcinoma in men is an extremely rare disease with only a few case presentations published in the literature so far.
+doc35	4	Case presentation: We discuss a case of a 44-year-old Caucasian man with an intracystic papillary carcinoma treated with simple mastectomy, sentinel lymph-node biopsy and contralateral risk-reducing mastectomy.
+doc35	5	These were followed by adjuvant radiotherapy of the breast.
+doc35	6	Conclusion: Triple assessment (i.e. clinical examination and radiological and histological assessment) with a high level of clinical suspicion is necessary to diagnose intracystic papillary carcinoma in men due to its rarity.
+doc35	7	Furthermore, genetic testing and risk-reducing mastectomy should also be considered in cases of a strong family history for male breast cancer.
+doc35	8	A 44-year-old Caucasian man presented to the breast clinic with a 3-week history of a swelling in his left breast.
+doc35	9	He also had a significant family history for breast cancer including a maternal grandmother, two of his maternal aunts and a maternal first cousin diagnosed with breast cancer.
+doc35	10	On examination, a well-circumscribed, 2.5 cm swelling was palpable within an area of gynecomastia on the left chest wall.
+doc35	11	Sonographically, a cystic mass with internal echoes was present without posterior acoustic shadowing.
+doc35	12	Aspiration of the lesion revealed uniformly blood-stained fluid and a residual swelling persisted.
+doc35	13	Cytology analysis of the aspirate confirmed the presence of atypical cells.
+doc35	14	Mammography showed a circumscribed mass in the sub-areolar region of the left breast with partially obscured margins.
+doc35	15	An irregular outline was noted on cranio-caudal view, but no spiculation or suspicious internal micro-calcifications were found.
+doc35	16	A core biopsy of the lesion revealed atypical ductal hyperplasia, but no evidence of malignancy was seen.
+doc35	17	In view of the atypical cells and residual swelling the lesion was excised.
+doc35	18	Histological analysis revealed a lesion 2.5 cm × 1.8 cm × 1.2 cm in size.
+doc35	19	The lesion comprised a papillary and solid proliferation of atypical cells within a large cystic space with a thick fibrous capsule (Figures 1, 2, 3) Haemorrhage was also noted within the cyst with changes consistent with the prior biopsy.
+doc35	20	The margins were clear; there was no evidence of stromal or fibrovascular invasion.
+doc35	21	The lesion displayed features of papillary DCIS and a diagnosis of intracystic papillary DCIS was made.
+doc35	22	Immunohistochemistry showed oestrogen receptor (ER) and progesterone receptor (PR) positivity.
+doc35	23	Completion left mastectomy with sentinel lymph-node mapping was carried out.
+doc35	24	Contralateral risk-reducing mastectomy was also performed in view of the strong family history for breast cancer.
+doc35	25	No evidence of further disease was detected in the mammary tissue and the sentinel node was clear.
+doc35	26	Adjuvant radiotherapy (40 Gy in 25 fractions) was advised due to tumour extension close to deep margin.
+doc35	27	Due to his significant family history for breast cancer, genetic testing was offered.
+doc35	28	Breast-cancer gene 2 (BRCA2) mutation had been identified in a maternal aunt recently on the exon 24 insertion called c9481_9482insA.
+doc35	29	It was very likely that this patient was a carrier of this BRCA2 mutation, which poses a small risk for him to develop prostate cancer.
+doc35	30	He was therefore advised to undergo prostate-specific antigen (PSA) blood testing on a yearly basis.
+doc36	1	To determine the prevalence of the atypical glandular cells (AGCs) cytology and to analyze its clinical significance in different age ranges.
+doc36	2	Retrospective observational study using computerized data from the Brazilian National Cancer Institute, including women screened between January 2002 and December 2008.
+doc36	3	The women included were those with an AGC result who were properly followed-up with colposcopy and a second cytology.
+doc36	4	A total of 132,147 cytopathological exams were performed during the study period.
+doc36	5	Five-hundred and thirty-three (0.4%) women with AGC cytology were identified and, of these, 69.41% (370/533) were properly referred for colposcopy and a new cytology.
+doc36	6	Most of the women (79.2%) with a 1<sup>st</sup> or 2<sup>nd</sup> AGC cytology were between the ages of 25 and 54 years.
+doc36	7	The 2<sup>nd</sup> cytology demonstrated 67.6% (250/370) of normality, 24.5% (91/370) of squamous atypia, and 6.2% (23/370) of AGC, 0.8% (3/370) adenocarcinoma in situ and 0.8% (3/370) adenocarcinoma invasor.
+doc36	8	On biopsy of the women with a second AGC cytology, 43.4% (10/23) had normal histology, 43.4% (10/23) had squamous lesions, 8.7% (2/23) had invasive adenocarcinoma, and 1.2% (1/23) had an inconclusive report.
+doc36	9	All of the women with high-grade squamous intraepithelial lesion (HSIL) or invasive adenocarcinoma (respectively 5 and 2 patients), after a 2<sup>nd</sup> AGC cytology were 25 years old or older.
+doc36	10	The prevalence of the AGC cytology was low in the studied population.
+doc36	11	Most of the AGC cytology cases occurred in adult women between the ages of 25 and 54.
+doc36	12	Although most of the patients had normal histology after follow-up, several of them presented with squamous intraepithelial lesions or invasive adenocarcinoma.
+doc37	1	To assess the degree of correlation/agreement of maternal-fetal Doppler parameters between normal and growth-restricted fetuses (fetal growth restriction [FGR]).
+doc37	2	The present observational and retrospective study included 274 singleton pregnancies.
+doc37	3	The following maternal-fetal Doppler parameters were assessed: uterine artery (UAt), umbilical artery (UA), middle cerebral artery (MCA), cerebroplacental ratio (CPR), and umbilical-cerebral ratio (U/C).
+doc37	4	The assessment of FGR was based on the Figueiras and Gratacós9 criteria.
+doc37	5	Spearman correlation coefficients were estimated to assess the correlation between resistance (RI) and pulsatility (PI) indices of Doppler parameters.
+doc37	6	The agreement between two Doppler parameters was assessed by the Kappa coefficient.
+doc37	7	In total, 502 Doppler examinations were included, and FGR was observed in 19 out of 274 fetuses.
+doc37	8	A strong correlation was observed between RI and PI of UAt, UA, and MCA in all of the samples (<i>p</i> < 0.001).
+doc37	9	Of the 502 Doppler examinations, there was agreement between U/C and CPR percentiles for 480 (95.6%) and disagreement for 22 (4.4%), with Kappa coefficient of 0.26, thereby corresponding to weak agreement.
+doc37	10	Of the 68 cases with estimated fetal weight ≤ 9<sup>th</sup> percentile (small for gestational age [SGA]), there was agreement between U/C > 1.0 and CPR < 5<sup>th</sup> percentile in 61 (88.4%) and disagreement in 7 (5.8%) with Kappa coefficient of 0.49, thereby corresponding to moderate agreement.
+doc37	11	Strong correlation was observed among RI and PI UAt, UA, and MCA Doppler examinations in the present study; however, weak agreement was observed between U/C and CPR in the normal and FGR fetuses.
+doc37	12	In SGA, U/C and CPR demonstrated moderate agreement.
+doc38	1	Manual hyperinflation is used in neonatal and pediatric intensive care units to promote expiratory flow bias, but there is no consensus on the benefits of the technique.
+doc38	2	Thus, a review that presents supporting evidence is necessary.
+doc38	3	This study aims to review the literature on the manual hyperinflation maneuver in neonatal and pediatric intensive care units to analyze the evidence for this technique in terms of the forms of application (associated with other techniques or not), its safety, the performance of manual resuscitators and the influence of the physical therapist's experience, in addition to evaluating the methodological quality of the identified articles.
+doc38	4	A search was performed in the following databases: Web of Science, ScienceDirect, PubMedⓇ, Scopus, CINAHL and SciELO.
+doc38	5	Two researchers independently selected the articles.
+doc38	6	Duplicate studies were assessed, evaluated by title and abstract and then read in full.
+doc38	7	The quality of the articles was analyzed using the PEDro scale.
+doc38	8	Six articles were included, two of which had high methodological quality.
+doc38	9	The main results provided information on the contribution of the positive end-expiratory pressure valve to increasing lung volumes and the use of chest compressions to optimize expiratory flow bias, the negative influence of operator experience on the increase in peak inspiratory flow, the performance of different manual resuscitators when used with the technique and the safety of application in terms of maintaining hemodynamic stability and increasing peripheral oxygen saturation.
+doc38	10	The available studies point to a positive effect of the manual hyperinflation maneuver in children who are admitted to intensive care units.
+doc38	11	Registration PROSPERO: CRD42018108056.
+doc39	1	It is important which medicine to use as a first-line treatment to close the duct.
+doc39	2	The aim of this study is to compare the effectiveness and side effects of intravenous (IV) forms of ibuprofen and paracetamol and to contribute to the literature investigating the first drug selected in the medical treatment of patent ductus arteriosus (PDA).
+doc39	3	Our study was conducted between January 2017 and December 2019.
+doc39	4	Premature infants with birth weight (BW) ≤1500 g and gestational age (GA) ≤32 weeks were included in the study.
+doc39	5	In the study period, all infants with hemodynamically significant patent ductus arteriosus (hsPDA) were given rescue intravenous (IV) ibuprofen as a primary medical treatment or IV paracetamol treatment if there were contraindications for ibuprofen.
+doc39	6	The patients were divided into two groups: patients receiving IV ibuprofen and patients receiving IV paracetamol.
+doc39	7	Of these patients, 101 were given IV paracetamol and 169 were given IV ibuprofen.
+doc39	8	The success rate of PDA closure with first-course treatment was 74.3% in the IV paracetamol group and 72.8% in the IV ibuprofen group (p=0.212).
+doc39	9	Our results show that IV paracetamol is as effective as IV ibuprofen in the first-line treatment of hsPDA, and can become the preferred treatment for the management of hsPDA.
+doc40	1	Few studies analyzed the safety of salvage nipple-sparing mastectomy (NSM) for local relapse treatment.
+doc40	2	We evaluated the outcomes of patients with indications for mastectomy who chose to undergo NSM for ipsilateral breast tumor recurrence (IBTR).
+doc40	3	Between January 2001 and December 2018, we evaluated 24 women who underwent NSM for local relapse after conservative surgery.
+doc40	4	The patients were followed up for a mean time of 132 months since the first surgery.
+doc40	5	After the NSM, 5 (20.8%) patients were diagnosed with local recurrence and only 1 (4.2%) patient died.
+doc40	6	The patients presented 4.8% (2) of partial and 2.4% (1) of total nipple necrosis.
+doc40	7	In this long-term follow-up since the first surgery, we observed low rates of complication and good survival, although associated with high local recurrence in patients diagnosed with IBTR undergoing NSM as salvage surgery.
+doc40	8	We demonstrated that NSM may be considered after IBTR for patients who did not want to undergo total mastectomy.
+doc41	1	To describe the efficacy and safety of protective embolization during prostatic artery embolization, as well as to discuss its clinical relevance.
+doc41	2	This was a retrospective, observational, single-center study including 39 patients who underwent prostatic artery embolization to treat lower urinary tract symptoms related to benign prostatic hyperplasia between June 2008 and March 2018.
+doc41	3	Follow-up evaluations, performed at 3 and 12 months after the procedure, included determination of the International Prostate Symptom Score, a quality of life score, and prostate-specific antigen levels, as well as ultrasound, magnetic resonance imaging, and uroflowmetry.
+doc41	4	Protective embolization was performed in 45 arteries: in the middle rectal artery in 19 (42.2%); in the accessory internal pudendal artery in 11 (24.4%); in an internal pudendal artery anastomosis in 10 (22.2%); in the superior vesical artery in four (8.9%); and in the obturator artery in one (2.2%).
+doc41	5	There was one case of nontarget embolization leading to a penile ulcer, which was attributed to reflux of microspheres to an unprotected artery.
+doc41	6	There were no complications related to the protected branches.
+doc41	7	All of the patients showed significant improvement in all of the outcomes studied (<i>p</i> < 0.05), and none reported worsening of sexual function during follow-up.
+doc41	8	Protective embolization can reduce nontarget embolization during prostatic artery embolization without affecting the results of the procedure.
+doc41	9	In addition, no adverse events other than those expected or previously reported were observed.
+doc41	10	Therefore, protective embolization of pudendal region is safe.
+doc42	1	Advances in endoscopy and open-access systems led to an increase in endoscopic procedures.
+doc42	2	However, overuse of endoscopy has been consistently reported.
+doc42	3	This study aims to assess the appropriateness of esophagogastroduodenoscopy (EGD) and colonoscopy referral in the private and public setting.
+doc42	4	We conducted a prospective, multicenter study at 2 public and 5 private endoscopy units.
+doc42	5	Patients scheduled for elective EGD or colonoscopy were enrolled.
+doc42	6	Clinical data and endoscopy findings were recorded.
+doc42	7	Appropriateness of endoscopy was defined according to the American Society for Gastrointestinal Endoscopy guidelines (for EGD) and the European Panel on Appropriateness of Gastrointestinal Endoscopy II (for colonoscopy).
+doc42	8	Regarding EGD: 215 patients enrolled (43.7% were males) with a mean age of 61.0 ± 15.1 years; 54.0% (<i>n</i> = 116) were in public hospitals.
+doc42	9	Referral by a gastroenterologist was made for 34.9% (<i>n</i> = 75).
+doc42	10	Appropriate indications were made for 62.3% (<i>n</i> = 134): 42.4% in private versus 79.3% in public endoscopy units (odds ratio [OR] 5.20; 95% confidence interval [CI] 2.85-9.49; <i>p</i> < 0.01).
+doc42	11	Rate of appropriate EGD was 74.7% for gastroenterologist referral and 56.1% for other specialties (OR 2.31; 95% CI 1.24-4.28; <i>p</i> < 0.01).
+doc42	12	Diagnostic yield for relevant findings was 47.9%.
+doc42	13	No association between indication appropriateness, gastroenterologist referral, and relevant endoscopic findings was found.
+doc42	14	Regarding colonoscopy: 287 patients enrolled (49.1% were males) with a mean age of 60.4 ± 14.4 years; 48.1% (<i>n</i> = 138) were in public hospitals.
+doc42	15	Referral by a gastroenterologist was made for 20.6% (<i>n</i> = 59).
+doc42	16	Appropriate indications were made for 70.0% (<i>n</i> = 201): 53.0% in private vs. 88.4% in public endoscopy units (OR 6.75; 95% CI 3.66-12.47; <i>p</i> < 0.01).
+doc42	17	Diagnostic yield was 57.1%.
+doc42	18	Relevant endoscopic diagnosis was associated with indication: 63.2% in the appropriate vs. 43.0% in the nonappropriate indication group (<i>p</i> < 0.05).
+doc42	19	A significant percentage of endoscopies, mainly in the private setting, were performed without an appropriate indication.
+doc42	20	This influenced the diagnostic yield.
+doc42	21	The use of adequate criteria is fundamental for the rational use of an open-access system.
+doc43	1	Factors related to weight loss in obese patients undergoing bariatric surgery have always been exhaustively studied in an attempt to propose the best surgical technique with greater weight loss and long-term resolution of comorbidities.
+doc43	2	Patients present anatomical variations regarding the length of the small intestine.
+doc43	3	Some studies demonstrate weight changes in patients with different lengths of the intestinal loops in the Roux-en-Y bypass technique.
+doc43	4	The present work carried out a study on the influence of body mass index, weight loss, and common loop length on long-term surgical outcomes.
+doc43	5	This is a descriptive cross-sectional study by retrospective analysis of 112 medical records of patients undergoing open bariatric surgery using the gastric bypass technique at University Hospital - UFPR.
+doc43	6	The data were correlated in statistical programs for this purpose.
+doc43	7	Out of 112 patients, 83.03% were women, with mean age of 41.52 years.
+doc43	8	The mean length of the total small bowel of the patients was 5.02 m. There was a directly proportional relationship between the length of the small intestine and weight loss (p=0.0428).
+doc43	9	There is a wide range of variables related to weight loss in patients undergoing bariatric surgery, such as the technique used, the length of the loops in the Roux-en-Y gastric bypass, and the routine of nutritional and physical monitoring of the patient.
+doc43	10	It is important to assess the technical details of the surgical procedure and to verify the weight loss by evaluating integrally the patient and other variables.
+doc44	1	To identify current evidence on the use of topiramate for refractory status epilepticus.
+doc44	2	We reviewed the literature to investigate the efficacy of topiramate in the treatment of refractory status epilepticus.
+doc44	3	The search terms used were 'status epilepticus', 'refractory', 'treatment' and 'topiramate'.
+doc44	4	No restrictions were used.
+doc44	5	The search yielded 487 articles that reported using topiramate as a treatment for refractory status epilepticus and its outcomes.
+doc44	6	Case reports, review articles, and animal experiments were excluded.
+doc44	7	After excluding duplicates and applying inclusion and exclusion criteria, nine studies were included for analyses.
+doc44	8	Descriptive and qualitative analyses were performed, and the results were as follows: response rates (defined as termination in-hospital until 72 hours after the administration of topiramate) varied from 27% to 100%.
+doc44	9	The mortality rate varied from 5.9% to 68%.
+doc44	10	Positive functional long-term outcomes, defined as discharge, back to baseline or rehabilitation, were documented by seven studies, and the rates ranged between 4% and 55%.
+doc44	11	Most studies reported no or mild adverse effects.
+doc44	12	Topiramate was effective in terminating refractory status epilepticus, presented relatively low mortality and was well tolerated.
+doc44	13	Therefore, topiramate could be a good option as a third-line therapy for refractory status epilepticus, but further studies are necessary.
+doc45	1	Salvage surgery (SS) is defined as surgical resection after the failure of the first treatment with curative intent.
+doc45	2	The aim of this study was to report the experience of a reference center with SS for stomach adenocarcinoma.
+doc45	3	This is a retrospective study of patients with gastric cancer (GC) operated on between 2009 and 2020.
+doc45	4	Notably, 40 patients were recommended for salvage gastrectomy with curative-intent treatment.
+doc45	5	For analysis purpose, patients were divided into two groups: 23 patients after endoscopic resection and 17 patients after gastrectomy.
+doc45	6	In the first group, all patients underwent R0 resection, their average hospital length of stay (LOS) was 15.7 days, and 2 (8.6%) patients had major complications.
+doc45	7	During the average follow-up of 37.2 months, there was only one recurrence.
+doc45	8	The median overall survival (OS) was 46 months.
+doc45	9	In the postgastrectomy group, 9 (52.9%) patients were rescued with curative intent, the average hospital LOS was 12.2 days, and 3 (17.6%) had major complications.
+doc45	10	In a mean follow-up of 22 months, five patients relapsed.
+doc45	11	Median OS and disease-free survival were 24 and 16.5 months, respectively.
+doc45	12	SS in GC offers the possibility of long-term disease control and increased survival rate with an acceptable complication rate.
+doc46	1	To analyze the quantity of cervical smears, also designated Papanicolaou tests, between 2006 and 2015 in all the Federal units of Brazil, as well as to verify the quantity of exams collected outside the recommended age range and the economic impact of such excess.
+doc46	2	The data was collected from the Ministry of Health's database called <i>Sistema de Informação do Câncer do Colo de Útero</i> (SISCOLO), which contains all the test results collected nationwide by the Unified Health System (SUS, in the Portuguese acronym).
+doc46	3	From that, the number of exams and the age range of the women who underwent them were analyzed; besides, these numbers were stratified according to the state of where the exam was performed.
+doc46	4	The quantity of exams collected outside the recommended age range was verified, and, so, the economic impact generated was noted.
+doc46	5	Between 2006 and 2015, 87,425,549 Papanicolaou tests were collected in Brazil.
+doc46	6	Of these, 20,215,052 tests were collected outside the age range recommended by the Brazilian Ministry of Health; this number corresponded to 23.12% of all exams.
+doc46	7	From such data, considering that each Pap smear collected by SUS generates a cost of BRL 7.30 to the government, according to the information in the <i>Tabela SUS</i> dated September 2018, there was a total charge of BRL 147,569,880 for tests collected outside the protocol.
+doc46	8	In Brazil, according to the Ministry of Health's protocol about the recommended practices on collecting Pap smears, whose newest edition dates of 2016, it is recommended that Pap smears are collected in women from a specific age range, in whom the potential diagnosing advantages overcome the onus of overdiagnosis or of a lesion with great regression potential.
+doc46	9	However, such protocols have not been correctly followed, promoting more than 20 million tests in excess, and an exorbitant cost for the Brazilian public health system.
+doc46	10	It is relevant to take measures to correctly use the official protocol, reducing the patients risks, as well as the economic impact for SUS.
+doc47	1	The Brazilian Psychiatric Reform (BPR) process proposes a break with the asylum paradigm in several dimensions.
+doc47	2	Thinking about care spaces and the right to the city are important flags for this issue.
+doc47	3	Bearing that in mind, a theoretical-conceptual framework was constructed, aiming to discuss and systematize the relationship between the architecture of care spaces geared toward madness and the production of subjectivities and relationships.
+doc47	4	Thus, based on archeo-genealogy, a dialogue was organized between concepts and authors that approach space and architecture as devices for the production of subjectivities and relationships, such as total institutions and self-mortification (Erving Goffman) and space-behavioral syndrome (Mirian de Carvalho), as well as experiences such as those by Maura Lopes Cançado and Lima Barreto.
+doc47	5	It is also the aim of this study to discuss and draw, through the lens of different fields of knowledge, an ideal city that will aid in facing the asylum paradigm and strengthening the BPR process: the open city, that which includes difference.
+doc47	6	Locating the importance of discussing the architectures, spaces, and the city built for the BPR process, this article proposes to build and add a new dimension of analysis of such a process to those that already exist: the spatial dimension.
+doc48	1	To verify the association between family resources, sociodemographic aspects, and school performance in middle school students.
+doc48	2	Observational, analytical, cross-sectional study with a probabilistic sample stratified by sex, age, and grade in school.
+doc48	3	A total of 124 adolescents of both sexes, aged 11 to 14 years, enrolled in a private middle school participated in the study.
+doc48	4	We sent to their parents/guardians an online form with the Home Environment Resources Scale (HER), Brazilian Economic Classification Criteria (CCEB), and sociodemographic questions.
+doc48	5	The school performance was furnished by the institution.
+doc48	6	We used frequency distribution analysis of categorical variables and measures of central tendency and dispersion of the continuous ones.
+doc48	7	We used the Mann-Whitney, Kruskal-Wallis, and Spearman correlation coefficient tests and set the significance level at p ≤ 0.05.
+doc48	8	Most of the sample was 11 years old, females, sixth graders, with very good school performance, belonging to social class A, and whose householder had a bachelor's degree.
+doc48	9	Age and grade in school were associated with interaction with the parents, 'family-school connection', and total HER score.
+doc48	10	The 'proximal processes' had a moderate positive correlation with outings and toys.
+doc48	11	There was a moderate positive correlation between total HER score and 'predictable activities that indicate stability'.
+doc48	12	The 'proximal processes' had a strong positive correlation with 'family-school connection'.
+doc48	13	There was a weak positive correlation between books available at home and school performance.
+doc48	14	The family resources were related to the adolescents' school performance.
+doc49	1	Although it is known that the left ventricular (LV) ejection fraction (EF) measured by echocardiography is preserved in patients with acromegaly, there is not enough information about the LV and left atrial strain (LV-GLS and LAS).
+doc49	2	This study aimed to evaluate the left ventricular (LV) and left atrial (LA) functions with strain echocardiography (SE) in patients with acromegaly.
+doc49	3	This study included 50 acromegaly patients with active disease and 50 healthy controls with similar age, gender, and body surface area.
+doc49	4	In addition to routine echocardiography examinations, LV-GLS and LAS measurements were performed with SE.
+doc49	5	LAS and LV-GLS values were significantly lower in patients with acromegaly (p<0.05 for all).
+doc49	6	In bivariate analysis, systolic blood pressure, N-terminal prohormone of brain natriuretic peptide, Insulin-like growth factor-1, LA diastolic diameter, and LVMI levels were found to be positively correlated with both LAS and LV-GLS (p <0.05).
+doc49	7	IGF-1 level was strongly correlated with LAS and LV-GLS (p<0.001 and β=0.5 vs. p<0.001 and β=0.626, respectively); 48% of patients with acromegaly have reduced LV-GLS (<20%).
+doc49	8	Left ventricular mass-index (LVMI) independently determines the presence of reduced LV-GLS and each 1g/m2increase in LVMI level increases the likelihood of reduced LV-GLS by 6%.
+doc49	9	Although LV ejection fraction is normal in patients with acromegaly, LAS and LV-GLS values were significantly reduced.
+doc49	10	Apart from LVMI increase, another finding of cardiac involvement may be LAS and LV-GLS decrease.
+doc49	11	Therefore, in addition to routine echocardiography, LAS and LV-GLS may be useful to evaluate early signs of cardiac involvement before the occurrence of irreversible cardiac changes.
+doc50	1	This study evaluated the role of social inequalities in complementary feeding patterns between and within countries in Latin America and the Caribbean.
+doc50	2	This ecological study employed aggregate data from population-based surveys.
+doc50	3	The units of analysis were all 16 countries in Latin America and the Caribbean for which information was available in the Demographic and Health Surveys (DHS) and Multiple Indicator Cluster Surveys (MICS) databases.
+doc50	4	The outcomes selected were the prevalences indicated by the 'introduction of solid, semi-solid or soft foods' (ISSSF), 'minimum dietary diversity' (MDD), 'minimum meal frequency' (MMF) and 'minimum acceptable diet' (MAD) standardised complementary feeding indicators recommended by the WHO and available in UNICEF databases.
+doc50	5	The differences in prevalences between the wealthiest and poorest income quintiles were calculated in absolute and relative terms.
+doc50	6	Comparing the four indicators of complementary feeding, the ISSSF showed best performance, returning prevalence above 80% in 10 of the 11 countries evaluated.
+doc50	7	The indicator showing worst performance was the MAD, with prevalence above 60% in only one of the eight countries evaluated.
+doc50	8	In almost all countries, by all indicators, prevalences of complementary feeding were lower in the poorest population groups than in the wealthiest.

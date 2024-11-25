@@ -1,0 +1,517 @@
+doc2	1	Objetivo
+doc2	2	O Pé Torto Congénito Idiopático (PTC I) é um dos defeitos congénitos mais comuns, que envolvem o sistema músculo-esquelético, cujos principais tratamentos conservadores são através do método de Kite e de Ponseti.
+doc2	3	A presente pesquisa busca uma avaliação comparativa da eficácia dos métodos de Ponseti e de Kite, no tratamento conservador do PTC I.
+doc2	4	Metodologia
+doc2	5	Foram tratadas 100 crianças portadoras da deformidade do PTC I, no Hospital Infantil Martagão Gesteira, sendo divididas em dois grupos.
+doc2	6	No primeiro grupo foi instituído o tratamento conservador pelo método de Kite e no segundo grupo foi instituído o tratamento conservador pelo método de Ponseti.
+doc2	7	Ao final do tratamento, ambos os grupos foram avaliados com base na classificação de Pirani para verificar se houve correção adequada da deformidade.
+doc2	8	Foram estudadas as variáveis de correção da deformidade, idade, sexo e lateralidade.
+doc2	9	Resultados
+doc2	10	Houve diferença estatisticamente significante entre os métodos de tratamento conservador de Kite e de Ponseti.
+doc2	11	Conclusão
+doc2	12	O presente estudo demonstrou que a eficácia do tratamento conservador pelo método de Ponseti foi superior em 18% em relação ao método do Kite.
+doc4	1	Introdução: A presença de múltiplas doenças crónicas, em simultâneo, no mesmo indivíduo é um problema de saúde reconhecido.
+doc4	2	Os doentes com multimorbilidade têm necessidades de saúde acrescidas, o que representa um ónus elevado para os cuidados de saúde.
+doc4	3	Embora não exista uma definição consensual do conceito, a multimorbilidade é definida habitualmente pela presença de duas ou mais doenças crónicas.
+doc4	4	A existência de evidência, para a realidade nacional, quanto à multimorbilidade poderá contribuir para a gestão e tratamento destes doentes de forma mais eficiente.
+doc4	5	Material e Métodos: Com o objetivo de estimar a prevalência de multimorbilidade e identificar os fatores associados foi realizado um estudo epidemiológico transversal com base nos dados do INSEF, um inquérito de base populacional desenvolvido com uma amostra probabilística representativa da população portuguesa (n = 4911).
+doc4	6	A prevalência de multimorbilidade foi estimada para o total da população e para cada um dos sexos, estratificada por grupo etário, região de saúde, educação e rendimento.
+doc4	7	As magnitudes das associações foram medidas pelas razões de prevalências ajustadas calculadas pelo modelo de regressão de Poisson.
+doc4	8	Resultados: A prevalência de multimorbilidade foi de 38,3% (IC 95%: 35,4% a 41,3%), com maior frequência nas mulheres, nos indivíduos mais velhos, nas regiões de Lisboa e Vale do Tejo, Norte, Algarve e Alentejo e em níveis educacionais mais baixos.
+doc4	9	Não foi observada associação estatisticamente significativa entre a multimorbilidade e o rendimento.
+doc4	10	Discussão: A multimorbilidade é um problema que afeta mais de um terço da população portuguesa.
+doc4	11	O conhecimento epidemiológico sobre a multimorbilidade em Portugal permite identificar os grupos populacionais onde esta realidade é mais prevalente.
+doc4	12	Conclusão: Os valores observados apontam para maior risco de multimorbilidade entre os indivíduos mais velhos e menos diferenciados e está em consonância com os resultados da literatura.
+doc4	13	Estes dados demonstram a relevância dos doentes com multimorbilidade e têm especial importância na forma com os cuidados de saúde são organizados e prestados.
+doc6	1	Objetivo
+doc6	2	Avaliar a dose de radiação recebida pela equipe cirúrgica em cirurgias de coluna, incluindo entre aqueles que não são considerados trabalhadores com exposição ocupacional.
+doc6	3	Método
+doc6	4	Todas as cirurgias de coluna realizadas num mesmo departamento num período de 12 meses foram avaliadas quanto à exposição dos cirurgiões, enfermeiros/instrumentadores e auxiliares trabalhando na sala cirúrgica à radiação do fluoroscópio tipo “C-arm”.
+doc6	5	A radiação foi medida por 15 dosímetros de filme posicionados nas lapelas, luvas dos profissionais e também em pontos padronizados da sala.
+doc6	6	Os filmes foram analisados no laboratório de dosimetria em coleções por período.
+doc6	7	Resultados
+doc6	8	Durante 12 meses, 81 cirurgias de coluna foram realizadas pela mesma equipe, e cada cirurgia durou entre 1 e 6 horas.
+doc6	9	A dose total de radiação variou de 0,16 mSv a 2,29 mSv dependendo do local de mensuração.
+doc6	10	O local com maior exposição foi o punho do cirurgião principal.
+doc6	11	Conclusão
+doc6	12	Os resultados mostraram que nas cirurgias de coluna no nosso serviço, as doses de radiação foram baixas e dentro dos limites legais.
+doc6	13	Porém, o treinamento dos profissionais é essencial para a proteção contra a radiação dos profissionais de saúde e seus pacientes.
+doc7	1	Objetivos
+doc7	2	analisar possíveis efeitos negativos do Transtorno do Déficit de Atenção e Hiperatividade (TDAH) no sucesso da cirurgia bariátrica.
+doc7	3	Métodos
+doc7	4	foram avaliados 40 pacientes submetidos à cirurgia bariátrica e com acompanhamento pós-operatório regular mínimo de um ano.
+doc7	5	Todos foram submetidos ao questionário preconizado na quarta edição do Diagnostic and Statistical Manual (DSM-IV) da Associação Americana de Psiquiatria para TDAH e analisados os dados pós operatórios.
+doc7	6	Resultados
+doc7	7	quinze (38%) pacientes apresentaram questionário positivo para TDAH.
+doc7	8	Os pacientes com TDAH apresentaram IMC maior do que os pacientes sem o transtorno (45,8x40,9 Kg/m2; p=0,017), mantendo-se a diferença em todas as etapas do pós-operatório.
+doc7	9	Não foi encontrada diferença estatisticamente significativa no sucesso da cirurgia (33,3% x 66,7%; p=0,505), e na redução do IMC (30,71% x 31,88%; p=0,671) após um ano do procedimento.
+doc7	10	Conclusão
+doc7	11	pacientes com TDAH apresentam maior IMC, entretanto, a presença do TDAH não apresenta influência no sucesso da cirurgia bariátrica e na redução do IMC.
+doc8	1	Objetivo
+doc8	2	apresentar nossa experiência no tratamento cirúrgico dos defeitos extensos da calota craniana com implantes de acrílico customizados.
+doc8	3	Métodos
+doc8	4	análise retrospectiva de pacientes com defeitos extensos da calota craniana submetidos à cranioplastias com acrílico entre 2004 e 2013. Todos os pacientes foram criteriosamente selecionados e os resultados cirúrgicos foram classificados com base em três escalas (estética craniofacial, melhora da simetria facial e necessidade de cirurgia adicional).
+doc8	5	Resultados
+doc8	6	Quinze pacientes foram submetidos à cranioplastia com implantes de acrílico customizados manualmente no intraoperatório (46,67%) e confeccionados com base em biomodelos tridimensionais prototipados (53,33%).
+doc8	7	Mesmo respeitando critérios de seleção, houve duas (13,33%) complicações (infecção com retirada do implante e seroma).
+doc8	8	A estética craniofacial foi considerada excelente (50%), o grau de melhora da simetria craniofacial foi considerado satisfatório (57,14%) e a média global dos resultados cirúrgicos de acordo com a necessidade de novas cirurgias foi 1,5±0,52.
+doc8	9	Conclusão
+doc8	10	as cranioplastias dos pacientes com defeitos da calota craniana extensos devem ser criteriosamente indicadas, obedecendo a critérios pré-determinados de seleção dos pacientes, bem como, do método de customização do implante de acrílico.
+doc11	1	A linfohistiocitose hemofagocítica é uma entidade clínica rara, agressiva e que pode colocar em risco a vida do doente, caraterizada por uma ativação imune excessiva.
+doc11	2	É desencadeada por vários estímulos, em que as infeções desempenham um papel importante.
+doc11	3	O estímulo infecioso mais comum é a infeção viral, especialmente por Epstein-Barr.
+doc11	4	As alterações da coagulação são comuns na linfohistiocitose hemofagocítica e a coagulação intravascular disseminada pode estar presente nos casos graves.
+doc11	5	Apresentamos um caso clínico de linfohistiocitose hemofagocítica secundária a infeção por Epstein-Barr, complicada com coagulação intravascular disseminada, que evoluiu favoravelmente apenas com tratamento de suporte e sem necessidade de tratamento específico.
+doc12	1	Objetivo
+doc12	2	analisar a relação das características anatomopatológicas com o comprometimento axilar em casos de carcinoma ductal invasor.
+doc12	3	Métodos
+doc12	4	estudo transversal de 220 pacientes com câncer de mama, submetidas à mastectomia radical ou quadrantectomia com esvaziamento axilar, oriundos do Serviço de Mastologia da Maternidade Escola Assis Chateaubriand, Ceará, Brasil.
+doc12	5	Os tumores foram submetidos a processamento histológico e, em seguida, foram determinados os graus histológico (GH), tubular (GT), nuclear (GN), índice mitótico (IM) pela classificação de Scarff-Bloom-Richadson, verificada a presença de invasão angiolinfática (IA) e mensurado o maior diâmetro do tumor (DT).
+doc12	6	Tais variáveis foram correlacionadas com a presença de metástases axilares.
+doc12	7	Resultados
+doc12	8	a média de idade das pacientes foi 56,81 anos ± 13,28.
+doc12	9	O tamanho do tumor variou de 0,13 a 22 cm, com média de 2,23cm ± 2,79.
+doc12	10	Os GH3, GT3 e GN3 prevaleceram: n=107 (48,6%), n=160 (72,7%) e n=107 (48,6%), respectivamente.
+doc12	11	Os índices mitóticos 1, 2 e 3 apresentaram distribuição homogênea: n=82 (37,2%), n=68 (31%) e n=70 (31,8%), respectivamente.
+doc12	12	Não foi evidenciada relação do GH, GT e GN com a ocorrência de metástases axilares (p=0,07; p=0,22 e p=0,21).
+doc12	13	Índices mitóticos 2 e 3 apresentaram relação com a o ocorrência de metástases axilares (p=0,03).
+doc12	14	Tumores maiores do que 2cm e casos com invasão angiolinfática apresentaram maior índice de metástases axilares (p=0,0003 e p<0,0001).
+doc12	15	Conclusão
+doc12	16	índices mitóticos elevados, tumores com diâmetro maior do que 2cm e presença de invasão angiolinfática apresentaram isoladamente relação com a ocorrência de metástases axilares.
+doc14	1	OBJETIVO
+doc14	2	Conhecer a importância atribuída à formação contínua no desenvolvimento de competências do professor.
+doc14	3	MÉTODO
+doc14	4	Estudo qualitativo, descritivo e exploratório, envolvendo quinze (15) professores de carreira, da área científica de enfermagem, de duas instituições públicas de ensino superior em Portugal, selecionados intencionalmente.
+doc14	5	Os dados foram recolhidos utilizando a técnica dos grupos de discussão e foram analisados através da técnica de análise de conteúdo.
+doc14	6	Este processo foi submetido à avaliação de dois peritos, resultando coeficientes de concordância, que oferecem garantias em relação às inferências e processo de categorização.
+doc14	7	RESULTADOS
+doc14	8	Emergiu o desenvolvimento profissional do professor (categoria), envolvendo dois indicadores: a aprendizagem e conhecimento profissional e o desenvolvimento de competências.
+doc14	9	CONCLUSÕES
+doc14	10	Os dados obtidos permitem colocar em evidência que a formação contínua é determinante no desenvolvimento profissional destes professores, pela aprendizagem e conhecimento profissional e no desenvolvimento de competências.
+doc16	1	A hipertensão arterial apresenta baixa taxa de controle no Brasil e no mundo, ocasionando custo médico-social, necessitando de estratégias de controle.
+doc16	2	Objetivou-se construir e validar um protocolo para consulta e acompanhamento do hipertenso atendido na Atenção Primária à Saúde.
+doc16	3	Constitui-se uma pesquisa metodológica, de validação de conteúdo pelo método Delphi.
+doc16	4	A avaliação do protocolo por experts foi realizada em três ciclos, utilizando escala de não importante a extremamente importante, com graduação de 1 a 5. A análise se deu pela Escala de Likert, percentual de concordância, Índice de validação de conteúdo (IVC) e Correlação de Pearson.
+doc16	5	O percentual de concordância foi de 96%.
+doc16	6	O IVC de 0,98.
+doc16	7	A escala de Likert pontuou os itens, no mínimo, como “muito importante”.
+doc16	8	A correlação de Pearson foi positiva em todos os itens de moderada a forte.
+doc16	9	O protocolo é composto por 50 itens, dividido em sete dimensões.
+doc16	10	Conclui-se que o protocolo permite um acompanhamento mais expressivo e sistemático do hipertenso e identifica condições individuais e sociais que contribuem para a manutenção de cifras pressóricas elevadas, constituindo-se em um guia para a condução da consulta, favorecendo o diálogo entre o profissional, o paciente e o registro efetivo da assistência.
+doc17	1	O modelo de desenvolvimento brasileiro, fortemente baseado na produção de commodities e em indústrias eletrointensivas para trocas nos mercados globais, gera desigualdades sociais e ambientais que desencadeiam diversos conflitos entre povos indígenas e grupos econômicos envolvendo disputas por terra e bens comuns em contextos que influenciam fortemente a situação de saúde dessas comunidades.
+doc17	2	O objetivo deste artigo é apresentar um panorama dos conflitos socioambientais envolvendo os povos indígenas brasileiros, suas estratégias para garantir o acesso e a qualidade do Subsistema de Atenção à Saúde Indígena (SASI), e alternativas que eles têm proposto para o enfrentamento dos problemas gerados.
+doc17	3	Esta análise se baseia em um mapeamento de conflitos ambientais baseado na revisão bibliográfica de fontes secundárias (do movimento indígena ou seus parceiros) que subsidiaram a construção de relatos sobre os conflitos e a análise das narrativas indígenas sobre o território onde vivem e suas lutas.
+doc17	4	A partir da qual concluímos que as estratégias de luta pela saúde dos povos indígenas brasileiros são influenciadas pelas suas disputas socioambientais e são parte das mobilizações desses povos pelo reconhecimento integral de direitos.
+doc19	1	Introdução: A biópsia do gânglio sentinela é atualmente o procedimento cirúrgico standard para o estadiamento ganglionar em doentes com cancro da mama em estádio precoce, sendo realizado com recurso a diferentes técnicas, como a injeção de corantes vitais e/ou de radioisótopos e, mais recentemente, guiada por fluorescência utilizando o verde de indocianina.
+doc19	2	O objetivo deste estudo é avaliar a acuidade global do verde de indocianina na identificação do gânglio sentinela em doentes com cancro da mama e de acordo com fatores relacionados com a doente e com o tumor.
+doc19	3	Material e Métodos: Estudo retrospetivo numa amostra aleatória de doentes com cancro da mama seguidas e tratadas no Centro Hospitalar São João no período entre 2012 e 2016. Resultados: Obtivemos uma taxa de deteção do gânglio sentinela no cancro da mama pelo verde de indocianina superior a 90% e uma performance diagnóstica deste método similar às outras técnicas descritas na presença de metástases ganglionares.
+doc19	4	Discussão: Não se verificaram diferenças estatisticamente significativas entre os três métodos relativamente às taxas de deteção no subgrupo de mulheres mais velhas, normoponderais, nas que tinham realizado tratamento prévio à mama ou à axila e nas que foram submetidas a quimioterapia neo-adjuvante.
+doc19	5	Conclusão: O verde de indocianina é um potencial método alternativo a outras técnicas de pesquisa do gânglio sentinela, afigurando-se como opção futura para os hospitais que não possuem serviço de Medicina Nuclear.
+doc19	6	Contudo, é essencial a realização de novos estudos no sentido de definir o perfil das doentes que maximiza a sua eficácia.
+doc20	1	Objetivou-se identificar se a falta de dentição funcional (DF) está associada com o comprometimento das funções bucais/atividades diárias entre adultos brasileiros.
+doc20	2	Para isto, foram utilizados dados da Pesquisa Nacional de Saúde Bucal - SB Brasil 2010. A DF foi avaliada pelo critério proposto pela Organização Mundial de Saúde (pelo menos 20 dentes na boca).
+doc20	3	O instrumento Impactos Odontológicos nos Desempenhos Diários (IODD) foi utilizado para avaliar as atividades diárias/funções bucais.
+doc20	4	Análises descritivas, bivariadas (Qui-quadrado) e múltiplas (Regressão Logística) foram realizadas, sendo estimado o odds ratio e o intervalo de confiança 95% (OR/IC95%).
+doc20	5	Foram incluídos e avaliados 9564 adultos.
+doc20	6	Foram considerados sem DF 2200 adultos (20,5%).
+doc20	7	Tiveram impacto em pelo menos uma das atividades diárias/funções bucais avaliadas, 55,0% dos adultos.
+doc20	8	A falta de DF entre adultos foi associada (p ≤ 0,05) com o impacto na fala (1,88/1,33-2,64) e vergonha ao sorrir ou falar (1,35/1,00-1,83).
+doc20	9	Uma prevalência considerável de falta de DF foi identificada, esta ausência foi associada às atividades diárias/funções bucais (fala e vergonha ao sorrir e falar).
+doc20	10	A reabilitação dentária de pacientes sem DF deve considerar a devolução destas funções bucais perdidas (fala e vergonha ao sorrir ou falar).
+doc21	1	O artigo analisa a formação e a carreira profissional de Jack Elinson (1917-2017), pioneiro no campo das ciências sociomedicas na introdução de seu ensino e pesquisa em uma faculdade de saúde pública, na Universidade de Columbia, onde trabalhou durante trinta anos (1956-1986).
+doc21	2	Suas contribuições estendem-se para os campos da psicologia social, estatística e sociologia médica, especialmente sobre indicadores de saúde e suas relações com a qualidade de vida.
+doc21	3	Em 1985 recebeu o Leo G. Reeder Award da American Sociological Association pelo conjunto de seus estudos no campo da sociologia médica.
+doc21	4	Com Renée Fox, Robert Straus, Eliot Freidson e outros compõe o grupo da segunda geração de cientistas sociais no processo de institucionalização da sociologia médica/saúde.
+doc22	1	OBJETIVO
+doc22	2	Descrever a experiência da implantação do núcleo de segurança do paciente e as estratégias desenvolvidas para garantir uma assistência mais segura.
+doc22	3	MÉTODO
+doc22	4	Relato de experiência da implantação do núcleo e das estratégias para segurança do paciente em um hospital no sul do Brasil, de 2009 a 2017.
+doc22	5	RESULTADOS
+doc22	6	A preocupação com a segurança do paciente foi oficializada em 2009 com a criação um serviço específico para gerenciamento dos riscos assistenciais e em 2015 foi nomeado o núcleo de segurança do paciente.
+doc22	7	Oito estratégias foram implantadas visando disseminar a política de segurança do paciente.
+doc22	8	CONCLUSÃO
+doc22	9	Foi observado um avanço na melhoria dos processos relacionados a segurança do paciente na instituição.
+doc22	10	Apoio da alta direção e engajamento das lideranças foram fundamentais nesta caminhada.
+doc25	1	Em 2003, o governo federal lançou o Programa Bolsa Família (PBF), uma transferência condicional de renda destinada às famílias pobres que cumprissem com certas condições relacionadas à saúde e educação.
+doc25	2	Foi realizado um estudo ecológico longitudinal com dados em painel, a partir dos microdados dos 1.133 municípios do Semiárido.
+doc25	3	O objetivo consistiu em avaliar o efeito do PBF sobre a mortalidade infantil na região Semiárida do Brasil, no período 2004-2010.
+doc25	4	O estudo de associação foi feito por meio de regressão linear multivariada por dados em painel com efeitos fixos.
+doc25	5	A Taxa de Mortalidade Infantil foi considerada como variável dependente, ajustada por covariáveis sociais e demográficas, e pelo efeito do maior esquema de cuidados de saúde primária no País – Estratégia Saúde da Família (ESF).
+doc25	6	O PBF e a ESF tiveram um papel significativo na redução da mortalidade infantil, bem como no aumento das consultas de pré-natal, redução das taxas de analfabetismo, baixos níveis de fecundidade e diminuição de indivíduos que viviam em agregados familiares com acesso ao abastecimento de água e saneamento inadequados.
+doc25	7	Concluiu-se que o PBF teve um impacto positivo na redução dos níveis da mortalidade infantil, o qual foi potencializado pela intervenção de fatores sociais e demográficos.
+doc26	1	OBJETIVO
+doc26	2	Descrever os problemas e as práticas realizadas para a prevenção do pé diabético.
+doc26	3	MÉTODOS
+doc26	4	Estudo descritivo, transversal com amostragem aleatória estratificada, em 304 pessoas com Diabetes Mellitus tipo 2. Os dados foram coletados com o uso de um instrumento delineado pelas pesquisadoras que avalia aspectos sociodemográficos e o nível de conhecimentos e práticas dos participantes no cuidado dos pés para a prevenção do pé diabético.
+doc26	5	RESULTADOS
+doc26	6	A avaliação dos cuidados na prevenção do pé diabético mostra conhecimentos de níveis baixo e médio, enquanto as práticas foram medianamente adequadas.
+doc26	7	CONCLUSÕES
+doc26	8	Os resultados dos conhecimentos e práticas orientadas para a prevenção do pé diabético não pouco animadores, e frente a este panorama são relevantes os programas de atenção primária, onde de utilize uma educação efetiva da parte de enfermeiros, como mecanismo para modificar os comportamentos de pessoas com Diabetes Mellitus.
+doc33	1	O estudo propôs a aplicação da modelagem com equações estruturais (MEE) para estudar variáveis associadas ao nascimento pré-termo com base em um modelo teórico analisado previamente pela regressão logística hierarquizada.
+doc33	2	Os dados foram provenientes da pesquisa observacional do tipo caso-controle populacional sobre nascidos vivos hospitalares de mães residentes em Londrina, Paraná, Brasil (junho de 2006 a março de 2007).
+doc33	3	Para a MEE foi considerada a associação de características socioeconômicas e aspectos psicossociais sobre história reprodutiva, trabalho e atividade física, intercorrências durante a gestação e características fetais.
+doc33	4	Considerou-se, ainda, a relação dessas associações sobre o desfecho nascimento pré-termo mediado pela adequação da assistência pré-natal.
+doc33	5	Foram utilizados estimadores de mínimos quadrados ajustados pela média e variância (WLSMV), para dados categóricos, e a máxima verossimilhança robusta (MLR), para obter razões de chances.
+doc33	6	Foram criadas três variáveis latentes: vulnerabilidade socioeconômica, vulnerabilidade familiar e não aceitação da gravidez.
+doc33	7	O efeito da vulnerabilidade socioeconômica, da família e da não aceitação da gravidez sobre a prematuridade ocorreu de modo indireto por meio da inadequação da assistência pré-natal.
+doc33	8	A metodologia proposta possibilitou utilizar construtos, verificar o papel de mediação da inadequação da assistência pré-natal e identificar efeitos diretos e indiretos das variáveis sobre o desfecho nascimento pré-termo.
+doc34	1	INTRODUçÃO
+doc34	2	A cidade de São Paulo conta com a maior comunidade de descendentes japoneses fora do Japão.
+doc34	3	OBJETIVOS
+doc34	4	Comparar as condições demográficas, econômicas, funcionais e de saúde de idosos não japoneses, japoneses e descendentes de japoneses, bem como analisar comparativamente as condições funcionais e de saúde de idosos nascidos no Japão e de seus descendentes nascidos no Brasil.
+doc34	5	MÉTODOS
+doc34	6	Estudo transversal realizado no município de São Paulo, no ano de 2010, com 1.345 idosos (≥ 60 anos) participantes do Estudo Saúde, Bem-Estar e Envelhecimento (SABE).
+doc34	7	Os idosos foram classificados em não japoneses (não nascidos no Japão), japoneses (nascidos no Japão) ou descendentes diretos de japoneses.
+doc34	8	Para a análise dos dados, utilizou-se o teste do χ2 com correção Rao-Scott.
+doc34	9	RESULTADOS
+doc34	10	Dos 1.345 idosos, 3,3% eram japoneses ou descendentes.
+doc34	11	Esses se diferenciavam dos não japoneses quanto à escolaridade mais elevada e suficiência de renda.
+doc34	12	Entre os idosos nascidos no Japão, houve maior proporção de longevos (38,8%), portadores de doenças cardiovasculares (48,9%) e de declínio cognitivo (26,7%).
+doc34	13	CONCLUSÃO
+doc34	14	Nota-se que os idosos japoneses/descendentes apresentaram melhor funcionalidade quando comparados aos não japoneses.
+doc34	15	Já entre japoneses e descendentes, observou-se diferenças no perfil das doenças.
+doc34	16	Acredita-se que tais resultados possam ser decorrentes das influências culturais.
+doc35	1	OBJETIVO
+doc35	2	Verificar e correlacionar os erros ortográficos presentes nas produções escritas ao desempenho em habilidades de consciência fonológica de crianças em diferentes anos escolares, com desenvolvimento fonológico típico e atípico.
+doc35	3	MÉTODO
+doc35	4	A amostra foi composta por 50 crianças divididas em dois grupos: com desenvolvimento fonológico típico (GDFT) e com desenvolvimento fonológico atípico (GDFA); estudantes dos anos iniciais (1ª a 5ª séries) de escolarização e idades entre 6:0 e 10:0 anos.
+doc35	5	As crianças foram submetidas às avaliações fonoaudiológicas e audiológica.
+doc35	6	Os dados foram tabulados e as análises estatísticas foram realizadas por meio do Coeficiente de Correlação de Spearman.
+doc35	7	RESULTADOS
+doc35	8	Em relação ao número de erros ortográficos na escrita, estes foram semelhantes no GDFT e no GDFA, com exceção para os erros contextuais-arbitrários que foram em maior número para o GDFA.
+doc35	9	Ainda se observou que o número de erros ortográficos de escrita diminuiu com o aumento da escolarização.
+doc35	10	No que se refere ao desempenho médio em consciência fonológica, o GDFT teve um desempenho melhor que o GDFA em consciência silábica e fonêmica.
+doc35	11	As crianças de 4ª e 5ª séries apresentaram melhor desempenho em consciência fonológica que as de 1ª a 3ª séries.
+doc35	12	CONCLUSÃO
+doc35	13	A correlação foi inversamente proporcional entre o desempenho em consciência fonológica e o número de erros ortográficos (aqueles que alteram a estrutura silábica) para ambos os grupos, demonstrando que quanto mais erros deste tipo, menor o desempenho em consciência fonológica silábica, fonêmica e total.
+doc37	1	OBJETIVO
+doc37	2	A concomitância de fumo e maus hábitos alimentares representa uma piora no prognóstico da saúde e na qualidade de vida dos idosos.
+doc37	3	O objetivo deste estudo foi caracterizar o estado nutricional de idosos fumantes e ex-fumantes residentes na cidade de São Paulo.
+doc37	4	MÉTODOS
+doc37	5	Foi realizado um estudo transversal em 2010, com uma amostra representativa de 1.345 indivíduos com 60 anos ou mais, que fazem parte da coorte de idosos acompanhados pelo Estudo Saúde, Bem-Estar e Envelhecimento (SABE).
+doc37	6	Foram descritos os aspectos sociodemográficos, de saúde e nutricionais dos idosos de acordo com o uso de tabaco na vida.
+doc37	7	RESULTADOS
+doc37	8	A proporção de fumantes e ex-fumantes foi de, respectivamente, 12,9 e 54,7% para o sexo masculino; 11,0 e 25,2% para o sexo feminino; e de 11,8 e 37,2% para a população total do estudo.
+doc37	9	Para ambos os sexos, com o aumento da idade, diminuiu a proporção de fumantes.
+doc37	10	A proporção de idosas fumantes com ingestão adequada de frutas foi menor.
+doc37	11	Fumantes apresentaram pior estado nutricional, com menos refeições por dia e maior frequência de baixo peso.
+doc37	12	CONCLUSÃO
+doc37	13	Considerando-se o impacto do hábito alimentar inadequado e de fumar sobre a saúde, os fumantes idosos merecem atenção especial sobre o seu estado nutricional.
+doc44	1	OBJETIVO
+doc44	2	Descrever a prevalência da autoavaliação de saúde ruim e muito ruim em idosos não asilados vivendo na cidade de São Paulo em 2010 e identificar se persistem as desigualdades sociais anteriormente relatadas para esta condição.
+doc44	3	MÉTODOS
+doc44	4	Foi realizado um estudo transversal, com amostra representativa de 1.344 pessoas com 60 anos ou mais vivendo na cidade, participantes do Estudo SABE (Saúde, Bem-Estar e Envelhecimento).
+doc44	5	Foi aplicado questionário sobre características sociodemográficas, incluindo três questões de autoavaliação de saúde: uma pergunta direta sobre a condição atual, uma comparação com a condição das demais pessoas da mesma idade, e uma comparação consigo mesmo há um ano.
+doc44	6	A análise comparativa utilizou modelos de regressão de Poisson, relatando a razão de prevalências como medida de associação entre variáveis.
+doc44	7	RESULTADOS
+doc44	8	Apenas 7,8% dos idosos relataram autoavaliação negativa de saúde em 2010, proporção análoga à dos que se consideraram em pior condição de saúde que as demais pessoas de mesma idade (8,7%).
+doc44	9	No entanto, foi mais elevada a prevalência de idosos que relataram piora em relação ao ano anterior: 29,2%.
+doc44	10	Independentemente da questão utilizada, a prevalência de autoavaliação negativa de saúde associou-se diretamente com piores indicadores de renda, escolaridade e classes de consumo.
+doc44	11	Também foram observadas diferenças significativas entre os sexos, grupos etários e categorias de cor da pele.
+doc44	12	CONCLUSÃO
+doc44	13	Diferenças na prevalência de autoavaliação negativa de saúde persistem afetando os grupos sociodemográficos.
+doc44	14	O conhecimento já disponível sobre desigualdades sociais de saúde não propiciou suprimir ou atenuar a injustiça social neste desfecho.
+doc46	1	OBJETIVO
+doc46	2	Analisar a prescrição de antimicrobianos para gestantes admitidas no serviço de obstetrícia que apresentaram pielonefrite aguda.
+doc46	3	MéTODOS:  Foram realizados três estudos transversais comparando a prescrição de antimicrobianos para pielonefrite em gestantes nos períodos avaliados (2010–2011: 99 indivíduos avaliados; 2013: 116 indivíduos avaliados; 2015: 107 indivíduos avaliados), no Hospital Fêmina, Porto Alegre, RS, Brasil.
+doc46	4	A análise foi realizada antes e após a promoção de um protocolo institucional para o tratamento da pielonefrite durante a gravidez e, em uma terceira ocasião, após a introdução de uma ferramenta educacional móvel para uso por smartphone.
+doc46	5	RESULTADOS
+doc46	6	A avaliação das prescrições médicas e a adequação das prescrições entre os diferentes períodos estudados revelaram um aumento significativo na conduta adequada para a escolha do antimicrobiano (2010: 83,8%; 2013: 95,7%; e 2015: 100%), via de administração (2010: 97%; 2013: 100%; e 2015: 100%) e intervalo (2010: 91,9%; 2013: 95,7%; e 2015: 100%), após a introdução do protocolo, e novamente após a implementação do aplicativo com orientações sobre tratamento antimicrobiano.
+doc46	7	CONCLUSãO:  O uso de aplicativos móveis específicos deve ser incentivado para obter melhor qualidade e precisão nas prescrições e incluir estratégias que não apenas reduzam o risco de resultados negativos, mas que também melhorem a qualidade dos cuidados e do tratamento para manter a saúde conjunta da mãe e do bebê.
+doc51	1	Nos últimos anos têm ocorrido mudanças no sistema obstétrico brasileiro, em função da distância entre o cenário nacional e recomendações da Organização Mundial da Saúde e da atuação de movimentos sociais.
+doc51	2	Isso evidencia a necessidade de considerar tanto o contexto nacional como o internacional.
+doc51	3	A fim de compreender a influência da transnacionalização no parto normal no Brasil, conduziu-se uma pesquisa documental para rastrear a evolução do sistema obstétrico no país.
+doc51	4	Como resultado, observou-se que a trajetória histórica do parto normal não se restringiu às fronteiras nacionais, tendo padrões e recomendações transnacionais impactado localmente, direcionando a criação de novas regulamentações.
+doc52	1	INTRODUçÃO
+doc52	2	A funcionalidade no envelhecimento está associada à autonomia e independência das pessoas idosas.
+doc52	3	OBJETIVO
+doc52	4	Identificar e hierarquizar as dificuldades referidas no desempenho das atividades de vida diária de idosos.
+doc52	5	MÉTODO
+doc52	6	Estudo transversal e descritivo, de base domiciliar, que utilizou a base de dados do Estudo SABE (Saúde, Bem-Estar e Envelhecimento) nos anos de 2000, 2006 e 2010. A funcionalidade foi avaliada por meio do relato de dificuldade no desempenho das atividades básicas (ABVD) e instrumentais de vida diária (AIVD).
+doc52	7	A hierarquização do comprometimento funcional foi avaliada pelo escalonamento de Guttman.
+doc52	8	RESULTADOS
+doc52	9	A prevalência de dificuldade referida no desempenho de uma ou mais AIVDs foi de 35,4; 45,8 e 41,0% e para as ABVDs foi de 16,3; 13,3 e 17,5%; respectivamente nos anos de 2000, 2006 e 2010. Em dez anos de acompanhamento observa-se, entre as mulheres, variabilidade na prevalência de 42,3 a 54,6% de comprometimento nas AIVDs e de 17,0 a 20,4% nas ABVDs e, entre os homens, de 25,6 a 33,1% em AIVDs e de 8,0 a 13,7% em ABVDs.
+doc52	10	Nas três ondas, as atividades com maior relato de dificuldade foram utilizar transporte, realizar tarefas pesadas e cuidar das finanças, enquanto o ato de comer foi a menos prevalente.
+doc52	11	CONCLUSÃO
+doc52	12	Houve aumento na prevalência de comprometimento funcional no período de dez anos, com maior variabilidade entre as mulheres e com o avançar da idade.
+doc52	13	Esses resultados contribuem para o planejamento dos serviços e a distribuição adequada dos recursos existentes por desvelar as necessidades e os cuidados necessários.
+doc55	1	OBJETIVO
+doc55	2	analisar fatores associados à necessidade de tratamento dentário devida a cárie e edentulismo em adultos.
+doc55	3	MÉTODOS
+doc55	4	estudo transversal, realizado com amostra aleatória de adultos atendidos em ambulatórios da Faculdade de Odontologia da Universidade Federal Fluminense, Niterói, RJ, entre julho e dezembro de 2013; utilizaram-se dados coletados em prontuários clínicos; aplicou-se questionário, por meio de entrevistas, e regressão logística para obter odds ratio (OR) brutas e ajustadas.
+doc55	5	RESULTADOS
+doc55	6	participaram do estudo 212 indivíduos, sendo 71,7% mulheres; a prevalência de necessidade de tratamento odontológico foi de 56,1% (IC95% 49,4;62,7); a necessidade de tratamento foi menor em indivíduos com maior renda familiar (OR=0,53 - IC95% 0,28;0,98) e maior entre mulheres (OR=2,28 - IC95% 1,21;4,32).
+doc55	7	CONCLUSÃO
+doc55	8	a prevalência de necessidade de tratamento em adultos atendidos foi elevada, principalmente em mulheres e indivíduos com menor renda familiar.
+doc56	1	Objetivos
+doc56	2	Na literatura não há consenso em relação ao tempo para a retirada dos espaçadores com antibiótico no tratamento das infecções ósseas.
+doc56	3	O objetivo deste estudo é avaliar os resultados clínicos de pacientes com retenção prolongada dos mesmos.
+doc56	4	Métodos
+doc56	5	Foram selecionados pacientes com infecção pós-osteossíntese e/ou osteomielite submetidos a colocação de espaçador de cimento ortopédico (polimetilmetacrilato) com vancomicina que retiveram o mesmo por período superior a 12 meses.
+doc56	6	Os pacientes foram avaliados clinicamente quanto à presença de sinais infecciosos locais ou sistêmicos, laboratorialmente com hemograma, marcadores inflamatórios, função hepática, renal e radiograficamente.
+doc56	7	Resultados
+doc56	8	Dezoito pacientes foram incluídos no estudo.
+doc56	9	O tempo médio de retenção do espaçador foi de 30,4 meses (15 a 61 meses).
+doc56	10	Nenhum paciente apresentou sinais clínicos de recidiva infecciosa local ou sistêmica no momento da avaliação.
+doc56	11	Sete pacientes (39%) apresentaram dor não incapacitante no membro operado.
+doc56	12	Dezessete pacientes (94%) apresentaram redução nos valores da proteína C reativa comparativamente ao período pré-operatório.
+doc56	13	Radiograficamente, não houve migração, falha do espaçador ou identificação de sequestro ósseo em nenhum caso.
+doc56	14	Conclusão
+doc56	15	Nessa série de casos retrospectiva, a retenção do espaçador de cimento com vancomicina por mais de 12 meses foi associada a bons resultados clínicos, sem recidiva do quadro infeccioso.
+doc57	1	Objetivo
+doc57	2	Avaliar a viabilidade da quantificação do tecido adiposo visceral (TAV) pela tomografia computadorizada (TC) e ressonância magnética (RM) usando um software freeware, e também calcular a reprodutibilidade intraobservador e interobservador.
+doc57	3	Materiais e Métodos
+doc57	4	Foi quantificado o TAV em pacientes submetidos a TC e RM de abdome em nossa instituição, entre 2010 e 2015, com um intervalo máximo de três meses entre os dois exames.
+doc57	5	Selecionou-se um corte adquirido ao nível da cicatriz umbilical.
+doc57	6	A segmentação foi realizada com o algoritmo de crescimento de região do freeware utilizado.
+doc57	7	As reprodutibilidades intraobservador e interobservador foram avaliadas, assim como a acurácia da RM em relação à TC.
+doc57	8	Resultados
+doc57	9	Trinta e um pacientes (14 homens e 17 mulheres; média de idade: 57 ± 15 anos) realizaram TC e RM (intervalo médio entre os exames: 28 ± 12 dias).
+doc57	10	A reprodutibilidade interobservador foi 82% para TC (viés = 1,52 cm2; p = 0,488), 86% para RM ponderada em T1 (viés = −4,36 cm2; p = 0,006) e 88% para RM ponderada em T2 (viés = −0,52 cm2; p = 0,735).
+doc57	11	A reprodutibilidade intraobservador foi 90% para TC (viés = 0,14 cm2; p = 0,912), 92% para RM ponderada em T1 (viés = −3,4 cm2; p = 0,035) e 90% para RM ponderada em T2 (viés = −0,30 cm2, p = 0,887).
+doc57	12	A reprodutibilidade entre a RM ponderada em T1 e a RM ponderada em T2 foi 87% (viés = −0,11 cm2; p = 0,957).
+doc57	13	Em comparação com a TC, a acurácia da RM ponderada em T1 e T2 foi 89% e 91%, respectivamente.
+doc57	14	Conclusão
+doc57	15	O programa utilizado pode ser usado para quantificar o TAV na TC, na RM ponderada em T1 e na RM ponderada em T2. No geral, a acurácia da RM (em comparação com a TC) parece ser alta, assim como a reprodutibilidade intraobservador e interobservador.
+doc57	16	No entanto, a quantificação do TAV parece ser menos reprodutível nas sequências ponderadas em T1.
+doc60	1	Objetivo
+doc60	2	Realizar a epidemiología das lesões traumáticas dos membros superiores, atendidas em Hospital Universitário, identificando sua origem e tipos de lesões, determinando fatores de riscos.
+doc60	3	Métodos
+doc60	4	É um estudo prospectivo onde os acidentes foram caracterizados em três grupos: doméstico, trabalho ou transporte.
+doc60	5	Um questionário contendo informações pessoais e do acidente foi aplicado.
+doc60	6	Avaliaram-se as características da lesão referente ao seguimento afetado, tipo de lesão e conduta adotada para cada caso.
+doc60	7	Resultados
+doc60	8	Avaliou-se 613 pacientes; os acidentes mais frequentes foram domésticos (66,6%), predominando o sexo masculino (67,9%), com média de idade 31 anos.
+doc60	9	As lesões em punhos prevaleceram nos acidentes de transporte (31,1%) e domésticos (29,6%).
+doc60	10	Nos acidentes de trabalho, lesões de dedos (54,2%).
+doc60	11	A fratura fechada foi mais recorrente e o tratamento conservador o mais indicado.
+doc60	12	As lesões graves relacionaram-se à acidentes em dedos (39,4%).
+doc60	13	Houve correlação entre nível de escolaridade e tipos de acidentes.
+doc60	14	Conclusão
+doc60	15	Lesões traumáticas dos membros superiores são mais incidentes em acidentes domésticos e em pacientes do sexo masculino.
+doc60	16	A fratura fechada é a mais frequente e o tratamento conservador o mais indicado.
+doc60	17	As lesões graves são relacionadas a acidentes em dedos.
+doc60	18	A escolaridade apresenta diferença em relação a acidentes doméstico, de transporte ou de trabalho.
+doc60	19	Nível de evidência IV, série de casos.
+doc61	1	A presente revisão sistemática investiga como registros de violência contra crianças e adolescentes, no Brasil, são acessados, analisados e discutidos em artigos científicos da área da saúde.
+doc61	2	Foram selecionados 50 artigos das bases SciELO, PePSIC, LILACS, Web of Science e Scopus baseados em dados do período de 1990 a 2015. A análise de distribuição de frequência caracterizou os registros utilizados nas publicações.
+doc61	3	Identificou-se que o documento mais utilizado foi a notificação de violência ao Conselho Tutelar.
+doc61	4	As características das vítimas e das situações de violência foram as mais frequentemente analisadas.
+doc61	5	Os dados observados informaram sobre a evolução das políticas de vigilância epidemiológica da violência no país.
+doc61	6	Por meio da Análise Temática, constatou-se que os dados foram discutidos e relacionados aos diferentes níveis contextuais em que se manifesta a violência.
+doc61	7	Os resultados mostram elevados índices de informações ausentes entre os registros, bem como desconhecimento de variáveis psicossociais anteriores às situações de violência que interferem na testagem dos dados a partir de modelos teóricos atuais.
+doc64	1	OBJETIVOS
+doc64	2	Identificar os hábitos de vida em homens idosos hipertensos da cidade de Currais Novos/RN; correlacionar hábitos de vida e presença de comorbidades.
+doc64	3	MÉTODOS
+doc64	4	Estudo exploratório e descritivo, quantitativo, com amostra de 136 idosos hipertensos.
+doc64	5	A coleta de dados aconteceu em Currais Novos/RN, de agosto a outubro de 2016, pela técnica de entrevista estruturada.
+doc64	6	Realizada análise descritiva e inferencial utilizando o Statistical Package for the Social Sciences 20.0.
+doc64	7	RESULTADOS
+doc64	8	A maioria referiu praticar atividade física (52,9%), procurar serviços de saúde (82,4%), ter alimentação saudável (94,9%), negou tabagismo (91,2%) e etilismo (77,9%).
+doc64	9	A comorbidade mais frequente foi diabetes (17,6%).
+doc64	10	CONCLUSÕES
+doc64	11	Os participantes, em sua maioria, relataram ter hábitos de vida considerados saudáveis, o que acreditavam influenciar no controle da doença.
+doc64	12	Dentre os parâmetros investigados, apenas o hábito de não fumar foi associado à ausência de picos hipertensivos; os demais hábitos não apresentaram associação estatística com as comorbidades.
+doc66	1	OBJETIVO
+doc66	2	avaliar a implantação do Sistema de Informação de Agravos de Notificação (Sinan) de Pernambuco, Brasil, 2014.
+doc66	3	MÉTODOS
+doc66	4	pesquisa avaliativa com dados primários (entrevistas) e secundários (documentos/dados do Sinan) da Secretaria Estadual e Regionais de Saúde, para estimar o grau de implantação, confrontando indicadores de estrutura e processo com os de resultado.
+doc66	5	RESULTADOS
+doc66	6	o Sinan mostrou-se parcialmente implantado nos níveis central (77,2%) e regional (61,2%), variando neste nível de 54,7 a 71,6%; os componentes notificação/investigação (90,0%) e processamento dos dados (84,1%) estavam implantados; análise/divulgação (61,6%), parcialmente implantada; monitoramento (53,4%) e gestão (56,8%), com implantação incipiente; observou-se ausência de planejamento e boletins divulgados; 46,9% dos municípios encerraram oportunamente as notificações compulsórias; 68,7% enviaram lotes regularmente, ocorrendo 3,0% de duplicação de casos de tuberculose.
+doc66	7	CONCLUSÃO
+doc66	8	o Sinan mostrou-se parcialmente implantado em Pernambuco, por falhas no monitoramento e gestão, influenciando negativamente nos resultados do sistema; suas fortalezas relacionaram-se à notificação, investigação e processamento dos dados.
+doc67	1	O objetivo do estudo foi identificar perfis sociodemográficos de mulheres com câncer de mama em Belo Horizonte e verificar a associação com o intervalo entre o diagnóstico e o tratamento.
+doc67	2	Estudo transversal realizado com dados dos registros hospitalares de câncer de 715 mulheres em tratamento de 2010 a 2013. Os perfis foram delineados a partir das variáveis: idade, raça/cor da pele, escolaridade e custeio do tratamento com uso do método Two-Step cluster.
+doc67	3	A associação independente entre os perfis e o intervalo diagnóstico/tratamento foi estimada por regressão logística multinomial.
+doc67	4	Identificaram-se cinco perfis: A (raça/cor branca, escolaridade ≥ 15 anos, tratamento rede privada); B (raça/cor branca; escolaridade = 11 anos, tratamento Sistema Único de Saúde/SUS); C e D (raça/cor parda, escolaridade = 11 anos e < 8 anos respectivamente, tratamento SUS); E (raça/cor preta, escolaridade < 8 anos, tratamento SUS).
+doc67	5	Os perfis B, C, D e E foram associados a maiores intervalos diagnóstico/tratamento independentemente do estágio do câncer no diagnóstico, sendo que E apresentou chance 37 vezes maior de intervalo ≥ 91 dias (OR: 37,26; IC95%:11,91-116,56).
+doc67	6	Mesmo após vencer as barreiras de acesso à unidade oncológica perfis de vulnerabilidade social apresentaram maior espera para o tratamento.
+doc68	1	Com a institucionalização da medicina no parto ocorre um deslocamento de gênero.
+doc68	2	No final do século XIX, ao mesmo tempo que as parteiras sofrem a marginalização e desqualificação de seu ofício, as mulheres lutam para conquistar acesso ao ensino superior nos cursos de medicina.
+doc68	3	Ainda na primeira metade do século XX, a escassez de mulheres nas faculdades de medicina é grande, assim como é relevante a atuação das parteiras, inclusive em contextos hospitalares.
+doc68	4	Parte dessa história está materializada na exposição “Mulheres e práticas de saúde”, do Museu de História da Medicina do Rio Grande do Sul.
+doc68	5	Nosso objetivo é destacar a valorização desses saberes e práticas no Brasil junto à população por meio da educação não formal em museus.
+doc69	1	Introdução
+doc69	2	A falência hepática aguda (ALF) é uma doença rara com potenciais altas taxas de mortalidade.
+doc69	3	Pretendeu-se estudar a epidemiologia recente da ALF numa das regiões portuguesas de transplante hepático (LT).
+doc69	4	Mate- riais e Métodos
+doc69	5	Coorte retrospectivo incluindo 34 doentes com ALF consecutivamente admitidos na Unidade de Cuidados Intensivos (ICU) do Hospital Curry Cabral (Lisboa, Portugal) entre Outubro de 2013 e Dezembro de 2016.
+doc69	6	Resultados
+doc69	7	A idade mediana foi 49 (31–67) anos e 21 (62%) doentes eram do sexo feminino.
+doc69	8	As etiologias não-paracetamol ocorreram em 29 (85%) doentes.
+doc69	9	Na admissão na ICU, a encefalopatia hepática grau 3–4 desenvolveu-se em 10 (29%) doentes; a ventilação mecânica invasiva, os vasopressores e a técnica de substituição da função renal foram usados em 8 (24%), 7 (21%) e 5 (15%) doentes, respectivamente; os critérios King's College Hospital (KCC) foram cumpridos por 16 (47%) doentes.
+doc69	10	Entre os 15 (44%) doentes não transplantados, 11 (73%) morreram durante a estadia hospitalar.
+doc69	11	Entre os 19 (56%) doentes transplantados, 4 (21%) morreram durante a estadia hospitalar.
+doc69	12	Os KCC não se associaram com a mortalidade hospitalar (p = 0.97), mas associaram-se significativamente com o LT (p = 0.008).
+doc69	13	Conclusões
+doc69	14	Num coorte de doentes com ALF português, as etiologias nãoparacetamol predominaram.
+doc69	15	A mortalidade hospitalar foi significativamente menor nos doentes transplantados.
+doc70	1	O nível de atividade física e o autoconceito de autoestima são fatores adjacentes do status de saúde da população.
+doc70	2	Assim, o objetivo desta pesquisa foi analisar a associação entre nível de atividade física e autoconceito de autoestima de adolescentes.
+doc70	3	A amostra foi constituída por 98 sujeitos com média de 16,7 ± 1,2 anos.
+doc70	4	Utilizou-se dois instrumentos: Questionário Internacional de Atividade Física – versão curta e Escala de Autoestima de Rosenberg.
+doc70	5	A regressão logística binária (Odds Ratio) com α de 5% foi utilizada.
+doc70	6	As evidências teóricas giraram em torno da abordagem contemporânea do conceito de saúde e os resultados foram discutidos à luz da teoria comportamental do adolescente.
+doc70	7	Houve predominância de adolescentes ativos (41,8%), bem como menor proporção de sedentários (4,1%).
+doc70	8	Apresentaram autoestima elevada 55,1%, enquanto 44,9% revelaram a ter baixa.
+doc70	9	Conclui-se que não houve associação (Wald F = 2,756; p = 0,600) entre nível de atividade física e autoconceito de autoestima.
+doc70	10	Por fim, discutiu-se elementos comportamentais do adolescente que apontam lócus às futuras intervenções relativas ao tema com este público.
+doc74	1	OBJETIVO
+doc74	2	O objetivo deste estudo foi investigar a influência dos fatores demográficos, de condições de saúde e de estilo de vida nas alterações do equilíbrio corporal dos idosos residentes no município de São Paulo em 2006.
+doc74	3	MÉTODOS
+doc74	4	O estudo foi desenvolvido com base em dados provenientes do Estudo Saúde,Bem-Estar e Envelhecimento (SABE).
+doc74	5	Foram selecionados todos os indivíduos com 60 anos e mais de idade, de ambos os sexos.
+doc74	6	A amostra considerada era de 1.226 indivíduos, representando 930.639 idosos.
+doc74	7	A variável dependente foi a alteração de equilíbrio corporal do idoso.
+doc74	8	Para mensurá-la utilizou-se parte do Short Physical Performance Battery (SPPB).
+doc74	9	As variáveis independentes foram classificadas em três grupos: demográficas, de condições de saúde e de estilo de vida.
+doc74	10	Para estimar a associação entre as alterações de equilíbrio com as variáveis demográficas, de saúde e de estilo de vida em idosos foi realizada uma análise de regressão logística binária múltipla.
+doc74	11	RESULTADOS
+doc74	12	Idade, dificuldades em pelo menos uma mobilidade e realização de atividade física regular exercem uma significativa influência no equilíbrio corporal dos idosos (p < 0,05).
+doc74	13	A idade foi o determinante mais fortemente relacionado.
+doc74	14	Ter idade entre 75 a 79 anos e 80 anos e mais aumenta em 3,77 e 5,31vezes a chance, respectivamente, de os idosos apresentarem alterações de equilíbrio em comparação às idades de 60 a 64 anos.
+doc74	15	CONCLUSÃO
+doc74	16	Medidas preventivas e que visam reverter um quadro de instabilidade corporal devem ser preconizadas e incorporadas na agenda de atenção à saúde dos idosos.
+doc75	1	Discute-se o papel da revista feminina Claudia como dispositivo pedagógico no processo de medicalização da gestação e do parto no Brasil.
+doc75	2	A análise de edições das três primeiras décadas da revista revela como foram apresentadas e ensinadas informações nesse campo, articulando elementos de biomedicina, tecnologia e consumo.
+doc75	3	Sob a égide da supremacia da racionalidade científica e da política de risco, gestação e parto foram ressignificados e incorporados aos novos regimes médicos e tecnológicos, que incluíam a necessidade de internalização, por parte das mulheres, do desejo e obrigação de ser saudável durante a gravidez e gerar filhos sadios.
+doc75	4	Claudia traduziu para suas leitoras os novos conhecimentos médico-científicos e as novas normas da maternidade, repercutindo a complexidade e a múltipla agência da medicalização.
+doc79	1	OBJETIVOS
+doc79	2	Avaliar o conhecimento sobre zoonoses por tutores de cães e gatos.
+doc79	3	MÉTODOS
+doc79	4	Após aplicação de questionário a 100 tutores, pelos dados analisados por meio de cálculo de médias simples e porcentagem quantificável.
+doc79	5	RESULTADOS
+doc79	6	Observou-se que 77% dos tutores possuíam cães e 37%, gatos.
+doc79	7	Todos afirmaram saber que animais transmitem doenças, porém 74% disseram desconhecer zoonoses e 80% nunca receberam esclarecimentos sobre o tema.
+doc79	8	Mais de 90% dos entrevistados afirmaram conhecer doenças transmitidas por cães e gatos, e 94% apontaram o cão como transmissor da raiva, sendo que 90% associaram à mordida e 88% reconheceram a vacinação como prevenção.
+doc79	9	Sobre leishmaniose, 45% associaram a transmissão à picada de mosquito e 22%, a prevenção ao uso de coleiras repelentes.
+doc79	10	Ratos foram relacionados à transmissão de leptospirose por 57% dos entrevistados, sendo que 22% mencionaram as fezes como fonte de infecção e 19%, o controle de roedores como prevenção.
+doc79	11	Apenas 59% dos tutores indicou o gato como transmissor de toxoplasmose, as fezes como principal fonte (26%) e a higiene como prevenção (25%).
+doc79	12	Apenas 9% sabiam sobre esporotricose, 6% reconheceram a arranhadura como forma de transmissão por gatos e 3% indicaram o tratamento dos animais doentes como prevenção.
+doc79	13	DISCUSSÃO
+doc79	14	Isso demonstra o desconhecimento da população alvo sobre as zoonoses citadas.
+doc79	15	CONCLUSÃO
+doc79	16	Os resultados são importantes para o delineamento de estratégias de educação sanitária preventiva com foco em saúde pública.
+doc84	1	Objetivo
+doc84	2	A escoliose idiopática do adolescente é caracterizada por deformidade rotacional e lateral da coluna vertebral.
+doc84	3	A medição da rotação vertebral é importante para o prognóstico e tratamento.
+doc84	4	Nosso objetivo foi avaliar se o método de Nash-Moe pode ser usado para medir a correção da deformidade axial com o tratamento cirúrgico usando a manobra de derotação em ambos os ápices e extremidades da deformidade em pacientes com EIA.
+doc84	5	Métodos
+doc84	6	A rotação foi avaliada usando os critérios de Nash e Moe em radiografias pré e pós-operatórias.
+doc84	7	Também avaliamos a severidade no plano coronal pelo método de Cobb, a razão de correção alcançada, a densidade do parafuso e o número de vértebras envolvidas na instrumentação.
+doc84	8	Resultados
+doc84	9	A correção do método de Cobb foi de 54,8%.
+doc84	10	Quando desconsideramos vértebras que apresentavam grau 0 no pré-operatório de Nash-Moe, encontramos, em média, 54,5% de correção mensurável na primeira vértebra não instrumentada acima, 69,2% na primeira vértebra instrumentada, 32,2% na vértebra apical, 36,8% na última vértebra instrumentada e 30% na primeira vértebra não instrumentada abaixo.
+doc84	11	Em nosso estudo, 32.14% dos pacientes apresentaram uma correção mensurável na vértebra apical.
+doc84	12	Conclusão
+doc84	13	No plano axial, a correção pode ser avaliada satisfatoriamente pelo método de Nash-Moe.
+doc86	1	Objetivo
+doc86	2	Avaliar as características de imagem na tomografia computadorizada de pacientes admitidos com suspeita clínica de hemorragia adrenal aguda em três instituições, no período de três anos, e que tiveram o diagnóstico final confirmado.
+doc86	3	Materiais e Métodos
+doc86	4	Análise retrospectiva da tomografia computadorizada de pacientes com suspeita de hemorragia adrenal aguda.
+doc86	5	Foram incluídos apenas os casos com confirmação diagnóstica.
+doc86	6	Foram excluídos os pacientes que apresentaram ruptura aórtica e hemorragia retroperitonial.
+doc86	7	As imagens foram analisadas por um radiologista experiente e dois residentes em radiologia.
+doc86	8	Resultados
+doc86	9	Este estudo analisou seis casos de hemorragia adrenal unilateral, três deles na adrenal esquerda e três na adrenal direita.
+doc86	10	Todos apresentaram-se com massa arredondada ou oval, alterando a anatomia habitual da glândula.
+doc86	11	O diâmetro máximo foi 12,2 cm e os valores de atenuação variaram de 45 a 70 UH, não se observando realce nas fases contrastadas.
+doc86	12	Não foram observadas calcificações.
+doc86	13	Conclusão
+doc86	14	As hemorragias adrenais são raras, porém, potencialmente fatais.
+doc86	15	O diagnóstico precoce é essencial, portanto, o reconhecimento das possíveis apresentações dessas lesões pelos radiologistas pode ajudar a evitar que pacientes evoluam com insuficiência da glândula e óbito.
+doc91	1	OBJETIVO
+doc91	2	Descrever e analisar a representatividade da mulher negra nos cartazes utilizados pelo Ministério da Saúde em campanhas publicitárias voltadas para a promoção da saúde sexual e reprodutiva da mulher.
+doc91	3	MÉTODO
+doc91	4	Estudo descritivo, exploratório e documental dos cartazes publicitários direcionados para a promoção da saúde sexual e reprodutiva da mulher, disponibilizados na Biblioteca Virtual em Saúde.
+doc91	5	Para a análise dos dados, adotou-se o método de análise de conteúdo na modalidade temática.
+doc91	6	RESULTADOS
+doc91	7	Dos 498 cartazes identificados, 161 eram referentes à promoção da saúde sexual e reprodutiva das mulheres.
+doc91	8	Aplicando os critérios de exclusão, restaram 41 cartazes, dos quais 31 (75,6%) traziam a representação da mulher branca, nove (21,9%) da mulher negra, e um da mulher indígena (2,4%).
+doc91	9	A análise dos dados convergiu para duas categorias analíticas: a pseudorrepresentação da mulher negra e a saúde sexual e reprodutiva da mulher limitada ao ciclo gravídico e pós-natal.
+doc91	10	CONCLUSÃO
+doc91	11	A representação da mulher negra nos cartazes publicitários do Ministério da Saúde é baixa, e as temáticas promovidas nos cartazes não contemplam todos os fenômenos que compõem a saúde sexual e reprodutiva feminina durante seu ciclo vital.
+doc92	1	Resiliência é a capacidade humana de se adaptar às situações adversas de vida e pode ser potencializada pela ação dos fatores de proteção, dos quais se destaca o suporte social.
+doc92	2	Objetivou-se identificar associações entre a resiliência e variáveis sociodemográficas (sexo, idade, renda, estado civil, arranjo de moradia e religião) e correlações entre a resiliência e o suporte social, numa amostra de 86 idosos urbanos.
+doc92	3	Utilizaram-se um questionário sociodemográfico, a Escala de Resiliência e a Escala de Suporte Social.
+doc92	4	A média de idade foi de 75,7 anos (DP = 5,35), com predomínio de mulheres (72,1%; n = 62).
+doc92	5	Observou-se alta capacidade de resiliência nos idosos (M = 134,37; DP = 16,6) e moderado índice de suporte social (M = 17,36; DP = 2,77).
+doc92	6	Houve associação significativa apenas entre a resiliência e religião (χ2 = 0,30; p = 0,027).
+doc92	7	Foi observada apenas uma correlação fraca e positiva entre o fator independência e determinação da Escala de Resiliência com o suporte social (p = 0,005).
+doc92	8	A análise de regressão linear revelou que o suporte social não foi uma variável preditiva para a capacidade de resiliência no grupo pesquisado.
+doc92	9	É necessário criar novos instrumentos de pesquisa que possibilitem o estudo mais preciso dos efeitos protetores do suporte social sobre a capacidade de resiliência em idosos.
+doc93	1	INTRODUçÃO
+doc93	2	O processo de envelhecimento é caracterizado por várias alterações, incluindo do estado nutricional e da ingestão alimentar.
+doc93	3	Para compreender a tendência dessas alterações são necessários estudos com idosos de diferentes épocas de nascimento.
+doc93	4	OBJETIVO
+doc93	5	Comparar o estado nutricional e a ingestão alimentar de idosos participantes do Estudo Saúde, Bem-Estar e Envelhecimento (SABE), realizado em São Paulo, em 2000 e 2010.
+doc93	6	MÉTODOS
+doc93	7	O estado nutricional foi identificado pelo índice de massa corporal (IMC), considerando: baixo peso (IMC < 23 kg/m²); peso adequado (23 ≤ IMC < 28 kg/m²); excesso de peso (IMC ≥ 28 kg/m²); e a ingestão alimentar referida: número de refeições (≥ 3/dia), frequência de laticínios (≥ 1 porção/dia), de ovos e leguminosas (≥ 1 porção/semana), de frutas, legumes e verduras (≥ 2 porções/dia), de carnes (≥ 3 porções/semana) e de líquidos (≥ 5 copos/dia).
+doc93	8	A comparação foi realizada por razão de prevalência, utilizando regressão de Poisson.
+doc93	9	RESULTADOS
+doc93	10	Participaram 755 indivíduos de ambos os sexos, de 60 a 64 anos, nascidos nos períodos de 1936 a 1940 e 1946 a 1950. Os idosos nascidos entre 1946 e 1950 apresentaram maior razão de prevalência para excesso de peso (RP = 1,19) e para número de refeições (RP = 1,34) e para líquidos (RP = 1,18), contudo menor razão de prevalência para laticínios (RP = 0,87), para carnes (RP = 0,93) e para frutas, legumes e verduras (RP = 0,83).
+doc93	11	CONCLUSÃO
+doc93	12	Estes resultados mostram cenários alimentar e nutricional preocupantes para a coorte mais recente (1946 - 1950).
+doc94	1	OBJETIVO
+doc94	2	O presente estudo avaliou dados epidemiológicos e obstétricos de gestantes com sífilis no Hospital de Clínicas da Universidade Federal do Triângulo Mineiro (UFTM), objetivando o conhecimento desta infecção no ciclo gravídico e a transmissão vertical para futuras ações em saúde pública.
+doc94	3	MéTODOS::  Foram revisados registros de gestantes admitidas no Departamento de Ginecologia e Obstetrícia do Hospital de Clínicas da UFTM, diagnosticadas com sífilis entre 2007 e 2016. Para a coleta de dados, utilizou-se um formulário padronizado enfocando aspectos epidemiológicos, obstétricos e infecção congênita.
+doc94	4	A presente pesquisa foi autorizada pelo Comitê de Ética da instituição.
+doc94	5	RESULTADOS
+doc94	6	Obteve-se 268 gestantes diagnosticadas com sífilis, com idade media de 23,6 anos, sendo a maioria de Uberaba.
+doc94	7	A assistência pré-natal foi inadequada em 37,9% dos casos.
+doc94	8	O tratamento para sífilis, de acordo com as diretrizes do Ministério da Saúde do Brasil, foi realizado por 34,2% das gestantes e por 19,8% dos parceiros.
+doc94	9	Quanto aos desfechos obstétricos, observou-se que 4 (1,5%) pacientes evoluíram com abortamento e 8 (3,4%) com óbito fetal, das quais 7 não realizaram tratamento.
+doc94	10	Observou-se parto prematuro em 61 (25,9%) gestantes, e a prematuridade foi significativamente associada ao tratamento ausente/incompleto, com 49 (27,9%) casos, comparada a 12 (13,0%) casos nos quais o tratamento foi adequado (p = 0,006).
+doc94	11	Quanto aos recém-nascidos, o peso médio foi de 2.840 g, e 25,3% apresentaram peso < 2.500 g. Diagnosticou-se infecção congênita em 74,2%, dos casos, associada significativamente ao pré-natal inadequado, ao tratamento ausente/incompleto, à prematuridade e ao baixo peso ao nascer.
+doc94	12	CONCLUSãO::  Políticas públicas de conscientização sobre pré-natal adequado, intensificação de rastreamento sorológico e tratamento precoce da sífilis são necessárias, haja vista a ascensão dos casos diagnosticados na gestação e suas consequências deletérias potencialmente evitáveis relacionadas à transmissão congênita.
+doc95	1	OBJETIVO
+doc95	2	Identificar os benefícios, facilitadores e barreiras na implementação da lista de verificação de segurança cirúrgica, segundo o relato de enfermeiros que atuavam no centro cirúrgico de hospitais.
+doc95	3	MÉTODO
+doc95	4	Estudo transversal, com 91 enfermeiros em 25 hospitais de dois municípios do Paraná.
+doc95	5	Na coleta dos dados, entre 2015 e 2016, utilizou-se dois instrumentos estruturados.
+doc95	6	Para a análise, utilizou-se o teste exato de Fisher ou Qui-Quadrado.
+doc95	7	RESULTADOS
+doc95	8	A implementação do checklist acarretou benefícios para o paciente, equipe cirúrgica e hospitais.
+doc95	9	Sobre os facilitadores, os resultados apresentaram diferença estatisticamente significante entre os grupos nos itens oferta de educação (p=0,006) e aceitação pelos cirurgiões (p=0,029).
+doc95	10	E, nas barreiras, para a falta de apoio administrativo (p=0,006) e chefias (p=0,041), ausência do núcleo de segurança do paciente (p=0,005), lista introduzida abruptamente (p=0,001) e ausência de educação (p<0,001).
+doc95	11	CONCLUSÃO
+doc95	12	As evidências geradas possibilitaram identificar os benefícios, facilitadores e barreiras na implementação do checklist no contexto nacional.
+doc96	1	OBJETIVO
+doc96	2	Identificar a concordância dos enfermeiros sobre as concepções de enfermagem com potencial para sustentar a sua prática no âmbito da morte e dos processos de morrer.
+doc96	3	MÉTODO
+doc96	4	Estudo quantitativo, exploratório e descritivo, realizado em 36 hospitais de Portugal, de julho de 2015 a março de 2016, com participação de 3451 enfermeiros.
+doc96	5	Na coleta de dados utilizou-se o questionário e na análise recorreu-se à estatística descritiva e inferencial.
+doc96	6	RESULTADOS
+doc96	7	Dentre as concepções com potencial para sustentar a prática, os enfermeiros salientam as de Virginia Henderson, Afaf Meleis e Madeleine Leininger.
+doc96	8	As variáveis que afetam o grau de concordância são: região, serviço, gênero, formação profissional e tempo de exercício profissional.
+doc96	9	CONCLUSÃO
+doc96	10	Considerando os atuais desafios, de uma prática predominantemente centrada na satisfação das necessidades, emerge a pertinência da intencionalidade da ação dos enfermeiros, no sentido de facilitar a vivência da morte e dos processos de morrer, de formas culturalmente significativas.
+doc97	1	O presente estudo demonstrou uma variação rara da veia jugular interna direita (VJI), identificada durante uma dissecção de rotina de um cadáver masculino.
+doc97	2	A VJI direita apresentou uma tributária localizada paralelamente e medialmente à referida veia.
+doc97	3	Essa tributária da VJI emergiu entre os processos transversos das 3ª e 4ª vértebras cervicais e drenou para a junção entre as veias jugular interna e braquiocefálica direita.
+doc97	4	O conhecimento da variação anatômica demonstrado no presente estudo é importante para os cirurgiões, a fim de prevenir lesões acidentais e sangramento durante procedimentos cirúrgicos.
+doc98	1	Dados do IBGE apontam que a população idosa do Brasil que era de 11%, em 2013, passará a ser de 33,7%, em 2060. Este processo de envelhecimento pode ser diagnosticado a partir da capacidade que o trabalhador dispõe para suas atividades laborais.
+doc98	2	Para realizar uma revisão de literatura sobre o tema, utilizou-se o PROKNOW-C, realizando a análise bibliométrica e sistêmica da literatura.
+doc98	3	Os resultados levaram a constituição de um portfólio com 29 artigos, destacando-se os periódicos de maior relevância, autores e palavras-chaves.
+doc98	4	A análise sistêmica proporcionou importantes resultados: a metodologia survey foi aplicada em 26 artigos; 21 estudos são cortes transversais; constatou-se que em 10 estudos a capacidade para o trabalho diminui com o avanço da idade e a prática de exercícios físicos foi associada positivamente com o ICT em 11 estudos.
+doc98	5	Os resultados confirmam que o ICT é um instrumento que permite diagnosticar a situação da vida laboral dos trabalhadores, e, em caso de baixos índices, a presença de um envelhecimento funcional precoce.
+doc98	6	O estudo possibilitou ressaltar a importância de avaliar aspectos da vida social do trabalhador, uma vez que estes fatores influenciam positiva ou negativamente na capacidade para o trabalho.
+doc99	1	OBJETIVO
+doc99	2	criar, em impressora 3D, um simulador de baixo custo de caixa torácica humana que permita a reprodução da técnica de drenagem fechada de tórax (DFT) comparando sua eficácia com a do modelo animal.
+doc99	3	MÉTODOS
+doc99	4	foi realizada impressão 3D do arcabouço ósseo de um tórax humano a partir de uma tomografia de tórax.
+doc99	5	Após a impressão das costelas, foram realizados testes com diversos materiais que contribuíram para formar a simulação da caixa torácica e da pleura.
+doc99	6	Foi, então, realizado um estudo experimental, randomizado e controlado comparando sua eficácia ao modelo animal no ensino da DFT para estudantes de medicina, que foram divididos em dois grupos: Grupo Modelo Animal e Grupo Modelo Simulador, que treinaram DFT em animais e no modelo simulador, respectivamente.
+doc99	7	RESULTADOS
+doc99	8	a reconstrução do tórax exigiu o conhecimento anatômico para análise da tomografia e para edição fiel da superfície 3D. Não houve diferença significativa quanto à segurança de realizar o procedimento entre os grupos (7,61 vs. 7,73; p=0,398).
+doc99	9	Foi observada maior pontuação no grupo modelo simulador para uso como material didático e aprendizado da técnica de drenagem torácica quando comparado ao grupo modelo animal (p<0,05).
+doc99	10	CONCLUSÃO
+doc99	11	o custo final para a confecção do modelo foi inferior ao de um simulador comercial, o que demonstra a viabilidade do uso da impressão 3D para esse fim.
+doc99	12	Além disso, o simulador desenvolvido se mostrou equivalente ao modelo animal quanto à simulação da técnica de drenagem para aprendizado prático e houve preferência pelo modelo simulador como material didático.
+doc100	1	O objetivo deste artigo é analisar os critérios de acreditação dos estudos que avaliaram as ações de promoção da saúde e prevenção de fatores de risco das Escolas Promotoras de Saúde (EPSs).
+doc100	2	Realizou-se uma revisão sistemática conduzida a partir das recomendações propostas no guia Preferred Reporting Items for Systematic Reviewsand Meta-Analyses (PRISMA) dos artigos que avaliaram as EPSs nas bases de dados: SciELO, Lilacs, Medline, PubMed e Portal Capes.
+doc100	3	A partir da análise dos três eixos para acreditação das EPS, três dos estudos analisados não contemplaram todos os critérios para serem certificadas como EPS nos eixos “Processo de Planejamento” e “Atividades de Promoção de Saúde desenvolvidas”.
+doc100	4	As escolas citadas nestes estudos apresentam atividades de educação em saúde, prevenção e/ou promoção da saúde, no entanto, é equivocado se autodenominarem EPS.
+doc100	5	Identificou-se como principais desafios enfrentados para a implantação, o desenvolvimento e a continuidade das EPS, a intersetorialidade e a insuficiência de recursos financeiros e humanos capacitados.
+doc100	6	As EPSs precisam ser certificadas e submetidas a um processo avaliativo contínuo.
+doc100	7	Sugere-se ainda a inclusão do tema promoção de saúde nos currículos dos cursos de formação dos professores e outros profissionais da educação e da saúde.
